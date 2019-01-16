@@ -49,11 +49,11 @@
         var name = raw_data.getValue(i,2) != null ? raw_data.getValue(i,2) : '';
 
         data.addRows([[
+          name,
+          reportsTo, 
           { v: role,
             f: name + "<div class='role'>" + role + "</div>"
-          }, 
-          reportsTo, 
-          name]]);
+          }]]);
       }
 
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
