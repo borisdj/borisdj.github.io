@@ -48,7 +48,7 @@
         var parent = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2) : '';
 
         data.addRows([[
-          { v: name,
+          { v: name.substring(0, 2),
             f: name + "<div class='role'>" + info + "</div>"
           },
           parent,
