@@ -46,7 +46,7 @@
         var name = raw_data.getValue(i, 0);
         var nameCode = name.substring(0, 2);
         var info = raw_data.getValue(i, 1) != null ? raw_data.getValue(i, 1) : '';
-        var parentCode = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2).substring(0, 2), : '';
+        var parentCode = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2).substring(0, 2) : '';
 
         data.addRows([[
           { v: nameCode,
