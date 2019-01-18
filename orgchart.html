@@ -39,21 +39,21 @@
 
       data.addColumn('string', 'Entity');
       data.addColumn('string', 'ParentEntity');
-      data.addColumn('string', 'ToolTip');
+      data.addColumn('string', 'Info');
 
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
       var num_rows = raw_data.getNumberOfRows();
       for (var i = 0; i < num_rows; i++) {
-        var role = raw_data.getValue(i, 0);
-        var reportsTo = raw_data.getValue(i,1);
-        var name = raw_data.getValue(i,2) != null ? raw_data.getValue(i,2) : '';
+        var info = raw_data.getValue(i, 0);
+        var name = raw_data.getValue(i,1);
+        var parent = raw_data.getValue(i,2) != null ? raw_data.getValue(i,2) : '';
 
         data.addRows([[
-          { v: role,
-            f: name + "<div class='role'>" + role + "</div>"
+          { v: name,
+            f: name + "<div class='role'>" + info + "</div>"
           },
-          reportsTo,
-          name
+          parent,
+          info
           ]]);
       }
 
