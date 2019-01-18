@@ -44,9 +44,9 @@
       var num_rows = raw_data.getNumberOfRows();
       for (var i = 0; i < num_rows; i++) {
         var name = raw_data.getValue(i, 0);
-        var nameCode = name != null ? name.substring(0, 2) : '';
+        var nameCode = name != null ? name.substring(0, 3) : '';
         var info = raw_data.getValue(i, 1) != null ? raw_data.getValue(i, 1) : '';
-        var parentCode = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2).substring(0, 2) : '';
+        var parentCode = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2).substring(0, 3) : '';
 
         data.addRows([[
           { v: nameCode,
