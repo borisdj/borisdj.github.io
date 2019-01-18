@@ -43,14 +43,15 @@
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
       var num_rows = raw_data.getNumberOfRows();
       for (var i = 0; i < num_rows; i++) {
-        var name = raw_data.getValue(i, 0);
-        var nameCode = name != null ? name.substring(0, 3) : '';
-        var info = raw_data.getValue(i, 1) != null ? raw_data.getValue(i, 1) : '';
-        var parentCode = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2).substring(0, 3) : '';
+        var code = raw_data.getValue(i, 0);
+        var id = code != null ? code.substring(0, 3) : '';
+        var name = raw_data.getValue(i, 1);
+        var married = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2) : '';
+        var parentCode = raw_data.getValue(i, 3) != null ? raw_data.getValue(i, 3).substring(0, 3) : '';
 
         data.addRows([[
-          { v: nameCode,
-            f: name + "<div class='role'>" + info + "</div>"
+          { v: id,
+            f: code + name + "<div class='role'>" + married + "</div>"
           },
           parentCode
           ]]);
