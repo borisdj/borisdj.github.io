@@ -45,13 +45,13 @@
       for (var i = 0; i < num_rows; i++) {
         var name = raw_data.getValue(i, 0);
         var info = raw_data.getValue(i, 1) != null ? raw_data.getValue(i, 1) : '';
-        var parent = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2).substring(0, 2) : '';
+        var parent = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2) : '';
 
         data.addRows([[
           { v: name.substring(0, 2),
             f: name + "<div class='role'>" + info + "</div>"
           },
-          parent
+          parent.substring(0, 2),
           'tt'
           ]]);
       }
