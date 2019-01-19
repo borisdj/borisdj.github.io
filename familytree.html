@@ -41,7 +41,7 @@
 
       data.addColumn('string', 'Entity');
       data.addColumn('string', 'ParentEntity');
-      //data.addColumn('string', 'Tooltip');
+      data.addColumn('string', 'Tooltip');
 
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
       var num_rows = raw_data.getNumberOfRows();
@@ -59,10 +59,11 @@
           { v: id,
             f: "<div class='role'>" + code + "</div>" + name + "<div class='role'>" + married + "</div>"
           },
-          parentCode
+          parentCode,
+          {f: "<div style="background-image: url('http://www.coolmathtutor.com/images/sunsmall.png');"> X </div>"}
           ]]);
         if(code != null && code.substring(code.length - 2, code.length) != ':)') {
-          data.setRowProperty(i, 'style', "border: 1px solid grey; background-image: url('http://www.coolmathtutor.com/images/sunsmall.png');");
+          data.setRowProperty(i, 'style', 'border: 1px solid grey;');
         }
       }
 
