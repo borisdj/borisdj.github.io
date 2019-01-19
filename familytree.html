@@ -62,14 +62,14 @@
           parentCode
           ]]);
         if(code != null && code.substring(code.length - 2, code.length) != ':)') {
-          data.setRowProperty(i, 'style', 'border: 1px solid grey');
+          data.setRowProperty(i, 'style', "border: 1px solid grey; background-image: url('http://www.coolmathtutor.com/images/sunsmall.png');");
         }
       }
 
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
       var container = document.getElementById('orgchart_admin');
       var chart = new google.visualization.OrgChart(container);
-      chart.draw(data, {allowHtml:true});
+      chart.draw(data, {allowHtml:true, allowCollapse : true});
     }      
   </script>
 </body>
