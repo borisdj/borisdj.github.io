@@ -52,7 +52,7 @@
         var married = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2) : '';
         var parentCode = raw_data.getValue(i, 3) != null ? raw_data.getValue(i, 3).substring(0, 4) : '';
         
-        if(code.substring(code.length - 2, 2) != ':)') {
+        if(code != null && code.substring(code.length - 2, 2) != ':)') {
           name = "<div class='deceased'>" + name + "</div>";
         }
         data.addRows([[
