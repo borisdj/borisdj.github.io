@@ -61,6 +61,9 @@
           },
           parentCode
           ]]);
+        if(code != null && code.substring(code.length - 2, code.length) != ':)') {
+          data.setRowProperty(i, 'style', 'border: 1px solid grey');
+        }
       }
 
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
