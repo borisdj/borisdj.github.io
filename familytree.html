@@ -52,12 +52,12 @@
         var married = raw_data.getValue(i, 2) != null ? raw_data.getValue(i, 2) : '';
         var parentCode = raw_data.getValue(i, 3) != null ? raw_data.getValue(i, 3).substring(0, 4) : '';
         
-        /*if(code.substring(code.length - 2, 2) != ':)') {
-          name = "<div class='deceased'>" + name "</div>";
-        }*/
+        if(code.substring(code.length - 2, 2) != ':)') {
+          name = "<div class='deceased'>" + name + "</div>";
+        }
         data.addRows([[
           { v: id,
-            f: "<div class='role'>" + code + "</div>" + "<div class='deceased'>" + name "</div>" + "<div class='role'>" + married + "</div>"
+            f: "<div class='role'>" + code + "</div>" + name + "<div class='role'>" + married + "</div>"
           },
           parentCode
           ]]);
