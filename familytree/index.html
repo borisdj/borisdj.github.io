@@ -52,9 +52,9 @@
       
       var imageUrl = 'https://borisdj.github.io/familytree/images/F030_borisdj.jpg';
       var imageDoExist = imageExists(imageUrl);
-      /*if (imageDoExist && raw_data.getValue(0, 2) != 'PH') {
+      if (imageDoExist && raw_data.getValue(0, 2) != 'PH') {
         imageDoExist = false;
-      }*/
+      }
       
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
       var num_rows = raw_data.getNumberOfRows();
@@ -72,7 +72,7 @@
         var image = "";
         if (imageDoExist && id == "F030") {
           if(id == "F030") {
-            image = "<div style=' height: 150px; background-repeat: no-repeat; background-image: url(" + imageUrl + ");'></div>";
+            image = raw_data.getValue(0, 2) + "<div style=' height: 150px; background-repeat: no-repeat; background-image: url(" + imageUrl + ");'></div>";
           }
         }
         
