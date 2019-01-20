@@ -55,9 +55,13 @@
         if(code != null && code.substring(code.length - 2, code.length) != ':)') {
           name = "<div class='deceased'>" + name + "</div>";
         }
+        var image = "";
+        if(id == "F030") {
+           image = "<div style=""background-image: url('https://borisdj.github.io/familytree/images/F030_borisdj.jpg');""></div>";
+        }
         data.addRows([[
           { v: id,
-            f: "<div class='role'>" + code + "</div>" + name + "<div class='role'>" + married + "</div>"
+            f: "<div class='role'>" + code + "</div>" + name + "<div class='role'>" + married + "</div>" + image
           },
           parentCode
           ]]);
