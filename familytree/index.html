@@ -68,6 +68,9 @@
         if(code != null && code.substring(code.length - 2, code.length) != ':)') {
           data.setRowProperty(i, 'style', 'border: 1px solid grey;');
         }
+        if(id == "F030") {
+          data.setRowProperty(i, 'style', 'height: 200');
+        }
       }
 
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
