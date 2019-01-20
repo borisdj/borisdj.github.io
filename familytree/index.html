@@ -16,7 +16,14 @@
   <script type="text/javascript">
     google.charts.load('current', {'packages' : ['orgchart', 'table']});
     google.charts.setOnLoadCallback(function() { initialize('') });
-
+    
+    function imageExists(image_url) {
+        var http = new XMLHttpRequest();
+        http.open('HEAD', image_url, false);
+        http.send();
+        return http.status != 404;
+      }
+    
     function initialize() {
       document.getElementById('orgchart_admin').innerHTML = "<i class='fa fa-spinner fa-spin fa-3x fa-fw'></i>";
       
@@ -42,6 +49,10 @@
       data.addColumn('string', 'Entity');
       data.addColumn('string', 'ParentEntity');
       //data.addColumn('string', 'Tooltip');
+      
+      var image = "";
+      var imageUrl = 'https://borisdj.github.io/familytree/images/F030_borisdj.jpg';
+      var imageDoExist = imageExists(imageUrl);
 
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
       var num_rows = raw_data.getNumberOfRows();
@@ -55,20 +66,24 @@
         if(code != null && code.substring(code.length - 2, code.length) != ':)') {
           name = "<div class='deceased'>" + name + "</div>";
         }
-        var image = "";
-        if(id == "F030") {
-           image = "<div style=' height: 150px; background-size: contain; background-repeat: no-repeat; background-image: url(https://borisdj.github.io/familytree/images/F030_borisdj.jpg);'></div>";
+        
+        if (imageDoExist && id == "F030") {
+          if(id == "F030") {
+            image = "<div style=' height: 150px; background-repeat: no-repeat; background-image: url(" + imageUrl + ");'></div>";
+          }
         }
+        
         data.addRows([[
           { v: id,
             f: "<div class='role'>" + code + "</div>" + name + "<div class='role'>" + married + "</div>" + image
           },
           parentCode
           ]]);
+        
         if(code != null && code.substring(code.length - 2, code.length) != ':)') {
           data.setRowProperty(i, 'style', 'border: 1px solid grey; height: 180; width: 120');
         }
-        if(id == "F030") {
+        if (imageDoExist && id == "F030") {
           data.setRowProperty(i, 'style', 'height: 180; width: 120');
         }
       }
