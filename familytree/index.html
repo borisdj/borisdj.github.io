@@ -51,8 +51,10 @@
       //data.addColumn('string', 'Tooltip');
       
       var imageUrl = 'https://borisdj.github.io/familytree/images/F030_borisdj.jpg';
-      var imageDoExist = imageExists(imageUrl);
-
+      var = imageExists(imageUrl);
+      if(imageExists && raw_data.getValue(0, 3) != "PH")
+        imageExists = false;
+      
       // Loops through all rows and populates a new DataTable with formatted values for the orgchart
       var num_rows = raw_data.getNumberOfRows();
       for (var i = 0; i < num_rows; i++) {
