@@ -24,7 +24,7 @@ Bitcoin rise with crypto industry story<br>
 | 6  | [3. How did it all start?](#how-did-it-all-start) |
 | 7  | [4. Technical background](#technical-background) |
 | 8  | [5. Extended explanation of Bitcoin](#extended-explanation-of-bitcoin) |
-| 9 | [Other Cryptos](#other-cryptos) |
+| 9  | [Other Cryptos](#other-cryptos) |
 | 10 | [SWOT analysis](#swot-analysis)
 | 11 | [Deflation](#deflation) |
 | 12 | [PoW vs PoS](#pow-vs-pos) |
