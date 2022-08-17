@@ -118,6 +118,7 @@ Trust is a confident relationship with the unknown, a social glue that bridges t
 
 | Known |
 | ----- |
+| xxx   |
 {: .table-style}
 
 It's a currency of interactions. The way to build more trust is to be more transparent and in time you become trustworthy (have reputation capital).<br>
