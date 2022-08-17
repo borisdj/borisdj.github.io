@@ -390,7 +390,7 @@ On the whole **Benefits outweighs the Risks** significantly.<br>
 Historic data: US interest rates in the last [200 years](https://advisor.visualcapitalist.com/us-interest-rates/) and 30 year mortgage from [1971-2022](https://themortgagereports.com/61853/30-year-mortgage-rates-chart).
 
 Bitcoin Monetary Inflation [chart source](https://bashco.github.io/) (declines geometrically to asymptotic maximum of 21 million)
-![Btc Monetary Inflation](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/BtcMonetaryInflation.png)<br>
+![Btc Monetary Inflation](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/btc-monetary-inflation.png)<br>
 
 #### PoW (Proof Of Work - Mining) vs PoS (Proof Of Stake) [[ToC](#toc)]
 {: #pow-vs-pos }
