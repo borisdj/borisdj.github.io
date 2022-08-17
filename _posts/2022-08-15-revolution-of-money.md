@@ -245,6 +245,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 
 **More Definitions:**
 - Monetary / Economic energy (from [First Principles](https://fs.blog/first-principles/) Money is an exchange of energy - Econ 101)
+  - Bitcoin as information is a reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit))
 - Future-Proof Money (Internet Native)
   * most Ubiquitous cryptocurrency
 - Hard Asset (Trust-Minimized), Premium Commodity (like a Collectible), Inalienable Digital Property
