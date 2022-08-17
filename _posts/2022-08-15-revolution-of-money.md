@@ -35,13 +35,6 @@ Bitcoin rise with crypto industry story<br>
 | 17 | [Practical Advice](#practical-advice) |
 | 18 | [Recapitulation](#recapitulation) |
 
-|          | Col1 | Col2 |
-| -------- |      |      |      
-| **Info** | X    |      |
-| Dt1      |      | X    |           
-| Dt2      | X    | X    |    
-{: .table-style}
-
 ## Introduction [[ToC](#toc)]
 {: #introduction }
 -- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also future perspective and possibilities. In a futuristic context, the first word to mention is **[Bitcoin](https://bitcoin.org/en/)**, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
@@ -75,8 +68,9 @@ Examples of Function:<br>
 | 4 | Acceptable    | universally recognizable                                         |
 | 5 | Limited supply| being rare (scarcity) keeps stable value                         |
 | 6 | Uniform       | units capable of mutual substitution, interchangeable (fungible) |
+{: .table-style}
 
-Money is collective and somewhat fictional story about value, with consent of majority. So it it not inherently valuable, we (subjectively) decide to give it merit. Human labour is still usualy measured by working hours, so Money is also [Time, the most valuable currency](https://drtownsend.com/time-valuable-currency/) (one second lost cannot be bought back).
+Money is collective and somewhat fictional story about value, with consent of majority. So it is not inherently valuable, we (subjectively) decide to give it merit. Human labour is still usualy measured by working hours, so Money is also [Time, the most valuable currency](https://drtownsend.com/time-valuable-currency/) (one second lost cannot be bought back).
 
 -- Obviously **Gold** had qualities to fulfill most of these roles, but it was not perfect, only best at that time, or so to say the least bad. Some of the disadvantages were not so easy to carry meaning expensive transport - low Portability, hard to Divide (need to melt), and also danger of theft and robbery.<br>
 -- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates for trade and that's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp)) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that trust was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power.<br>
