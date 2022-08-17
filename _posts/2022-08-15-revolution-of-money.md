@@ -1,6 +1,6 @@
 ---
 title: "(r)Evolution of Money"
-date: 2022-08-15T16:30:00-04:00
+date: 2022-08-15T16:30:00-00:00
 classes: wide
 image: "/demo/assets/images/evolution-of-money.jpg"
 excerpt: "Bitcoin rise with crypto industry story"
