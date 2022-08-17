@@ -4,6 +4,8 @@
 
 @charset "utf-8";
 
+body {display:table-cell; text-align:center; vertical-align:middle;}
+
 .image-inline {
     max-width:400px;
     height:auto;
@@ -28,3 +30,5 @@
 a:link {
   text-decoration: none;
 }
+
+body {text-align:justify;}
