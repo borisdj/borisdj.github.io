@@ -3,7 +3,7 @@ title: "(r)Evolution of Money"
 date: 2022-08-15T16:30:00-04:00
 classes: wide
 image: "/demo/assets/images/evolution-of-money.jpg"
-excerpt: "Summarised info about Money - MoneyPedia."
+excerpt: "Bitcoin rise with crypto industry story"
 ---
 *(Discovering Money and payment systems of tomorrow)*<br>
 Bitcoin rise with crypto industry story<br>
