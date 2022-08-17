@@ -1,9 +1,9 @@
 ---
 title: "(r)Evolution of Money"
-date: 2022-08-15T16:30:00-04:00
+date: 2022-08-15T18:00:00-00:00
 classes: wide
-image: "/demo/assets/images/evolution-of-money.jpg"
-excerpt: "Summarised info about Money - MoneyPedia."
+image: "/assets/images/evolution-of-money.jpg"
+excerpt: "Bitcoin rise with crypto industry story"
 ---
 *(Discovering Money and payment systems of tomorrow)*<br>
 Bitcoin rise with crypto industry story<br>
@@ -11,7 +11,7 @@ Bitcoin rise with crypto industry story<br>
 QR Link:<br>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://github.com/borisdj/draft/edit/main/README.md)
 
-![money](/demo/assets/images/evolution-of-money.jpg)
+![money](/assets/images/evolution-of-money.jpg)
 
 # Table Of Content (ToC)
 {: #toc }
