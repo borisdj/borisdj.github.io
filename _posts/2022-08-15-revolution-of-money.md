@@ -112,8 +112,12 @@ Obivously institutional trust (legacy systems) is no longer working, because it 
 Trust is a confident relationship with the unknown, a social glue that bridges the gap:<br>
 |<ins>Known</ins>| <---> **TRUST** <---> |<ins>Unknow</ins>|<br>
 
-| [<ins>Known</ins>] <---> **TRUST** <---> [<ins>Unknow</ins>] |
-| ------------------------------ |
+| [<ins>Known</ins>] <---> TRUST <---> [<ins>Unknow</ins>] |
+| ------------------------------------------------------------ |
+{: .table-style}
+
+| Known |
+| ----- |
 {: .table-style}
 
 It's a currency of interactions. The way to build more trust is to be more transparent and in time you become trustworthy (have reputation capital).<br>
