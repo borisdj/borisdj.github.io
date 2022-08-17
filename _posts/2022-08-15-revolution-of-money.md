@@ -35,6 +35,13 @@ Bitcoin rise with crypto industry story<br>
 | 17 | [Practical Advice](#practical-advice) |
 | 18 | [Recapitulation](#recapitulation) |
 
+|          | Col1 | Col2
+| -------- |      |             
+| **Info** | X    | 
+| Dt1      |      | X                
+| Dt2      | X    | X          
+{: .table-style}
+
 ## Introduction [[ToC](#toc)]
 {: #introduction }
 -- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also future perspective and possibilities. In a futuristic context, the first word to mention is **[Bitcoin](https://bitcoin.org/en/)**, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
