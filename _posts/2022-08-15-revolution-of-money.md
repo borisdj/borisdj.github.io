@@ -60,6 +60,7 @@ But at the same time as you start to learn it, subsequently you will gain knowle
 | 1 | Medium of Exchange | accepted method of payment for goods and services |
 | 2 | Unit of Account    | measure of value                                  |
 | 3 | Store of Value     | to hold value for long period of time             |
+{: .table-style}
 
 Examples of Function:<br>
 1-Society uses certain item like pearl to trade for other goods<br>
