@@ -28,7 +28,7 @@ logo: "/assets/images/icon.jpg"
 author:
   name     : "Boris Dj"
   avatar   : "/assets/images/avatar.jpg"
-  bio      : "Code Designer, Passionate Programmer, Software Architect, Problem Solver"
+  bio      : "Code Designer, Passionate Programmer, Software Architect, Problem Solver (OpenSource, .Net, EF-Core, Blazor)"
   email: djurdjevicboris@hotmail.com
   links:
   - label: "Twitter"
