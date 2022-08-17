@@ -113,13 +113,8 @@ Trust is a confident relationship with the unknown, a social glue that bridges t
 |<ins>Known</ins>| <---> **TRUST** <---> |<ins>Unknow</ins>|<br>
 
 | [<ins>Known</ins>] <---> TRUST <---> [<ins>Unknow</ins>] |
-| ------------------------------------------------------------ |
-{: .table-style}
-
-| [<ins>Known</ins>] <---> TRUST <---> [<ins>Unknow</ins>] |
 | ----- |
-| xxx   |
-{: .table-style}
+| ........................................... |
 
 It's a currency of interactions. The way to build more trust is to be more transparent and in time you become trustworthy (have reputation capital).<br>
 
