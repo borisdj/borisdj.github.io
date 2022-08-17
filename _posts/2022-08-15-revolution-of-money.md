@@ -9,7 +9,7 @@ excerpt: "Bitcoin rise with crypto industry story"
 Bitcoin rise with crypto industry story<br>
 
 QR Link:<br>
-![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://github.com/borisdj/draft/edit/main/README.md)
+![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://borisdj.net/revolution-of-money/)
 
 ![money](/assets/images/evolution-of-money.jpg)
 
