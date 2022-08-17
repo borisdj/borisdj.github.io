@@ -110,11 +110,10 @@ Lately we could observe [breach of trust](https://www.youtube.com/watch?v=GqGksN
 *. [Corona Covid-19 Pandemic vaccine and lockdown policy](https://gh.bmj.com/content/7/5/e008684)<br>
 Obivously institutional trust (legacy systems) is no longer working, because it was not designed for digital age.<br>
 Trust is a confident relationship with the unknown, a social glue that bridges the gap:<br>
-|<ins>Known</ins>| <---> **TRUST** <---> |<ins>Unknow</ins>|<br>
 
 | [<ins>Known</ins>] <---> TRUST <---> [<ins>Unknow</ins>] |
 | ----- |
-| ........................................... |
+|       |
 
 It's a currency of interactions. The way to build more trust is to be more transparent and in time you become trustworthy (have reputation capital).<br>
 
