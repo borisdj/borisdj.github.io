@@ -35,11 +35,11 @@ Bitcoin rise with crypto industry story<br>
 | 17 | [Practical Advice](#practical-advice) |
 | 18 | [Recapitulation](#recapitulation) |
 
-|          | Col1 | Col2
-| -------- |      |             
-| **Info** | X    | 
-| Dt1      |      | X                
-| Dt2      | X    | X          
+|          | Col1 | Col2 |
+| -------- |      |      |      
+| **Info** | X    |      |
+| Dt1      |      | X    |           
+| Dt2      | X    | X    |    
 {: .table-style}
 
 ## Introduction [[ToC](#toc)]
