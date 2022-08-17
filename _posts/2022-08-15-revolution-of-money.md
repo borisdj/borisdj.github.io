@@ -10,11 +10,7 @@ Bitcoin rise with crypto industry story<br>
 
  _ QR Link<br>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://borisdj.net/revolution-of-money/)
-
-<center>...</center>
-<p style="font-size:90%;" align="center">QR Link</p>
-
-![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
+<center>...</center><p style="font-size:90%;" align="center">QR Link</p>
 
 # Table Of Content (ToC)
 {: #toc }
