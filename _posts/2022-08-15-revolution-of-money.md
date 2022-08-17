@@ -116,7 +116,7 @@ Trust is a confident relationship with the unknown, a social glue that bridges t
 | ------------------------------------------------------------ |
 {: .table-style}
 
-| Known |
+| [<ins>Known</ins>] <---> TRUST <---> [<ins>Unknow</ins>] |
 | ----- |
 | xxx   |
 {: .table-style}
