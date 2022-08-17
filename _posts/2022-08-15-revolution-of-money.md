@@ -43,15 +43,13 @@ Bitcoin rise with crypto industry story<br>
 
 ## Introduction [[ToC](#toc)]
 {: #introduction }
-<justify>
--- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also future perspective and possibilities. In a futuristic context, the first word to mention is **[Bitcoin](https://bitcoin.org/en/)**, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.
-</justify>
-<br>
+<p align="justify">
+-- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also future perspective and possibilities. In a futuristic context, the first word to mention is **[Bitcoin](https://bitcoin.org/en/)**, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
 -- Discussion is lengthy as is the nature of topic, so it's divided into segments for easier understanding.
 Do not be discouraged if material seems foreign. Most people depending on level of familiarity with the subject will need to read it several times, since it is abundant with different information. Also best to spread it across multiple days, sleep over it, after which many questions will pop up. For those you have friends and forums to talk/chat with, as well as blogs, articles to read and YT channels / podcasts for listening. And the more you know the more you want to find out, so-called *'Down the Rabbit Hole'*. What is important to get is the idea and fundamentals, and how to approach it. Not everybody needs to know all technical details in order to use it. But for those how want to know it deeply some estimate is that minimum 100 hours of active learning is needed to dive into this thing. One comedian even said:<br>
 *"It's everything you don't understand about money combined with everything you don't understand about computers".*<br>
 But at the same time as you start to learn it, subsequently you will gain knowledge about economics, computer science, math, philosophy, political science, history, and even  physics.
-
+</p>
 ## 1. Beginning of trade and money [[ToC](#toc)]
 {: #beginning-of-trade-and-money }
 -- When people switched from hunter-gatherers to agriculture and farming around 10 000 years ago, it led to specialization in work, higher productivity and accumulation of surplus products. This enabled creation of bigger settlements, cities and eventually states. It also meant people could exchange (barter) excess things they got or made, for example grains or animals but it was not easy to determine the value of each item nor to split it. They needed a system which would made trade easier. That's why money was invented and how it came into being.<br>
