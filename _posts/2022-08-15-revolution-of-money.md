@@ -8,8 +8,11 @@ excerpt: "Bitcoin rise with crypto industry story"
 *(Discovering Money and payment systems of tomorrow)*<br>
 Bitcoin rise with crypto industry story<br>
 
-<center>![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://borisdj.net/revolution-of-money/)</center>
-<p style="font-size:40%;" align="center">QR Link</p>
+QR Link
+![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://borisdj.net/revolution-of-money/)
+
+<center>...</center>
+<p style="font-size:90%;" align="center">QR Link</p>
 
 ![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
 
