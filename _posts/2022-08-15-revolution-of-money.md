@@ -29,8 +29,8 @@ Bitcoin rise with crypto industry story<br>
 | 10 | [SWOT analysis](#swot-analysis)
 | 11 | [Deflation](#deflation) |
 | 12 | [PoW vs PoS](#pow-vs-pos) |
-| 13 | [Socio-Political impact](#socio-political-impact) |
-| 14 | [Economic view](#economic-view) |
+| 13 | [Socio-Political implications](#socio-political-implications) |
+| 14 | [Economic impact](#economic-view) |
 | 15 | [Looking into the Future](#looking-into-the-future) |
 | 16 | [What next ?](#what-next) |
 | 17 | [Practical Advice](#practical-advice) |
@@ -38,15 +38,18 @@ Bitcoin rise with crypto industry story<br>
 
 ## Introduction [[ToC](#toc)]
 {: #introduction }
--- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also future perspective and possibilities. In a futuristic context, the first word to mention is **[Bitcoin](https://bitcoin.org/en/)**, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
+-- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also future perspective and possibilities. In a futuristic context, the first word to mention is [**Bitcoin**](https://bitcoin.org/en/){:target="_blank"}, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
 -- Discussion is lengthy as is the nature of topic, so it's divided into segments for easier understanding.
 Do not be discouraged if material seems foreign. Most people depending on level of familiarity with the subject will need to read it several times, since it is abundant with different information. Also best to spread it across multiple days, sleep over it, after which many questions will pop up. For those you have friends and forums to talk/chat with, as well as blogs, articles to read and YT channels / podcasts for listening. And the more you know the more you want to find out, so-called *'Down the Rabbit Hole'*. What is important to get is the idea and fundamentals, and how to approach it. Not everybody needs to know all technical details in order to use it. But for those how want to know it deeply some estimate is that minimum 100 hours of active learning is needed to dive into this thing. One comedian even said:<br>
 *"It's everything you don't understand about money combined with everything you don't understand about computers".*<br>
-But at the same time as you start to learn it, subsequently you will gain knowledge about economics, computer science, math, philosophy, political science, history, and even  physics.
+But at the same time as you start to learn it, subsequently you will gain knowledge about economics, computer science, math, philosophy, political science, history, and even physics.<br>
+PS
+Work is still in progress and needs some final touch refactoring, don't mind eventual mistakes.
+
 
 ## 1. Beginning of trade and money [[ToC](#toc)]
 {: #beginning-of-trade-and-money }
--- When people switched from hunter-gatherers to agriculture and farming around 10 000 years ago, it led to specialization in work, higher productivity and accumulation of surplus products. This enabled creation of bigger settlements, cities and eventually states. It also meant people could exchange (barter) excess things they got or made, for example grains or animals but it was not easy to determine the value of each item nor to split it. They needed a system which would made trade easier. That's why money was invented and how it came into being.<br>
+-- When people switched from hunter-gatherers to agriculture and farming around 10 000 years ago, it led to specialization in work, higher productivity and accumulation of surplus products. This enabled creation of bigger settlements, cities and eventually states. It also meant people could exchange (barter) excess things they got or made, for example grains or animals but it was not easy to determine the value of each item nor to split it. Also bigger groups of people meant you need to trade with stranges and some base for trust was needed ([Dunbar's number](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships) of 150 in close comunity). They needed a system which would made trade easier. That's why money was invented and how it came into being.<br>
 -- In early days different things were used like special looking seashells, rare stones, etc. Interesting story is about [African trade glass beads](https://www.africanodyssey.co.uk/blog/a-brief-history-of-glass-beads-in-africa) ([hyper-inflation misuse for slave trade](https://www.afrikapital.org/p/akori-beads-hyper-inflation-and-ancient)) and another about large stones of [Yap people](https://www.bbc.com/travel/article/20180502-the-tiny-island-with-human-sized-money). Later came metals and metal coins, from bronze, silver or gold. If one is wondering why these materials were chosen it's best first to define features of money ([The money Project](http://money.visualcapitalist.com/infographic-the-properties-of-money/)) since it is an abstract concept:
 
 | № | FUNCTION           | Description                                       |
@@ -71,10 +74,10 @@ Examples of Function:<br>
 | 6 | Uniform       | units capable of mutual substitution, interchangeable (fungible) |
 {: .table-style}
 
-Money is collective and somewhat fictional story about value, with consent of majority. So it is not inherently valuable, we (subjectively) decide to give it merit. Human labour is still usualy measured by working hours, so Money is also [Time, the most valuable currency](https://drtownsend.com/time-valuable-currency/) (one second lost cannot be bought back).
+**Money** is language, a linguistic and social construct, and means of communicating value to each other. It is also collective and somewhat fictional story about value, with consent of majority. So it is not inherently valuable, we (subjectively) decide to give it merit. Human labour is still usually measured by working hours, so Money is also [Time, the most valuable currency](https://drtownsend.com/time-valuable-currency/) (one second lost cannot be bought back).
 
 -- Obviously **Gold** had qualities to fulfill most of these roles, but it was not perfect, only best at that time, or so to say the least bad. Some of the disadvantages were not so easy to carry meaning expensive transport - low Portability, hard to Divide (need to melt), and also danger of theft and robbery.<br>
--- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates for trade and that's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp)) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that trust was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power.<br>
+-- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates for trade and that's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp) acronym of  *'I owe you'*) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that trust was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power.<br>
 One of first central banks was [Bank of Amsterdam](https://en.wikipedia.org/wiki/Bank_of_Amsterdam) (*'Amsterdamsche Wisselbank'*) that was established back in 1609.<br>
 -- Eventually when most countries seized full monetary control and further development of money came to a halt.<br>
 [YT - Finance: The History of Money (combined)](https://www.youtube.com/watch?v=YCN2aTlocOw)
@@ -89,7 +92,7 @@ Again, during WW2 money was overprinted and Gold Standard dropped. Then after WW
 ### Modern age [[ToC](#toc)]
 {: #modern-age }
 -- In the modern age money has become more digital, essentially just numbers in computers of private and central banks, as well as in **World bank** and **IMF** (*International Monetary Fund*). First thing is that <ins>today money is created as **Debt**</ins> (*[Credit theory of money](https://en.wikipedia.org/wiki/Credit_theory_of_money) - Credit creation*). Essentially whenever someone gets a loan from the bank for a car or house or whatever, the bank just types that amount into a computer and new money is created while the entire money supply increases. Still when the debt is repaid that money gets destroyed or in the sense deleted.<br>
--- So in theory this could be stable, in a way that the economic output of a country is mapped to credit demand while Money Supply gets balanced the right way. However, in practice it is never like this, instead artificial push of loans, money markets, government agendas make it unstable and prone to corruption and crises with only solution always to inflate/increase the money supply. Temptation to print is just irresistible.<br>
+-- So in theory this could be stable, in a way that the economic output of a country is mapped to credit demand while Money Supply gets balanced the right way. However, in practice it is never like this, instead artificial push of loans, money markets, government agendas make it unstable and prone to corruption and crises with only solution always to inflate/increase the money supply. Temptation to use money printer is just irresistible.<br>
 -- Even in [Roman times](https://www.worldhistory.org/Roman_Coinage/) gold and silver coins were, on demand from emperors, occasionally debased by melting them and leaving smaller quantity of precious metal. Eventually when coins became totally worthless the empire toppled. Also Coins were sometimes cut and scratched by thieves. To prevent [clipping](https://historyhouse.co.uk/articles/coin_clipping.html) modern coins usually have Reeded edges (grooved lines encircles perimeter), a counter-counterfeiting practice devised by Isaac Newton who was at a time Warden of the Royal Mint.<br>
 **Examples of Crises:**
 - The Recent event that triggered an overprint was the <ins>Economic Crisis of 2008</ins> which was partly created by banks who gave too much risky credits for real estate backed only by mortgages. And when it all collapsed the government just printed more money to cover it. Excuse was that letting all those banks fail would collapse entire economy both the US and the rest of the world. But still all people paid for the bank misbehavior while managers of those banks at the same time got huge bonuses.<br>
@@ -97,7 +100,7 @@ Again, during WW2 money was overprinted and Gold Standard dropped. Then after WW
 - Another even bigger example was <ins>Corona pandemic</ins> during 2020/2021 that resulted in printing new additional [40% of all the money](https://techstartups.com/2021/05/22/40-us-dollars-existence-printed-last-12-months-america-repeating-mistake-1921-weimar-germany/) in existance.
 
 -- Almost all money today is [FIAT](https://www.britannica.com/topic/fiat-money), declared by a government decree and not supported by physical commodity. It is determined by authority, made to be legal-tender (taxes as type of debt are payed with it), and imposed by force (Political -> Policy -> Police). Based on **Trust** that is often betrayed and backed only by promise it is sometimes referred as Fiat Fraud. Fiat is artificial "checkbook" money that also constraints real production ([Joyless economy](https://underconsumed.medium.com/the-joyless-economy-1976-tibor-scitovsky-17da683764ee)).<br>
--- Some consider Money printing ([*'fiat mining'*](https://bitcoinfoqus.com/fiat-mining/)) to be [**UBI**](https://en.wikipedia.org/wiki/Universal_basic_income) (*Universal Basic Income*) for the rich. Since new money is usually first available for people close to those in power and to ones that already have it as they can take big credits and own assets other than cash that is more inflation proof.<br>
+-- Some consider Money printing ([*'fiat mining'*](https://bitcoinfoqus.com/fiat-mining/)) to be [**UBI**](https://en.wikipedia.org/wiki/Universal_basic_income) (*Universal Basic Income*) for the rich. Since new money is usually first available for people close to those in power ([Cantillon effect](https://whatismoney.info/cantillon-effect-bitcoin/)) and to ones that already have it as they can take big credits and own assets other than cash that is more inflation proof.<br>
 -- The way a country can get more money for budget spending is that the Treasury issues Bonds and the **Central Bank** (*CB*), in the US case the [**FED**](https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm) (*Federal Reserve System* - [history](https://www.federalreserveeducation.org/about-the-fed/history/)), prints that amount of money and buys those bonds. Since today most money is not in the form of paper cash but is digital, creating new money is simply typing digits on the computers of banks that are saved to a database.<br>
 -- Also monetary tools nad systems are made very complex. Some would argue deliberately in order to obfuscate it and make it less transparent and more obscure so that less people would object to the system itself. One of the printing mechanisms is [**QE-Quantitative Easing**](https://www.forbes.com/advisor/investing/quantitative-easing-qe/), where banks have the right to issue credits, meaning to print money as already explained, based on deposits they have, in ratio 1:10 or even more ([Fractional Reserve Banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp)). Opposite policy is known as **Quantitative Tightening**.<br>
 -- So it is not just central bank that print money but also commercial ones all around the world. Let's now introduce the notion of **[Eurodollar](https://www.investopedia.com/terms/e/eurodollar.asp)** - Dollar deposits at foreign banks or American banks branches outside of US (mostly in Europe), that are not subject to regulation nor reserve requirements. In this regard it is hard to even know exactly the total supply of money in existance ([all-of-the-worlds-money](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)).
@@ -132,14 +135,15 @@ It's a currency of interactions. The way to build more trust is to be more trans
 (*"Inflation is the one form of taxation that can be imposed without legislation"* - M. Friedman)<br>
 -- State Institutions usually measure Inflation as scalar, just 1 number, [CPI](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (Consumer Price Index) that includes only basket of basic goods. In practice it is actually a vector because not evebody buys, needs, and wants the same things, so essentially index is mostly fake. Besides just surviving in real world people also desire real estete, traveling, stocks, arts, etc. Instead of just targeted [2 % percents](https://qz.com/2022696/where-did-the-feds-2-percent-inflation-target-come-from/) according to CPI, true inflation was in around 6 to 7 %. And lately even by [CPI is 10%](https://www.cnbc.com/2022/08/17/uk-cpi-inflation-july-2022.html) or more. It's good to learn the **%** Percentage and Interest calculation, in line with quote: *"Compound interest is the eighth wonder of the world
 He who understands it, earns it, he who doesn't, pays it."*, that is offen attributed to Albert Einstein but no evidence he said it. In entire [history of interese rates](https://www.visualcapitalist.com/the-history-of-interest-rates-over-670-years/) during 6 centuries, it fluctuated from 0 to 15 %, with dominion first of Dutch, then British, and eventually USA.<br>
--- Until recently stock markets were one way to hedge against inflation, but that was also just for small minority (only around 10% of people have significant saving in stock). Currently Crypto Coins - digital tokens, BTC more precisely, are seen as another way of protection, and better in certain aspects. Also, it is time consuming to follow all information regarding stock markets and regular people can hardly keep up with various financial instrument used by professional investors.<br>
--- Gold was another safe haven, and some are still proponents of it, so called 'gold bugs', despite its imperfect features. In the 2000s there were even electronic gold systems, like '[e-gold](https://en.wikipedia.org/wiki/E-gold)' but they were centralized and eventually banned by the government. That's why BTC is considered to be **Digital Gold** or **Gold 2.0** as it has many good features of Gold but at the same time fixes the bad ones. So Bitcoin was <ins> inovative **SOLUTION** to problem</ins> how to have **Hard or [Sound](https://oll.libertyfund.org/quote/ludwig-von-mises-argues-that-sound-money-is-an-instrument-for-the-protection-of-civil-liberties-and-a-means-of-limiting-government-power-1912) money** that can not be overprinted and is also practical to use. It was programmed to mimic gold’s stable inflation rate. Just like gold does not change much the network should also run the same for several decades.<br>
+-- Until recently stock markets were one way to hedge against inflation, but that was also just for small minority (only around 10% of people have significant saving in stock). Currently Crypto Coins - digital tokens, BTC more precisely, are seen as another way of protection (antidote against chaos), and better in certain aspects. Also, it is time consuming to follow all information regarding stock markets and regular people can hardly keep up with various financial instrument used by professional investors.<br>
+-- Gold was another safe haven, and some are still proponents of it, so called 'gold bugs', despite its imperfect features. In the 2000s there were even electronic gold systems, like '[e-gold](https://en.wikipedia.org/wiki/E-gold)' but they were centralized and eventually banned by the government. That's why BTC is considered to be **Digital Gold** or **Gold 2.0** as it has many good features of Gold but at the same time fixes the bad ones. So Bitcoin was <ins> inovative **SOLUTION** to problem</ins> how to have **Hard or Sound money** that can not be overprinted and is also practical to use. It was programmed to mimic gold’s stable inflation rate. Just like gold does not change much the network should also run the same for several decades.<br> 
+-- Acknowledged austrian economist [**Ludwig von Mises**](https://mises.org/profile/ludwig-von-mises) in his book *"The Theory of Money and Credit" (1912)* argued that [**Sound money**](https://oll.libertyfund.org/quote/ludwig-von-mises-argues-that-sound-money-is-an-instrument-for-the-protection-of-civil-liberties-and-a-means-of-limiting-government-power-1912) is: *"an instrument for the protection of civil liberties and a means of limiting government power, also a commonly used medium of exchange and  a method for obstructing the government’s propensity to meddle with the currency system.*" More detailed explanation can be found in the article [Bitcoin and the Theory of Money](https://mises.org/wire/bitcoin-and-theory-money).<br>
 
--- Another issue is the censorship that governments and banks can enforce. We could observe this happened in some Autocratic or Authoritarian countries for opposition but also in democratic ones, like [Canadian truckers](https://www.nasdaq.com/articles/frozen-bitcoin-tied-to-canadian-protests-lands-at-coinbase-crypto.com) whose bank account were frozen for protesting against pandemic lockdown. **Cryptocurrency** solves this one as well since it can work without intermediary (trustless) and does not require a trusted party (***Money should Not be weaponized, ever!***). Additionally, it allows seamless transactions across borders. With Liberal world view and partly [Libertarian philosophy](https://www.coindesk.com/tech/2021/02/04/crypto-is-the-libertarian-cheat-code-in-the-final-battle-over-state-coercion/) part of it's mission is **separation fo money and state**. We shell never have decent money before we take monopoly of it await from goverment (make goverment smaller and people bigger).<br>
+-- Another issue is the censorship that governments and banks can enforce. We could observe this happened in some Autocratic or Authoritarian countries for opposition but also in democratic ones. For example [Canadian truckers](https://www.nasdaq.com/articles/frozen-bitcoin-tied-to-canadian-protests-lands-at-coinbase-crypto.com) whose bank account were frozen for protesting against pandemic lockdown, a 'PC' (Political Correct) way to silent the opposition. **Cryptocurrency** solves this one as well since it can work without intermediary (trustless) and does not require a trusted party (***Money should Not be weaponized, ever!***). Additionally, it allows seamless transactions across borders. With Liberal world view and partly [Libertarian philosophy](https://www.coindesk.com/tech/2021/02/04/crypto-is-the-libertarian-cheat-code-in-the-final-battle-over-state-coercion/) (eliminate state coercion) part of it's mission is **separation of money and state**. We shell never have decent money before we take monopoly of it await from goverment (make goverment smaller and people bigger).<br>
 -- Management of Money and Interventions by the state in most cases was done the wrong way, and even those with good intentions often had bad results:<br>
   &nbsp; (*"The Goverment solution to a problem is usually as bad as the problem"* - M. Friedman)<br>
 *. Attempt to do good, imperfectly, and often creates more damage than good in pursuit of it<br>
-*. When pay for it with inflation it Unintentional collapses the currency<br>
+*. When pay for it with inflation it unintentional collapses the currency<br>
 *. Mismeasure the extend of monetary policy while underestimate the cost<br>
 
 ## 3. How did it all start? [[ToC](#toc)]
@@ -193,7 +197,7 @@ From functional viewpoint is can be defined as the Great Chain of being sure abo
 3 pillars of blockchain technology are: Decentralization, Transparency (Auditability), Immutability.
 
 -- **[Hash](https://en.wikipedia.org/wiki/Hash_function)** is a cryptographic function that converts longer text into a relatively unique code of fixed length but reverse can not be done in any practical time. This characteristic is used to do the so-called **Mining**, virtual one of course, a term taken from the gold industry. That work consists of trying an enormous number of combinations to find one where hash begins with several leading zeros 0. Some like to draw analogy with [Sudoka puzzle](https://steemit.com/bitcoin/@abhi3700/crypto-thoughts-ct-5-bitcoin-mining-analogy-sudoku-puzzle). All miners are competing to find it and when one does then a new block is finished, synced across the network, and he also gets the reward of a certain amount of newly created coins.<br>
---In the long term based on statistics, every miner should get approximately equal sum, while on the other side they have spent electric power. Based on the number of participants, the algorithm adjusts the difficulty level to keep it always around 10 minutes. It's done in a way that when there are more miners leading to more hash power difficulty increases which makes it harder to find a solution. This process is called **PoW *(Proof Of Work)***, the term is self-explanatory, that consists of defined rules. The **[Nakamoto Consensus](https://medium.com/nakamo-to/nakamoto-consensus-21cd304f96ff)** is a set of rules that verifies the authenticity of a blockchain network. It is using a combination of the proof-of-work [consensus algorithm](https://coinmarketcap.com/alexandria/article/what-is-the-nakamoto-consensus) on a **[BFT](https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft)** (*Byzantine Fault Tolerance* that solves *Byzantine Generals Problem*) peer-to-peer network.<br>
+--In the long term based on statistics, every miner should get approximately equal sum, while on the other side they have spent electric power. Based on the number of participants, the algorithm adjusts the difficulty level to keep it always around 10 minutes. It's done in a way that when there are more miners leading to more hash power difficulty increases which makes it harder to find a solution. This process is called **PoW *(Proof Of Work)***, the term is self-explanatory, that consists of defined rules. The **[Nakamoto Consensus](https://medium.com/nakamo-to/nakamoto-consensus-21cd304f96ff)** is a set of rules that verifies the authenticity of a blockchain network. It is using a combination of the proof-of-work [consensus algorithm](https://coinmarketcap.com/alexandria/article/what-is-the-nakamoto-consensus) on a **[BFT](https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft)** peer-to-peer network (BFT - *Byzantine Fault Tolerance* that solves *Byzantine Generals Problem* a situation in which majority of actors must agree on a coordinated strategy).<br>
 -- Another important thing to mention is **[PKI](https://www.keyfactor.com/resources/what-is-pki)** (*Public Key Infrastructure*), which is used here to sign digital info with a private key so others can confirm the signature using the public key, usually packed into a **Digital Certificate**. It ensures that no one can spend coins not belonging to them if they do not have the code aka private key. PKI is usually using [***RSA* algorithm**](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/) which is based on mathematical inability for large number factorization, to effectively find Prime factors. RSA can be used for digital encryption (hidden data) or for digital signature (ensures data integrity, authentication and non-repudiation). Others algorithms include *Diffie-Hellman* and *Elliptic curve* ([discrete logarithm problem](https://www.researchgate.net/publication/220784858_The_Elliptic_Curve_Discrete_Logarithm_Problem_State_of_the_Art)).<br>
 ![PKI](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/pki.png)
 
@@ -247,40 +251,45 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 21th - virtual asset (digital & distributed age)
 
 **More Definitions:**
-- Monetary / Economic energy (from [First Principles](https://fs.blog/first-principles/) Money is an exchange of energy - Econ 101)
-  - Bitcoin as information is a reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit))
+- Hard Asset (Trust-Minimized)
+- * premium Commodity
+  * inalienable Digital Property (like a Collectible)
 - Future-Proof Money (Internet Native)
-  * most Ubiquitous cryptocurrency
-- Hard Asset (Trust-Minimized), Premium Commodity (like a Collectible), Inalienable Digital Property
+  * most Ubiquitous Cryptocurrency
+- Peaceful resistance from currency Devaluation / Debasement
 - Distributed universal Ledger, Open Standard and API (Application Programming Interface)
   * consensually shared and synchronized database, one source of truth/validation
 - Programmatic monetary policy, programmable money
   * narrow but powerful AI, financial singularity, unstoppable machine
-- [Triple-Entry Accounting](https://medium.com/uclcbt/is-bitcoin-really-triple-entry-accounting-df14e26ae3e7) - info stored with many third parties
-  * analogy from [Double bookkeeping](https://en.wikipedia.org/wiki/Double-entry_bookkeeping) (2 equal entries on opposite sides: Debit and Credit)
-- Diversified index of entire world economy
-- Superior Monetary Network - interoperable protocol to transport value, convenient online payment experience
-  * like leading Big Tech companies are networks: Google - information; Facebook - social;
-- Productive brain power capacity of Developers (Open Source project)
-- Financial Freedom technology and tool (Stateless and Permissionless public money)
-  * gives you power over money, and ultimatel freedom to live on your own terms
-- Peaceful resistance from currency Devaluation / Debasement
-- Modern Declaration of (monetary) Independence / Denationalization
-  * enables Sovereign individual (Self-Sufficient communities)
-  * decouples neeed for large institutions from the network
-- New Social Contract (Novel form of Institution)
-  * [A Weapon for Peace, Not War](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin) (an Exit Strategy for Humans)
-  * has internal checks and balances (wisdom of the crowd)
 - First engineered monetary system in history of human race
   * unique Financial Invention
+- [Triple-Entry Accounting](https://medium.com/uclcbt/is-bitcoin-really-triple-entry-accounting-df14e26ae3e7) - info stored with many third parties
+  * analogy from [Double bookkeeping](https://en.wikipedia.org/wiki/Double-entry_bookkeeping) (2 equal entries on opposite sides: Debit and Credit; accounts [Payable & Receivable](https://www.netsuite.com/portal/resource/articles/accounting/accounts-payable-accounts-receivable.shtml))
+- Superior Monetary Network - interoperable protocol to transport value, convenient online payment experience
+  * solves economic calculation problem with continuous and instant market pricing
+  * like leading Big Tech companies are networks: Google - information; Facebook - social;
+- Diversified index of entire world economy
+- Productive brain power capacity of Developers (Open Source project)
+- Modern Declaration of (monetary) Independence / Denationalization
+  * enables Sovereign individual (Self-Sufficient communities)
+- Financial Freedom technology and tool (Stateless and Permissionless public money)
+  * gives you power over money, and ultimatel freedom to live on your own terms
+- New Social Contract (Novel form of Institution)
+  * decouples neeed for large institutions from the network
 - Decentralized monetary system in network Topology but also Philosophy
-- New Global financial system (not controlled by anyone - Neutral form of money)
+  * has internal checks and balances (wisdom of the crowd)
 - Pilot project on how to run society in less centralized way
+- New Global financial system (Neutral form of money - not controlled by anyone)
+- Monetary / Economic energy (from [First Principles](https://fs.blog/first-principles/) Money is an exchange of energy - Econ 101)
+  * Bitcoin as information is a reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit))
+- A Weapon for [Peace, Not war](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin) (an Exit Strategy for Humans)
+  * [war Deterrent](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer) - changes warfare from kinetic to electic energy
+  * future war apparatus goal will be [highest rate of energy-delivery](https://bitcoinmagazine.com/culture/bitcoin-and-teslas-peaceful-energy-vision) (Nikola Tesla envisioned peaceful energy)
 - Education vehicle, monetary curiosity
 - Fintech for poor people (Instrument of economic empowerment)
   * technology bridge to abundant future
 - Intellectual and radical thought experiment that we should not have human in charge of money
-- Persuasive idea that rewrites your mind, an inception
+  * persuasive idea that rewrites your mind, an inception
   * people are inspired to write about (this blog being proof)
 
 ### Other Cryptos [[ToC](#toc)]
@@ -334,7 +343,7 @@ Most advantages (SO) it brings are already stated so lets look at certain issues
   - Can contribute to stabilizing electric grid by reducing miner consumption on demand in peak times
   - Civilization level of technological advancement is measured by amount of energy able to use ([The Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale))
 - Distribution fairness?
-  - In design it is the fairest system possible Satoshi could have come up at that time
+  - In design it is the fairest system possible Satoshi could have came up at that time
   - Historically Unprecedented experiment in [Fair Distribution](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892)
   - Has fair-minded issuance mechanism, miners have need to redistribute new coins
   - Incomparably better then centralized ownership
@@ -375,6 +384,7 @@ Some Critics would challenge Bitcoin on its Noninflationary nature, a subject th
 Often used as as scary word related to Recession and Depression in Economic crisis.<br>
 A Deflationary Spiral is a downward price reaction to an economic crisis leading to lower production, lower wages, decreased demand, and falling prices.<br>
 -- But [Deflationary economy](https://www.reddit.com/r/CryptoCurrency/comments/u0efbj/you_wouldnt_spend_a_deflationary_currency_bitcoin/) isn’t inherently a recessionary environment at all. In fact, some of the most prosperous times of growth in history were strongly deflationary. As production becomes more efficient it is natural that prices goes down. Also Bitcoin is not formally deflationary, technically it's programmed to be **Disinflationary**, rate of inflation reduces every 4 years. This result in a constant monetary base without changes to the supply.<br>
+
 -- In order to be able to spread BTC, in the beginning it had higher inflation which is reducing over time. So in the long time when everybody owns and use it price would stabilize, prior has to rise a lot, while it gravitates towards zero-inflation. The problem is we live in a system that is completely opposite and based on debt. This debt must get cheaper over time with inflation, because of the opposite were true, all nations and companies default. So the issue isn’t so much deflation per se, it’s the transition from where we are now, being over levered, to a low-inflationary environment.<br>
 -- Eventually it would come to equilibrium where value of money would be equal to total Economic Output of world. This allows everybody to have long time horizon and plan on longer period, which is good both for humans and environment. People would buy quality long-lasting stuffs, instead of buying a lot of garbage that would soon be thrown away.  Instead of framing things narrowly, it allows to take a broader view and make better decision.<br>
 -- When it comes to wages even if they go down a little bit, price of goods would go down even more making person richer. The difference between nominal and real wages is fundamental. There is no point of rising nominal wages, what matters is net of inflation/deflation.<br>
@@ -384,7 +394,8 @@ On the whole **Benefits outweighs the Risks** significantly.<br>
 -- Regarding credits and loans / borrowing, nominal interest rate would be low but effective one would be nominal + that 2.5%. So credit for House could have nominal rate of 1.5% (4% effective). While investments in business, bearing more risk, would have higher rate of return or probably some share of company.<br>
 Historic data: US interest rates in the last [200 years](https://advisor.visualcapitalist.com/us-interest-rates/) and 30 year mortgage from [1971-2022](https://themortgagereports.com/61853/30-year-mortgage-rates-chart).
 
-Bitcoin Monetary Inflation [chart source](https://bashco.github.io/) (declines geometrically to asymptotic maximum of 21 million)
+Bitcoin Monetary Inflation [chart source](https://bashco.github.io/)<br>
+(declines geometrically to asymptotic max of 21 mil. - [more precisely](https://academy.bit2me.com/en/cuantos-bitcoins-pueden-haber/) 20.999.999,9993)
 ![Btc Monetary Inflation](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/btc-monetary-inflation.png)<br>
 
 #### PoW (Proof Of Work - Mining) vs PoS (Proof Of Stake) [[ToC](#toc)]
@@ -401,8 +412,8 @@ Hardware that is doing computation for mining initially included home desktops, 
 We can identify Crypto ecosystem as new cultural and economic trend that started from forum, spread through Reddit and Twitter. This what created condition under which broader Addoption occured.
 -- Internet evolution pure data and communication to social information and digital value. So this next steep of scientific evolution is standing on the shoulders of giants.
 
-### Sociopolitical impact [[ToC](#toc)]
-{: #socio-political-impact }
+### Sociopolitical implications [[ToC](#toc)]
+{: #socio-political-implications }
 -- Inflating currency supply distorts the money and equals creating more imaginary products which negatively affects the markets.
 Central planning (of money also) goes against evolution, one of the reasons it always fails.
 [Monetarism](https://www.britannica.com/topic/monetarism) - emphasizes the role of governments in controlling the amount of money in circulation
@@ -410,23 +421,29 @@ Before bitcoin we have never had an incorruptible monetary base layer.
 World needs a Neutral (reserve) currency, now more then ever.
 
 Some notable examples of high and hyper inflation since 2000s:<br>
--Hyper: Venezuela (10,000 %), Argentina, Zimbabve (1,000 %), Gana, Ethiopia, Sri Lanka, ...<br>
+-Hyper: Venezuela (10,000 %), Argentina, Zimbabwe (1,000 %), Gana, Ethiopia, Sri Lanka, ...<br>
 -High: Argentina(70 %), Russia, Turkey, etc.<br>
--Moderate: USA, Uk, EU, and others<br>
+-Moderate: USA, UK, EU, and others<br>
 
 -- Since is it hard/impossible to ban bitcoin globaly, countries can ignore it or try to regulate it.
 Some laws are more accepting while other have resticting ones.
-China has for exampla ban minning, as bitcoin can interfere and jeopardize their central infulence on population.
-On the other side more democratic countris have made it legal but require **KYC** (Know Your Customer) and **AML** (Anti-Money Laundering).
+China has for exampla [ban minning]((https://www.weforum.org/agenda/2022/01/what-s-behind-china-s-cryptocurrency-ban/)), as bitcoin can interfere and jeopardize their central infulence on population.
+They might be the first to implement [CBDC](https://www.investopedia.com/terms/c/central-bank-digital-currency-cbdc.asp) (Central Bank Digital Currency) which would give even more power to the Surveillance State. This would allow easier spread of [Social Credit System](https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4), a distopia everyone should oppose. So Bitcoin can facilitate reduction of government ability to track and monitor its citizens.<br>
+-- On the other side more democratic countris have embraced and made it legal but require **KYC** (Know Your Customer) and **AML** (Anti-Money Laundering).
 So most exchanges have to be in Compliance with these rules and ask user for Identity documents.
 Still there are some DEXs (Decentralized exchanges) that can circumvent these requirements.
--- At the moment countries have different range of [attitudes towards bitcoin](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp). Those more [friendly ones](https://learn.bybit.com/investing/most-crypto-friendly-countries/) have legalised it in a way to be either accepted (US, EU,...), or non taxable (*Portugal* as prominent with [residency](https://rebase.co/portugal) for [Digital Nomads](https://govisafree.com/crypto-portugal/) including ['Bitcoin family'](https://www.cnbc.com/2022/02/06/bitcoin-family-moves-to-portugal-crypto-tax-haven.html)), or even legal tender ([El Salvador](https://www.weforum.org/agenda/2021/09/el-salvador-officially-adopts-bitcoin-as-legal-tender-but-will-other-countries-follow) first one; [El Zonte](https://www.npr.org/2022/03/27/1086851329/el-salvadors-leader-wants-to-go-in-even-bigger-on-bitcoin) - [Bitcoin Beach](https://www.cbsnews.com/news/bitcoin-beach-el-salvador-60-minutes-2022-04-10/)). On the other side are more sceptical ones still waiting to see where it goes and few that have partially [ban it like China](https://www.weforum.org/agenda/2022/01/what-s-behind-china-s-cryptocurrency-ban/) - their loss.<br>
--- When most countries join the system they will even compete how has better adoption, and eventually their CBs will start acquiring Bitcoin as part of their reserves.
+-- At the moment countries have different range of [attitudes towards bitcoin](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp). Those more [friendly ones](https://learn.bybit.com/investing/most-crypto-friendly-countries/) have legalised it in a way to be either accepted (US, EU,...), or non taxable (*Portugal* as prominent with [residency](https://rebase.co/portugal) for [Digital Nomads](https://govisafree.com/crypto-portugal/) including ['Bitcoin family'](https://www.cnbc.com/2022/02/06/bitcoin-family-moves-to-portugal-crypto-tax-haven.html)), or even legal tender ([El Salvador](https://www.weforum.org/agenda/2021/09/el-salvador-officially-adopts-bitcoin-as-legal-tender-but-will-other-countries-follow) first one; [El Zonte](https://www.npr.org/2022/03/27/1086851329/el-salvadors-leader-wants-to-go-in-even-bigger-on-bitcoin) - [Bitcoin Beach](https://www.cbsnews.com/news/bitcoin-beach-el-salvador-60-minutes-2022-04-10/)). On the other side are more sceptical ones still waiting to see where it goes.<br>
 
-### Economic view [[ToC](#toc)]
-{: #economic-view }
+-- Btc is hope for many people who are in despair and marginalized. One of use cases is to give freedom to people in countries under some sanction like [Cuba](https://www.coindesk.com/business/2022/03/08/you-would-understand-bitcoin-if-you-were-under-cubas-embargo/), Iran, etc. It can also help refugees escape conflict zones and leave (with their saving) from Libya, Russia, Ukraine, Syria, etc. Same is true from those  fleeing oppressive and tyrannical regimes.<bt>
+Next to mention many African countries with have very weak (high inflating) currency, in which a lot of people don't have access to finacial services. Some are even using foreign issued post-colonial money, namely [CFA Franc](https://cointelegraph.com/news/we-don-t-like-our-money-the-story-of-the-cfa-and-bitcoin-in-africa) that is still controlled by the French treasury. So Open Source code is [fighting monetary colonialism](https://bitcoinmagazine.com/culture/bitcoin-a-currency-of-decolonization) as well, as described by Alex Gladstein.
+
+-- It's now obvious that Supremacy of the [Petrodollar Economy is Waning](https://moderndiplomacy.eu/2022/05/28/the-waning-supremacy-of-the-petrodollar-economy/) and its hegemony coming to an end. This will probably lead to decentralised multipolar multi-reserve system.
+
+### Economic impact [[ToC](#toc)]
+{: #economic-impact }
 BTC gives more Economic freedom, and it makes money *SAVING simple* as it should be.
 It brings financial tools to unBanked, underBanked and underServiced world, allowing people to become almost Bankless in traditional sense.
+The goal of Bitcoin not to bank the world but to de-bank it.
 Important aspect and one of reason why entire project was successful is because of good [**Tokenomics**](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/) - financial incentives to mine, buy, use and hold tokens.
 
 Worth mentioning are the
@@ -448,6 +465,8 @@ Other links:<br>
 Although it has the power to disrupt Banking and monetary industry we can look at it more as a transformative technology that will improve and augment it. And only time will unlock it's full potential. Firstly it was interesting cool new technology, and later it became something like investment, sort of digital gold - Store of Value.<br>
 In the long run idea is for it to become regular everyday payment service, to fully realize function as Medium of Exchange. For this to happen it needs good integration with second layer lightning protocol for scalability. Once it grows large enough it will become stable which enables it tBitcoin Standard,hen to be also Unit of Account. If this happens it will inevitable become Global Reserve Asset, **Bitcoin Standard**, and in many countries as people adopt it, regulatory will follow to make it like foreign currency, meaning no capital gain tax. Since nobody controls it, it is also easier for all countries, including world super powers, to use for international clearing since they will not depend on the competition. In that case it's value could rise to few hundred thousands in several years, even reaching a million in 10+ years.<br>
 
+-- When most countries join the system they will even compete how has better adoption, and eventually their CBs will start acquiring Bitcoin as part of their reserves. Banks will also own Btc as reserve asset.
+
 ### What next ? [[ToC](#toc)]
 {: #what-next }
 First it's important to learn as much and have wide understanding of it all. Since this system is not forced but is **Opt-In** (freely choose to use it / be involved and make better world) just learning about it is already a contribution. Next then comes playing with it and later teaching others around you (it's virtuous to teach people) and to promote it. There is a famous meme (rapidly spread cultural element): **[LaserEyes](https://www.wealthsimple.com/en-ca/magazine/laser-eyes-crypto)** - significant focus on important thing that can make a difference.<br>
@@ -466,3 +485,4 @@ Investment Strategy
 {: #recapitulation }
 Money systems have changed through history and current one has mayor flaw, it being centralized and having too much power in single place. That inevitable leads to corruption which results in high inflation, so we can say it is broken. Reason it was tolerated is that it was the best that existed at the time. But with new time come new technology that enabled better systems. From Store of Value perspective it should have lowest possible inflation. In this regard Bitcoin is in simple words just better money system and overall good if we apply moral framework to it.<br>
 -- Hyperinflation and [currency collapses](https://ginifoundation.org/kb/fiat-currency-graveyard-a-history-of-monetary-folly/) are not exceptionally rare events. In fact, the average lifespan of a fiat currency is only about 35 years, which means these events happen much more frequently than many people realize. When viewed from civilization perspective we want store to last minimum our lifetime, better even longer for inheritance. Also almost half of societal problems arise from money, so fixing the money will fix the world (meme: ***Bitcoin Fixes this!***), in part at least. Remaining issue (ecology, sustainability, health care, etc.) will need their own solutions. Money should be a **Fiduciary** system - legally and ethically bound to act in clients/users best interest and ahead of their own, duty to preserve good faith and trust.<br>
+-- Hope that entire story have arouse your curiosity and elevate critical thinking.<br>
