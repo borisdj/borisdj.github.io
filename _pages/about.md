@@ -3,5 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Interested in BlockChain, Bitcoin, Global monetary systems, Self-Sustanability, Electrification of Transport, Space Colonisation...<br>
+Interested in:<br>
+BlockChain, Bitcoin, Monetary,<br>
+Self-Sustanability, Electrification of Transport, Space Colonisation...<br>
 Engineering Issues and Challenges of Opportunities.
