@@ -4,5 +4,5 @@ docs:
     children:
       - title: "rEvolution of Money"
         url: /revolution-of-money/
-      - title: "Post 2"
-        url: /post-2/
+      - title: ".Net libraries"
+        url: /dot-net-libraries/
