@@ -5,8 +5,6 @@ classes: wide
 image: "/demo/assets/images/dot-net-libraries.jpg"
 excerpt: "Open source authored .Net libraries"
 ---
-![image](/demo/assets/images/post2.jpg)
-{: .image-title}
 
 
 | №  | .Net library             | Description                                              |
