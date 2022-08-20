@@ -1,6 +1,6 @@
 ---
 title: ".Net libraries"
-date: 2022-09-15T08:00:00-00:00
+date: 2022-08-15T08:00:00-00:00
 classes: wide
 image: "/demo/assets/images/dot-net-libraries.jpg"
 excerpt: "Open source authored .Net libraries"
