@@ -31,7 +31,7 @@ author:
   bio      : "Code Designer, Passionate Programmer, Software Architect, Problem Solver (OpenSource, .Net, EF-Core, Blazor)"
   email: djurdjevicboris@hotmail.com
   links:
-  - label: "About"
+  - label: "* About"
     icon: "about"
     url: "https://borisdj.net/about"
   - label: "Twitter"
