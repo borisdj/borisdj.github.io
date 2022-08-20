@@ -6,6 +6,7 @@ image: "/demo/assets/images/dot-net-libraries.jpg"
 excerpt: "Open source authored .Net libraries"
 ---
 
+**Open source authored .Net libraries:**
 
 | №  | .Net library             | Description                                              |
 | -  | ------------------------ | -------------------------------------------------------- |
