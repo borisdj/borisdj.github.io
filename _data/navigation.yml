@@ -1,8 +1,0 @@
-
-docs:
-  - title: FIN & TECH
-    children:
-      - title: "rEvolution of Money"
-        url: /revolution-of-money/
-      - title: ".Net libraries"
-        url: /dot-net-libraries/
