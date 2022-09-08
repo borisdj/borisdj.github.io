@@ -243,7 +243,7 @@ This is first case where Greed and Altruistic incentives aligns. You can now mak
 &nbsp;1. **Economic** (Monetary policy) - predefined and limited quantity (relatively fixed supply)<br>
 &nbsp;2. **Technical** (Networking) - decentralization<br>
 &nbsp;3. **Political** - reducing state monetary control<br>
-&nbsp;4. **Ideological** - core value,<br>
+&nbsp;4. **Ideological** - core value<br>
 &nbsp;5. **Social**<br>
 
 [Bitcoin Governance](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} is similar to 3-pronged (traditional) branches of Government. <br> 
@@ -616,6 +616,10 @@ To expose some of mostly referenced web pages:<br>
 -- YT videos:<br>
 [What is Bitcoin? (v2)](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [What is Bitcoin? Explained Simply](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
 [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=8s){:target="_blank"}; | [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4){:target="_blank"};<br>
+-- Block info:<br>
+[BlockExplorer](https://blockexplorer.com/){:target="_blank"}; | [BlockStream](https://blockstream.info){:target="_blank"}; | [BlockChain-charts](https://blockchain.com/charts){:target="_blank"};
+https://blockstream.info/
+https://blockchain.com/charts
 -- Other links:<br>
 [CoinMarketCap](https://coinmarketcap.com/){:target="_blank"}; | [CoinGecko](https://www.coingecko.com/){:target="_blank"}<br>
 [100 Hours of Study](https://crypto-telegraphs.com/2022/06/22/100-hours-of-study-needed-to-understand-how-bitcoin-works/){:target="_blank"}; | [Summary from 100 hours of learning](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning-about-bitcoin-9d6da7b8feea){:target="_blank"};<br>
