@@ -14,5 +14,6 @@ Passionate Programmer and Software Developer<br>
 BlockChain, Bitcoin, Financial nad Monetary systems;<br>
 Self-Sustanability, Electrification of Transport, Space Colonisation...<br>
 Engineering Issues and Challenges / Opportunities.
+#Technologist
 
 <img src="https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/photo.jpg" width="400" height="400" />
