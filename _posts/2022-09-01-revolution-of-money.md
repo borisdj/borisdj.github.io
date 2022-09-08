@@ -591,17 +591,17 @@ With it there will be a **Quiz** with Questions. Who gets all correct answers, r
 **References**<br>
 -- They are linked directly in text ([List of all URL-s](https://docs.google.com/spreadsheets/d/e/2PACX-1vQKV44M_oFg-9xrWSgz-SxpYopfIicpU-NbvvLR_GXXoxkko598JlM2-mo5MYvziMcMLebOwlrbcs2D/pubhtml?gid=2042617452&single=true){:target="_blank"})<br>
 To expose some of mostly referenced web pages:<br>
-https://bitcoin.org/en<br>
-https://coinmarketcap.com<br>
-https://bitcoinmagazine.com<br>
-https://cointelegraph.com<br>
-https://coindesk.com<br>
-https://en.wikipedia.org<br>
-https://investopedia.com<br>
-https://mises.org<br>
-https://reddit.com<br>
-https://youtube.com<br>
-https://medium.com<br>
+[bitcoin.org/en](https://bitcoin.org/en){:target="_blank"}<br>
+[coinmarketcap.com](https://coinmarketcap.com){:target="_blank"}<br>
+[bitcoinmagazine.com](https://bitcoinmagazine.com){:target="_blank"}<br>
+[cointelegraph.com](https://cointelegraph.com){:target="_blank"}<br>
+[coindesk.com](https://coindesk.com){:target="_blank"}<br>
+[en.wikipedia.org](https://en.wikipedia.org){:target="_blank"}<br>
+[investopedia.com](https://investopedia.com){:target="_blank"}<br>
+[mises.org](https://mises.org){:target="_blank"}<br>
+[reddit.com](https://reddit.com){:target="_blank"}<br>
+[youtube.com](https://youtube.com){:target="_blank"}<br>
+[medium.com](https://medium.com){:target="_blank"}<br>
 
  APPENDIX<br>
 **Disclaimer**:<br>
