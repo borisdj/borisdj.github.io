@@ -521,6 +521,8 @@ One could make analogy from fiat based military industrial complex to crypto ind
 
 -- CB could be gone in it's current form, even fiat could be backed by Bitcoin or central goverment reduced in that regard. Essentialy removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.
 
+-- [The politics of bitcoin](https://blogs.lse.ac.uk/politicsandpolicy/the-politics-of-bitcoin/){:target="_blank"} underpins its social life.
+
 ### 4.3 Social component
 {: #social-component }
 -- As the ecosystem grew, many different subgroups have joined the movement.
