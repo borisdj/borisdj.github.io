@@ -325,7 +325,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
   - the New Operating System of the Economy
 * 17 Monetary / Economic energy
   - from [First Principles](https://fs.blog/first-principles/){:target="_blank"} Money is an exchange of energy (Econ 101)
-  - Bitcoin as a reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit){:target="_blank"})
+  - reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit){:target="_blank"})
 * 18 A Weapon for [Peace, Not war](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin){:target="_blank"} (an Exit Strategy for Humans)
   - [war Deterrent](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - changes warfare from kinetic to electic energy
   - future war apparatus goal will be [highest rate of energy-delivery](https://bitcoinmagazine.com/culture/bitcoin-and-teslas-peaceful-energy-vision){:target="_blank"}<br>
@@ -519,7 +519,7 @@ Still there are some DEXs (Decentralized exchanges) that can circumvent these re
 -- It's now obvious that Supremacy of the [Petrodollar Economy is Waning](https://moderndiplomacy.eu/2022/05/28/the-waning-supremacy-of-the-petrodollar-economy/){:target="_blank"} and its hegemony coming to an end. This will probably lead to decentralized multipolar multi-reserve system. Interest Book and another video presentation by Ray Dalio is -*Changing world order* where he talks about China economic rise. But China also manipulate currency a lot.<br>
 One could make analogy from fiat based military industrial complex to crypto industrial complex based on energy.
 
--- CB could be gone in it's current form, and central goverment reduced in that regard. To remove monetary power and leave only fiscal policy. Even fiat in general could be backed by Bitcoin. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.
+-- CB could be gone in it's current form, even fiat could be backed by Bitcoin or central goverment reduced in that regard. Essentialy removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.
 
 ### 4.3 Social component
 {: #social-component }
@@ -609,9 +609,10 @@ They are bias towards gains but still have [Loss Aversion](https://www.apa.org/s
 *Kraken, Binance, FTX, Coinbase, Kraken, KuCoin*
 
 As for Bitcoin price prediction there are some interesting graphs:<br>
+(according to which we are currently in a fire sale)<br>
 -Logarithmic price chart:<br>
 ![price-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/log-chart.jpg)
--Rainbow chart:<br>
+-Rainbow chart :<br>
 ![rainbow-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/rainbow-chart.jpg)
 
 
