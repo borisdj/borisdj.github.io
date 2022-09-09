@@ -205,7 +205,7 @@ In the following years several persons were incorrectly suspected or falsely cla
 {: #technical-background }
 -- From an engineering aspect Bitcoin protocol is a masterpiece software. We could see that the compelling idea has been circulating for some time and several components of it already existed. But nevertheless integrating it all into a functional unit was done ingeniously. Hats down to Satoshi whoever he / she or they be, for the first full implementation of the idea, while being a visionary. Also, the timing was just right. Firstly the internet and cryptography was sufficiently developed. Secondly the political and economic situation was fertile as well, inspiration came from revolt. Also to define a word **Bit** (binary digit) - the smallest unit of data that a computer can process and store, whose value can be 0 or 1. <br>
 -- Let's jump to the point:<br>
-Bitcoin has a **Ledger** of transactions, which is a list stored in a database that is not centralized in one server but distributed on multiple computers called **Nodes** around the world. Ledger essentially enables reliable spreadsheet with Balances. It's like immutable record that can't be counterfeited. New transactions, up to 2000 of them, are on average every 10 minutes grouped into a **Block** 1 MB in size that is added to the ledger. Each block is connected to previous ones by hash code that is not easy to find. That's why this structure is called **Blockchain**, multiple blocks connected in a line, and it's what underpins the system.<br>
+Bitcoin has a **Ledger** of transactions, which is a list stored in a database that is not centralized in one server but distributed on multiple computers called **Nodes** around the world. Ledger essentially enables reliable spreadsheet with Balances. It's like immutable record that can't be counterfeited. New transactions, up to 2000 of them, are on average every 10 minutes grouped into a **Block** 1 MB in size that is added to the ledger. Each block is connected to previous ones by hash code that is not easy to find. That's why this structure is called **Blockchain**, multiple blocks connected in a line, and it's what underpins the system. It could can used for [solving other problems](https://101blockchains.com/problems-blockchain-solve/){:target="_blank"} as well.<br>
 ![Blockchain](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/blockchain.jpg)
 
 | PROPERTIES of| BLOCKCHAIN (type of DLT - Distributed Ledger Technology)                  |
@@ -231,16 +231,14 @@ From functional viewpoint is can be defined as the Great Chain of being sure abo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (original in virtual realm that could not be copied, a groundbreaking innovation)<br>
 &nbsp;2. Guaranties integrity and security<br>
 &nbsp;3. Gives proper economic incentives to people using and maintaining the network<br>
-&nbsp;   (Positive Feedback Loop: higher price, more attention, bigger demand)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Positive Feedback Loop: higher price, more attention, bigger demand)<br>
 -- It also makes good distribution throughout time with descending inflation, since reward generated with mining is halved every 4 years. Maximum number of coins is limited to [**21 million**](https://decrypt.co/34876/why-is-bitcoins-supply-limit-set-to-21-million){:target="_blank"}) (hard cap) that would be reached in **year 2140** according to estimates. Currently, in 2022 almost 19 million is already created, about 90%. When reward of new coins shrinks, transaction fee will remain for the miners. Some coins in early adoption period were lost due to [owners losing key](https://www.businessinsider.com/james-howells-threw-away-bitcoin-dump-masterplan-get-back-2022-7){:target="_blank"} and Satoshi mined almost 1 million coins that were never moved from initial address. One estimate is that owners have misplaced about 20% of all existing tokens, which makes it even more scarce. Some have been wondering why specific amount of 21 million exactly was chosen for max number. The nominal quantity is not that important as long as it is defined and fixed. Reason being it is divisible, currently up to 8 decimals, and 1 BTC have 100 million satoshis (sats) as smallest fraction (up to 8 decimal places).<br>
 
 -- Everybody should be aware that bitcoin is not anonymous, instead it is *Pseudo-Anonymous*, meaning transaction is public but it only has owner number. However if someone ever connects that number to a person then it can be tracked. Ways to avoid being tracked are mentioned in paragraphs bellow.<br>
 -- Coins can be stored offline in a digital Wallet or on an exchange. Wallet is a password protected application on mobile or computer, with recovery secret code stored at another location in digital manner or written on paper. It enables full **Self Custody**, in accordance with expression: ***Not Your Keys, Not Your Coins!*** One should not be escaping responsibility, so **Take custody** of your coins.<br>
 
 -- Block infos:<br>
-[BlockExplorer](https://blockexplorer.com/){:target="_blank"}; | [BlockStream](https://blockstream.info){:target="_blank"}; | [BlockChain-charts](https://blockchain.com/charts){:target="_blank"};
-https://blockstream.info/
-https://blockchain.com/charts
+[BlockExplorer](https://blockexplorer.com/){:target="_blank"}; | [BlockStream](https://blockstream.info){:target="_blank"}; | BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks](https://blockchain.com/btc/blocks){:target="_blank"}; | [balance](https://bitref.com/){:target="_blank"};
 
 ### 2.3 Extended description [[C](#toc)]
 {: #extended-description }
@@ -255,6 +253,10 @@ This is first case where Greed and Altruistic incentives aligns. You can now mak
 -- YT videos:<br>
 [What is Bitcoin? (v2)](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [What is Bitcoin? Explained Simply](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
 [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=8s){:target="_blank"}; | [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4){:target="_blank"};<br>
+TED talks:
+-[How the blockchain is changing money and business | Don Tapscott](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"}
+-[How the blockchain will radically transform the economy | Bettina Warburg](https://www.youtube.com/watch?v=RplnSVTzvnU&t=1s){:target="_blank"}
+-[The future of money | Neha Narula](https://www.youtube.com/watch?v=pPgd7Hj3ABQ){:target="_blank"}
 
 [Bitcoin Governance](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} is similar to 3-pronged (traditional) branches of Government. <br> 
 [The Three Branches of Blockchain Governance](https://medium.com/digitalassetresearch/the-three-branches-of-blockchain-governance-75a29bf98880){:target="_blank"} (*Separation of powers* doctrine)
@@ -282,12 +284,14 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 &nbsp;19th - factories, machines, bonds (industrial age)<br>
 &nbsp;20th - urban real estate, stocks (information age)<br>
 &nbsp;21th - virtual asset (digital & distributed age)<br>
-&nbsp; this is also called [The Exponential Age]() because Technology is evolving the world at a rate faster than ever before in HISTORY. Simply put, the world is moving at light speed.
+&nbsp; - also called [The Exponential Age](https://www.reddit.com/r/Bitcoin/comments/tuoh5f/im_all_in_bitcoin_the_exponential_age/){:target="_blank"}<br>
+&nbsp;&nbsp;&nbsp; (Technology evolving the world at a rate faster than ever before)<br>
+&nbsp; - Simply put, the world is moving at light speed<br>
 
 **More Definitions:**<br>
 * 1 Hard Asset (Trust-Minimized)
   - premium Commodity
-  - inalienable Digital Property (like a Collectible)<br>
+  - inalienable digital Property<br>
 * 2 Future-Proof Money (Internet Native)
   - most ubiquitous and omnipresent Cryptocurrency<br>
 * 3 Distributed universal Ledger
@@ -373,7 +377,7 @@ So lets look at certain **Weaknesses & Threat** and their solutions:<br>
   - Using energy is not a bad thing
   - Necessary for security and decentralization
   - Creating money can not be free
-  - Incentive is to use cheapest energy, currently mostly from renewables<br>
+  - Incentive is to use cheapest energy, currently mostly from [renewables](https://wintonark.medium.com/bitcoin-mining-impact-on-renewable-uptake-fc91c5aa9be0){:target="_blank"} ([solar](https://medium.com/blockchain-life-tech/rooftop-solar-and-crypto-mining-could-kick-off-a-green-power-revolution-ad91d523b35b){:target="_blank"})<br>
     also from remote location otherwise unusable and wasted (Geo-independent)
   - Can contribute to stabilizing electric grid by reducing consumption in peak times
   - Generated heat by the mining rigs could be used for heating of homes
@@ -454,8 +458,10 @@ Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_b
 &nbsp;4. Simplistic design in its core and in accordance to IT principle [***KISS***](https://www.techopedia.com/definition/20262/keep-it-simple-stupid-principle-kiss-principle){:target="_blank"} (*Keep IT Simple, Stupid*)<br>
 &nbsp;5. Does only one main function in the base - being just money, but does it very good.<br>
 
--- Some Altcoins (Alternative coins - any other then Bitcoin) could be viewed as startups where buying those is similar to investing in that company, like some DeFi (Decentralized Finance) application that replicate certain bank services and others. With those investment can often be done with **ICO** (*Initial Coin Offer*), analog to [**IPO**](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp){:target="_blank"} (*Initial Public Offer*). It's like Dot-com bubble in the 2000s where there were many companies that had website but just a few grow to become Microsoft, Google, Apple, Amazon, etc... While bulk of others have completely failed and we never even heard about them.<br>
+-- Some Altcoins (Alternative coins - any other then Bitcoin) could be viewed as startups where buying those is similar to investing in that company. For exmaple DeFi - *Decentralized Finance* ([Crypto acronyms](https://www.forbes.com/uk/advisor/investing/cryptocurrency/crypto-glossary-of-terms-acronyms/){:target="_blank"}) application that replicate certain bank services and others. With those investment can often be done with **ICO** (*Initial Coin Offer*), analog to [**IPO**](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp){:target="_blank"} (*Initial Public Offer*). It's like Dot-com bubble in the 2000s where there were many companies that had website but just a few grow to become Microsoft, Google, Apple, Amazon, etc... While bulk of others have completely failed and we never even heard about them.<br>
 Still only BTC is considered (also [by the SEC](https://www.reuters.com/legal/transactional/are-cryptocurrencies-securities-sec-is-answering-question-2022-03-21/){:target="_blank"}) as **Asset** (other way phrasing it **Digital Property**) while all others cryptos are described as **Securities** (*The Next Bitcoin is Bitcoin*).
+
+-- There are also NFTs (Non Fungible Tokens) that act like prestige Collectibles. But they are not in the scope of this article.
 
 ### 3.4 Proof Of Work (PoW) vs Stake [[C](#toc)]
 {: #pow-vs-pos }
@@ -476,14 +482,14 @@ There is excellent explanation by famous hedge fund manager [Ray Dalio](https://
 In it he gave few simple advice, 3 rules of thumbs:<br>
 &nbsp;1. Don't have Debt rise faster then Income<br>
 &nbsp;2. Don't have Debt rise faster then Productivity<br>
-&nbsp;3. Do all that you can to raise your Productivity:<br>
+&nbsp;3. Do all that you can to raise your Productivity<br>
 ![price history](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/economic-cycles.jpg)
 
 -- Regarding the Cycles we find them also in Bitcoin short history, each lasting around 4 years, approximately halving period. Here each cycle have been less volatile, since larger market cap makes it harder to swing. In prior periods it was still partly correlated with Nasdaq index and was also hyped in certain moments.<br>
 ![price history](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/price-history.jpeg)
 
 -- In the last 10 years we could see value goes up several times by order of magnitude. Waves were created either by big whales or small retail investors as more people become Bitcoiners. Whales are considered those who have 1000+ bitcoins. Others gathered around online community WallSteetBets (with famous [GameStop saga](https://abcnews.go.com/Business/gamestop-timeline-closer-saga-upended-wall-street/story?id=75617315){:target="_blank"}) on reddit, so called Ape movement.
-On the other side it had gone down the same way. Additionally recent crash was caused by collapse of overleveraged and unregulated companies that were investing and lending cryptos. Some of them were exposed to others and it was like contagion created by gambling. To point out few of those: Tera-Luna, Anchor, 3 Arrow Capital, Celsius, Voyager. They either went bankruptcy (financial defaulted) or were liquidated. Crypto mareket has repeated mistakes from 2008 crisis. But here market was cleared of bad players. And it was not the first time, some might remember Mt.Gox going under, also BitConnect, BitGrail, and Coincheck hacks.
+On the other side it had gone down the same way. Additionally recent crash was caused by collapse of overleveraged and unregulated companies that were investing and lending cryptos. Some of them were exposed to others and it was like contagion created by gambling. To point out few of those: Tera-Luna, Anchor, 3 Arrow Capital, Celsius, Voyager. They either went bankruptcy (financial defaulted) or were liquidated. Crypto market has repeated mistakes from 2008 crisis. But here market was cleared of bad players. And it was not the first time, some might remember Mt.Gox going under, also BitConnect, BitGrail, and Coincheck hacks.
 
 -- Bitcoin as a new asset class gain incredible popularity. When it comes to total market cap at some point was 1 Trillion, while entire crypto market was around 2 T. It took Google 22 years to become 1 T company, While Bitcoin got there in 12 years. Tradeable Gold market is about 5 Trillion. For it to catch up would mean value jumping 20 times (educated guess) from current price. Note that entire stock market is around 100 T, while real estates are 300 T.
 Bitcoin in average had growth of 200% yearly for a decade, it was the best performing asset.
@@ -519,7 +525,7 @@ Still there are some DEXs (Decentralized exchanges) that can circumvent these re
 -- It's now obvious that Supremacy of the [Petrodollar Economy is Waning](https://moderndiplomacy.eu/2022/05/28/the-waning-supremacy-of-the-petrodollar-economy/){:target="_blank"} and its hegemony coming to an end. This will probably lead to decentralized multipolar multi-reserve system. Interest Book and another video presentation by Ray Dalio is -*Changing world order* where he talks about China economic rise. But China also manipulate currency a lot.<br>
 One could make analogy from fiat based military industrial complex to crypto industrial complex based on energy.
 
--- CB could be gone in it's current form, even fiat could be backed by Bitcoin or central goverment reduced in that regard. Essentialy removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.
+-- CB could be gone in it's current form, even fiat could be backed by Bitcoin or central government reduced in that regard. Essentially removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.
 
 -- [The politics of bitcoin](https://blogs.lse.ac.uk/politicsandpolicy/the-politics-of-bitcoin/){:target="_blank"} underpins its social life.
 
@@ -527,24 +533,24 @@ One could make analogy from fiat based military industrial complex to crypto ind
 {: #social-component }
 -- As the ecosystem grew, many different subgroups have joined the movement.
 Initially it started with crypto OG (Original Gangster) a slang for developer or founder of early crypto blockchain.
-Then came anonymous, libertarians, conservatives, progressives, entrepreneurs, VCs (Venture Capitalist - investors), miners, traders, etc. It was not singular ethos but had many Subcommunities where everyone saw something of interest that suits them. Some are often referred as *'True Bitcoiners'*, a forerunners of movement and ideology. It is similar to term Bitcoin *Maximalist*, meaning those who promote only Bitcoin. There was some toxicity in the public space, that could be filtered.  Maybe best label would be Btc Realist or simple a **Bitcoiner**.<br>
+Then came anonymous, libertarians, conservatives, progressives, entrepreneurs, VCs (Venture Capitalist - investors), miners, traders, etc. It was not singular ethos but had many Subcommunities where everyone saw something of interest that suits them. Some are often referred as [*'True Bitcoiners'*](https://theconversation.com/behind-the-crypto-hype-is-an-ideology-of-social-change-177981){:target="_blank"}, a forerunners of movement and ideology. It is similar to term Bitcoin *Maximalist*, meaning those who promote only Bitcoin. There was some toxicity in the public space, that could be filtered.  Maybe best label would be BTC Realist or simple a **Bitcoiner**.<br>
 -- In philosophic sense there is also [Bitcoin Minimalism](https://danhedl.medium.com/bitcoin-minimalism-b3ed4b88e852){:target="_blank"} (Create more, consume less - as explained by *Dan Held*). In political arena it had brought together all from opposite spectrum and reduced polarization. In addition since it's wide adoption has just started all those who yet don't have any amount of bitcoins are called *No-Coiners*.<br>
 -- One of the reasons it take time for adopting is that people first need to learn and understand it. Most most schools teach very little about finances and even less about money itself. Governments had no have interest to fully educate citizens, easier when less people see inflation as indirect tax.
 And most people themselves are lazy in a way and don't care too much about monetary system. They've preferred way to outsource responsibility to the Government, but as result end up being dependent and completely relying on institutions.<br>
 There are those who say [Bitcoin philosophy is like a Religion](https://theconversation.com/why-are-people-calling-bitcoin-a-religion-175717){:target="_blank"} (Gospel of prophet Satoshi :) ), for all good and bad that the term carries with it. Although one could find few similar elements, important distinction is that there are no dogmas and nobody is above criticism. What is in common is preach and practice of people who keep spirit and ethos of it. Supporters are sometimes called Bitcoin believers / evangelist for being optimistic about success of the project.<br>
--- Yey many at first experience can feel [Cognitive dissonance](https://coingeek.com/the-art-of-cognitive-dissonance-in-bitcoin){:target="_blank"}. It is an unpleasant mental conflict that occurs for an individual when assumptions or beliefs are contradicted by new information. In this case defence mechanisms include rejecting the claim, or ignoring the new information all together. For anyone involved in Bitcoin, alignment of beliefs to behaviours is tested regularly.<br>
--- Once a person gets enought information and after a while it will click in the mind, the expression used:<br>
-[*'Taking The Orange Pill]'*(https://bitcoinmagazine.com/culture/bitcoin-orange-pill-theory-reality){:target="_blank"} analogy from movie Matrix.
+-- Yet many at first experience can feel [Cognitive dissonance](https://coingeek.com/the-art-of-cognitive-dissonance-in-bitcoin){:target="_blank"}. It is an unpleasant mental conflict that occurs for an individual when assumptions or beliefs are contradicted by new information. In this case defense mechanisms include rejecting the claim, or ignoring the new information all together. For anyone involved in Bitcoin, alignment of beliefs to behaviors is tested regularly.<br>
+-- Once a person gets enough information and after a while it will click in the mind, the expression used:<br>
+[*'Taking The Orange Pill'*](https://bitcoinmagazine.com/culture/bitcoin-orange-pill-theory-reality){:target="_blank"} analogy from movie Matrix.
 
 -- Let's put up list of knowledgeable people:<br>
 -Bitcoin and Macro: Luke Gromen, Lyn Alden, Nic Carter<br>
--Tech gurus: Andreas Antonopolous(advocate and author), Jameson Lopp, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike)<br>
--Investors:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block formarly Square), Elon Musk (Tesla), Cathie Wood(Ark Invest)<br>
+-Tech gurus: Andreas Antonopoulos (advocate and author), Jameson Lopp, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike)<br>
+-Investors:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block formerly Square), Elon Musk (Tesla), Cathie Wood(Ark Invest)<br>
 -Podcasters: Peter McCormack ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"}), Robert Breedlove ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"})<br>
 
--- Today's Overconsumption Society is not sustainable in the long run. Planet does not have unlimiterd resources. So investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in lanfields. Society should change it's buying habits, since planet resources are not unlimited. Also production should aim for durability, and not have [planned obsolesence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less.
+-- Today's Overconsumption Society is not sustainable in the long run. Planet does not have unlimited resources. So investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in lanfields. Society should change it's buying habits, since planet resources are not unlimited. Also production should aim for durability, and not have [planned obsolesence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less.
 
--- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many bilionaires while others have to work 60h a week just to make ends meet. Instead higher productivity could allow most people to have 30h week.
+-- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead higher productivity could allow most people to have 30h week.
 
 Social circle: [Twitter](https://twitter.com/Bitcoin)
 
@@ -557,17 +563,17 @@ We can identify Crypto ecosystem as new cultural and economic trend that started
 -- Internet evolution pure data and communication to social information and digital value. So this next steep of scientific evolution is standing on the shoulders of giants.<br>
 -- Although it has the power to disrupt banking and monetary industry we can look at it more as a transformative technology that will improve and augment it. Only time will unlock it's full potential. Firstly it was cool leapfrog technology, and later it became something like investment, sort of digital gold - Store of Value and that's where we are now. Later if it becomes universally adopted it will be Medium of Exchange. That would probably lead to also serving as Unit of Account. These would be [The 3 Phases of Bitcoin Mass Adoption](https://medium.com/swlh/the-3-phases-of-bitcoin-mass-adoption-dbd50d5eaca5){:target="_blank"}.
 
--- In the long run idea is for it to become regular everyday payment service, to fully realize function as Medium of Exchange. For this to happen it needs good integration with second layer lightning protocol for scalability. Once it grows large enough it will become stable which enables it then to be also Unit of Account. If this happens it will likely become Global Reserve Asset, **Bitcoin Standard**, a hipotesis explained in the book [*'The Bitcoin Standard'*](https://www.resistance.money/research/library/to%20be%20organised%20better/The%20Bitcoin%20Standard.pdf){:target="_blank"} by [*Saifedean Ammous*](https://saifedean.com/){:target="_blank"}.<br>
--- As people adopt it in many countries, regulatory will follow to make it like foreign currency, meaning no capital gain tax. Since nobody controls it, it is also easier for all countries, including world super powers, to use for international clearing since they will not depend on the competition. In that case it's value could rise to few hundred thousands in several years, even reaching a million in 10+ years. Jeff Both calles that [hyperbitcoinization](https://phemex.com/academy/what-is-hyperbitcoinization){:target="_blank"} or a [Hyper-Bitcoinized World(YT)](https://www.youtube.com/watch?v=5JOkfN9Ll10){:target="_blank"}<br>
+-- In the long run idea is for it to become regular everyday payment service, to fully realize function as Medium of Exchange. For this to happen it needs good integration with second layer lightning protocol for scalability. Once it grows large enough it will become stable which enables it then to be also Unit of Account. If this happens it will likely become Global Reserve Asset, **Bitcoin Standard**, a hypothesis explained in the book [*'The Bitcoin Standard'*](https://www.resistance.money/research/library/to%20be%20organised%20better/The%20Bitcoin%20Standard.pdf){:target="_blank"} by [*Saifedean Ammous*](https://saifedean.com/){:target="_blank"}.<br>
+-- As people adopt it in many countries, regulatory will follow to make it like foreign currency, meaning no capital gain tax. Since nobody controls it, it is also easier for all countries, including world super powers, to use for international clearing since they will not depend on the competition. In that case it's value could rise to few hundred thousands in several years, even reaching a million in 10+ years. Jeff Both calls that [hyperbitcoinization](https://phemex.com/academy/what-is-hyperbitcoinization){:target="_blank"} or a [Hyper-Bitcoinized World(YT)](https://www.youtube.com/watch?v=5JOkfN9Ll10){:target="_blank"}<br>
 
--- When most countries join the system they will even compete who has better adoption. Eventually their CBs will start acquiring Bitcoin as part of their reserves. Once first large CB acquires it others will be forced to follow it based on game theory. Private Banks would also own Btc as reserve asset. As it continues to mature it will gain wider support, integrate into the real world and go Mainstream which will be beneficial for everyone.
+-- When most countries join the system they will even compete who has better adoption. Eventually their CBs will start acquiring Bitcoin as part of their reserves. Once first large CB acquires it others will be forced to follow it based on game theory. Private Banks would also own BTC as reserve asset. As it continues to mature it will gain wider support, integrate into the real world and go Mainstream which will be beneficial for everyone.
 
--- Currently in 2022 around 200 milion people (4% of worlds population) are estimated to have same amount of bitcoin/sats. Every big change needs time, in this case decades. It's not something that can happed over night, as people have to to learn and accept it. For most persons it was outside of their world view (mental model).
+-- Currently in 2022 around 200 millions people (4% of worlds population) are estimated to have same amount of bitcoin/sats. Every big change needs time, in this case decades. It's not something that can happed over night, as people have to to learn and accept it. For most persons it was outside of their world view (mental model).
 
--- Every assumption about future is a probability bet. Some expectation is that by 2030 1 billion people will have btc wallets. In over 100 countries it would be regulaterd like foreign currency, while in 10 at least accepted as legal tender.
+-- Every assumption about future is a probability bet. Some expectation is that by 2030 1 billion people will have btc wallets. In over 100 countries it would be regulated like foreign currency, while in 10 at least accepted as legal tender.
 
--- As Addoption increases, volatility will go down.<br>
-Rate of addoption is following [S curve](https://www.inbitcoinwetrust.net/bitcoin-on-the-same-adoption-s-curve-as-the-internet-some-thoughts-and-figures-8af18f01cceb){:target="_blank"} and [gaining speed](https://phemex.com/blogs/crypto-bitcoin-s-curve-adoption-curve){:target="_blank"} (just like the internet did):<br>
+-- As Adoption increases, volatility will go down.<br>
+Rate of adoption is following [S curve](https://www.inbitcoinwetrust.net/bitcoin-on-the-same-adoption-s-curve-as-the-internet-some-thoughts-and-figures-8af18f01cceb){:target="_blank"} and [gaining speed](https://phemex.com/blogs/crypto-bitcoin-s-curve-adoption-curve){:target="_blank"} (just like the internet did):<br>
 ![s-curve](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/s-curve.jpg)
 
 ### 5.2 What lies ahead [[C](#toc)]
@@ -577,7 +583,7 @@ Secondly decide if you want to buy some, for now as an investment and later as a
 
 ### 5.3 Practical Advice [[C](#toc)]
 {: #practical-advice }
--- In broad sense Investment plan includes first to inform your self, do your homework. Second to decide what amount is at you disposal for investing. Lastly to split it based on your risk appetite among sevaral class of asset. In early phase risk was much higher and in line with maxim: *Invest only what you are ready to lose*. Now it less risky then in the last decade but still it is considered relatively riskier class, mainly because of large up and down swings.<br>
+-- In broad sense Investment plan includes first to inform your self, do your homework. Second to decide what amount is at you disposal for investing. Lastly to split it based on your risk appetite among several class of asset. In early phase risk was much higher and in line with maxim: *Invest only what you are ready to lose*. Now it less risky then in the last decade but still it is considered relatively riskier class, mainly because of large up and down swings.<br>
 In practice there are several generally useful strategies (one or more can be used):<br>
 &nbsp;1. Move some part (from 10 to 30 %) of your portfolio into Crypto and keep it long term<br>
 &nbsp; - don't made a mistake not investing anything in order not to have FOMO (Fear of missing out)<br>
@@ -588,30 +594,32 @@ In practice there are several generally useful strategies (one or more can be us
 &nbsp; - hold tight during periods the FUD - Fear, Uncertainty and Doubt.<br>
 &nbsp; - happy HODLing and keep Stacking Sats<br>
 &nbsp;4. Active (daily) trading would no be advisable since it not productive activity<br>
-&nbsp; - very hard to beat the market, even with tehnical analasis<br>
+&nbsp; - very hard to beat the market, even with technical analysis<br>
 
 Additional ways to contribute:<br>
 -Consider to start accepting payments in Bitcoin for the work/service you or your company provide<br>
--You can even give some small discount when someone pays with Btc, it will incentivise others to use it<br>
+-You can even give some small discount when someone pays with BTC, it will incentivize others to use it<br>
 -In latter phase use it for payments wherever possible<br>
 -Change mentality from Buying and Selling to Earning/Saving and Spending/Using<br>
 
 Suggestion:<br>
 -- Maintain an emergency cash cushion, enough to pay all your bills for one full year. By holding bitcoin and cash you protect your self both from inflation in the long term and from volatility in the short period.<br>
 -- On the other hand, if you have no cash cushion, if you use leverage, if you lend Bitcoin for interest, if you use Bitcoin as loan collateral, if you short Bitcoin, or try to time the market in any way it's gambling. Gambling with any expectation of coming out ahead is foolish. And, as the saying goes: Fools and their money are soon parted. Don't gamble if you want to become wealthy. Instead, become a patient, cold-blooded (fearless) long term holder of Bitcoin.<br>
--- Think in long-term, become wise saver and prudent investor in crypto landscape since this is ultimate savings technology. Treate it like your savings account.
--- Safeguard yourself, especially from Youtube comment section under every crypto related video clip. They are full with so called trading stratery expert with some fake name and WhatsApp number for contact (#ScamAlert - stay away)
+-- Think in long-term, become wise saver and prudent investor in crypto landscape since this is ultimate savings technology. Treat it like your savings account.
+-- Safeguard yourself, especially from YouTube comment section under every crypto related video clip. They are full with so called trading strategy expert with some fake name and WhatsApp number for contact (#ScamAlert - stay away)
 
 -- Bitcoin market, by nature, is not highly efficient because not all the stakeholders have same knowledge. It has interesting game theory Information asymmetry.
 New people coming in don't have same information like those who have been here. They play the game of economic coordination differently.  Also [human behavior in finance](https://www.cnr.com/insights/article/white-paper-behavioral-finance-2018.html){:target="_blank"} is often irrational and most people do not evaluate risk correctly.<br>
 They are bias towards gains but still have [Loss Aversion](https://www.apa.org/science/about/psa/2015/01/gains-losses){:target="_blank"}: 
 *The aggravation in losing money seems greater than the pleasure of gaining the same amount*.
 
--- Popular crypto **Exchanges** (places to buy Bitcoin):<br>
-*Kraken, Binance, FTX, Coinbase, Kraken, KuCoin*
+-- Popular crypto **[Exchanges](https://coinmarketcap.com/rankings/exchanges/){:target="_blank"}** (places to buy Bitcoin):<br>
+*Kraken, Binance, FTX, Coinbase, Kraken, KuCoin, Gemini*<br>
+-- There are also decentralized ones and in person marketplaces like:<br>
+*Bisq*, LocalBicoins*, LocalCryptos*
 
-As for Bitcoin price prediction there are some interesting graphs:<br>
-(according to which we are currently in a fire sale)<br>
+-- As for Bitcoin price prediction there are some interesting graphs:<br>
+(according to which we are currently in a fire sale till end of the year)<br>
 -Logarithmic price chart:<br>
 ![price-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/log-chart.jpg)
 -Rainbow chart :<br>
