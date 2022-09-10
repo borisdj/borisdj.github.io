@@ -11,7 +11,8 @@ excerpt: "Bitcoin rise with crypto industry story"
 (*Money and Payment systems of tomorrow*)<br>
 **Bitcoin** rise with crypto industry story
 
-LANG(jezik): Global(ENG) / [Local](https://infopedia.io/sr-latn/revolution-of-money)(SRB/BIH/HRV)
+LANG(jezik):<br>
+Global (ENG) / [Local](https://infopedia.io/sr-latn/revolution-of-money) (SRB/BIH/HRV)
 
 ![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
 
