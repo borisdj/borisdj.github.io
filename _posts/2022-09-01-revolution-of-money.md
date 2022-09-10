@@ -18,7 +18,7 @@ Global (ENG) / [Local](https://infopedia.io/sr-latn/revolution-of-money) (SRB/BI
 
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
-</center>
+
 **Table Of Contents [C]**
 {: #toc }
 
