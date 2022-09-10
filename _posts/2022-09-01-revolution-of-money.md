@@ -238,7 +238,8 @@ From functional viewpoint is can be defined as the Great Chain of being sure abo
 -- Coins can be stored offline in a digital Wallet or on an exchange. Wallet is a password protected application on mobile or computer, with recovery secret code stored at another location in digital manner or written on paper. It enables full **Self Custody**, in accordance with expression: ***Not Your Keys, Not Your Coins!*** One should not be escaping responsibility, so **Take custody** of your coins.<br>
 
 -- Block infos:<br>
-[BlockExplorer](https://blockexplorer.com/){:target="_blank"}; | [BlockStream](https://blockstream.info){:target="_blank"}; | BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks](https://blockchain.com/btc/blocks){:target="_blank"}; | [balance](https://bitref.com/){:target="_blank"};
+[BlockExplorer](https://blockexplorer.com/){:target="_blank"}; | [BlockStream](https://blockstream.info){:target="_blank"};<br>
+BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks](https://blockchain.com/btc/blocks){:target="_blank"}; | [balance](https://bitref.com/){:target="_blank"};
 
 ### 2.3 Extended description [[C](#toc)]
 {: #extended-description }
@@ -566,12 +567,6 @@ We can identify Crypto ecosystem as new cultural and economic trend that started
 -- In the long run idea is for it to become regular everyday payment service, to fully realize function as Medium of Exchange. For this to happen it needs good integration with second layer lightning protocol for scalability. Once it grows large enough it will become stable which enables it then to be also Unit of Account. If this happens it will likely become Global Reserve Asset, **Bitcoin Standard**, a hypothesis explained in the book [*'The Bitcoin Standard'*](https://www.resistance.money/research/library/to%20be%20organised%20better/The%20Bitcoin%20Standard.pdf){:target="_blank"} by [*Saifedean Ammous*](https://saifedean.com/){:target="_blank"}.<br>
 -- As people adopt it in many countries, regulatory will follow to make it like foreign currency, meaning no capital gain tax. Since nobody controls it, it is also easier for all countries, including world super powers, to use for international clearing since they will not depend on the competition. In that case it's value could rise to few hundred thousands in several years, even reaching a million in 10+ years. Jeff Both calls that [hyperbitcoinization](https://phemex.com/academy/what-is-hyperbitcoinization){:target="_blank"} or a [Hyper-Bitcoinized World(YT)](https://www.youtube.com/watch?v=5JOkfN9Ll10){:target="_blank"}<br>
 
--- When most countries join the system they will even compete who has better adoption. Eventually their CBs will start acquiring Bitcoin as part of their reserves. Once first large CB acquires it others will be forced to follow it based on game theory. Private Banks would also own BTC as reserve asset. As it continues to mature it will gain wider support, integrate into the real world and go Mainstream which will be beneficial for everyone.
-
--- Currently in 2022 around 200 millions people (4% of worlds population) are estimated to have same amount of bitcoin/sats. Every big change needs time, in this case decades. It's not something that can happed over night, as people have to to learn and accept it. For most persons it was outside of their world view (mental model).
-
--- Every assumption about future is a probability bet. Some expectation is that by 2030 1 billion people will have btc wallets. In over 100 countries it would be regulated like foreign currency, while in 10 at least accepted as legal tender.
-
 -- As Adoption increases, volatility will go down.<br>
 Rate of adoption is following [S curve](https://www.inbitcoinwetrust.net/bitcoin-on-the-same-adoption-s-curve-as-the-internet-some-thoughts-and-figures-8af18f01cceb){:target="_blank"} and [gaining speed](https://phemex.com/blogs/crypto-bitcoin-s-curve-adoption-curve){:target="_blank"} (just like the internet did):<br>
 ![s-curve](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/s-curve.jpg)
@@ -580,6 +575,11 @@ Rate of adoption is following [S curve](https://www.inbitcoinwetrust.net/bitcoin
 {: #what-lies-ahead }
 -- First it's important to learn as much and have all-encompassing understanding of it all. Since this system is not forced but is **Opt-In** (freely choose to use it / be involved and make better world) just learning about it is already a contribution. Next then comes playing with it and later teaching others around you (it's virtuous to teach people) and to promote it. There is a famous meme (rapidly spread cultural element): [**LaserEyes**](https://www.wealthsimple.com/en-ca/magazine/laser-eyes-crypto){:target="_blank"} - significant focus on important thing that can make a difference.<br>
 Secondly decide if you want to buy some, for now as an investment and later as a Savings Accounts. This way you will try it yourself and learn a few things Install one or few of recommended wallets, register on exchange, withdraw funds to your wallet.<br>
+
+-- When most countries join the system they will even compete who has better adoption. Eventually their CBs will start acquiring Bitcoin as part of their reserves. Once first large CB acquires it others will be forced to follow it based on game theory. Private Banks would also own BTC as reserve asset. As it continues to mature it will gain wider support, integrate into the real world and go Mainstream which will be beneficial for everyone.<br>
+-- Currently in 2022 around 200 millions people (4% of worlds population) are estimated to have same amount of bitcoin/sats. Every big change needs time, in this case decades. It's not something that can happed over night, as people have to to learn and accept it. For most persons it was outside of their world view (mental model).
+
+-- Every assumption about future is a probability bet. Some expectation is that by 2030 1 billion people will have btc wallets. In over 100 countries it would be regulated like foreign currency, while in 10 at least accepted as legal tender.
 
 ### 5.3 Practical Advice [[C](#toc)]
 {: #practical-advice }
@@ -628,7 +628,7 @@ They are bias towards gains but still have [Loss Aversion](https://www.apa.org/s
 
 ### 5.4 Recapitulation [[C](#toc)]
 {: #recapitulation }
--- Money systems have changed through history and current one has mayor flaw, it being centralized and having too much power in single place. That inevitable leads to corruption which results in high inflation, so we can say it is broken. Reason it was tolerated is that it was the best that existed at the time. But with new time come new technology that enabled better systems. From Store of Value perspective it should have lowest possible inflation. In this regard Bitcoin is in simple words just better money and overall good if we apply moral and ethical framework to it.<br>
+-- Money systems have changed through history and current one has mayor flaw, it being centralized and having too much power in single place. That inevitable leads to corruption which ultimately results in high inflation, so we can say it is broken. Also as permissioned system and it is over controlling. Reason it was tolerated is that it was the best that existed at the time. But with new time come new technology that enabled better systems. From Store of Value perspective it should have lowest possible inflation. In this regard Bitcoin is in simple words just better money and overall good if we apply moral and ethical framework to it.<br>
 -- Hyperinflation and [currency collapses](https://ginifoundation.org/kb/fiat-currency-graveyard-a-history-of-monetary-folly/){:target="_blank"} are not exceptionally rare events. In fact, the average lifespan of a fiat currency is only about 35 years, which means these events happen much more frequently than many people realize. When viewed from civilization perspective we want store to last minimum our lifetime, better even longer for inheritance. Also many of societal problems arise from money, so fixing the money could improve the world, in part at least (meme: ***Bitcoin Fixes this!***). Money should be a **Fiduciary** system - legally and ethically bound to act in clients/users best interest and ahead of their own, duty to preserve good faith and trust.<br>
 -- As a Conclusion hope that this comprehensive review can arouse your curiosity and elevate critical thinking. And watch out from being stuck in echo chamber, always seek more opinions.<br>
 
