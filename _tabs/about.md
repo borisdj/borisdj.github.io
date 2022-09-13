@@ -12,7 +12,7 @@ Passionate Programmer and Software Developer<br>
 
 -- Interested in:<br>
 BlockChain, Bitcoin, Financial nad Monetary systems;<br>
-Self-Sustanability, Electrification of Transport, Space Colonisation...<br>
+Self-Sustanability, Electrification of Transport, eBikes, Space Colonisation...<br>
 Engineering Issues and Challenges / Opportunities.<br>
 #Technologist<br>
 
