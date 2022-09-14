@@ -627,12 +627,12 @@ They are bias towards gains but still have [Loss Aversion](https://www.apa.org/s
 *The aggravation in losing money seems greater than the pleasure of gaining the same amount*.
 
 -- Popular crypto **[Exchanges](https://coinmarketcap.com/rankings/exchanges/){:target="_blank"}** (places to buy Bitcoin):<br>
-*Kraken, Binance, FTX, Coinbase, Bitstamp, KuCoin, Gemini*<br>
--- There are also decentralized ones and in person marketplaces like:<br>
-*Bisq*, LocalBicoins*, LocalCryptos*
+*Kraken, Binance, FTX, Coinbase, Bitstamp, Gemini*<br>
+-- There are also [decentralized ones](https://koinly.io/blog/top-no-kyc-crypto-exchanges/){:target="_blank"} and in person marketplaces like:<br>
+*Bisq, KuCoin, LocalBicoins, LocalCryptos*
 
 -- As for Bitcoin price prediction there are some interesting graphs:<br>
-(according to which we are currently in a fire sale till end of the year)<br>
+(according to which we are currently in a good period to buy in)<br>
 -[Logarithmic price chart](https://www.tradingview.com/chart/BTCUSD/4dR4jhXx-How-I-see-Bitcoin/){:target="_blank"}:<br>
 ![price-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/log-chart.jpg)
 -[Rainbow chart](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"}:<br>
