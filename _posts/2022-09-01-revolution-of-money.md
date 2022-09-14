@@ -11,10 +11,10 @@ excerpt: "Bitcoin rise with crypto industry story"
 (*Money and Payment systems of tomorrow*)<br>
 **Bitcoin** rise with crypto industry story
 
+Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"} / [*AudioBook*](https://drive.google.com/file/d/14FEfpxOUQOfT16tFeTH5cha4f8YxuFwN/view?usp=sharing){:target="_blank"}
+
 LANG(jezik):<br>
 Global (ENG) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (SR-Latn-BA)
-
-Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"} / [*AudioBook*](https://drive.google.com/file/d/14FEfpxOUQOfT16tFeTH5cha4f8YxuFwN/view?usp=sharing){:target="_blank"}
 
 ![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
 
