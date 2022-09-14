@@ -14,7 +14,7 @@ excerpt: "Bitcoin rise with crypto industry story"
 Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"} / [*AudioBook*](https://drive.google.com/file/d/14FEfpxOUQOfT16tFeTH5cha4f8YxuFwN/view?usp=sharing){:target="_blank"}
 
 LANG(jezik):<br>
-Global (ENG) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (SR-Latn-BA)
+Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-latn-ba)
 
 ![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
 
