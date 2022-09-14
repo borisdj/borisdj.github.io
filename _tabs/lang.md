@@ -1,5 +1,5 @@
 ---
-title: LANG:Local(sr-latn)
+title: Language
 icon: fas fa-globe
 order: 5
 ---
