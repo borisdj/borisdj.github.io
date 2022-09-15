@@ -471,7 +471,7 @@ Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_b
 -- Some Altcoins (Alternative coins - any other then Bitcoin) could be viewed as startups where buying those is similar to investing in that company. For example DeFi - *Decentralized Finance* (Crypto [Glossary](https://www.forbes.com/uk/advisor/investing/cryptocurrency/crypto-glossary-of-terms-acronyms/){:target="_blank"} and [Acronyms](https://www.coindesk.com/learn/from-btd-to-fud-to-wagmi-understanding-crypto-acronyms/){:target="_blank"}) application that replicate certain bank services and others. With those investment can often be done with [**ICO**](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp){:target="_blank"} (*Initial Coin Offer*), analog to **IPO** (*Initial Public Offer*). It's like Dot-com bubble in the 2000s where there were many companies that had website but just a few grow to become Microsoft, Google, Apple, Amazon, etc. While bulk of others have completely failed and we never even heard about them.<br>
 Still only BTC is considered (also [by the SEC](https://www.reuters.com/legal/transactional/are-cryptocurrencies-securities-sec-is-answering-question-2022-03-21/){:target="_blank"}) as **Asset** (other way phrasing it **Digital Property**) while all others cryptos are described as **Securities** (*The Next Bitcoin is Bitcoin*).
 
--- There are also NFTs (Non-Fungible Tokens) that act like prestige Collectibles. But they are not in the scope of this article.
+-- There are also NFTs (Non-Fungible Tokens) that act like prestige Collectibles (artist's digital graphics and drawing). But they are not in the scope of this article.
 
 ### 3.4 Proof of Work (PoW) vs Stake [[C](#toc)]
 {: #pow-vs-pos }
