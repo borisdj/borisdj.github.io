@@ -24,9 +24,8 @@ Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-
 **Table Of Contents [C]**
 {: #toc }
 
-| TOPIC                                 |
+| [Introduction](#introduction)         |
 | ------------------------------------- |
-| [Introduction](#introduction) |
 | [**1. Monetary Chronicles**](#monetary-chronicles) |
 | [1.1 Beginning of Money](#beginning-of-money) |
 | [1.2 Recent History](#recent-history) |
