@@ -559,7 +559,7 @@ There are those who say [Bitcoin philosophy is like a Religion](https://theconve
 Peter McCormack ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"})<br>
 Robert Breedlove ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"})<br>
 Anthony Pompliano ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"})<br>
-Lex Fridman ([Lex Podcast with Michael Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"})<br>
+Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"})<br>
 
 -- Today's Overconsumption Society is not sustainable in the long run. Planet does not have unlimited resources. So, investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in landfills. Society should change its buying habits since planet resources are not unlimited. Also, production should aim for durability, and not have [planned obsolescence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less. This fundamentally changes how our economy functions.
 -- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead, higher productivity could allow most people to have 30h week (automation could free time for more human creativity).
@@ -648,7 +648,7 @@ They are bias towards gains but still have [Loss Aversion](https://www.apa.org/s
 [**View all Comments**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
 -- Stay tuned for next month post about Lightning Network.<br>
-With it there will be a **Quiz** with Questions. Who gets all correct answers, reward will be certain amount of sats via lightning invoice.
+With it there will be a **Quiz** with Questions. For those who get all the correct answers, reward will be certain amount of sats via lightning invoice.
 
  APPENDIX<br>
 **Disclaimer**:<br>
