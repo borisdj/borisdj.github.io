@@ -213,7 +213,7 @@ In the following years several persons were incorrectly suspected or falsely cla
 Bitcoin has a **Ledger** of transactions, which is a list stored in a database that is not centralized in one server but distributed on multiple computers called **Nodes** around the world. Ledger essentially enables reliable spreadsheet with Balances. It's like immutable record that can't be counterfeited. New transactions, up to 2000 of them, are on average every 10 minutes grouped into a **Block** 1 MB in size that is added to the ledger. Each block is connected to previous ones by hash code that is not easy to find. That's why this structure is called **Blockchain**, multiple blocks connected in a line, and it's what underpins the system. It can be used for [solving other problems](https://101blockchains.com/problems-blockchain-solve/){:target="_blank"} as well.<br>
 ![Blockchain](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/blockchain.jpg)
 
-| PROPERTIES of| BLOCKCHAIN (type of DLT - Distributed Ledger Technology)                  |
+| PROPERTIES   | of BLOCKCHAIN (type of DLT - Distributed Ledger Technology)               |
 | ------------ | ------------------------------------------------------------------------- |
 | Programmable | i.e. Smart Contracts                                                      |
 | Secure       | all records are individually encrypted                                    |
@@ -267,11 +267,11 @@ TED talks:<br>
 [Bitcoin Governance](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} is similar to 3-pronged (traditional) branches of Government. <br> 
 [The Three Branches of Blockchain Governance](https://medium.com/digitalassetresearch/the-three-branches-of-blockchain-governance-75a29bf98880){:target="_blank"} (*Separation of powers* doctrine)
 
-| **GOV**     | **BIT**    | Description               |
-| ----------- | ---------- |-------------------------- |
-| Executive   | Full Nodes | can veto miners           |
-| Judicial    | Miners     | can veto devs             |
-| Legislative | Developers | help others bypass vetoes |
+| **GOV**        | **BIT**    | Description               |
+| -------------- | ---------- |-------------------------- |
+| 1. Executive   | Full Nodes | can veto miners           |
+| 2. Judicial    | Miners     | can veto devs             |
+| 3. Legislative | Developers | help others bypass vetoes |
 
 Legislative part also includes business and infrastructure analogous to Parliament (Representatives) while Devs are like Senate. If compared to enterprises best parallels can be drawn with IT (Information Technology) companies.<br>
 -- Product is global monetary currency and payment system and at the same time the Coin represents owners or shareholders. On the other side are Developers and Miners, along with Nodes, like very wide Board of Directors, Management and Supervisory.<br>
@@ -356,30 +356,30 @@ Most **Strengths & Opportunities** it brings are already stated.<br>
 So let's look at certain **Weaknesses & Threat** and their explanations:<br>
 
 **Criticisms** (some are unsubstantiated):
-* The protocol can be copied since it's Open Source
+* 1 The protocol can be copied since it's Open Source
   - Network effect keeps BTC at top, also mining makes it hard to duplicate all hardware and infrastructure
   - There are many copies and forks, both Hard and Soft, but they have little or no value and less liquidity
-* Not backed by anything
+* 2 Not backed by anything
   - Backed by Electric Power (Intrinsic value from energy)
   - Money as abstract concept partly depends on belief<br>
     (agreement among people who think it's valuable)
-* [Ponzi scheme](https://constantinecannon.com/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/){:target="_blank"} (another [Tulip Mania](https://www.history.com/news/tulip-mania-financial-crash-holland){:target="_blank"})
+* 3 [Ponzi scheme](https://constantinecannon.com/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/){:target="_blank"} (another [Tulip Mania](https://www.history.com/news/tulip-mania-financial-crash-holland){:target="_blank"})
   - Is Anti-Ponzi, no pyramidal structure, and no percentage for 'bringing' others
   - Everybody freely chooses to join
   - Does not 'promise' high nor any returns
   - Had speculative waves but not empty bubble, added value is digital transport of value
-* Used for criminal activities
+* 4 Used for criminal activities
   - Very small percentage of transaction are illegal ones
   - Cash is used for same purposes
   - It is not job of money to worry how it's being used, it's only a tool<br>
     (for crimes there is police)
-* Losing keys(password) or being stolen
+* 5 Losing keys(password) or being stolen
   - If want full custody than accept the risk but take all measures of precaution
   - Otherwise keep backup with reliable third parties, or split keys with multiple subjects ([MultiSig](https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/){:target="_blank"})
   - Similar is needed with keys storage for Inheritance purposes
   - In the long period people will learn how to keep it safe and will have more options for storage
   - Just like today they keep cash or have a bank account, usually both
-* Consumes a lot of electricity, too demanding
+* 6 Consumes a lot of electricity, too demanding
   - [Utilizing energy](https://www.coindesk.com/business/2020/05/19/the-last-word-on-bitcoins-energy-consumption/){:target="_blank"} is not a bad thing
   - Necessary for security and decentralization
   - Creating (good) money cannot be free
@@ -391,7 +391,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
   - Generated heat by the mining rigs could be used for heating of homes
   - Civilization level of technological advancement is measured by amount of energy able to use<br>
     ([The Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale){:target="_blank"})
-* Distribution fairness?
+* 7 Distribution fairness?
   - In design it is the fairest system possible Satoshi could have come up at that time
   - Historically [Unprecedented experiment](https://coinmetrics.io/bitcoin-an-unprecedented-experiment-in-fair-distribution/){:target="_blank"} in [Fair Distribution](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892){:target="_blank"}
   - Has fair-minded issuance mechanism, miners have need to redistribute new coins
@@ -405,7 +405,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
   - Tends towards Normal (Gaussian) distribution, referred as [Bell Curve](https://www.investopedia.com/terms/b/bell-curve.asp){:target="_blank"} ([The Bitcoin Bell-Curve](https://hassmccook.medium.com/the-bitcoin-bell-curve-a-long-term-solution-to-global-wealth-income-inequality-de995929e267){:target="_blank"})
 
 **Existing problems with respective solutions**
-* Limited capacity - Inefficient, not scalable enough<br>
+* 1 Limited capacity - Inefficient, not scalable enough<br>
   (currently max around 10 transaction per sec. making them slow and expensive)
   - [Blockchain Trilemma](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition){:target="_blank"} (resilience vs efficiency):<br>
     /__\ 1.Decentralisation, 2.Security, 3.Scalability
@@ -413,19 +413,19 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
     L-1 base layer optimizes around Security and Robustness, also keeps it Decentralized<br>
     L-2 improves Scalability segment and enables Fast and Cheap transfers<br>
     (Lightning Network, Liquid, Side Chains, ...)
-* Not fully private, only semi-anonymous / [fungibility](https://mises.org/wire/why-fungibility-important-understanding-money-and-crypto){:target="_blank"}
+* 2 Not fully private, only semi-anonymous / [fungibility](https://mises.org/wire/why-fungibility-important-understanding-money-and-crypto){:target="_blank"}
   - Mixers for getting more privacy while L2 removes individual spending from main net
 
 **Future Risks**
- * Some big unknown bug gets found that breaks the network
+ * 1 Some big unknown bug gets found that breaks the network
    - Not likely since it did not emerge for 13 years, and hackers have tried to find it
    - Code of protocol based on formal Math theorems
- * Total collapse of Internet
+ * 2 Total collapse of Internet
    - Highly unlikely with its decentralized nature and all redundancy
    - Would also break current financial system since e/mobile-Banking is using web services
- * Global long term Power outage / blackout
+ * 3 Global long term Power outage / blackout
    - Situation possible only with some apocalyptic event when money would no longer be important
- * Breakthrough in Quantum computing implementing [Shor's algorithm](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm){:target="_blank"} that could break asymmetric cryptography
+ * 4 Breakthrough in Quantum computing implementing [Shor's algorithm](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm){:target="_blank"} that could break asymmetric cryptography
    - Not in foreseeable future, and algorithm is just theoretical
    - Could affect privacy of all current digital systems
    - Already there are ideas for [quantum cryptography](https://www.techtarget.com/searchsecurity/definition/quantum-cryptography){:target="_blank"} that would solve the problem
@@ -552,14 +552,14 @@ There are those who say [Bitcoin philosophy is like a Religion](https://theconve
 [*'Taking The Orange Pill'*](https://bitcoinmagazine.com/culture/bitcoin-orange-pill-theory-reality){:target="_blank"} analogy from movie Matrix.
 
 -- Let's put up list of knowledgeable people:<br>
--Bitcoin and Macro: Luke Gromen, Lyn Alden, Nic Carter<br>
--Tech gurus: Andreas Antonopoulos (advocate and author), Jameson Lopp, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike)<br>
--Investors:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block formerly Square), Elon Musk (Tesla), Cathie Wood(Ark Invest)<br>
+-Bitcoin and Macro: Luke Gromen, Lyn Alden, Nic Carter;<br>
+-Tech gurus: Andreas Antonopoulos (advocate and author), Jameson Lopp, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike);<br>
+-Investors:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block formerly Square), Elon Musk (Tesla), Cathie Wood(Ark Invest);<br>
 -Podcasters:<br>
-Peter McCormack ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"})<br>
-Robert Breedlove ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"})<br>
-Anthony Pompliano ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"})<br>
-Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"})<br>
+Peter McCormack ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
+Robert Breedlove ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
+Anthony Pompliano ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
+Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
 
 -- Today's Overconsumption Society is not sustainable in the long run. Planet does not have unlimited resources. So, investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in landfills. Society should change its buying habits since planet resources are not unlimited. Also, production should aim for durability, and not have [planned obsolescence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less. This fundamentally changes how our economy functions.
 -- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead, higher productivity could allow most people to have 30h week (automation could free time for more human creativity).
