@@ -537,7 +537,7 @@ Still there are some DEXs (Decentralized exchanges) that can circumvent these re
 -- CB could be gone in its current form, even fiat could be backed by Bitcoin or central government reduced in that regard. Essentially removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.
 -- [The politics of bitcoin](https://blogs.lse.ac.uk/politicsandpolicy/the-politics-of-bitcoin/){:target="_blank"} underpins its social life.
 
-### 4.3 Social component
+### 4.3 Social component [[C](#toc)]
 {: #social-component }
 -- As the ecosystem grew, many diverse subgroups have joined the movement.
 Initially it started with crypto OG (Original Gangster) a slang for developer or founder of early crypto blockchain.
@@ -566,8 +566,9 @@ Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtub
 
 ## <ins>5. Looking Forward</ins>
 {: #looking-forward }
-### 5.1 Future Development (RoadMap) [[C](#toc)]
+### 5.1 Future Development [[C](#toc)]
 {: #future-development }
+*Roadmap*<br>
 -- It is nothing less than a miracle that the project the survived and took off. Already 13 years in action uninterrupted, had not stopped for a second and it gained a lot of traction. In the first half of last decade, it was unknown to wide public, used only by enthusiasts, and also was very uncertain. Although still in early to mid-stage we can say that the biggest hurdles are behind. It is running flawlessly and is absolutely thriving in adoption.
 We can identify Crypto ecosystem as new cultural and economic trend that started from forum, spread through [Reddit](https://www.reddit.com/r/Bitcoin/){:target="_blank"} and [Twitter](https://twitter.com/Bitcoin){:target="_blank"} into fabric of social circle. This created condition under which broader Adoption occurred.<br>
 -- Internet evolution led from pure data and communication to social information and digital value. In that regard this next steep of scientific evolution is standing on the shoulders of giants.<br>
@@ -586,7 +587,7 @@ Rate of adoption is following [S curve](https://www.inbitcoinwetrust.net/bitcoin
 Secondly decide if you want to buy some, for now as an investment and later as a Savings Accounts. This way you will try it yourself and learn a few things. Install one or few of [recommended wallets](https://academy.aax.com/en/introducing-the-4-best-lightning-network-wallets-for-sending-and-receiving-bitcoin/){:target="_blank"} (such as *Phoenix, Breez, Muun, Blue Wallet*), register on exchange, withdraw funds to your wallet (take off exchanges).<br>
 
 -- When most countries join the system, they will even compete who has better adoption. Eventually their CBs will start acquiring Bitcoin as part of their reserves. Once first large CB acquires it others will be forced to follow it based on game theory. Private Banks would also own BTC as reserve asset. As it continues to mature it will gain wider support, integrate into the real world, and go Mainstream which could be beneficial for everyone.<br>
--- Currently in 2022 around 200 million people (4 % of world's population) are estimated to have same amount of bitcoin/sats. Every big change need time, in this case decades. It's not something that can happen overnight, as people have to learn and accept it. For most persons it was outside of their world view (mental model).
+-- Currently in 2022 around 200 million people (4 % of world's population) are estimated to have same amount of bitcoin/sats. Every big change need time, in this case decades. It's not something that can happen overnight, as people have to learn and accept it. For most persons it was outside of their world view (mental model).<br>
 -- Some expectation is that by 2030 1 billion people will have btc wallets. In over 100 countries it would be regulated like foreign currency, while in 10 at least accepted as legal tender.
 
 ### 5.3 Practical Approach [[C](#toc)]
