@@ -47,7 +47,7 @@ Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-
 | [**5. Looking Forward**](#looking-forward) |
 | [5.1 Future Development](#future-development) |
 | [5.2 What lies ahead](#what-lies-ahead) |
-| [5.3 Practical Advice](#practical-advice) |
+| [5.3 Practical Approach](#practical-approach) |
 | [5.4 Recapitulation](#recapitulation) |
 
 ## Introduction
@@ -55,7 +55,7 @@ Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-
 -- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also discover future perspective and possibilities. In a futuristic context, first word to mention is [**Bitcoin**](https://bitcoin.org/en/){:target="_blank"}, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
 -- Discussion is lengthy as is the nature of topic, so it's divided into segments for easier comprehension.
 Do not be discouraged if material seems foreign. Most people, depending on level of familiarity with the subject, will need to read it several times, since it is abundant with various information. Also, best to spread it across multiple days and sleep over it, after which many questions will pop up. Regarding these questions you have friends and forums to talk / chat with, as well as blogs, articles to read and YT channels / podcasts for listening. You can also leave a comment or question at the bottom. And the more you know the more you want to find out, so-called: *Falling 'Down the (Bitcoin) Rabbit Hole'* (metaphor for adventure into the unknown from *Alice in Wonderland*). It will make you think but simultaneously broaden your horizons.<br>
--- What's important is to get the idea and fundamentals, and how to approach it. Not everybody needs to know all technical details in order to use it. But for those who want to know it deeply some estimate is that minimum [100 Hours of Study](https://crypto-telegraphs.com/2022/06/22/100-hours-of-study-needed-to-understand-how-bitcoin-works/){:target="_blank"} ([100 h. learning](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning-about-bitcoin-9d6da7b8feea){:target="_blank"}) is needed to dive into this thing. One comedian even said:<br>
+-- What's important is to get the idea and fundamentals, and how to engage with it. Not everybody needs to know all technical details in order to use it. But for those who want to know it deeply some estimate is that minimum [100 Hours of Study](https://crypto-telegraphs.com/2022/06/22/100-hours-of-study-needed-to-understand-how-bitcoin-works/){:target="_blank"} ([100 h. learning](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning-about-bitcoin-9d6da7b8feea){:target="_blank"}) is needed to dive into this thing. One comedian even said:<br>
 *"It's everything you don't understand about money combined with everything you don't understand about computers".*<br>
 But as you start to learn it, subsequently you will gain knowledge about economics, computer science, math, philosophy, politics, history, and even physics.<br>
 PS<br>
@@ -587,11 +587,10 @@ Secondly decide if you want to buy some, for now as an investment and later as a
 
 -- When most countries join the system, they will even compete who has better adoption. Eventually their CBs will start acquiring Bitcoin as part of their reserves. Once first large CB acquires it others will be forced to follow it based on game theory. Private Banks would also own BTC as reserve asset. As it continues to mature it will gain wider support, integrate into the real world, and go Mainstream which could be beneficial for everyone.<br>
 -- Currently in 2022 around 200 million people (4 % of world's population) are estimated to have same amount of bitcoin/sats. Every big change need time, in this case decades. It's not something that can happen overnight, as people have to learn and accept it. For most persons it was outside of their world view (mental model).
+-- Some expectation is that by 2030 1 billion people will have btc wallets. In over 100 countries it would be regulated like foreign currency, while in 10 at least accepted as legal tender.
 
--- Every assumption about future is a probability bet. Some expectation is that by 2030 1 billion people will have btc wallets. In over 100 countries it would be regulated like foreign currency, while in 10 at least accepted as legal tender.
-
-### 5.3 Practical Advice [[C](#toc)]
-{: #practical-advice }
+### 5.3 Practical Approach [[C](#toc)]
+{: #practical-approach }
 -- In broad sense Investment plan includes first to inform yourself, do your homework. Second to decide what amount is at your disposal for investing. Lastly to split it based on your risk appetite among several classes of asset. At an early-stage risk was much higher and in accordance with maxim: *Invest only what you are ready to lose*. Now it is less risky than in the last decade but still it is considered relatively riskier class, mainly because of large up and down swings.<br>
 Only if you become convinced enough into the Bitcoin story is it good idea to invest.<br>
 --In practice there are several generally useful strategies (one or more can be used):<br>
@@ -630,8 +629,8 @@ They are bias towards gains but still have [Loss Aversion](https://www.apa.org/s
 -- There are also [decentralized ones](https://koinly.io/blog/top-no-kyc-crypto-exchanges/){:target="_blank"} and in person marketplaces like:<br>
 *Bisq, KuCoin, LocalBicoins, LocalCryptos*
 
--- As for Bitcoin price prediction there are some interesting graphs:<br>
-(according to which we are currently in a good period to buy in)<br>
+-- Concerning Bitcoin price prediction there are some interesting graphs, according to which we are currently in a good period to buy in.<br>
+(dod't forget that every assumption about future is a probability bet)<br>
 -[Logarithmic price chart](https://www.tradingview.com/chart/BTCUSD/4dR4jhXx-How-I-see-Bitcoin/){:target="_blank"}:<br>
 ![price-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/log-chart.jpg)
 -[Rainbow chart](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"}:<br>
