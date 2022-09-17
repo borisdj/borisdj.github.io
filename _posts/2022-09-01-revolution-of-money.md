@@ -631,7 +631,7 @@ They are bias towards gains but still have [Loss Aversion](https://www.apa.org/s
 *Bisq, KuCoin, LocalBicoins, LocalCryptos*
 
 -- Concerning Bitcoin price prediction there are some interesting graphs, according to which we are currently in a good period to buy in.<br>
-(dod't forget that every assumption about future is a probability bet)<br>
+(but don't forget that every assumption about future is a probability bet)<br>
 -[Logarithmic price chart](https://www.tradingview.com/chart/BTCUSD/4dR4jhXx-How-I-see-Bitcoin/){:target="_blank"}:<br>
 ![price-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/log-chart.jpg)
 -[Rainbow chart](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"}:<br>
