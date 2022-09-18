@@ -416,7 +416,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
 * 2 Not fully private, only semi-anonymous / [fungibility](https://mises.org/wire/why-fungibility-important-understanding-money-and-crypto){:target="_blank"}
   - Mixers for getting more privacy while L2 removes individual spending from main net
 
-**Future Risks**
+**Future potential Risks**
  * 1 Some big unknown bug gets found that breaks the network
    - Not likely since it did not emerge for 13 years, and hackers have tried to find it
    - Code of protocol based on formal Math theorems
