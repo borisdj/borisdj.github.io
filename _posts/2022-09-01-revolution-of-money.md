@@ -385,7 +385,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
   - Creating (good) money cannot be free
   - Btc [energy usage isn’t a problem](https://www.lynalden.com/bitcoin-energy/){:target="_blank"} and [Energy Consumption](https://www.youtube.com/watch?v=2T0OUIW89II){:target="_blank"}
   - Incentive is to use cheapest energy, currently mostly from [renewables](https://wintonark.medium.com/bitcoin-mining-impact-on-renewable-uptake-fc91c5aa9be0){:target="_blank"} ([solar](https://medium.com/blockchain-life-tech/rooftop-solar-and-crypto-mining-could-kick-off-a-green-power-revolution-ad91d523b35b){:target="_blank"})<br>
-    also from remote location otherwise unusable and wasted (Geo-independent)
+    also from remote location that is unusable because of far distance (Geo-independent)
   - Can contribute to [stabilizing electric grid](https://www.vaultelectricity.com/how-bitcoin-will-help-stabilize-the-texas-grid-and-lower-electricity-rates/){:target="_blank"} by reducing miners' consumption in peak times
   - Uses excess energy of current power plants that is otherwise just wasted
   - Generated heat by the mining rigs could be used for heating of homes
