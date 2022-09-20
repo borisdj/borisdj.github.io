@@ -659,7 +659,7 @@ With it there will be a **Quiz** with Questions. For those who get all the corre
 
 **References** (data source or additional info)<br>
 -- They are linked directly in text<br>
-([List of all URL-s](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"})<br>
+([**List of all URL-s**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"})<br>
 -- To expose some of mostly referenced web pages:<br>
 [bitcoin.org](https://bitcoin.org/en){:target="_blank"}<br>
 [coinmarketcap.com](https://coinmarketcap.com){:target="_blank"}<br>
