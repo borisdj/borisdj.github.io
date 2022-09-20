@@ -79,7 +79,7 @@ Examples of Function:<br>
 &nbsp;2. Housing prices in Japan can be compared using Jen as a unit of account<br>
 &nbsp;3. An ounce of gold could buy toga in Roman times, yet it can still buy a nice suit today<br>
 
-|    PROPERTIES (x6)| Description                                                      |
+|    PROPERTIES     | Description                                                      |
 | ----------------- | ---------------------------------------------------------------- |
 | 1. Durable        | able to withstand repeated use                                   |
 | 2. Divisible      | can divide into smaller units                                    |
