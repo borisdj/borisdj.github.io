@@ -21,15 +21,16 @@ Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
 
+
+**Table Of Contents [C]**
+{: #toc }
+
 {% raw %}
 Click if you <BUTTON id="buttonLike" TYPE="button" ONCLICK="var http = new XMLHttpRequest(); http.open('GET','https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec',/*async*/true); http.send(null); http.abort(); alert('Like saved!'); document.getElementById('countPlus').innerHTML='+1'; document.getElementById('buttonLike').disabled=true;">**LIKE**</BUTTON> the text.
 <p>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0&amp;single=true&amp;range=A1:B1&amp;widget=false&amp;headers=false&amp;chrome=false" width="143" height="30" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> <ins id="countPlus">_</ins>
 </p>
 {% endraw %}
-
-**Table Of Contents [C]**
-{: #toc }
 
 | [Introduction](#introduction)         |
 | ------------------------------------- |
