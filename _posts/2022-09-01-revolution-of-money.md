@@ -24,16 +24,22 @@ Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-
 **Table Of Contents [C]**
 {: #toc }
 {% raw %}
+<script>
+  var likesCounter = 0;
+  var counterUrl = 'https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec?type=';
+  document.addEventListener("DOMContentLoaded", function() {
+    fetch(counterUrl + 'get').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
+  });
+</script>
 <p>
 Tap <BUTTON id="buttonLike" TYPE="button" 
 style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
-ONCLICK="var http = new XMLHttpRequest();  http.open('GET','https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec',/*async*/true); 
-http.send(null); http.abort(); 
-document.getElementById('countPlus').innerHTML='+1'; document.getElementById('buttonLike').disabled=true; 
+ONCLICK="fetch(counterUrl + 'post');
+document.getElementById('counterCell').innerHTML=likesCounter+1; document.getElementById('buttonLike').disabled=true; 
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
-alert('Like saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
+alert('Like:) saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
 if like the text
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0&amp;single=true&amp;range=A1:B1&amp;widget=false&amp;headers=false&amp;chrome=false" width="135" height="30" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> <ins id="countPlus">_</ins>
+[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">Likes counter:</a>| <b id="counterCell">N</b>]
 </p>
 {% endraw %}
 | [Introduction](#introduction)         |
