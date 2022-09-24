@@ -219,7 +219,7 @@ NSA still has systems like [PRISM](https://www.theverge.com/2013/7/17/4517480/ns
 -- So Satoshi could be any of them or someone else, maybe even more than one person, small team. It might always [remain a mystery](https://academy.bit2me.com/en/quien-ha-creado-bitcoin/){:target="_blank"} but in the end it doesn't matter, the important thing is the result and the network itself. Initial improvements to the first website were done by [*Martti Malmi*](https://academy.bit2me.com/en/who-is-martti-malmi/){:target="_blank"}, a [student from Finland](https://www.theverge.com/2015/6/10/8751933/the-shy-college-student-who-helped-build-bitcoin-into-a-global){:target="_blank"}.
 In the following years several persons were incorrectly suspected or falsely claimed to be Satoshi.<br>
 -- Creator of BTC Satoshi, at the end of 2010, made the last post that stated: *There is more work to be done...*. and since then, he has not made any known contact. Today we see that the project continued, and it became a game-changing product on a global scale. In the meanwhile, contributor *Gavin Andresen* became the lead developer till 2014 when *Wladimir van der Laan* from Amsterdam took over.<br>
--- One peculiar note: First real-world Btc transaction was in May of 2010 for two large pizzas that were paid 10,000 BTC (consider current value of those - hundreds of millions $)<br>
+-- One peculiar note: First real-world Btc transaction was in May of 2010 for [2 large pizzas paid 10,000 BTC](https://www.startupdaily.net/topic/cryptocurrency/the-story-behind-the-day-bitcoin-made-pizza-the-most-expensive-meal-in-the-world/){:target="_blank"} (consider current value of those - hundreds of millions $)<br>
 
 [The history of the cypherpunks](https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/)<br>
 ![cypherpunks](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/cypherpunks.jpg)
@@ -524,11 +524,10 @@ Bitcoin in average had growth of 200 % yearly for a decade, it was the best perf
 
 ### 4.2 Political implications [[C](#toc)]
 {: #political-implications }
--- Inflating currency supply distorts the money and equals creating more imaginary products which negatively affects the markets.
-Central planning (of money also) goes against evolution, one of the reasons it always fails.
+-- Inflating currency supply distorts the money and equals creating more imaginary products which negatively affects the markets. Central planning (of money also) goes against evolution, one of the reasons it always fails.<br>
 [Monetarism](https://www.britannica.com/topic/monetarism){:target="_blank"} - emphasizes the role of governments in controlling the amount of money in circulation.
-Before bitcoin we have never had an incorruptible monetary base layer.
-World needs a Neutral (reserve) currency, now more than ever.
+Before bitcoin we have never had an incorruptible monetary base layer. World needs a Neutral (reserve) currency, now more than ever.<br>
+-- Blockchain can give more direct democracy. Technology enables higher rate of participation in voting, making referendums also easier to carry out.
 
 Some well-known examples of big inflation since 2000s:<br>
 -Hyper: Venezuela (10,000 %), Zimbabwe (1,000 %), Ghana, Ethiopia, Sri Lanka, ...<br>
@@ -658,6 +657,7 @@ As for those interested in trading between cycles be aware of [80-20 Rule](https
 {: #recapitulation }
 -- Money systems have changed through history and current one has mayor flaw, it being centralized and having too much power in single place. That inevitable leads to corruption which ultimately results in high inflation, so we can say it is broken. Also, as permissioned system and it is over controlling. Reason it was tolerated is that it was the best that existed at the time. But with new time come new technology that enabled better systems. From Store of Value perspective, it should have lowest possible inflation. In this regard Bitcoin is in simple words just better money and overall good if we apply moral and ethical framework to it.<br>
 -- Hyperinflation and [currency collapses](https://ginifoundation.org/kb/fiat-currency-graveyard-a-history-of-monetary-folly/){:target="_blank"} are not exceptionally rare events. In fact, the average lifespan of a fiat currency is only about 35 years, which means these events happen much more frequently than many people realize. When viewed from civilization perspective we want store to last minimum our lifetime, better even longer for inheritance. Also, many of societal problems arise from money, so fixing the money could improve the world, in part at least (meme: ***Bitcoin Fixes this!***). Money should be a **Fiduciary** system - legally and ethically bound to act in clients/users' best interest and ahead of their own, duty to preserve good faith and trust.<br>
+-- Bitcoin's ultimate goal should be to enable all of us to think colectively less about money, and more about other things that we are intereted in, to enrich human experience. Otherwise everybody would have to be full time investor or speculator, or just spend money as fast as possible.<br>
 -- As a Conclusion hope that this comprehensive review can arouse your curiosity and elevate critical thinking. And watch out from being stuck in echo chamber, always seek more opinions.<br>
 
 -- Leave a **Comment** (literary criticism) and give your 2 cents (personal opinion) or to say here 2 satoshies.<br>
