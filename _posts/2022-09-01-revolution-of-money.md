@@ -660,9 +660,9 @@ As for those interested in trading between cycles be aware of [80-20 Rule](https
 -- Bitcoin's ultimate goal should be to enable all of us to think colectively less about money, and more about other things that we are intereted in, to enrich human experience. Otherwise everybody would have to be full time investor or speculator, or just spend money as fast as possible.<br>
 -- As a Conclusion hope that this comprehensive review can arouse your curiosity and elevate critical thinking. And watch out from being stuck in echo chamber, always seek more opinions.<br>
 
--- Leave a **Comment** (literary criticism) and give your 2 cents (personal opinion) or to say here 2 satoshies.<br>
+-- Leave a **Comment** (literary critique) and give your 2 cents (personal opinion) or to say here 2 satoshies.<br>
 [**Comments Form**](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform){:target="_blank"}<br>
-(Both compliments and critics are welcomed)<br>
+(Both compliments and criticism are welcomed)<br>
 [**View all Comments**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
 -- Stay tuned for next month post about Lightning Network.<br>
