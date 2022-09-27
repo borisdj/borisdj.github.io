@@ -533,7 +533,7 @@ Before bitcoin we have never had an incorruptible monetary base layer. World nee
 
 -- Worst [Hyperinflations of all times](https://www.cnbc.com/2011/02/14/The-Worst-Hyperinflation-Situations-of-All-Time.html){:target="_blank"}.<br>
 Some well-known examples of big inflation since 2000s:<br>
--Hyper: [Zimbabwe](https://www.economicshelp.org/blog/390/inflation/hyper-inflation-in-zimbabwe/){:target="_blank"} ([million+](https://www.dallasfed.org/~/media/documents/institute/annual/2011/annual11b.pdf) %){:target="_blank"}, (Venezuela)[https://www.cnbc.com/2019/08/02/venezuela-inflation-at-10-million-percent-its-time-for-shock-therapy.html]{:target="_blank"} (10,000 %), Ghana, Ethiopia, Sri Lanka, ...<br>
+-Hyper: [Zimbabwe](https://www.economicshelp.org/blog/390/inflation/hyper-inflation-in-zimbabwe/){:target="_blank"} ([million+](https://www.dallasfed.org/~/media/documents/institute/annual/2011/annual11b.pdf){:target="_blank"} %), [Venezuela](https://www.cnbc.com/2019/08/02/venezuela-inflation-at-10-million-percent-its-time-for-shock-therapy.html){:target="_blank"} (10,000 %), Ghana, Ethiopia, Sri Lanka, ...<br>
 -High: [Lebanon](https://www.thenationalnews.com/business/economy/2022/08/04/ponzi-scheme-run-by-lebanese-politicians-caused-economic-pain-to-people-world-bank-says/){:target="_blank"}([200+](https://www.thenationalnews.com/business/economy/2022/08/31/lebanon-records-triple-digit-inflation-for-25th-consecutive-month/){:target="_blank"} %), [Argentina](https://tradingeconomics.com/argentina/inflation-cpi){:target="_blank"} (70 %), [Turkey](https://www.ft.com/content/0d217384-7815-44b1-9b3e-d45236342f9f){:target="_blank"} (80 %), etc.<br>
 -Moderate: USA, UK, EU, and others<br>
 
