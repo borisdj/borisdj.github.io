@@ -1,6 +1,6 @@
 ---
 title: ".Net libraries"
-date: 2022-08-01T00:00:00-00:00
+date: 2022-09-01T00:00:00-00:00
 categories: [dev]
 tags: [.net, libs]
 classes: wide
