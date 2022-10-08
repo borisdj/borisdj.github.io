@@ -225,14 +225,14 @@ In the following years several persons were incorrectly suspected or falsely cla
 
 ### 2.2 Technical background [[C](#toc)]
 {: #technical-background }
--- From an engineering aspect Bitcoin protocol is a masterpiece software. We could see that the compelling idea has been circulating for some time and several components of it already existed. But nevertheless, integrating it all into a functional unit was done ingeniously. Hats down to Satoshi whoever he / she or they be, for the first full implementation of the idea, while being a truly visionary. Also, the timing was just right. Firstly, the internet and cryptography were sufficiently developed. Secondly the political and economic situation was fertile as well, inspiration came from revolt. Also, to define a word **Bit** (binary digit) - the smallest unit of data that a computer can process and store, whose value can be 0 or 1. <br>
+-- From an engineering aspect Bitcoin protocol is a masterpiece software. We could see that the compelling idea has been circulating for some time and several components of it already existed. But nevertheless, integrating it all into a functional unit was done ingeniously. Hats down to Satoshi whoever he / she or they be, for the first full implementation of the idea, while being a truly visionary. Also, the timing was just right. Firstly, the internet and cryptography were sufficiently developed. Secondly the political and economic situation was fertile as well, inspiration came from revolt. Also, to define a word **Bit** (binary digit) - the smallest unit of data that a computer can process and store, whose value can be 0 or 1.<br>
 -- Let's jump to the point:<br>
 Bitcoin has a **Ledger** of transactions, which is a list stored in a database that is not centralized in one server but distributed on multiple computers called **Nodes** around the world. Ledger essentially enables reliable spreadsheet with Balances. It's like immutable record that can't be counterfeited. New transactions, up to 2000 of them, are on average every 10 minutes grouped into a **Block** 1 MB in size that is added to the ledger. Each block is connected to previous ones by hash code that is not easy to find. That's why this structure is called **Blockchain**, multiple blocks connected in a line, and it's what underpins the system. It can be used for [solving other problems](https://101blockchains.com/problems-blockchain-solve/){:target="_blank"} as well.<br>
 ![Blockchain](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/blockchain.jpg)
 
 | PROPERTIES   | of BLOCKCHAIN (type of DLT - Distributed Ledger Technology)               |
 | ------------ | ------------------------------------------------------------------------- |
-| Programmable | i.e. Smart Contracts                                                      |
+| Programmable | e.g. Smart Contracts                                                      |
 | Secure       | all records are individually encrypted                                    |
 | Anonymous    | the identity of participants is unknown, either fully or pseudo hidden    |
 | Unanimous    | most of network participants agree to the validity of each of the records |
