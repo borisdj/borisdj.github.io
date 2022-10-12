@@ -571,8 +571,8 @@ There are those who say [Bitcoin philosophy is like a Religion](https://theconve
 [*'Taking The Orange Pill'*](https://bitcoinmagazine.com/culture/bitcoin-orange-pill-theory-reality){:target="_blank"} analogy from movie Matrix.
 
 -- Let's put up list of knowledgeable people:<br>
--Bitcoin and Macro: Luke Gromen, Lyn Alden, Nic Carter;<br>
--Tech gurus: Andreas Antonopoulos (advocate and author), Jameson Lopp, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike);<br>
+-Bitcoin and Macro: Jeff Booth, Luke Gromen, Lyn Alden, Nic Carter;<br>
+-Tech gurus: Andreas Antonopoulos (advocate and author), Jameson Lopp, Dan Held, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike);<br>
 -Investors:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block formerly Square), Elon Musk (Tesla), Cathie Wood(Ark Invest);<br>
 -Podcasters:<br>
 Peter McCormack ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
