@@ -575,15 +575,26 @@ There are those who say [Bitcoin philosophy is like a Religion](https://theconve
 -- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead, higher productivity could allow most people to have 30h week (automation could free time for more human creativity).
 
 -- Let's put up list of knowledgeable people from Bitcoin community:<br>
--Bitcoin and Macro: Jeff Booth, Luke Gromen, Lyn Alden, Nic Carter;<br>
--Tech gurus: Andreas Antonopoulos (advocate and author), Jameson Lopp, Dan Held, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike);<br>
--Investors:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block formerly Square), Elon Musk (Tesla), Cathie Wood (Ark Invest);<br>
--Podcasters:<br>
-Peter McCormack ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
-Robert Breedlove ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
-Anthony Pompliano ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
-Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
-
+-Bitcoin and Macro:<br>
+&nbsp;- Jeff Booth,<br>
+&nbsp;- Luke Gromen,<br>
+&nbsp;- Lyn Alden,<br>
+&nbsp;- Nic Carter,<br>
+Tech gurus:<br>
+&nbsp;- Andreas Antonopoulos (advocate and author),<br>
+&nbsp;- Jack Mallers (Strike),<br>
+&nbsp;- Jameson Lopp,<br>
+&nbsp;- Shinobi,<br>
+Investitori:<br>
+&nbsp;- Michael Saylor (MicroStrategy),<br>
+&nbsp;- Jack Dorsey (Twitter, Block formerly Square),<br>
+&nbsp;- Elon Musk (Tesla),<br>
+&nbsp;- Cathie Wood (Ark Invest),<br>
+Podcasters:<br>
+&nbsp;- Peter McCormack ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
+&nbsp;- Robert Breedlove ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
+&nbsp;- Anthony Pompliano ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
+&nbsp;- Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
 
 ## <ins>5. Looking Forward</ins>
 {: #looking-forward }
