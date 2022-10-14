@@ -540,7 +540,7 @@ Some well-known examples of big inflation since 2000s:<br>
 
 -- Since is it hard/impossible to ban bitcoin globally, countries can ignore it or try to regulate it.
 Some laws are more accepting while other have restricting ones.
-China has for example [ban mining](https://www.weforum.org/agenda/2022/01/what-s-behind-china-s-cryptocurrency-ban/){:target="_blank"}), as bitcoin can interfere and jeopardize their central influence on population.
+For example, China has [ban mining](https://www.weforum.org/agenda/2022/01/what-s-behind-china-s-cryptocurrency-ban/){:target="_blank"}, as bitcoin can interfere and jeopardize their central influence on population.
 They might be the first to implement [CBDC](https://www.investopedia.com/terms/c/central-bank-digital-currency-cbdc.asp){:target="_blank"} (Central Bank Digital Currency) which would give even more power to the Surveillance State. This would allow easier spread of [Social Credit System](https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4){:target="_blank"}, an unacceptable dystopia. So, Bitcoin can facilitate reduction of government ability to track and monitor its citizens. As David Chaum said: *"[Privacy in messaging and payments](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy), and the like, is so fundamental to democracy."*<br>
 -- On the other side more democratic countries have embraced and made it legal but require **KYC** (Know Your Customer) and **AML** (Anti-Money Laundering). So, most exchanges have to be in Compliance with these rules and ask user for Identity documents. Still there are some DEXs (Decentralized exchanges) that can circumvent these requirements.<br>
 
