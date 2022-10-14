@@ -554,7 +554,7 @@ They might be the first to implement [CBDC](https://www.investopedia.com/terms/c
 -In Nigeria, human rights activists depend on Bitcoin for donations after crackdowns by authoritarian regimes.<br>
 
 -- It's now obvious that Supremacy of the [Petrodollar Economy is Waning](https://moderndiplomacy.eu/2022/05/28/the-waning-supremacy-of-the-petrodollar-economy/){:target="_blank"} and its hegemony coming to an end. This will probably lead to decentralized multipolar multi-reserve system. Interesting book and another video presentation is [*'Changing world order'*](https://www.youtube.com/watch?v=xguam0TKMw8){:target="_blank"} - by *Ray Dalio* where he talks about China economic rise. But China also manipulates currency a lot. One could make analogy from fiat based military industrial complex to crypto industrial complex based on energy.<br>
--- CB could be gone in its current form, even fiat could be backed by Bitcoin or central government reduced in that regard. Essentially removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.
+-- CB could be gone in its current form, even fiat could be backed by Bitcoin or central government reduced in that regard. Essentially removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.<br>
 -- [The politics of bitcoin](https://blogs.lse.ac.uk/politicsandpolicy/the-politics-of-bitcoin/){:target="_blank"} underpins its social life.
 
 ### 4.3 Social component [[C](#toc)]
@@ -566,12 +566,15 @@ Then came anonymous, libertarians, conservatives, progressives, entrepreneurs, V
 
 -- One of the reasons it takes time for adopting is that people first need to learn and understand it. Most schools teach very little about finances and even less about money itself. Governments have no interest to fully educate citizens, it's easier for them when less people see inflation as indirect tax.
 And most people themselves are lazy in a way and don't care too much about monetary system. They've preferred way to outsource responsibility to the Government, but as result end up being dependent and completely relying on institutions.<br>
-There are those who say [Bitcoin philosophy is like a Religion](https://theconversation.com/why-are-people-calling-bitcoin-a-religion-175717){:target="_blank"} (Gospel of prophet Satoshi :) ), for all good and bad that the term carries with it. Although one could find few similar elements, important distinction is that there are no dogmas, and nobody is above criticism. What is in common is preach and practice of people who keep spirit and ethos of it. Passionate supporters are sometimes called Bitcoin believers / evangelist for being optimistic about success of the project. They firmly hold their stance and vocally assert their opinion to the crowd.<br>
+There are those who say [Bitcoin philosophy is like a Religion](https://theconversation.com/why-are-people-calling-bitcoin-a-religion-175717){:target="_blank"} (Gospel of prophet Satoshi :), for all good and bad that the term carries with it. Although one could find few similar elements, important distinction is that there are no dogmas, and nobody is above criticism. What is in common is preach and practice of people who keep spirit and ethos of it. Passionate supporters are sometimes called Bitcoin believers / evangelist for being optimistic about success of the project. They firmly hold their stance and vocally assert their opinion to the crowd.<br>
 -- Yet many at first experience can feel [Cognitive dissonance](https://coingeek.com/the-art-of-cognitive-dissonance-in-bitcoin){:target="_blank"}. It is an unpleasant mental conflict that occurs for an individual when assumptions or beliefs are contradicted by new information. In this case defense mechanisms include rejecting the claim or ignoring the new information all together. For anyone involved in Bitcoin, alignment of beliefs to behaviors is tested regularly.<br>
 -- Once a person gets enough information and after a while it clicks in the mind. There is an expression used to describe it:<br>
 [*'Taking The Orange Pill'*](https://bitcoinmagazine.com/culture/bitcoin-orange-pill-theory-reality){:target="_blank"} analogy from movie Matrix.
 
--- Let's put up list of knowledgeable people:<br>
+-- Today's Overconsumption Society is not sustainable in the long run. Investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in landfills. Society should change its buying habits since planet resources are not unlimited. Also, production should aim for durability, and not have [planned obsolescence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less. This fundamentally changes how our economy functions.<br>
+-- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead, higher productivity could allow most people to have 30h week (automation could free time for more human creativity).
+
+-- Let's put up list of knowledgeable people from Bitcoin community:<br>
 -Bitcoin and Macro: Jeff Booth, Luke Gromen, Lyn Alden, Nic Carter;<br>
 -Tech gurus: Andreas Antonopoulos (advocate and author), Jameson Lopp, Dan Held, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike);<br>
 -Investors:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block formerly Square), Elon Musk (Tesla), Cathie Wood (Ark Invest);<br>
@@ -581,8 +584,6 @@ Robert Breedlove ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x
 Anthony Pompliano ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
 Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
 
--- Today's Overconsumption Society is not sustainable in the long run. Investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in landfills. Society should change its buying habits since planet resources are not unlimited. Also, production should aim for durability, and not have [planned obsolescence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less. This fundamentally changes how our economy functions.<br>
--- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead, higher productivity could allow most people to have 30h week (automation could free time for more human creativity).
 
 ## <ins>5. Looking Forward</ins>
 {: #looking-forward }
