@@ -581,7 +581,7 @@ There are those who say [Bitcoin philosophy is like a Religion](https://theconve
 &nbsp;- Lyn Alden,<br>
 &nbsp;- Nic Carter,<br>
 Tech gurus:<br>
-&nbsp;- Andreas Antonopoulos (advocate and author),<br>
+&nbsp;- Andreas Antonopoulos (avid advocate and author),<br>
 &nbsp;- Jack Mallers (Strike),<br>
 &nbsp;- Jameson Lopp,<br>
 &nbsp;- Shinobi,<br>
