@@ -576,25 +576,25 @@ There are those who say [Bitcoin philosophy is like a Religion](https://theconve
 
 -- Let's put up list of knowledgeable people from Bitcoin community:<br>
 -Bitcoin and Macro:<br>
-&nbsp;- Jeff Booth,<br>
-&nbsp;- Luke Gromen,<br>
-&nbsp;- Lyn Alden,<br>
-&nbsp;- Nic Carter,<br>
+&nbsp;- [Jeff Booth](https://www.jeffreybooth.com/){:target="_blank"},<br>
+&nbsp;- [Luke Gromen](https://fftt-llc.com/about/){:target="_blank"},<br>
+&nbsp;- [Lyn Alden](https://www.lynalden.com/){:target="_blank"},<br>
+&nbsp;- [Nic Carter](https://niccarter.info/about/){:target="_blank"},<br>
 Tech gurus:<br>
-&nbsp;- Andreas Antonopoulos (avid advocate and author),<br>
-&nbsp;- Jack Mallers (Strike),<br>
-&nbsp;- Jameson Lopp,<br>
-&nbsp;- Shinobi,<br>
+&nbsp;- [Andreas Antonopoulos](https://aantonop.com/){:target="_blank"} (avid advocate and author),<br>
+&nbsp;- [Jack Mallers](https://twitter.com/jackmallers){:target="_blank"} ([Strike](https://strike.me/){:target="_blank"}),<br>
+&nbsp;- [Jameson Lopp](https://www.lopp.net/){:target="_blank"},<br>
+&nbsp;- [Shinobi](https://bitcoinmagazine.com/authors/shinobi){:target="_blank"},<br>
 Investitori:<br>
-&nbsp;- Michael Saylor (MicroStrategy),<br>
-&nbsp;- Jack Dorsey (Twitter, Block formerly Square),<br>
-&nbsp;- Elon Musk (Tesla),<br>
-&nbsp;- Cathie Wood (Ark Invest),<br>
+&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}),<br>
+&nbsp;- [Jack Dorsey](https://twitter.com/jack/){:target="_blank"} ([Twitter](https://twitter.com/){:target="_blank"}, [Block](https://block.xyz/){:target="_blank"} formerly Square),<br>
+&nbsp;- [Elon Musk](https://www.forbes.com/profile/elon-musk/?sh=779e3e947999){:target="_blank"} ([Tesla](https://www.tesla.com/){:target="_blank"}),<br>
+&nbsp;- [Cathie Wood](https://www.forbes.com/profile/cathie-wood/?sh=1e3081b47360){:target="_blank"} ([Ark Invest](https://ark-invest.com/){:target="_blank"}),<br>
 Podcasters:<br>
-&nbsp;- Peter McCormack ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
-&nbsp;- Robert Breedlove ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
-&nbsp;- Anthony Pompliano ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
-&nbsp;- Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
+&nbsp;- [Peter McCormack](){:target="_blank"} ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
+&nbsp;- [Robert Breedlove](){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
+&nbsp;- [Anthony Pompliano](){:target="_blank"} ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
+&nbsp;- [Lex Fridman](){:target="_blank"} ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
 
 ## <ins>5. Looking Forward</ins>
 {: #looking-forward }
