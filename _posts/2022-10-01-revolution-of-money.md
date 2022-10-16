@@ -25,7 +25,7 @@ Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp
 **Table Of Contents [C]**
 {: #toc }
 {% raw %}
-<meta property="og:image" content="[http://ia.media-imdb.com/rock.jpg](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/evolution-of-money.jpg)"/>
+<meta property="og:image" content="https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/evolution-of-money.jpg"/>
 <script>
   var likesCounter = 0;
   var counterUrl = 'https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec?type=';
