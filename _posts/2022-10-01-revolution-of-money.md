@@ -78,7 +78,7 @@ Do not be discouraged if material seems foreign. Since it is abundant with vario
 *"It's everything you don't understand about money combined with everything you don't understand about computers".*<br>
 But as you start to learn it, subsequently you will gain knowledge about economics, computer science, math, philosophy, politics, history, and even physics.<br>
 PS<br>
-Work is still in progress and needs some final touch refactoring, don't mind if you encounter some remaining mistakes.
+Some final touch formatting and refactoring still in progress.
 
 ## <ins>1 Monetary Chronicles</ins>
 {: #monetary-chronicles }
