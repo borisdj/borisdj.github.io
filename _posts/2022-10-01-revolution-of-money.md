@@ -13,6 +13,7 @@ excerpt: "Bitcoin rise with crypto industry story"
 
 LANG(jezik):<br>
 Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-latn-ba)
+Others ([g-translate](https://translate.google.com/?sl=en&text=https%3A%2F%2Finfopedia.io%2Frevolution-of-money%2F&op=translate){:target="_blank"})
 
 Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"} / [*AudioBook*](https://drive.google.com/file/d/14FEfpxOUQOfT16tFeTH5cha4f8YxuFwN/view?usp=sharing){:target="_blank"}<br>
 
