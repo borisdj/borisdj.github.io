@@ -286,9 +286,9 @@ It is the first case where Greed and Altruistic incentives aligns. You can now m
 For fun:<br>
 -[Bitcoin Rap Battle Debate: Hamilton vs. Satoshi](https://www.youtube.com/watch?v=JaMJi1_1tkA){:target="_blank"}<br>
 TED talks:<br>
--[Blockchain changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"}<br>
--[Blockchain transform the economy](https://www.youtube.com/watch?v=RplnSVTzvnU&t=1s){:target="_blank"}<br>
--[The future of money](https://www.youtube.com/watch?v=pPgd7Hj3ABQ){:target="_blank"}<br>
+-[Blockchain changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"} (*Don Tapscott*)<br>
+-[Blockchain transform the economy](https://www.youtube.com/watch?v=RplnSVTzvnU&t=1s){:target="_blank"} (*Bettina Warburg*)<br>
+-[The future of money](https://www.youtube.com/watch?v=pPgd7Hj3ABQ){:target="_blank"} (*Neha Narula*)<br>
 
 [Bitcoin Governance](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} is similar to 3-pronged (traditional) branches of Government. <br> 
 [The Three Branches of Blockchain Governance](https://medium.com/digitalassetresearch/the-three-branches-of-blockchain-governance-75a29bf98880){:target="_blank"} (*Separation of powers* doctrine)
