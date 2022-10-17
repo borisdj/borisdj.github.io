@@ -157,7 +157,7 @@ is a confident relationship with the unknown, a social glue that bridges the gap
 `Known` <---> TRUST <---> `Unknow`<br>
 It's a currency of interactions.<br>
 The way to build more trust is to be more transparent and in time you become trustworthy (have reputation capital).<br>
-Lately we could observe [breach of trust](https://www.youtube.com/watch?v=GqGksNRYu8s){:target="_blank"} in many areas like:<br>
+Lately we could observe [breach of trust](https://www.youtube.com/watch?v=GqGksNRYu8s){:target="_blank"} (as explained by [*Rachel Botsman*](https://rachelbotsman.com/){:target="_blank"}) in many areas like:<br>
 &nbsp;1. [News International phone hacking](https://en.wikipedia.org/wiki/News_International_phone_hacking_scandal){:target="_blank"}<br>
 &nbsp;2. [Global Financial Crisis resulted with only 1 banker jailed](https://features.marketplace.org/why-no-ceo-went-jail-after-financial-crisis/){:target="_blank"}<br>
 &nbsp;3. [Volkswagen emissions scandal](https://hbr.org/2015/09/what-vw-didnt-understand-about-trust){:target="_blank"}<br>
