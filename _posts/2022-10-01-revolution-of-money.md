@@ -638,7 +638,7 @@ Secondly decide if you want to buy some, for now as an investment and later as a
 Only if you become convinced enough into the Bitcoin story is it good idea to invest.<br>
 --In practice there are several generally useful strategies (one or more can be used):<br>
 &nbsp;1. Move (reallocate) a part of your portfolio into Btc and keep it long term<br>
-&nbsp; - size of part could range from 5 to 20 % depending on one's net worth and risk appetite
+&nbsp; - size of part could range from 5 to 20 % depending on one's net worth and risk appetite<br>
 &nbsp; - don't made a mistake not investing anything in order not to have FOMO (Fear Of Missing Out)<br>
 &nbsp; - decide when to join the train and potentially build generation wealth<br>
 &nbsp;2. Make monthly savings into Bitcoin (for example 3 - 5 % of your salary / income)<br>
