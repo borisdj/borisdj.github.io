@@ -483,15 +483,22 @@ Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_b
 ### 3.3 Other Cryptos [[C](#toc)]
 {: #other-cryptos }
 -- When compared to Others crypto coins, important differences are that **BTC** have [**First Mover**](https://corporatefinanceinstitute.com/resources/knowledge/strategy/first-mover-advantage/){:target="_blank"} advantage ([the Half-Truth](https://hbr.org/2005/04/the-half-truth-of-first-mover-advantage){:target="_blank"}), so is most known and almost everybody already heard about it. Then it has no leader per se so has higher decentralization and it was **never hacked**. Still, this does not mean that all others are worthless, some of them could have valuable additional features. Only those that are not in the same domain as BTC and  target totally different use case, anything else expect base treasury asset, can survive. Of course there were, are, and will be, a lot of those that are pure scam, like [OneCoin](https://technext.ng/2022/07/05/all-you-need-know-onecoin-crypto-scam/){:target="_blank"}, or deceptive with pump-and-dump manipulative scheme (Greater Fool theory). Then there is crap group with stupid idea. Both are in a so-called 'shit' coins category. What remains is small number that could have useful purpose but even many of those will fail because of poor implementation. Just a handful will survive and thrive and maybe become leader in some domain. Still BTC is at the moment only one that has real chance of becoming global monetary system.<br>
+
 -- There are several reasons why it is main One, crypto King, which includes:<br>
-&nbsp;1. True Decentralization - main innovation that only BTC has for real.<br>
-&nbsp;This is of greatest importance and PoW with all its electricity consumption gives it intrinsic worth rooted in physical world and at same time ensures temporal and spatial security (across time and space)<br>
-&nbsp;Can't be counterfeited because it has cost in energy.<br>
-&nbsp;While companies and their networks/platforms can be censored protocols cannot be blocked so easily.<br>
-&nbsp;2. Network effect - the more people use it, it's more likely to become bigger (value increases with number of users)<br>
-&nbsp;3. Added value with new unique features and functionality<br>
-&nbsp;4. Simplistic design in its core and in accordance to IT principle [***KISS***](https://www.techopedia.com/definition/20262/keep-it-simple-stupid-principle-kiss-principle){:target="_blank"} (*Keep IT Simple, Stupid*)<br>
-&nbsp;5. Does only one main function in the base - being just money but does it very good.<br>
+1. True Decentralization - main innovation that only BTC has for real.<br>
+   - This is of greatest importance and PoW with all its electricity consumption gives it intrinsic worth rooted in physical world and at same time ensures temporal and spatial security (across time and space)<br>
+   - can't be counterfeited because it has cost in energy.<br>
+   - while companies and their networks/platforms can be censored protocols cannot be blocked so easily.<br>
+2. Network effect
+   - the more people use it, it's more likely to become bigger<br>
+     (value increases with number of users)
+4. Added value
+   - with new unique features and functionality<br>
+6. Simplistic design in its core
+   - in accordance to IT principle [***KISS***](https://www.techopedia.com/definition/20262/keep-it-simple-stupid-principle-kiss-principle){:target="_blank"}<br>
+     (*Keep IT Simple, Stupid*)
+6. Does only one main function in the base
+   - being just money but does it very good
 
 -- Some Altcoins (Alternative coins - any other then Bitcoin) could be viewed as startups where buying those is similar to investing in that company. For example DeFi - *Decentralized Finance* (Crypto [Glossary](https://www.forbes.com/uk/advisor/investing/cryptocurrency/crypto-glossary-of-terms-acronyms/){:target="_blank"} and [Acronyms](https://www.coindesk.com/learn/from-btd-to-fud-to-wagmi-understanding-crypto-acronyms/){:target="_blank"}) are application that replicate certain bank services. With those investment can often be done with [**ICO**](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp){:target="_blank"} (*Initial Coin Offer*), analogous to **IPO** (*Initial Public Offer*). It's like Dot-com bubble in the 2000s where there were many companies that had website but just a few grow to become Microsoft, Google, Apple, Amazon, etc. While bulk of others have completely failed and we never even heard about them.<br>
 Still only BTC is considered (also [by the SEC](https://www.reuters.com/legal/transactional/are-cryptocurrencies-securities-sec-is-answering-question-2022-03-21/){:target="_blank"}) as **Asset** (other way phrasing it **Digital Property**) while all others cryptos are described as **Securities** (*The Next Bitcoin is Bitcoin* and *All paths lead to Bitcoin*).
