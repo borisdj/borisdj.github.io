@@ -667,7 +667,7 @@ New people coming in don't have same information as those who have been here. Th
 As for those interested in trading between cycles be aware of [80-20 Rule](https://alphachain.co.uk/blog/trading-80-20-using-the-pareto-rule-in-trading){:target="_blank"} ([Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp){:target="_blank"})
 
 -- Popular crypto **[Exchanges](https://coinmarketcap.com/rankings/exchanges/){:target="_blank"}** (places to buy Bitcoin):<br>
-*[Kraken](https://www.kraken.com/){:target="_blank"}, [Binance](https://www.binance.com/){:target="_blank"}, [FTX](https://ftx.com/){:target="_blank"}, [Coinbase](https://www.coinbase.com/){:target="_blank"}, [Bitstamp](https://www.bitstamp.net/){:target="_blank"}, [Gemini](https://www.gemini.com/){:target="_blank"}*<br>
+*[Kraken](https://www.kraken.com/){:target="_blank"}, [Binance](https://www.binance.com/){:target="_blank"}, [Bitfinex](https://www.bitfinex.com/){:target="_blank"}, [Coinbase](https://www.coinbase.com/){:target="_blank"}, [Bitstamp](https://www.bitstamp.net/){:target="_blank"}, [Gemini](https://www.gemini.com/){:target="_blank"}, ...*<br>
 -- There are also [decentralized ones](https://koinly.io/blog/top-no-kyc-crypto-exchanges/){:target="_blank"} and in person marketplaces like:<br>
 *[Bisq](https://bisq.network/){:target="_blank"}, [KuCoin](https://www.kucoin.com/){:target="_blank"}, [LocalBicoins](https://localbitcoins.com/){:target="_blank"}, [LocalCryptos](https://localcryptos.com/){:target="_blank"}*<br>
 
