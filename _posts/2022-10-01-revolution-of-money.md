@@ -23,15 +23,7 @@ Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp
 
 
 **Table Of Contents [C]**
-{: #toc }
 {% raw %}
-<script>
-  var likesCounter = 0;
-  var counterUrl = 'https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec?type=';
-  document.addEventListener("DOMContentLoaded", function() {
-    fetch(counterUrl + 'get').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
-  });
-</script>
 <p>
 Tap <BUTTON id="buttonLike" TYPE="button" 
 style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
@@ -42,6 +34,13 @@ alert('Like:) saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
 if like the text
 [<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">Likes counter:</a> <b id="counterCell">N</b>]
 </p>
+<script>
+  var likesCounter = 0;
+  var counterUrl = 'https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec?type=';
+  document.addEventListener("DOMContentLoaded", function() {
+    fetch(counterUrl + 'get').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
+  });
+</script>
 {% endraw %}
 | [Introduction](#introduction)         |
 | ------------------------------------- |
