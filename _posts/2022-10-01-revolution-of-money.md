@@ -352,7 +352,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 * 15 Decentralized monetary system in network Topology but also Philosophy
   - alternative to hierarchical structure ([Bitcoin killed the King](https://www.nfx.com/post/network-effects-bitcoin){:target="_blank"})
   - new model with internal checks and balances (wisdom of the crowd)
-* 16 New Global financial system
+* 16 New Global financial system (uniform metric for value)
   - neutral form of money (not controlled by anyone)
   - the New Operating System of the Economy
 * 17 Monetary / Economic energy
@@ -407,7 +407,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
   - Creating (good) money cannot be free
   - Btc [energy usage isn’t a problem](https://www.lynalden.com/bitcoin-energy/){:target="_blank"} and [Energy Consumption](https://www.youtube.com/watch?v=2T0OUIW89II){:target="_blank"}
   - Incentive is to use cheapest energy, currently mostly from [renewables](https://wintonark.medium.com/bitcoin-mining-impact-on-renewable-uptake-fc91c5aa9be0){:target="_blank"} ([solar](https://medium.com/blockchain-life-tech/rooftop-solar-and-crypto-mining-could-kick-off-a-green-power-revolution-ad91d523b35b){:target="_blank"})<br>
-    also from remote location that is unusable because of far distance (Geo-independent)
+    also stranded from remote location that unusable because of distance (Geo-independent) like from Island ([The modern-day gold rush](https://openskiesmagazine.com/the-land-of-fire-ice-and-gold/){:target="_blank"})
   - Can contribute to [stabilizing electric grid](https://www.vaultelectricity.com/how-bitcoin-will-help-stabilize-the-texas-grid-and-lower-electricity-rates/){:target="_blank"} by reducing miners' consumption in peak times
   - Uses excess energy of current power plants that is otherwise just wasted
   - Generated heat by the mining rigs could be used for heating of homes
@@ -469,7 +469,7 @@ On the whole **Benefits outweighs the Risks** significantly.<br>
 -- For example, image a world with independent uninflatable global currency. In last 50 years average Economic Growth has been ~ 2%, while for the next 50 years estimates are it could be around 3%. Let us take 2.5% as middle value, and with fixed supply of money it's value should increase each year by 2.5%. In that environment you would not need to rush and spend money but can take time to think what to buy and where to invest.<br>
 -- Regarding credits and loans / borrowing, nominal interest rate would be low but effective one would be nominal + that 2.5%. So, credit for house could have nominal rate of 1.5% (4% effective). While investments in business, bearing more risk, would have higher rate of return or probably some share of company.<br>
 Historic data: US interest rates in the last [200 years](https://advisor.visualcapitalist.com/us-interest-rates/){:target="_blank"} and 30 year mortgage from [1971-2022](https://themortgagereports.com/61853/30-year-mortgage-rates-chart){:target="_blank"}.<br>
--- There is great book *'[**The Price of Tomorrow**](https://tylerahall.com/the-price-of-tomorrow-jeff-booth-summary/){:target="_blank"}: Why Deflation is the Key to an Abundant Future'* by *Jeff Boot*. He suggests to stop fighting (technology driven) deflation and accept it's potential of abundance. It would be a system where the consumers win in the form of better prices and services.
+-- There is great book *'[**The Price of Tomorrow**](https://tylerahall.com/the-price-of-tomorrow-jeff-booth-summary/){:target="_blank"}: Why Deflation is the Key to an Abundant Future'* by *Jeff Boot*. He suggests to stop fighting (technology driven) deflation and accept it's potential of abundance. It would be a system where the consumers win in the form of better prices and services. Over very long time prices fall to marginal cost of production.
 
 Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_blank"}<br>
 (declines geometrically to asymptotic max of 21 mil. - [more precisely](https://academy.bit2me.com/en/cuantos-bitcoins-pueden-haber/){:target="_blank"} 20.999.999,9993)<br>
