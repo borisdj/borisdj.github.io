@@ -40,7 +40,7 @@ if like the text
     fetch(counterUrl + 'get').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
   });
 </script>
-{% endraw %}
+
 | [Introduction](#introduction)         |
 | ------------------------------------- |
 | [**1. Monetary Chronicles**](#monetary-chronicles) |
