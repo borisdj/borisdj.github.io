@@ -353,7 +353,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
   - alternative to hierarchical structure ([Bitcoin killed the King](https://www.nfx.com/post/network-effects-bitcoin){:target="_blank"})
   - new model with internal checks and balances (wisdom of the crowd)
 * 16 New Global financial system (uniform metric for value)
-  - neutral form of money (not controlled by anyone)
+  - neutral form of money (not controlled by anyone) - value of neutrality
   - the New Operating System of the Economy
 * 17 Monetary / Economic energy
   - from [First Principles](https://fs.blog/first-principles/){:target="_blank"} Money is an exchange of energy (Econ 101)
@@ -559,7 +559,7 @@ Some well-known examples of big inflation since 2000s:<br>
 -In Cuba, after a dual-currency system devalued the peso, those who saved in Bitcoin managed to stay afloat.<br>
 -In Nigeria, human rights activists depend on Bitcoin for donations after crackdowns by authoritarian regimes.<br>
 
--- It's now obvious that Supremacy of the [Petrodollar Economy is Waning](https://moderndiplomacy.eu/2022/05/28/the-waning-supremacy-of-the-petrodollar-economy/){:target="_blank"} and its hegemony coming to an end. This will probably lead to decentralized multipolar multi-reserve system. Interesting book and another video presentation is [*'Changing world order'*](https://www.youtube.com/watch?v=xguam0TKMw8){:target="_blank"} - by *Ray Dalio* where he talks about China economic rise. But China also manipulates currency a lot. One could make analogy from fiat based military industrial complex to crypto industrial complex based on energy.<br>
+-- It's now obvious that Supremacy of the [Petrodollar Economy is Waning](https://moderndiplomacy.eu/2022/05/28/the-waning-supremacy-of-the-petrodollar-economy/){:target="_blank"} and its unnatural hegemony coming to an end. This will probably lead to decentralized multipolar multi-reserve system. Artificially strong dollar is not good even for US, since it makes export hard which leads to less local production. Interesting book and another video presentation is [*'Changing world order'*](https://www.youtube.com/watch?v=xguam0TKMw8){:target="_blank"} - by *Ray Dalio* where he talks about China economic rise. But China also manipulates currency a lot. One could make analogy from fiat based military industrial complex to crypto industrial complex based on energy.<br>
 -- CB could be gone in its current form, even fiat could be backed by Bitcoin or central government reduced in that regard. Essentially removing monetary power and leave only fiscal policy. According to *Thiers' Law*: [*Good Money Drives Out Bad*](https://nakamotoinstitute.org/mempool/speculative-attack/){:target="_blank"}.<br>
 -- [The politics of bitcoin](https://blogs.lse.ac.uk/politicsandpolicy/the-politics-of-bitcoin/){:target="_blank"} underpins its social life.
 
