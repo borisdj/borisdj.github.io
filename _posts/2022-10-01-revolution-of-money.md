@@ -619,7 +619,7 @@ We can identify Crypto ecosystem as new cultural and economic trend that started
 
 --  Banks will also have their role in this new world. They are slow with change because of compliance requirements, but eventually those that survive will adapt and compete in the industry.<br>
 Some will offer custody services (bitcoin based banks) with full reserves and proof of it. Others will become lightning hubs and they will help scale payments. Also giving loans will remain a service that would need a financial entity to verify ones employment for example. New era of to some extent free banking.<br>
-One expectation is that Bitcoin main layer will be used for settlement between countries and also banks, like GIRO clearing transfer and Swift today, but just much better.
+One expectation is that Bitcoin main layer will be used for settlement between countries and also banks, like GIRO transfer, RTGS and Swift today, but just much better.
 
 -- As Adoption increases, volatility will go down. Widespread crypto adoption is [pushed by millennials](https://nfn8.com/blog/millennials-will-push-widespread-crypto-adoption/){:target="_blank"}, a younger tech-savvy generations, that are turning into adults. People are usually afraid of new things they do not understand, so they need first to learn how to handle it safely.<br>
 Rate of adoption is following [S curve](https://www.inbitcoinwetrust.net/bitcoin-on-the-same-adoption-s-curve-as-the-internet-some-thoughts-and-figures-8af18f01cceb){:target="_blank"} and [gaining speed](https://phemex.com/blogs/crypto-bitcoin-s-curve-adoption-curve){:target="_blank"} (just like the internet did):<br>
