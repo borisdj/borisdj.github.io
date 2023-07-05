@@ -320,7 +320,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 * 1 Hard Asset (Trust-Minimized)
   - premium Commodity
   - inalienable digital Property<br>
-* 2 Future-Proof Money (Internet Native)
+* 2 Future-Proof perfect Money (Internet Native)
   - most ubiquitous and omnipresent Cryptocurrency<br>
 * 3 Distributed universal Ledger
   - open standard and API (Application Programming Interface)
@@ -370,6 +370,9 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 * 21 [Intellectual experiment](https://www.ccn.com/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/){:target="_blank"} (radical thought) not to have human in charge of money
   - persuasive idea that rewrites your mind, an inception
   - people are inspired to contemplate / speak / write about (this blog being proof)
+
+**[Genius of Bitcoin in One Sentence](https://www.reddit.com/r/Bitcoin/comments/qtwzut/the_genius_of_bitcoin_in_one_sentence/){:target="_blank"}:<br>
+"*Bitcoin is a peaceful revolution about limiting the power of the modern state, ultimately to limit the effects of the Cantillon effect, allow deflation, level the playing field and make expensive and obsolete war as a means to establish who owns what*"
 
 ## <ins>3. Comparative Advantage</ins>
 {: #comparative-advantage }
