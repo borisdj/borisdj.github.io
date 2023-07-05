@@ -269,7 +269,7 @@ BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks]
 ### 2.3 Extended description [[C](#toc)]
 {: #extended-description }
 -- As a new internet protocol [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin){:target="_blank"} enables transfer of value over communication channel. Other earlier application protocols include *https* (web page), *ftp* (file), *smtp* (mail), etc. With latest you can basically send gold coin like mail, any amount of value to anywhere in the world almost instantly. Without anyone being able to stop it or have control, it is **Censorship Resistant** and can't be easily confiscated.<br>
-It is the first case where Greed and Altruistic incentives aligns. You can now make most selfish decision and also contribute to greater equality in the world when compared to the fiat system. As such it is very useful technological innovation that enables distributed consensus but can also be looked at from various angles. When trying to fully understand it one need to grasp its ***multitude of aspects*** (interdisciplinary):<br>
+It is the first case where Greed and Altruistic incentives aligns. You can now make most selfish decision and also contribute to greater equality in the world when compared to the fiat system. As such it is very useful technological innovation that enables distributed consensus but can also be looked at from various angles. When trying to fully [understand it](https://www.reddit.com/r/Bitcoin/comments/my9gpz/why_bitcoin_is_so_hard_for_traditional_economists/){:target="_blank"} one need to grasp its ***multitude of aspects*** (interdisciplinary):<br>
 &nbsp;1. **Economic** (Monetary policy) - predefined and limited quantity (relatively fixed supply)<br>
 &nbsp;2. **Technical** (Networking) - decentralization<br>
 &nbsp;3. **Political** - reducing state monetary control<br>
@@ -326,7 +326,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
   - open standard and API (Application Programming Interface)
   - consensually shared and synchronized database, one source of truth/validation<br>
 * 4 Programmatic monetary policy, programmable money
-  - narrow but powerful AI, financial singularity, unstoppable machine
+  - narrow but powerful AI, financial singularity, an epiphany, unstoppable machine
 * 5 First engineered monetary system in history of human race
   - monetary Technocracy in the digital age
   - unique Financial Invention, new phenomenon with special properties
@@ -362,8 +362,9 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
   - [war Deterrent](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - changes warfare from kinetic to electric energy
   - future war apparatus goal will be [highest rate of energy-delivery](https://bitcoinmagazine.com/culture/bitcoin-and-teslas-peaceful-energy-vision){:target="_blank"}<br>
     (Nikola Tesla envisioned peaceful energy)
-* 19 Education vehicle, monetary curiosity
+* 19 Education vehicle, pecuniary curiosity
   - transcends pure money
+  - financial revelation, monetary epiphany
 * 20 Fintech for poor people (Instrument of economic empowerment)
   - technology bridge to abundant future
 * 21 [Intellectual experiment](https://www.ccn.com/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/){:target="_blank"} (radical thought) not to have human in charge of money
