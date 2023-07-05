@@ -702,7 +702,7 @@ With it there will be a **Quiz** with Questions. For those who get all the corre
 -The opinions expressed in this publication belong to the author alone.<br>
 -It does not constitute professional financial advice, it's more like an investigative report.<br>
 -Please DYOR (Do Your Own Research / due diligence) thoroughly before making any financial decisions and proceed with caution.<br>
-**Disclosure**: Author owns some bitcoins.
+**Disclosure**: Author owns some bitcoins. (In line with: put your money where your mouth is)
 
 **References** (data source or additional info)<br>
 -- They are linked directly in text<br>
