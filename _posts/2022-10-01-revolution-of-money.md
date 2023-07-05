@@ -433,7 +433,8 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
   - [Blockchain Trilemma](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition){:target="_blank"} (resilience vs efficiency):<br>
     /__\ 1.Decentralisation, 2.Security, 3.Scalability
   - Layered structure<br>
-    L-1 base layer optimizes around Security and Robustness, also keeps it Decentralized<br>
+    L-1 base layer optimizes around Security and Robustness, and also keeps it Decentralized<br>
+    (there is value in that robustness)
     L-2 improves Scalability segment and enables Fast and Cheap transfers<br>
     (Lightning Network, Liquid, Side Chains, ...)
 * 2 Not fully private, only semi-anonymous / [fungibility](https://mises.org/wire/why-fungibility-important-understanding-money-and-crypto){:target="_blank"}
