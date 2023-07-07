@@ -69,7 +69,7 @@ if like the text
 
 ## Introduction
 {: #introduction }
--- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also discover future perspective and possibilities. In a futuristic context, first word to mention is [**Bitcoin**](https://bitcoin.org/en/){:target="_blank"}, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
+-- The following text (small eBook, big research) will discuss money systems of the past, existing ones in present, but also discover future perspective and possibilities. In a futuristic context, first word to mention is [**Bitcoin**](https://bitcoin.org/en/){:target="_blank"}, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
 -- Discussion is lengthy as is the nature of topic, so it's divided into segments for easier comprehension.
 Do not be discouraged if material seems foreign. Since it is abundant with various information, recommendation is to read it across multiple days and sleep over it. After first reading a lot of questions will pop up. Many terms and events are linked directly to articles, blogs forums and YT channels / podcasts. That way you can read even more about certain subject, and also leave a comment or question at the bottom.
 
