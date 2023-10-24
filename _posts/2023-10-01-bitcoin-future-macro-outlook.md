@@ -48,7 +48,7 @@ Also between countries there is Game Theory dynamics (US, Russia, etc) so even s
 So it would be like precise measurement system for the value (1 meter unit also does no change even as we have taller buildings).
 
 Few more remarks:
-Limited supply would not be fundamentally problem as long as it is divisible downwards. Total supply is 21 quadrillion of sats and Lightnig even enables miliSats.
+Limited supply would not be fundamentally problem as long as it is divisible downwards, and lightning even enables miliSats.
 Hording also not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever). So there would be an equilibrium at any moment in time (factor Velocity of Money: MV=PT)
 No risk of deflationary spiral since that is only possible in MoneyAsDebt system.
 
