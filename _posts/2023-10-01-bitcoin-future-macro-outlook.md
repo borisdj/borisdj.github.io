@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin future Macro outlook"
+title: "Bitcoin future and macro outlook"
 date: 2023-10-01T00:00:00-00:00
 categories: [fintech]
 tags: [finance, crypto]
@@ -14,7 +14,7 @@ So the proposal is to break this vicious circle by making decentralized system w
 
 To be future-proof from changes towards inflationary model it needs high level decentralization which requires real world cost (anchor in physical world), that is manifested in 'mining' as Proof of Work - PoW.  
 Some would argue that using 0.3 to 0.6 % of worlds electricity is pretty cheap to have global high-quality monetary system for long term. Even banking industry today uses more power then this.  
-Electrical Power production is another issue and in the future all power should be green from sustainable sources.
+Electrical Power production is another issue and in the future all power should be green from sustainable sources, while at the same time it can help stabilize grid and use stranded energy.
 
 Bitcoin protocol is just a first functional implementation of this idea (courtesy of Cypherpunks).
 (Dis->Non)inflationary neutral and apolitical money (agnostic to politics) as bottom up emergent phenomena.
