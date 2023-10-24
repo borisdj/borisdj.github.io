@@ -7,7 +7,7 @@ classes: wide
 excerpt: "Bitcoin expectations for the coming decades"
 ---
 
-**Bitcoin** expectations for the coming decades<br> emphasis
+**Bitcoin** expectations for the coming decades<br>
 
 Let's start with the notion that behind Bitcoin is an idea, essentially that monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation(debasement) and high or hyper runaway inflation, as history has shown.  
 So the proposal is to break this vicious circle by making decentralized system where no government will be able to print money with a click of a button. Meaning they effectively would no longer have monetary policy, only fiscal. In principle it is not anti-government, just for smaller and more transparent administration. We could say it is a movement towards financial autonomy and freedom.
@@ -26,15 +26,16 @@ Next to address and elaborate some often given scepticism towards it.
 
 Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
 First mover advantage, Network effect(value is subjective), Distributed hash rate, biggest community with strong commitment/conviction and ever growing adoption.  
-PoS (Proof of Stake) are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally centralizing force. Some of them might find another use case but not as good money.  
+PoS (Proof of Stake) are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally centralizing force. Some of them might find another use case but not as good money. Also with Side/Drive-chains as second layers they are better then separate Alts since can tap into Bitcoin L1 base security.
 Also any real new invention, since all are open source, could be added into Bitcoin with new update. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there.
 Only Bitcoin is considered as Commodity, even the SEC (Security Exchange Comission) confirmed it as such.
 
-Early adopters are fairly rewarded for the risk and time they invested.
+Early adopters are fairly rewarded for the risk and time they invested, and also for having nerves of steel to hold for long through turbulent times.
 
 As for the criticism of being slow, it kinda is but for a good reason, or a few of them.
 Distributed ledger can have only limited size and growth based on world wide average internet connection and average disk size. Also all worlds transactions do not (and should not) need to be on public ledger. One payment for coffee has no place on permanent database (emphasis on structural efficiency).
-So only feasible solution was to limit number transactions/per second on main layer, and solve scalability on top layers. In the future it is expected that base layer would serve for settlement between lightning nodes, custodians, banks, countries, like today is RTGS or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on Lightning or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper then visa) has bigger capacity (potentially 1 million+ TPS) and more privacy.
+So only feasible solution was to limit number transactions/per second on main layer, and solve scalability on top layers. In the future it is expected that base layer would serve as settlement between lightning nodes, custodians, banks, countries, like today is RTGS or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on Lightning or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper then visa) has bigger capacity (potentially 1 million+ TPS) and more privacy.
+Interentg note to mention here is that on top of lightnig rails there could be implemente stablesats to te used instead of centralised USDT/USDC, before the Bitcoin Sats become stable enough themselves.
 
 Next let me lay out one possible way how we could get to this system. Since BTC is Scarce (Most Important nodes) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.
 Proposition here is that it serves as SoV - Store Of Value (digital Gold 2.0) but in longer period.
@@ -47,8 +48,8 @@ Also between countries there is Game Theory dynamics (US, Russia, etc) so even s
 So it would be like precise measurement system for the value (1 meter unit also does no change even as we have taller buildings).
 
 Few more remarks:
-Limited supply would not be fundamentally problem as long as it is divisible downwards.
-Hording not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever). So there would be an equilibrium at any moment in time (factor Velocity of Money: MV=PT)
+Limited supply would not be fundamentally problem as long as it is divisible downwards. Total supply is 21 quadrillion of sats and Lightnig even enables miliSats.
+Hording also not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever). So there would be an equilibrium at any moment in time (factor Velocity of Money: MV=PT)
 No risk of deflationary spiral since that is only possible in MoneyAsDebt system.
 
 Possible effects are:
@@ -62,7 +63,7 @@ Credits would be little more expensive then today, since they would have real co
 Also to note here that fractional reserve banking could still exist, only would be limited with deposits and have upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).
 Real estates would have lower price since they would not serve as Store of Value and would lose that monetary premium.
 
-My assessment currently is that Bitcoin has 51% chance of expanding (in 2017 was 30% and in 2013 I gave it 10% then). The longer it exist (15 years so far) the higher are chances of succeeding (Lindy effect).
+Personal assessment currently is that Bitcoin has 51% chance of expanding (in 2017 was 30% and in 2013 maybe 10% then). The longer it exist (15 years so far) the higher are chances of succeeding (Lindy effect).
 Like any investment it is a bet, just like any decision in life is. For risky ones, invest only what you are able to lose.
 DYOR and make personal probability for each hypothetical scenario.
 Along this line there are halving cycles every 4 years.
