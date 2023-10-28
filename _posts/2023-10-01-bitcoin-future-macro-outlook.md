@@ -14,13 +14,13 @@ So the proposal was to break this vicious circle by making a decentralized syste
 
 To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality), that is manifested in 'mining' as Proof of Work - PoW.  
 
-Bitcoin protocol is just the first functional implementation of this idea (courtesy of Cypherpunks).
-(Dis->Non)inflationary neutral and apolitical money (agnostic to politics) as bottom up emergent phenomena.
+Bitcoin protocol is just the first functional implementation of this idea (courtesy of Cypherpunks).  
+(Dis->Non)inflationary neutral and apolitical money (agnostic to politics) as bottom up emergent phenomena.  
 It was designed and programmed to have best characteristic of Money:  
-1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
+1.Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
 (fixes bad features of gold regarding easy division and transport because of which yellow metal was centralized).
 
-### Next to address and elaborate some often given skepticism towards it.
+#### Next to address and elaborate some often given skepticism towards it.
 
 1. Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
 First mover advantage, Network effect(value is subjective), decentralized hashrate and wide  node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
@@ -38,7 +38,7 @@ Electrical Power production is another issue and in the future all power should 
 
 4. On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested, and also for having nerves of steel to hold for long through turbulent times.
 
-### Road ahead
+#### Road ahead
 Next let me lay out one possible way we could get to this system. Since BTC is Scarce (Most Important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.
 Proposition here is that it serves as SoV - Store Of Value (digital Gold 2.0) in the long period (disregarding short term volatility, looking at 4 year average).
 Later when everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat, and so it slowly takes on the function of MoE - Medium of Exchange.
@@ -49,7 +49,7 @@ After 2030 it will be visible if it is going in this direction and around 2040-2
 Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it would not be centralized it could keep its max cap permanently (no central point of control to make more - removes the fallible human element). At the end there would be balance with its total monetary units (21 mil Btc * 100 mil = 21 quadrillion Sats) and the entire world economy (Hyperbitcoinization).
 So it would be like a precise measurement system for the value (1 meter unit also does not change even as we have taller buildings).
 
-### Macro analysis:
+#### Macro analysis:
 * It is one global monetary standard/protocol, so no issues with conversion between currencies for global trade.
  
 * This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not rise as much since there would be no government bailout.
