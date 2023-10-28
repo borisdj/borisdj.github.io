@@ -65,17 +65,17 @@ Also to note here that fractional reserve banking could still exist, only would 
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
 
-### Possible effects are:
-people would spend more prudently, and would take only calculated risks/credits.
--lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)
--real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation) leading to greater prosperity
-Some other results:
+### Possible effects:
+people would spend more prudently, and would take only calculated risks/credits.  
+-lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
+-real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation) leading to greater prosperity  
+Some other results:  
 simplified savings, fair distribution of economy growth (no Cantillon effect), removing silent regressive Tax via inflation.
 
-Personal assessment currently is that Bitcoin has 51% chance of expanding (in 2017 was 30% and in 2013 maybe 10% then). The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect).
-Like any investment it is a bet, just like any decision in life is. For risky ones, invest only what you are able to lose.
-DYOR and make personal probability for each hypothetical scenario.
-Along this line there are halving cycles every 4 years.
-Reward is reduced by half because many are doing DCA (Dollar-Cost Averaging) that should lead to price hike approximately ~ x2.
-That then gets media attention which attracts new people and traders, leading to hype and new all time high, which is followed by crash and bear market. So it has a specific market dynamic but the 4 year average is constantly going (logarithmic growth) up and number of adopters increase with each round, usage and mobile apps are getting more user friendly every day. If this logic is correct by the end of 2025 it could peak in range between 100 and 200 K, and then maybe fall back below 100, say to 80 K (estimation based on rainbow price chart)
+Personal assessment currently is that Bitcoin has 51% chance of expanding (in 2017 was 30% and in 2013 maybe 10% then). The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect).  
+Like any investment it is a bet, just like any decision in life is. For risky ones, invest only what you are able to lose.  
+DYOR and make personal probability for each hypothetical scenario.  
+Along this line there are halving cycles every 4 years.  
+Reward is reduced by half because many are doing DCA (Dollar-Cost Averaging) that should lead to price hike approximately ~ x2.  
+That then gets media attention which attracts new people and traders, leading to hype and new all time high, which is followed by crash and bear market. So it has a specific market dynamic but the 4 year average is constantly going (logarithmic growth) up and number of adopters increase with each round, usage and mobile apps are getting more user friendly every day. If this logic is correct by the end of 2025 it could peak in range between 100 and 200 K, and then maybe fall back below 100, say to 80 K (estimation based on rainbow price chart)  
 For conclusion: Following months will be interesting to see how this plays out, stay tuned :)
