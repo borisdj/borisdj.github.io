@@ -16,7 +16,8 @@ To be future-proof from changes towards the inflationary model it needs high lev
 
 Bitcoin protocol is just the first functional implementation of this idea (courtesy of Cypherpunks).  
 (Dis->Non)inflationary neutral and apolitical money (agnostic to politics) as bottom up emergent phenomena.  
-It was designed and programmed to have best characteristic of Money: 1.Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
+It was designed and programmed to have best characteristic of Money:  
+&nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
 (fixes bad features of gold regarding easy division and transport because of which yellow metal was centralized).
 
 #### Next to address and elaborate some often given skepticism towards it.
