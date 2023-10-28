@@ -57,7 +57,7 @@ So it would be like a precise measurement system for the value (1 meter unit als
 * Limited supply would not be fundamentally a problem as long as it is divisible downwards, and lightning even enables miliSats.
 If the world economy grows on average 1% per year, some things would reduce its value by 1% (mild price deflation). Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand. Also there is no risk of deflationary spiral since that is only possible in the MoneyAsDebt system.
 
-* Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever). So there would be an equilibrium at any moment in time (factor Velocity of Money: M * V = P * T; P - PriceLevel T - TransactionSum)  
+* Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever). So there would be an equilibrium at any moment in time.  
 No risk of deflationary spiral since that is only possible in the MoneyAsDebt system.
 
 * Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. No Central Bank for bailout, no lender of last resort.
