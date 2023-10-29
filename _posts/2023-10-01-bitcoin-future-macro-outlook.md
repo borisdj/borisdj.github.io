@@ -75,9 +75,12 @@ Electrical Power production is another issue and in the future all power should 
 &nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have succeeded.
 
 ### Conclusion
-Personal assessment currently is that Bitcoin has 51% chance of growing and expanding (in 2017 was 30% and in 2013 maybe 10% then). The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect).  
-Like any investment it is a bet, just like any decision in life is. For risky ones, invest only what you are able to lose.  
-DYOR and make personal probability for each hypothetical scenario.  
+Personal assessment currently is that Bitcoin has 51% chance of growing and expanding  
+(in 2017 was 30% and in 2013 maybe 10% then).  
+The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect).  
+Like any investment it is a bet, just like any decision in life is.  
+For risky ones, invest only what you are able to lose.  
+DYOR and make personal probability for each hypothetical scenario.
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
 For those eager to find out more and deep dive into it, last year post was a mini eBook: [(r)Evolution of Money](https://infopedia.io/revolution-of-money/)
