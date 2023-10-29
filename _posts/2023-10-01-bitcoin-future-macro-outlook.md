@@ -36,7 +36,7 @@ if like the text
 </script>
 
 CONTENT:  
-[**Intro**](#intro) | [**Forward**](#road-ahead) | [**Macro**](#macro) | [**Scepticism**](#scepticism) | [**Conclusion**](#conclusion) 
+[**Intro**](#intro) | [**Forward**](#forward) | [**Macro**](#macro) | [**Scepticism**](#scepticism) | [**Conclusion**](#conclusion) 
 
 ### Intro
 {: #intro }
@@ -51,7 +51,7 @@ It was designed and programmed to have best characteristic of Money:
 (fixes bad features of gold regarding difficult division and transport because of which yellow metal was centralized).  
 
 ### Way Forward
-{: #way-forward }
+{: #forward }
 Next to lay out one possible way we could get to this system. Since BTC is Scarce (most important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.  
 Proposition here is that it serves as SoV - Store Of Value (digital Gold 2.0) in the long period (disregarding short term volatility).  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of MoE - Medium of Exchange.  
