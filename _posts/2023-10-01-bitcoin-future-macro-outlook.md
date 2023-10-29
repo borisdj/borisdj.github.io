@@ -12,6 +12,8 @@ excerpt: "Bitcoin expectations for the coming decades"
 LANG(jezik):<br>
 Global (en-us) / [Local](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/) (sr-latn-ba)<br>
 
+![/bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/bitcoin-future-macro-outlook/bitcoin-future.jpg)
+
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/bitcoin-future-macro-outlook/)
 
