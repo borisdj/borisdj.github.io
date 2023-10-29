@@ -26,23 +26,23 @@ And the third phase (if it ever comes to this one) could be when prices are in i
 Each phase 1,2,3 could last at least 10 years (free estimate). (prePhase 0 was till recently - accumulations as Collectibles). Similar to internet evolution (1980-2020) with S-Curve growth.
 After 2030 it will be visible if it is going in this direction and around 2040-2050 we will know the final result (needs generational change), in the best case 1 BTC could be million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
-Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it would not be centralized it would keep its max cap permanently (no central point of control/failure to increase the supply - removes the fallible human element). At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization and Bitcoin Standard - world reserve currency).
+Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO - Fear Of Missing Out). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it would not be centralized it would keep its max cap permanently (no central point of control/failure to increase the supply - removes the fallible human element). At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization).
 So it would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
 ### Upcoming period
 April 2024 is when next havling occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.
 Because many are buying regulary and doing DCA (Dollar-Cost Averaging) that should lead to price hike approximately ~ x2.  
-It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market dynamic but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. If this logic is correct by the end of 2025 it could peak in range between 100 and 200 K, and then maybe fall back below 100, say to 80 K (estimation based on rainbow price chart).
+It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market dynamic but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. If this logic is correct by the end of 2025 it could peak in range between 100 and 200 thousand USD, and then in 2026/2027 maybe fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
 
-### Possible effects:
-people would spend more prudently, and would take only calculated risks/credits.  
-- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption) 
-- real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation), leading to greater prosperity  
-- fair distribution of economy growth (no Cantillon effect), removing silent regressive Tax via inflation
-- simplified savings
+### Possible effects:  
+&nbsp;- people would spend more prudently, and would take only calculated risks/credits  
+&nbsp;- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption) 
+&nbsp;- real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation), leading to greater prosperity  
+&nbsp;- fair distribution of economy growth (no Cantillon effect - those close to printing machine benefit the most), removing silent regressive Tax via inflation
+&nbsp;- simplified savings
 
 ### Macro analysis:
-* It is one global monetary standard/protocol, so no issues with conversion between currencies for global trade.
+* It is singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
  
 * This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not artificialy rise as much because there would be no government bailout.
 
