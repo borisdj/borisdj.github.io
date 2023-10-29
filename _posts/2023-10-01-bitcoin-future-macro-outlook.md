@@ -44,7 +44,7 @@ Let's start with the notion that behind Bitcoin (BTC) is an idea, essentially th
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom.
 
 Bitcoin protocol is just the first functional implementation of this idea (courtesy of Cypherpunks).  
-Noninflationary sound money that is internet native, digital, neutral and apolitical (agnostic to politics) as bottom up emergent phenomena.  
+Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomena.  
 Also being fully permissionless and trustless, since people trust is often betrayed by large organisations.  
 It was designed and programmed to have best characteristic of Money:  
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
@@ -83,7 +83,7 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 {: #macro }  
 &nbsp;**1.** It is singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
  
-&nbsp;**2.** This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout.
+&nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout.
 
 &nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards (8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Satoshis or Sats) and lightning even enables miliSats. 
 If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand.  
@@ -111,10 +111,10 @@ Interesting note to mention here is that on top of lightning rails we could see 
 
 &nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
 Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today has higher power expenditure than this.  
-At the same time miners can help stabilize the grid and also it can consume stranded energy.  
+At the same time miners can help stabilize the grid and also they can consume stranded energy.  
 Electrical production is another issue and in the future all power should be green from sustainable sources.
 
-&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have succeeded.
+&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have survived.
 
 ### Conclusion
 {: #conclusion }
