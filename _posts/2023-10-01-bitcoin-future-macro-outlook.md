@@ -55,11 +55,11 @@ It was designed and programmed to have best characteristic of Money:
 Next to lay out one possible way how we could get to this system. Since BTC is Scarce (most important feature) while state-issued (Fiat) currency is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.  
 Proposition here is that it serves as **SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **MoE** - *Medium of Exchange*.  
-And the third phase (if it ever comes to this one) could be when prices are in it, so **UoA** - ***Unit of Account*** feature (universal currency).  
+And the third phase (if it ever comes to this one) could be when prices are in it, so **UoA** - *Unit of Account* feature (universal currency).  
 Each phase 1,2,3 could last at least 10 years (free estimate). (prePhase 0 was till recently - accumulations as Collectibles). Similar to internet evolution (1980-2020) with S-Curve growth.  
 After 2030 it will be visible if it is going in this direction and around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
-Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO - Fear Of Missing Out). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its max limit (no central point of control/failure to increase the supply - removes the fallible human element). US dollar has already started slowly to lose its dominance.  
+Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its max limit (no central point of control/failure to increase the supply - removes the fallible human element).    
 At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization).  
 So it would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
@@ -81,7 +81,7 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 
 ### Macro analysis (fixed money supply):
 {: #macro }  
-&nbsp;**1.** It is singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
+&nbsp;**1.** It is a singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout.
 
