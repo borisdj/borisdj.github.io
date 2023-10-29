@@ -64,7 +64,7 @@ Only Bitcoin is considered as Commodity, confirmed as such by the SEC (Security 
 
 2. As for the criticism of being slow, it kinda is but for a good reason, or a few of them.
 Distributed ledger can have only limited size and growth based on world wide average internet connection and average disk size. Also all world transactions do not (and should not) need to be on public ledger. One payment for coffee has no place on a permanent database (emphasis on structural efficiency).
-So the only feasible solution was to limit number transactions per second on the main layer, and solve scalability on top layers. In the future it is expected that the base layer would serve as a settlement between lightning nodes, custodians and banks with published proof of reserves, countries, etc; like today RTGS or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on Lightning or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper than visa), has bigger capacity (potentially 1 million+ TPS) and more privacy.
+So the only feasible solution was to limit number transactions per second on the main layer, and solve scalability on top layers. In the future it is expected that the base layer would serve as a settlement between lightning nodes, custodians and banks with published proof of reserves, countries, etc; like today RTGS or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on [Lightning](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper than visa), has bigger capacity (potentially [1 million+ TPS](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) and more privacy.
 Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats become stable enough themselves.
 
 3. To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
@@ -79,4 +79,4 @@ Like any investment it is a bet, just like any decision in life is. For risky on
 DYOR and make personal probability for each hypothetical scenario.  
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
-For those eager to find out more, last year post was a mini eBook: [(r)Evolution of Money](https://infopedia.io/revolution-of-money/)
+For those eager to find out more and deep dive into it, last year post was a mini eBook: [(r)Evolution of Money](https://infopedia.io/revolution-of-money/)
