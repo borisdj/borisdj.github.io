@@ -492,7 +492,7 @@ Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_b
    - while companies and their networks/platforms can be censored protocols cannot be blocked so easily.<br>
 2. Network effect
    - the more people use it, it's more likely to become bigger<br>
-     (value increases with number of users)
+     (value increases with number of users - Metcalfe's law)
 4. Added value
    - with new unique features and functionality<br>
 6. Simplistic design in its core
