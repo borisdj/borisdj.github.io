@@ -38,7 +38,8 @@ if like the text
 CONTENT
 [**Intro**](#intro) | [**Road ahead**](#road-ahead) |
 
-### Intro {: #intro }
+### Intro
+{: #intro }
 Let's start with the notion that behind Bitcoin is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation(debasement) and high or hyper runaway inflation, as history often proved. As a result citizens' savings gets stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom.
 
@@ -49,7 +50,8 @@ It was designed and programmed to have best characteristic of Money:
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
 (fixes bad features of gold regarding difficult division and transport because of which yellow metal was centralized).  
 
-### Road ahead {: #road-ahead }
+### Road ahead
+{: #road-ahead }
 Next to lay out one possible way we could get to this system. Since BTC is Scarce (Most Important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.
 Proposition here is that it serves as SoV - Store Of Value (digital Gold 2.0) in the long period (disregarding short term volatility, looking at 4 year average).
 Later when everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat, and so it slowly takes on the function of MoE - Medium of Exchange.
