@@ -76,7 +76,7 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 -- real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
 &nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
 -- fair distribution of economy growth by removing silent regressive Tax via inflation  
-&nbsp;&nbsp;(no Cantillon effect - those close to printing machine benefit the most),
+&nbsp;&nbsp;(no Cantillon effect - those close to printing machine benefit the most)  
 -- simplified savings  
 
 ### Macro analysis (fixed money supply):
