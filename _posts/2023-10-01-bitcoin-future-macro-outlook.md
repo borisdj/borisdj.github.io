@@ -97,7 +97,7 @@ Real estates would have lower prices since they would not serve as a Store of Va
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage, Network effect(value is subjective), best governance model, most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
+First mover advantage, Network effect(value is subjective), best governance model (no known founder), most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
 Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity, confirmed as such by the SEC (Security Exchange Commission of the USA).  
 Also Side/Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security.  
 And any real new invention, since all are open source, could be added into Bitcoin with new updates. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there.  
