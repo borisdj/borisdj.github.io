@@ -52,11 +52,11 @@ It was designed and programmed to have best characteristic of Money:
 
 ### Way Forward
 {: #way-forward }
-Next to lay out one possible way we could get to this system. Since BTC is Scarce (Most Important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.
-Proposition here is that it serves as SoV - Store Of Value (digital Gold 2.0) in the long period (disregarding short term volatility, looking at 4 year average).
-Later when everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat, and so it slowly takes on the function of MoE - Medium of Exchange.
-And the third phase (if it ever comes to this one) could be when prices are in it, so Unit of Account feature (universal currency).
-Each phase 1,2,3 could last at least 10 years (free estimate). (prePhase 0 was till recently - accumulations as Collectibles). Similar to internet evolution (1980-2020) with S-Curve growth.
+Next to lay out one possible way we could get to this system. Since BTC is Scarce (most important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.  
+Proposition here is that it serves as SoV - Store Of Value (digital Gold 2.0) in the long period (disregarding short term volatility).  
+Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of MoE - Medium of Exchange.  
+And the third phase (if it ever comes to this one) could be when prices are in it, so Unit of Account feature (universal currency).  
+Each phase 1,2,3 could last at least 10 years (free estimate). (prePhase 0 was till recently - accumulations as Collectibles). Similar to internet evolution (1980-2020) with S-Curve growth.  
 After 2030 it will be visible if it is going in this direction and around 2040-2050 we will know the final result (needs generational change), in the best case 1 BTC could be million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
 Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO - Fear Of Missing Out). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it would not be centralized it would keep its max cap permanently (no central point of control/failure to increase the supply - removes the fallible human element). At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization).
@@ -65,35 +65,36 @@ So it would be like a precise measurement system for the value - [measuring stic
 #### Upcoming period
 April 2024 is when next havling occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.
 Because many are buying regulary and doing DCA (Dollar-Cost Averaging) that should lead to price hike approximately ~ x2.  
-It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market dynamic but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. If this logic is correct, with current price of $ 27.000, by the end of 2025 it could peak in range between 100 and 200 thousand USD, and then in 2026/2027 maybe fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
+It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day.  
+If this logic is correct, with current price of $ 27.000, by the end of 2025 it could peak in range between 100 and 200 thousand USD. After this in 2026/2027 maybe it will fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
 
 #### Possible effects:  
--&nbsp;people would spend more prudently, and would take only calculated risks/credits  
--&nbsp;lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
--&nbsp;real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
+-- people would spend more prudently, and would take only calculated risks/credits  
+-- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
+-- real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
 &nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
--&nbsp;fair distribution of economy growth by removing silent regressive Tax via inflation  
+-- fair distribution of economy growth by removing silent regressive Tax via inflation  
 &nbsp;&nbsp;(no Cantillon effect - those close to printing machine benefit the most),
--&nbsp;simplified savings  
+-- simplified savings  
 
 ### Macro analysis (fixed money supply):
-{: #macro }
-* It is singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
+{: #macro }  
+&nbsp;**1.** It is singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
  
-* This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not artificialy rise as much because there would be no government bailout.
+&nbsp;**2.** This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not artificialy rise as much because there would be no government bailout.
 
-* Limited supply would not be fundamentally a problem as long as it is divisible downwards (8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Satoshis or Sats) and lightning even enables miliSats. 
+&nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards (8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Satoshis or Sats) and lightning even enables miliSats. 
 If the world economy grows on average 1% per year, some things would reduce its value by 1% (mild price deflation). Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand. Also there is no risk of deflationary spiral since that is only possible in the MoneyAsDebt system (money created with each new credit while being destroyed when debt is paid off).
 
-* Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever).  
+&nbsp;**4.** Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever).  
 So there would be an equilibrium at any moment in time.  
 
-* Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. No Central Bank for bailout, no lender of last resort.
+&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. No Central Bank for bailout, no lender of last resort.
 Also to note here that fractional reserve banking could still exist, only would be limited with deposits and have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
 ### Finally to address and elaborate some often given scepticism towards it:
-{: #scepticism }
+{: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
 First mover advantage, Network effect(value is subjective), best governance model, most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
 Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity, confirmed as such by the SEC (Security Exchange Commission of the USA).  
