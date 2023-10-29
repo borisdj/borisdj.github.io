@@ -64,7 +64,7 @@ At the end there would be balance with its total monetary units and the entire w
 So it would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
 #### Upcoming period
-April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.
+April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.  
 Because many are buying regulary and doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately ~ x2.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
 (Exchange-Traded Fund) will have additional impact on bull rally.
@@ -89,7 +89,7 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand.  
 Also there is no risk of deflationary spiral since that is only possible in today's *Money As Debt* system (money created with each new credit while being destroyed when debt is paid off).
 
-&nbsp;**4.** Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever).  
+&nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend and save during their life (nobody lives forever).  
 So there would be an equilibrium at any moment in time.  
 
 &nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
