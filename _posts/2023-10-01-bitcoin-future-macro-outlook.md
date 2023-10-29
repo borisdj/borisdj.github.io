@@ -18,7 +18,7 @@ It was designed and programmed to have best characteristic of Money:
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
 (fixes bad features of gold regarding easy division and transport because of which yellow metal was centralized).  
 
-#### Road ahead
+### Road ahead
 Next to lay out one possible way we could get to this system. Since BTC is Scarce (Most Important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.
 Proposition here is that it serves as SoV - Store Of Value (digital Gold 2.0) in the long period (disregarding short term volatility, looking at 4 year average).
 Later when everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat, and so it slowly takes on the function of MoE - Medium of Exchange.
@@ -29,18 +29,19 @@ After 2030 it will be visible if it is going in this direction and around 2040-2
 Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it would not be centralized it would keep its max cap permanently (no central point of control/failure to increase the supply - removes the fallible human element). At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization).
 So it would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
-#### Upcoming period
+### Upcoming period
 April 2024 is when next havling occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.
 Because many are buying regulary and doing DCA (Dollar-Cost Averaging) that should lead to price hike approximately ~ x2.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market dynamic but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. If this logic is correct by the end of 2025 it could peak in range between 100 and 200 K, and then maybe fall back below 100, say to 80 K (estimation based on rainbow price chart).
 
-#### Possible effects:
+### Possible effects:
 people would spend more prudently, and would take only calculated risks/credits.  
-- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
+- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)   simplified savings, 
 - real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation), leading to greater prosperity  
-- simplified savings, fair distribution of economy growth (no Cantillon effect), removing silent regressive Tax via inflation
-- 
-#### Macro analysis:
+- fair distribution of economy growth (no Cantillon effect), removing silent regressive Tax via inflation
+- simplified savings
+
+### Macro analysis:
 * It is one global monetary standard/protocol, so no issues with conversion between currencies for global trade.
  
 * This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not artificialy rise as much because there would be no government bailout.
@@ -55,7 +56,7 @@ So there would be an equilibrium at any moment in time.
 Also to note here that fractional reserve banking could still exist, only would be limited with deposits and have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
-#### Finally to address and elaborate some often given skepticism towards it:
+### Finally to address and elaborate some often given skepticism towards it:
 1. Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
 First mover advantage, Network effect(value is subjective), decentralized hashrate and wide  node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
 PoS (Proof of Stake) are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Also Side/Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security.
@@ -73,7 +74,7 @@ Electrical Power production is another issue and in the future all power should 
 
 4. On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have succeeded.
 
-#### Conclusion
+### Conclusion
 Personal assessment currently is that Bitcoin has 51% chance of growing and expanding (in 2017 was 30% and in 2013 maybe 10% then). The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect).  
 Like any investment it is a bet, just like any decision in life is. For risky ones, invest only what you are able to lose.  
 DYOR and make personal probability for each hypothetical scenario.  
