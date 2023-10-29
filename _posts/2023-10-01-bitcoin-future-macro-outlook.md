@@ -26,7 +26,7 @@ And the third phase (if it ever comes to this one) could be when prices are in i
 Each phase 1,2,3 could last at least 10 years (free estimate). (prePhase 0 was till recently - accumulations as Collectibles). Similar to internet evolution (1980-2020) with S-Curve growth.
 After 2030 it will be visible if it is going in this direction and around 2040-2050 we will know the final result (needs generational change), in the best case 1 BTC could be million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
-Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it would not be centralized it would keep its max cap permanently (no central point of control/failure to increase the supply - removes the fallible human element). At the end there would be balance with its total monetary units (21 mil Btc * 100 mil = 21 quadrillion Sats) and the entire world economy (Hyperbitcoinization).
+Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it would not be centralized it would keep its max cap permanently (no central point of control/failure to increase the supply - removes the fallible human element). At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization).
 So it would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
 #### Upcoming period
@@ -34,12 +34,18 @@ April 2024 is when next havling occurs. Event refers to reducing (by half) creat
 Because many are buying regulary and doing DCA (Dollar-Cost Averaging) that should lead to price hike approximately ~ x2.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market dynamic but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. If this logic is correct by the end of 2025 it could peak in range between 100 and 200 K, and then maybe fall back below 100, say to 80 K (estimation based on rainbow price chart).
 
+#### Possible effects:
+people would spend more prudently, and would take only calculated risks/credits.  
+- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
+- real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation), leading to greater prosperity  
+- simplified savings, fair distribution of economy growth (no Cantillon effect), removing silent regressive Tax via inflation
+- 
 #### Macro analysis:
 * It is one global monetary standard/protocol, so no issues with conversion between currencies for global trade.
  
 * This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not artificialy rise as much because there would be no government bailout.
 
-* Limited supply would not be fundamentally a problem as long as it is divisible downwards, and lightning even enables miliSats.
+* Limited supply would not be fundamentally a problem as long as it is divisible downwards: 8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Sats), and lightning even enables miliSats.
 If the world economy grows on average 1% per year, some things would reduce its value by 1% (mild price deflation). Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand. Also there is no risk of deflationary spiral since that is only possible in the MoneyAsDebt system.
 
 * Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever).  
@@ -48,12 +54,6 @@ So there would be an equilibrium at any moment in time.
 * Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. No Central Bank for bailout, no lender of last resort.
 Also to note here that fractional reserve banking could still exist, only would be limited with deposits and have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
-
-### Possible effects:
-people would spend more prudently, and would take only calculated risks/credits.  
-- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
-- real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation), leading to greater prosperity  
-- simplified savings, fair distribution of economy growth (no Cantillon effect), removing silent regressive Tax via inflation
 
 #### Finally to address and elaborate some often given skepticism towards it:
 1. Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
@@ -64,7 +64,7 @@ Only Bitcoin is considered as Commodity, confirmed as such by the SEC (Security 
 
 2. As for the criticism of being slow, it kinda is but for a good reason, or a few of them.
 Distributed ledger can have only limited size and growth based on world wide average internet connection and average disk size. Also all world transactions do not (and should not) need to be on public ledger. One payment for coffee has no place on a permanent database (emphasis on structural efficiency).
-So the only feasible solution was to limit number transactions per second on the main layer, and solve scalability on top layers. In the future it is expected that the base layer would serve as a settlement between lightning nodes, custodians, banks, countries, etc; like today RTGS or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on Lightning or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper than visa), has bigger capacity (potentially 1 million+ TPS) and more privacy.
+So the only feasible solution was to limit number transactions per second on the main layer, and solve scalability on top layers. In the future it is expected that the base layer would serve as a settlement between lightning nodes, custodians and banks with published proof of reserves, countries, etc; like today RTGS or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on Lightning or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper than visa), has bigger capacity (potentially 1 million+ TPS) and more privacy.
 Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats become stable enough themselves.
 
 3. To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
