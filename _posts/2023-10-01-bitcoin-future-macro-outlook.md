@@ -36,10 +36,10 @@ It then gets media attention which attracts new people and traders, leading to h
 
 ### Possible effects:  
 &nbsp;- people would spend more prudently, and would take only calculated risks/credits  
-&nbsp;- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption) 
+&nbsp;- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
 &nbsp;- real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation), leading to greater prosperity  
-&nbsp;- fair distribution of economy growth (no Cantillon effect - those close to printing machine benefit the most), removing silent regressive Tax via inflation
-&nbsp;- simplified savings
+&nbsp;- fair distribution of economy growth (no Cantillon effect - those close to printing machine benefit the most), removing silent regressive Tax via inflation  
+&nbsp;- simplified savings  
 
 ### Macro analysis:
 * It is singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
