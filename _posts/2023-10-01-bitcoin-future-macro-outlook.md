@@ -16,7 +16,7 @@ Bitcoin protocol is just the first functional implementation of this idea (court
 (Dis->Non)inflationary sound money that is internet native, digital, neutral and apolitical (agnostic to politics) as bottom up emergent phenomena, while being fully permissionless and trustless.  
 It was designed and programmed to have best characteristic of Money:  
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
-(fixes bad features of gold regarding easy division and transport because of which yellow metal was centralized).  
+(fixes bad features of gold regarding difficult division and transport because of which yellow metal was centralized).  
 
 ### Road ahead
 Next to lay out one possible way we could get to this system. Since BTC is Scarce (Most Important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.
