@@ -124,4 +124,4 @@ For risky ones, invest only what you can afford to lose.
 DYOR and make your probability for each hypothetical scenario.
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
-For those eager to find out more and deep dive into it, last year post was mini eBook: [(r)Evolution of Money](https://infopedia.io/revolution-of-money/)
+For those eager to find out more and deep dive into it, first Bit post was mini eBook: [(r)Evolution of Money](https://infopedia.io/revolution-of-money/)
