@@ -92,7 +92,7 @@ Also there is no risk of deflationary spiral since that is only possible in the 
 &nbsp;**4.** Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever).  
 So there would be an equilibrium at any moment in time.  
 
-&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. No Central Bank as lender of last resort.  
+&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
 Also to note here that fractional reserve banking could still exist, only would be limited with deposits and have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
