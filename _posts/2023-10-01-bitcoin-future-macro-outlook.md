@@ -57,22 +57,22 @@ Also to note here that fractional reserve banking could still exist, only would 
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
 ### Finally to address and elaborate some often given skepticism towards it:
-1. Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
+&nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
 First mover advantage, Network effect(value is subjective), decentralized hashrate and wide  node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
 PoS (Proof of Stake) are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Also Side/Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security.
 Also any real new invention, since all are open source, could be added into Bitcoin with new updates. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there.
 Only Bitcoin is considered as Commodity, confirmed as such by the SEC (Security Exchange Commission of the USA).
 
-2. As for the criticism of being slow, it kinda is but for a good reason, or a few of them.
+&nbsp;**2.** As for the criticism of being slow, it kinda is but for a good reason, or a few of them.
 Distributed ledger can have only limited size and growth based on world wide average internet connection and average disk size. Also all world transactions do not (and should not) need to be on public ledger. One payment for coffee has no place on a permanent database (emphasis on structural efficiency).
 So the only feasible solution was to limit number transactions per second on the main layer, and solve scalability on top layers. In the future it is expected that the base layer would serve as a settlement between lightning nodes, custodians and banks with published proof of reserves, countries, etc; like today RTGS or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on [Lightning](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper than visa), has bigger capacity (potentially [1 million+ TPS](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) and more privacy.
 Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats become stable enough themselves.
 
-3. To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
+&nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
 Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today uses more power than this.    
 Electrical Power production is another issue and in the future all power should be green from sustainable sources, while at the same time it can help stabilize the grid and also it can consume stranded energy.
 
-4. On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have succeeded.
+&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have succeeded.
 
 ### Conclusion
 Personal assessment currently is that Bitcoin has 51% chance of growing and expanding (in 2017 was 30% and in 2013 maybe 10% then). The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect).  
