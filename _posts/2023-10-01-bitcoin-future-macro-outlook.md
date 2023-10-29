@@ -36,7 +36,7 @@ It then gets media attention which attracts new people and traders, leading to h
 
 ### Possible effects:
 people would spend more prudently, and would take only calculated risks/credits.  
-- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)   simplified savings, 
+- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption) 
 - real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation), leading to greater prosperity  
 - fair distribution of economy growth (no Cantillon effect), removing silent regressive Tax via inflation
 - simplified savings
@@ -46,7 +46,7 @@ people would spend more prudently, and would take only calculated risks/credits.
  
 * This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not artificialy rise as much because there would be no government bailout.
 
-* Limited supply would not be fundamentally a problem as long as it is divisible downwards: 8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Sats), and lightning even enables miliSats.
+* Limited supply would not be fundamentally a problem as long as it is divisible downwards (8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Satoshis or Sats) and lightning even enables miliSats. 
 If the world economy grows on average 1% per year, some things would reduce its value by 1% (mild price deflation). Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand. Also there is no risk of deflationary spiral since that is only possible in the MoneyAsDebt system.
 
 * Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever).  
@@ -66,7 +66,7 @@ Only Bitcoin is considered as Commodity, confirmed as such by the SEC (Security 
 &nbsp;**2.** As for the criticism of being slow, it kinda is but for a good reason, or a few of them.
 Distributed ledger can have only limited size and growth based on world wide average internet connection and average disk size. Also all world transactions do not (and should not) need to be on public ledger. One payment for coffee has no place on a permanent database (emphasis on structural efficiency).
 So the only feasible solution was to limit number transactions per second on the main layer, and solve scalability on top layers. In the future it is expected that the base layer would serve as a settlement between lightning nodes, custodians and banks with published proof of reserves, countries, etc; like today RTGS or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on [Lightning](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper than visa), has bigger capacity (potentially [1 million+ TPS](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) and more privacy.
-Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats become stable enough themselves.
+Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats themselves become stable enough.
 
 &nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
 Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today uses more power than this.    
