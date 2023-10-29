@@ -92,8 +92,8 @@ So there would be an equilibrium at any moment in time.
 Also to note here that fractional reserve banking could still exist, only would be limited with deposits and have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
-### Finally to address and elaborate some often given skepticism towards it:
-{: #skepticism }
+### Finally to address and elaborate some often given scepticism towards it:
+{: #scepticism }
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
 First mover advantage, Network effect(value is subjective), best governance model, most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
 Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity, confirmed as such by the SEC (Security Exchange Commission of the USA).  
