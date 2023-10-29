@@ -10,10 +10,10 @@ excerpt: "Bitcoin expectations for the coming decades"
 **Bitcoin** expectations for the coming months and decades<br>
 
 Let's start with the notion that behind Bitcoin is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation(debasement) and high or hyper runaway inflation, as history often proved. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
-So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration. We could say it is a movement towards financial autonomy and freedom.
+So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom.
 
 Bitcoin protocol is just the first functional implementation of this idea (courtesy of Cypherpunks).  
-(Dis->Non)inflationary sound money that is internet native, digital, neutral and apolitical (agnostic to politics) as bottom up emergent phenomena, while being fully permissionless and trustless.  
+(Dis->Non)inflationary sound money that is internet native, digital, neutral and apolitical (agnostic to politics) as bottom up emergent phenomena, while being fully permissionless and trustless (because trust is often betrayed).  
 It was designed and programmed to have best characteristic of Money:  
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
 (fixes bad features of gold regarding difficult division and transport because of which yellow metal was centralized).  
