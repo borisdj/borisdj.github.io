@@ -42,7 +42,7 @@ It then gets media attention which attracts new people and traders, leading to h
 &nbsp;- fair distribution of economy growth (no Cantillon effect - those close to printing machine benefit the most), removing silent regressive Tax via inflation  
 &nbsp;- simplified savings  
 
-### Macro analysis:
+### Macro analysis (fixed money supply):
 * It is singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
  
 * This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not artificialy rise as much because there would be no government bailout.
@@ -59,7 +59,7 @@ Real estates would have lower prices since they would not serve as a Store of Va
 
 ### Finally to address and elaborate some often given skepticism towards it:
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage, Network effect(value is subjective), decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
+First mover advantage, Network effect(value is subjective), best governance model, most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
 Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity, confirmed as such by the SEC (Security Exchange Commission of the USA).  
 Also Side/Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security.  
 And any real new invention, since all are open source, could be added into Bitcoin with new updates. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there.  
@@ -70,8 +70,9 @@ So the only feasible solution was to limit number transactions per second on the
 Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats themselves become stable enough.
 
 &nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
-Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today uses more power than this.  
-Electrical Power production is another issue and in the future all power should be green from sustainable sources, while at the same time it can help stabilize the grid and also it can consume stranded energy.
+Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today has higher power expenditure than this.  
+At the same time minir can help stabilize the grid and also it can consume stranded energy.
+Electrical production is another issue and in the future all power should be green from sustainable sources.
 
 &nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have succeeded.
 
