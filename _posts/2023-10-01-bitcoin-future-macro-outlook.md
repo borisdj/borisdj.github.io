@@ -13,11 +13,10 @@ Let's start with the notion that behind Bitcoin is an idea, essentially that the
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration. We could say it is a movement towards financial autonomy and freedom.
 
 Bitcoin protocol is just the first functional implementation of this idea (courtesy of Cypherpunks).  
-(Dis->Non)inflationary sound money that is internet native, digital, neutral and apolitical (agnostic to politics) as bottom up emergent phenomena.  
+(Dis->Non)inflationary sound money that is internet native, digital, neutral and apolitical (agnostic to politics) as bottom up emergent phenomena, while being fully permissionless and trustless.  
 It was designed and programmed to have best characteristic of Money:  
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
 (fixes bad features of gold regarding easy division and transport because of which yellow metal was centralized).  
-System is also fully permissionless and trustless.
 
 #### Road ahead
 Next to lay out one possible way we could get to this system. Since BTC is Scarce (Most Important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.
