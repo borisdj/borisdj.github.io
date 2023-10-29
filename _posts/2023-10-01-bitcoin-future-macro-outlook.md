@@ -54,7 +54,7 @@ It then gets media attention which attracts new people and traders, leading to h
 * This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy would have natural business cycles and would be more stable. So swings would be much smaller since they could not artificialy rise as much because there would be no government bailout.
 
 * Limited supply would not be fundamentally a problem as long as it is divisible downwards (8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Satoshis or Sats) and lightning even enables miliSats. 
-If the world economy grows on average 1% per year, some things would reduce its value by 1% (mild price deflation). Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand. Also there is no risk of deflationary spiral since that is only possible in the MoneyAsDebt system.
+If the world economy grows on average 1% per year, some things would reduce its value by 1% (mild price deflation). Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand. Also there is no risk of deflationary spiral since that is only possible in the MoneyAsDebt system (new money created with each credit and loan).
 
 * Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever).  
 So there would be an equilibrium at any moment in time.  
