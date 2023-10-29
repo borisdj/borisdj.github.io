@@ -15,6 +15,24 @@ Global (en-us) / [Local](https://infopedia.io/sr-latn/bitcoin-future-macro-outlo
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/bitcoin-future-macro-outlook/)
 
+<p>
+Tap <BUTTON id="buttonLike" TYPE="button" 
+style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
+ONCLICK="fetch(counterUrl + 'post');
+document.getElementById('counterCell').innerHTML=likesCounter+1; document.getElementById('buttonLike').disabled=true; 
+document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
+alert('Like:) saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
+if like the text
+[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">Likes counter:</a> <b id="counterCell">N</b>]
+</p>
+<script>
+  var likesCounter = 0;
+  var counterUrl = 'https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec?type=';
+  document.addEventListener("DOMContentLoaded", function() {
+    fetch(counterUrl + 'get').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
+  });
+</script>
+
 Let's start with the notion that behind Bitcoin is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation(debasement) and high or hyper runaway inflation, as history often proved. As a result citizens' savings gets stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom.
 
@@ -42,11 +60,13 @@ Because many are buying regulary and doing DCA (Dollar-Cost Averaging) that shou
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market dynamic but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. If this logic is correct, with current price of $ 27.000, by the end of 2025 it could peak in range between 100 and 200 thousand USD, and then in 2026/2027 maybe fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
 
 ### Possible effects:  
-&nbsp;- people would spend more prudently, and would take only calculated risks/credits  
-&nbsp;- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
-&nbsp;- real wages that keeps purchasing power with mild price deflation (no need to ask for raise just to keep up with inflation), leading to greater prosperity  
-&nbsp;- fair distribution of economy growth (no Cantillon effect - those close to printing machine benefit the most), removing silent regressive Tax via inflation  
-&nbsp;- simplified savings  
+-&nbsp;people would spend more prudently, and would take only calculated risks/credits  
+-&nbsp;lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
+-&nbsp;real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
+&nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
+-&nbsp;fair distribution of economy growth by removing silent regressive Tax via inflation  
+&nbsp;&nbsp;(no Cantillon effect - those close to printing machine benefit the most),
+-&nbsp;simplified savings  
 
 ### Macro analysis (fixed money supply):
 * It is singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
