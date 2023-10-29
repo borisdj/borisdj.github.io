@@ -86,7 +86,7 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 &nbsp;**2.** This would be neutral and apolitical money (somewhat radical idea), so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout.
 
 &nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards (8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Satoshis or Sats) and lightning even enables miliSats. 
-If the world economy grows on average 1% per year, some things would reduce its price by 1% (mild price deflation). Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand.  
+If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand.  
 Also there is no risk of deflationary spiral since that is only possible in the MoneyAsDebt system (money created with each new credit while being destroyed when debt is paid off).
 
 &nbsp;**4.** Hoarding is not an issue, as humans have everyday needs but also wants and would spend and save during their life (nobody lives forever).  
