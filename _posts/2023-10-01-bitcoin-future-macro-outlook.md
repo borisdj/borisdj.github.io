@@ -12,6 +12,9 @@ excerpt: "Bitcoin expectations for the coming decades"
 LANG(jezik):<br>
 Global (en-us) / [Local](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/) (sr-latn-ba)<br>
 
+<center>QR Link</center>
+![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 Let's start with the notion that behind Bitcoin is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation(debasement) and high or hyper runaway inflation, as history often proved. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom.
 
