@@ -43,7 +43,7 @@ CONTENT:
 Let's start with the notion that behind Bitcoin (BTC) is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation(debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom.
 
-Bitcoin protocol is just the first functional implementation of this idea (courtesy of Cypherpunks).  
+Bitcoin protocol is simply the first functional implementation of this idea (courtesy of Cypherpunks).  
 Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomena.  
 Also being fully permissionless and trustless, since people trust is often betrayed by large organisations.  
 It was designed and programmed to have best characteristic of Money:  
@@ -56,19 +56,13 @@ Next to lay out one possible way how we could get to this system. Since BTC is S
 Proposition here is that it serves as **SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **UoA** - *Unit of Account* feature (universal currency).  
+BTC has enormous potential as it could be first triple point asset in history.  
 Each phase 1,2,3 could last at least 10 years (free estimate). (prePhase 0 was till recently - accumulations as Collectibles). Similar to internet evolution (1980-2020) with S-Curve growth.  
 After 2030 it will be visible if it is going in this direction and around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
-Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, and if few make it legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its max limit (no central point of control/failure to increase the supply - removes the fallible human element).    
+Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it. And if few make it legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its max limit (no central point of control/failure to increase the supply - removes the fallible human element).    
 At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization).  
 So it would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
-
-#### Upcoming period
-April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.  
-Because many are buying regulary and doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately ~ x2.  
-It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
-(Exchange-Traded Fund) will have additional impact on bull rally.
-If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 250 thousand USD. After this in 2026 or 2027 maybe it will fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
 
 **Possible effects:**  
 -- people would spend more prudently, and would take only calculated risks/credits  
@@ -78,6 +72,13 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 -- fair distribution of economy growth by removing silent regressive Tax via inflation  
 &nbsp;&nbsp;(no Cantillon effect - those close to printing machine benefit the most)  
 -- simplified savings  
+
+#### Upcoming period
+April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.  
+Because many are buying regulary and doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately ~ x2.  
+It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
+(Exchange-Traded Fund) will have additional impact on bull rally.
+If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 250 thousand USD. After this in 2026 or 2027 maybe it will fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
 
 ### Macro analysis (fixed money supply):
 {: #macro }  
