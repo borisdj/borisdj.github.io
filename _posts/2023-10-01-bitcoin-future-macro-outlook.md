@@ -104,7 +104,8 @@ There would mostly be Full-reserve banking, limited with time deposits. And even
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
 To substantiate these claims there is an excellent article:  
-[*Why a fixed supply money does not lead to economic catastrophe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)
+[*Why a fixed supply money does not lead to economic catastrophe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)  
+(*And why it is in fact the only intellectually and ethically defensible monetary system*)
 
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
