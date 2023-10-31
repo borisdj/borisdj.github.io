@@ -55,9 +55,9 @@ It was designed and programmed to have best characteristic of Money:
 ### Way Forward
 {: #forward }
 Next to lay out one possible way how we could get to this system. Since BTC is Scarce (most important feature) while state-issued (Fiat) currency is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.  
-Proposition here is that it serves as **1. SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
-Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **2. MoE** - *Medium of Exchange*.  
-And the third phase (if it ever comes to this one) could be when prices are in it, so **3. UoA** - *Unit of Account* feature (universal currency).  
+Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
+Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
+And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
 BTC has enormous potential as it could be first triple point asset, unique in history.  
 In technical sence it is backed by a significant computer science breakthrough: Decentralised Digital Scarcity.  
 Each phase 1, 2, 3 could last at least 10 years (free estimate).  
