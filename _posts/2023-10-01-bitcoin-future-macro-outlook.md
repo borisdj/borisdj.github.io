@@ -55,12 +55,12 @@ It was designed and programmed to have best characteristic of Money:
 ### Way Forward
 {: #forward }
 Next to lay out one possible way how we could get to this system. Since BTC is Scarce (most important feature) while state-issued (Fiat) currency is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.  
-Proposition here is that it serves as **SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
-Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **MoE** - *Medium of Exchange*.  
-And the third phase (if it ever comes to this one) could be when prices are in it, so **UoA** - *Unit of Account* feature (universal currency).  
+Proposition here is that it serves as **1. SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
+Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **2. MoE** - *Medium of Exchange*.  
+And the third phase (if it ever comes to this one) could be when prices are in it, so **3. UoA** - *Unit of Account* feature (universal currency).  
 BTC has enormous potential as it could be first triple point asset, unique in history.  
 In technical sence it is backed by a significant computer science breakthrough: Decentralised Digital Scarcity.  
-Each phase 1,2,3 could last at least 10 years (free estimate).  
+Each phase 1, 2, 3 could last at least 10 years (free estimate).  
 PrePhase 0 was until recently - accumulations as Collectibles. Similar to internet evolution (1980-2020) with S-Curve growth.  
 After 2030 it will be visible if it is going in this direction and around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
