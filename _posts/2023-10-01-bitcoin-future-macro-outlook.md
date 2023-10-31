@@ -86,12 +86,13 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 
 ### Macro analysis (fixed money supply):
 {: #macro }  
-&nbsp;**1.** It is a singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
+&nbsp;**1.** It is a singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade and e-commerce.  
+Optimal monetary system engineered to be as efficient as possible.
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
 
 &nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards (8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Satoshis or Sats) and lightning even enables miliSats. 
-If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand.  
+If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course few would fall even with higher production efficiency and some could rise if there would be extra demand.  
 Also there is no risk of deflationary spiral since that is only possible in today's *Money As Debt* system (money created with each new credit while being destroyed when debt is paid off).
 
 &nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend and save during their life (nobody lives forever).  
