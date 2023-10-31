@@ -41,11 +41,13 @@ CONTENT:
 ### Intro
 {: #intro }
 Let's start with the notion that behind Bitcoin (BTC) is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation(debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
-So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom.
+So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom. Practical and feasible attempt to fix the broken monetary system.  
+To quote F.A.Hayek from his book *‘The Denationalization of Money’*:  
+*“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. All we can do is by some sly, roundabout way introduce something they can’t stop.”*
 
 Bitcoin protocol is simply the first functional implementation of this idea (courtesy of Cypherpunks).  
 Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomena.  
-Also being fully permissionless and trustless, since people trust is often betrayed by large organisations.  
+Also being fully permissionless and trustless, since people trust is often breached by large organisations.  
 It was designed and programmed to have best characteristic of Money:  
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
 (fixes bad features of gold regarding difficult division and transport because of which yellow metal was centralized).  
@@ -56,11 +58,11 @@ Next to lay out one possible way how we could get to this system. Since BTC is S
 Proposition here is that it serves as **SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **UoA** - *Unit of Account* feature (universal currency).  
-BTC has enormous potential as it could be first triple point asset in history.  
+BTC has enormous potential as it could be first triple point asset, unique in history.  
 Each phase 1,2,3 could last at least 10 years (free estimate). (prePhase 0 was till recently - accumulations as Collectibles). Similar to internet evolution (1980-2020) with S-Curve growth.  
 After 2030 it will be visible if it is going in this direction and around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
-Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it. And if few make it legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its max limit (no central point of control/failure to increase the supply - removes the fallible human element).    
+Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it. And if few make it treasury reserve asset and/or legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization). So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
 At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization).  
 So it would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
@@ -77,7 +79,8 @@ So it would be like a precise measurement system for the value - [measuring stic
 April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.  
 Because many are buying regulary and doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately ~ x2.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
-(Exchange-Traded Fund) will have additional impact on bull rally.
+(Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [*Bitcoin First Revisited*](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited) where it is explained why it should be considered separately from other digital assets.
+
 If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 250 thousand USD. After this in 2026 or 2027 maybe it will fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
 
 ### Macro analysis (fixed money supply):
@@ -97,19 +100,20 @@ So there would be an equilibrium at any moment in time.
 There would mostly be Full-reserve banking, limited with time deposits. And even if some type of fractional-reserve banking emerges it would have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
+To substantiate these claims there is an excellent article:
+[*Why a fixed supply money does not lead to economic catastrophe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)
+
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage, Network effect(value is subjective), best governance model (no known founder), most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong commitment/conviction and ever growing adoption from users.  
-Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity, confirmed as such by the SEC (US Security Exchange Commission).  
+First mover advantage (organic creation that can't be replicated), Network effect(value is subjective), best governance model (no known founder), most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong conviction, deep commitment and ever growing adoption from users.  
+Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission).  
 Also Side-chains ([Liquid](https://liquid.net/) as an example) or Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security.  
 And any real new invention, since all are open source, could be added into Bitcoin with new updates. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there.  
 
 &nbsp;**2.** As for the criticism of being slow, it kinda is but for a good reason, or a few of them.  
 Distributed ledger can have only limited size and growth based on world wide average internet connection and average disk size. Also all world transactions do not (and should not) need to be on public ledger. One payment for coffee has no place on a permanent database (emphasis on structural efficiency). It is Blockchain trilemma between Decentralisation, Security and Scalability.  
-So the only feasible solution was to limit number transactions per second on the main layer, and solve scalability on top layers. In the future it is expected that the base layer would serve as a settlement between lightning nodes, custodians and banks with published proof of reserves, countries, etc; like today RTGS (Real Time Gross Settlement) or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on [Lightning](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} and/or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper than visa), has bigger capacity (potentially [1 million+ TPS](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) and with more privacy.  
-Worth mentioning are *Channel factories* that enables opening multiple channels with single transacation on main net.  
-Also one of newer L2 solutions is Fedimint with distributed custodianship, and federated structure in community context.  
+So the only feasible solution was to limit number transactions per second on the main layer, and solve scalability on top layers. In the future it is expected that the base layer would serve as a settlement between lightning nodes, custodians and banks with published proof of reserves, countries, etc; like today RTGS (Real Time Gross Settlement) or GIRO as interbank clearing, or similar to how swift works. So regular transactions would be on [Lightning](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} and/or other Layer 2 (L2) solutions, where it is faster (instant), low cost (1000 cheaper than visa), has bigger capacity (potentially [1 million+ TPS](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) and with more privacy. Large capacity is excellent for micropayments usage, a usecase that was not possible before.  
 Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} that could be used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats themselves become stable enough.
 
 &nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
@@ -123,7 +127,7 @@ Electrical production is another issue and in the future all power should be gre
 {: #conclusion }
 Personal assessment currently is that Bitcoin has 51% chance of growing and expanding  
 (in 2017 was 30% and in 2013 maybe 10% then).  
-The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect).  
+The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect), as it grows stronger and becomes more robust.  
 Like any investment it is a bet, as any decision in life is.  
 For risky ones, invest only what you can afford to lose.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.
