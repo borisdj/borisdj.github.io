@@ -4,7 +4,7 @@ date: 2023-10-01T00:00:00-00:00
 categories: [fintech]
 tags: [finance, crypto]
 classes: wide
-excerpt: "Bitcoin expectations for the coming decades"
+excerpt: "Bitcoin expectations for the coming months and decades"
 ---
 
 **Bitcoin** expectations for the coming months and decades<br>
