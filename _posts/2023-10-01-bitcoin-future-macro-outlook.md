@@ -36,7 +36,7 @@ if you find the post useful
 </script>
 
 CONTENT:  
-[**Intro**](#intro) | [**Forward**](#forward) | [**Macro**](#macro) | [**Scepticism**](#scepticism) | [**Conclusion**](#conclusion) 
+[**Intro**](#intro) | [**Forward**](#forward) | [**Upcoming**](#upcoming) | [**Macro**](#macro) | [**Scepticism**](#scepticism) | [**Conclusion**](#conclusion) 
 
 ### Intro
 {: #intro }
@@ -79,7 +79,8 @@ So it would be like a precise measurement system for the value - [measuring stic
 &nbsp;&nbsp;(no Cantillon effect - those close to printing machine benefit the most)  
 -- simplified savings  
 
-#### Upcoming period
+### Upcoming period
+{: #upcoming } 
 April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.  
 Because many are buying regulary, doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately x2.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
