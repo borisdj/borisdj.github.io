@@ -54,7 +54,7 @@ It was designed and programmed to have the best characteristics of Money:
 
 ### Way Forward
 {: #forward }
-Next to lay out one possible way how we could get to this system. Since BTC is Scarce (most important feature) while state-issued (Fiat) currency is constantly inflationary, people have INCENTIVE to save as much in Bitcoin (inflation hedge).  
+Next to lay out one possible way how we could get to this system. Since BTC is Scarce (most important feature) while state-issued (Fiat) currency is constantly inflationary and loses value, people have INCENTIVE to save as much in Bitcoin (inflation hedge).  
 Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
@@ -103,7 +103,7 @@ So there would be an equilibrium at any moment in time.
 
 &nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
 There would mostly be Full-reserve banking, limited with time deposits. And even if some type of fractional-reserve banking emerges it would have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).  
-Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
+Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium (reduced cost of housing).
 
 To substantiate these claims there is an excellent article:  
 [*Why a fixed supply money does not lead to economic catastrophe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)  
@@ -112,7 +112,7 @@ To substantiate these claims there is an excellent article:
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage (organic creation that can't be replicated), Network effect(value is subjective), best governance model (no known founder), most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong conviction, deep commitment and ever growing adoption from users.  
+First mover advantage (organic creation that can't be replicated), Network effect (value is subjective), best governance model (no known founder), most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong conviction, deep commitment and ever growing adoption from users.  
 Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission).  
 Also Side-chains ([Liquid](https://liquid.net/) as an example) or Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security.  
 And any real new invention, since all are open source, could be added into Bitcoin with new updates. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there.  
