@@ -87,7 +87,7 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 {: #macro }  
 &nbsp;**1.** It is a singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade.
  
-&nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout.
+&nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
 
 &nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards (8 digits + 8 decimal => 21 mil Btc * 100 mil = 21 quadrillion Satoshis or Sats) and lightning even enables miliSats. 
 If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course few would fall even more if production gets extra efficient and some could rise if there would be extra demand.  
