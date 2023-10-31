@@ -125,7 +125,7 @@ Interesting note to mention here is that on top of lightning rails we could see 
 &nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
 Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today has higher power expenditure than this.  
 At the same time miners can help stabilize the grid and also they can consume stranded energy.  
-Electrical production is another issue and in the future all power should be green from sustainable sources.
+Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
 
 &nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have survived.
 
