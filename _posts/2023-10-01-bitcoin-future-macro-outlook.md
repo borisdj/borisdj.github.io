@@ -40,7 +40,7 @@ CONTENT:
 
 ### Intro
 {: #intro }
-Let's start with the notion that behind Bitcoin (BTC) is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
+Let's start with the notion that behind Bitcoin (**BTC**) is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial autonomy and freedom. Practical and feasible attempt to fix the broken monetary system.  
 To quote F.A.Hayek from his book *‘The Denationalization of Money’*:  
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. All we can do is by some sly, roundabout way introduce something they can’t stop.”*
@@ -54,7 +54,7 @@ It was designed and programmed to have the best characteristics of Money:
 
 ### Way Forward
 {: #forward }
-Next to lay out one possible way how we could get to this system. Since BTC is Scarce (most important feature) while state-issued (Fiat) currency is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.  
+Next to lay out one possible way how we could get to this system. Since BTC is Scarce (most important feature) while state-issued (Fiat) currency is constantly inflationary, people have INCENTIVE to save as much in Bitcoin (inflation hedge).  
 Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
