@@ -48,9 +48,9 @@ To quote F.A.Hayek from his book *‘The Denationalization of Money’*:
 Bitcoin protocol is simply the first functional implementation of this idea (courtesy of Cypherpunks).  
 Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomena.  
 Also being fully permissionless and trustless, since people trust is often breached by large organisations (countries, big banks, mega corps).  
-It was designed and programmed to have best characteristic of Money:  
+It was designed and programmed to have the best characteristics of Money:  
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
-(fixes bad features of gold regarding difficult division and transport because of which yellow metal was centralized).  
+(fixes bad features of gold regarding difficult division and transport because of which shiny yellow metal was centralised) 
 
 ### Way Forward
 {: #forward }
@@ -67,7 +67,7 @@ After 2030 it will be visible if it is going in this direction and around 2040-2
 Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it. And if few make it treasury reserve asset and/or legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization). 
 And even Banks decision to embrace Bitcoin can be analysed from a game-theoretic perspective, where the payoff for each player (financial institution) depends not only on their own decision but also on the decisions of others.  
 So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
-At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization).  
+At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by 21 million)  
 So it would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
 **Possible effects:**  
@@ -75,21 +75,21 @@ So it would be like a precise measurement system for the value - [measuring stic
 -- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
 -- real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
 &nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
--- fair distribution of economy growth by removing silent regressive Tax via inflation  
+-- fair distribution of economic growth by removing silent regressive Tax via inflation  
 &nbsp;&nbsp;(no Cantillon effect - those close to printing machine benefit the most)  
 -- simplified savings  
 
 ### Upcoming period
 {: #upcoming } 
 April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.  
-Because many are buying regulary, doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately x2.  
+Because many are buying regulary, doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately 2 times.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
 (Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [*Bitcoin First Revisited*](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited) where it is explained why it should be considered separately from other digital assets.  
 If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 250 thousand USD. After this in 2026 or 2027 maybe it will fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
 
 ### Macro analysis (fixed money supply):
 {: #macro }  
-&nbsp;**1.** It is a singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade and e-commerce.  
+&nbsp;**1.** It is a singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade and international e-commerce.  
 Optimal monetary system engineered to be as efficient as possible.
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
