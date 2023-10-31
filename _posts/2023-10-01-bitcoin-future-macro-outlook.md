@@ -100,7 +100,7 @@ So there would be an equilibrium at any moment in time.
 There would mostly be Full-reserve banking, limited with time deposits. And even if some type of fractional-reserve banking emerges it would have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium.
 
-To substantiate these claims there is an excellent article:
+To substantiate these claims there is an excellent article:  
 [*Why a fixed supply money does not lead to economic catastrophe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)
 
 ### Finally to address and elaborate some often given scepticism towards it:
