@@ -41,7 +41,7 @@ CONTENT:
 ### Intro
 {: #intro }
 Let's start with the notion that behind Bitcoin (**BTC**) is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars and fuels populist politicians, and at the same time increases wealth gap.  
-So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial autonomy and freedom. Practical and feasible attempt to fix the broken monetary system (separation of money and state).  
+So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button (separation of money and state). In principle it is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial autonomy and freedom. Practical and feasible attempt to fix the broken monetary system, in other words Bitcoin fixes the Money.  
 To quote F.A.Hayek from his book *‘The Denationalization of Money’*:  
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. All we can do is by some sly, roundabout way introduce something they can’t stop.”*
 
@@ -50,7 +50,7 @@ Noninflationary sound money that is internet native, digital, neutral (agnostic 
 Also being fully permissionless and trustless, since people trust is often breached by large organisations (countries, big banks, mega corps).  
 It was designed and programmed to have the best characteristics of Money:  
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
-(fixes bad features of gold regarding difficult division and transport because of which shiny yellow metal was centralised) 
+(fixes bad features of gold regarding difficult division and portablility (transport) because of which shiny yellow metal was centralised) 
 
 ### Way Forward
 {: #forward }
@@ -59,7 +59,7 @@ Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Go
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
 BTC has enormous potential as it could be first triple point asset, unique in history.  
-In technical sence it is backed by a significant computer science breakthrough: Decentralised Digital Scarcity.  
+In technical sence it is backed by a significant computer science breakthrough: Decentralised Digital Scarcity, that is made using cryptography.  
 Each phase 1, 2, 3 could last at least 10 years (free estimate).  
 Pre phase 0 was until recently - accumulations as Collectibles. Similar to internet evolution (1980-2020) with S-Curve growth.  
 One [assessment](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} is that by 2030 adoption could get to 10%, just the right number as a tipping point for critical mass acceptance. By then it will be visible if it is going in this direction.  
@@ -91,7 +91,7 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 ### Macro analysis (fixed money supply):
 {: #macro }  
 &nbsp;**1.** It is a singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade and international e-commerce.  
-Optimal monetary system engineered to be as efficient as possible.
+Optimal new monetary order engineered to be as efficient as possible.
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
 
@@ -113,9 +113,9 @@ To substantiate these claims there is an excellent article:
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage (organic creation that can't be replicated), Network effect (value is subjective), best governance model (no known founder), most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong conviction, deep commitment and ever growing adoption from users.  
-Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is fundamentally a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission).  
-Also Side-chains ([Liquid](https://liquid.net/) as an example) or Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security.  
+First mover advantage (organic creation that can't be replicated), Network effect (value is subjective), best governance model (no known founder), most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users.  
+Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is essentially a centralizing force. Some of them might find another use case but not as good money. Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission).  
+Also Side-chains ([Liquid](https://liquid.net/) as an example) or Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security. Even some Alts have a bridge to connect with BTC using Wrapped Bitcoin.  
 And any real new invention, since all are open source, could be added into Bitcoin with new updates. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there.  
 
 &nbsp;**2.** As for the criticism of being slow, it kinda is but for a good reason, or a few of them.  
