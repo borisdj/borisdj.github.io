@@ -62,7 +62,8 @@ BTC has enormous potential as it could be first triple point asset, unique in hi
 In technical sence it is backed by a significant computer science breakthrough: Decentralised Digital Scarcity.  
 Each phase 1, 2, 3 could last at least 10 years (free estimate).  
 Pre phase 0 was until recently - accumulations as Collectibles. Similar to internet evolution (1980-2020) with S-Curve growth.  
-After 2030 it will be visible if it is going in this direction and around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
+One [assessment](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} is that by 2030 adoption should get to 10%, just the right number as a tipping point for critical mass acceptance. By then it will be visible if it is going in this direction.  
+And around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
 Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it. And if few make it treasury reserve asset and/or legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization).  
 And even Banks decision to embrace Bitcoin can be analysed from a game-theoretic perspective, where the payoff for each player (financial institution) depends not only on their own decision but also on the decisions of others (market race).  
