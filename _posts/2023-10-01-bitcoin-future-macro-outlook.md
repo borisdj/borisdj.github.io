@@ -85,7 +85,7 @@ April 2024 is when next halving occurs. Event refers to reducing (by half) creat
 Because many are buying regulary, doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately 2 times.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
 (Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [*Bitcoin First Revisited*](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited) where it is explained why it should be considered separately from other digital assets.  
-If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 250 thousand USD. After this in 2026 or 2027 maybe it will fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
+If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 200 thousand USD. After this in 2026 or 2027 maybe it will fall back again to $ 100 K or even little below that (estimation based on rainbow price chart).
 
 ### Macro analysis (fixed money supply):
 {: #macro }  
@@ -123,7 +123,7 @@ So the only feasible solution, a trade-off, was to limit number transactions per
 Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} that could be used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats themselves become stable enough.  
 And last but not least it can fuel new social media network like [Nostr](https://nostr.com/){:target="_blank"}, also know as decentralised twitter, where the user is owner of his data.
 
-&nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in 'mining' as Proof of Work - PoW.  
+&nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in digital 'mining' as Proof of Work - PoW.  
 Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today has higher power expenditure than this.  
 At the same time miners can help stabilize the grid and also they can consume stranded energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
