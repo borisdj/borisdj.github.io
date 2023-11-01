@@ -40,7 +40,7 @@ CONTENT:
 
 ### Intro
 {: #intro }
-Let's start with the notion that behind Bitcoin (**BTC**) is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars and fuels populist politicians, and at the same time increases wealth gap.  
+Let's start with the notion that behind Bitcoin (**BTC**) is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars, fuels populist politicians, and at the same time increases wealth gap.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button (separation of money and state). In principle it is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial autonomy and freedom. Practical and feasible attempt to fix the broken monetary system, in other words Bitcoin fixes the Money.  
 To quote F.A.Hayek from his book *‘The Denationalization of Money’*:  
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. All we can do is by some sly, roundabout way introduce something they can’t stop.”*
@@ -102,7 +102,8 @@ Also there is no risk of deflationary spiral since that is only possible in toda
 &nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend and save during their life (nobody lives forever).  
 So there would be an equilibrium at any moment in time.  
 
-&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost, but it would give the correct price signal to market participants. Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
+&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation.  
+Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
 There would mostly be Full-reserve banking, limited with time deposits. And even if some type of fractional-reserve banking emerges it would have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium (reduced cost of housing).
 
