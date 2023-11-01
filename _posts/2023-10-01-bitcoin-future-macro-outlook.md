@@ -137,6 +137,7 @@ Personal assessment currently is that Bitcoin has 51% chance of growing and expa
 (in 2017 was 30% and in 2013 maybe 10% then).  
 The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect), as it grows stronger and becomes more robust.  
 Like any investment it is a bet, as every decision in life is. For risky ones, invest only what you can afford to lose.  
+Either way, it's always good to be eductated on the subject.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
