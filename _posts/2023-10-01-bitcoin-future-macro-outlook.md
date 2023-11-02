@@ -65,7 +65,7 @@ Pre phase 0 was until recently - accumulations as Collectibles. Similar to inter
 One [assessment](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} is that by 2030 adoption could get to 10%, just the right number as a tipping point for critical mass acceptance. By then it will be visible if it is going in this direction.  
 And around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
 
-Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it. And if few make it treasury reserve asset and/or legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization).  
+Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, besides ideas are bulletproof. And if few make it treasury reserve asset and/or legal tender, others would eventually join (FOMO - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization).  
 And even Banks decision to embrace Bitcoin can be analysed from a game-theoretic perspective, where the payoff for each player (financial institution) depends not only on their own decision but also on the decisions of others (market race).  
 So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
 At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by 21 million)  
@@ -90,7 +90,7 @@ If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the e
 
 ### Macro analysis (fixed money supply):
 {: #macro }  
-&nbsp;**1.** It is a singular global monetary protocol - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade and international e-commerce.  
+&nbsp;**1.** It is a singular interoperable global protocol for value transfer - Bitcoin Standard (world reserve currency), so no issues with conversion between currencies for global trade and international e-commerce.  
 Optimal new monetary order engineered to be as efficient as possible.
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. So swings should be much smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
@@ -130,7 +130,7 @@ Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the
 At the same time miners can help stabilize the grid and also they can consume stranded energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
 
-&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel to hold for long through turbulent times, because without them the system could not have survived.
+&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel and determination to hold for long through uncertainty and turbulent times. Because without them the system could not have survived. It takes courage and resilience to stay committed during dips and bear markets.
 
 ### Conclusion
 {: #conclusion }
