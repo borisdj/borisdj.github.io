@@ -47,7 +47,7 @@ To quote F.A.Hayek from his book *‘The Denationalization of Money’*(1984):
 
 Bitcoin protocol is simply the first functional implementation of this idea (courtesy of Cypherpunks).  
 Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomena.  
-Also being fully permissionless and trustless, since people trust is often breached by large organisations (countries, big banks, mega corps).  
+Also being fully permissionless, censorship resistant and trustless, since people trust is often breached by large organisations (countries, big banks, mega corps).  
 It was designed and programmed to have the best characteristics of Money:  
 &nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
 (fixes bad features of gold regarding difficult division and portablility (transport) because of which shiny yellow metal was centralised) 
