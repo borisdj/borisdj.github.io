@@ -62,7 +62,7 @@ And the third phase (if it ever comes to this one) could be when prices are in i
 BTC has enormous potential as it could be first triple point asset, unique in history.  
 In technical sence it is backed by a significant computer science breakthrough: Decentralised Digital Scarcity, that is made using cryptography.  
 Each phase 1, 2, 3 could last at least 10 years (free estimate). Pre phase 0 was until recently - accumulations as Collectibles.  
-Similar to internet evolution (1980-2020) with S-Curve growth. With one important distinction that now there is direct value available for investing. That's why it is prone to price swings in cycles with many speculators in the space, and that's why addoption here also goes in cycles.  
+Similar to internet evolution (1980-2020) with S-Curve growth. With one important distinction that now there is direct value available for investing. Because of that it is prone to price swings in cycles with many speculators in the space, and that's why adoption here also goes in cycles.  
 And if we go even further in the past we could observe how cars replaced horses, and see how some opposed the transport evolution. Even Henry Ford said, to paraphrase: *It is well enough that people of the nation **do not understand our banking and monetary system**, for if they did, I believe there would be a revolution before tomorrow morning.*  
 First step will be *selective adoption* by 1% - the trendsetters.  
 One [assessment](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} is that by 2030 adoption could get to 10%, just the right number as a tipping point for critical mass acceptance. By then it will be visible if it is going in this direction.  
