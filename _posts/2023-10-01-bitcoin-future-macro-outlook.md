@@ -135,7 +135,7 @@ Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the
 At the same time miners can help stabilize the grid (symbiotic relationship) and also they can consume stranded energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
 
-&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel and determination to hold for long through uncertainty and turbulent times. Because without them the system could not have survived. It takes courage and resilience to stay committed during dips and bust.
+&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel and determination to hold for long through uncertainty and turbulent times. Because without them the system could not have survived. It takes courage and resilience to stay committed during dips and bust. And without them the network would not be able to survive at the early stage.
 
 ### Conclusion
 {: #conclusion }
