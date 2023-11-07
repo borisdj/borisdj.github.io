@@ -40,13 +40,13 @@ CONTENT:
 
 ### Intro
 {: #intro }
-Let's start with the notion that behind Bitcoin (**BTC**) is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars, fuels populist politicians, and at the same time increases wealth gap.  
+Let's start with the notion that behind Bitcoin (**BTC**) is an Idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars, fuels populist politicians, and at the same time increases wealth gap.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button (separation of money and state). Similarly, Gutenberg printing press contributed to separation of church and state by making Bible and other books widely available.  
 In principle it is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial autonomy and freedom. Practical and feasible attempt to fix the broken monetary system, in other words Bitcoin fixes the Money.  
 To quote F.A.Hayek from his book *‘The Denationalization of Money’* (1984):  
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***
 
-Bitcoin protocol is simply the first functional implementation of this idea (courtesy of Cypherpunks).  
+Bitcoin protocol is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
 Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomena.  
 Also being fully permissionless, censorship resistant and trustless, since people trust is often breached by large organisations (countries, big banks, mega corps).  
 It was designed and programmed to have the best characteristics of Money:  
@@ -55,7 +55,7 @@ It was designed and programmed to have the best characteristics of Money:
 
 ### Way Forward
 {: #forward }
-Next to lay out one possible way how we could get to this system. Since BTC is Scarce (most important feature) while state-issued (Fiat) currency is constantly inflationary and loses value, people have INCENTIVE to save as much in Bitcoin (inflation hedge).  
+Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued (*Fiat*) currency is constantly inflationary and loses value, people have INCENTIVE to save as much in Bitcoin (inflation hedge).  
 Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
@@ -91,9 +91,9 @@ It then gets media attention which attracts new people and traders, leading to h
 (Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [*Bitcoin First Revisited*](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited) where it is explained why it should be considered separately from other digital assets.  
 If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 200 thousand USD. After this in 2026 or 2027 maybe it will fall back again to little below 100 K (estimation based on rainbow price chart - an informed guess).
 
-### Macro analysis (fixed money supply):
+### Macro analysis (fixed money supply characteristics):
 {: #macro }  
-&nbsp;**1.** It is a singular interoperable global protocol for value transfer - Bitcoin Standard (world reserve currency). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language).  
+&nbsp;**1.** A singular interoperable global protocol for value transfer - Bitcoin Standard (world reserve currency). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language).  
 Optimal new monetary order engineered to be as efficient as possible.
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. Swings should be smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
