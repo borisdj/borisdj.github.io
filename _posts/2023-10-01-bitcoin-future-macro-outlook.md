@@ -99,7 +99,7 @@ Optimal new monetary order engineered to be as efficient as possible.
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. Swings should be smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
 
 &nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards: 1 BTC = 100 million Satoshies (*Sat*-s). Total amount of units is 2.1 quadrillion, 21 mil * 100 mil (8 digits + 8 decimals) and *Lightning* even enables miliSats (1/1000).  
-If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course others with higher efficiency would fall even more to marginal cost of production and some could rise if there would be extra demand.  
+If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course others with higher efficiency of manufacturing would fall even more to marginal cost of production and some could rise if there would be extra demand.  
 Also there is no risk of deflationary spiral since that is only possible in today's *Money As Debt* system (Credit Money - money created with each new credit while being destroyed when debt is paid off).
 
 &nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend and save during their life (nobody lives forever).  
