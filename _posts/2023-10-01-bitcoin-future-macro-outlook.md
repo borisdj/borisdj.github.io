@@ -42,7 +42,7 @@ CONTENT:
 {: #intro }
 Let's start with the notion that behind Bitcoin (**BTC**) is an Idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition it makes easier to wage unjustified wars, fuels populist politicians, and at the same time increases wealth gap.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button (separation of money and state). Similarly, Gutenberg printing press contributed to separation of church and state by making Bible and other books widely available.  
-In principle it is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial autonomy and freedom. Practical and feasible attempt to fix the broken monetary system, in other words Bitcoin fixes the Money.  
+In principle it is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial autonomy and freedom. Practical and feasible attempt to fix the broken monetary system, in other words Bitcoin fixes the Money (Integrity  being core belief).  
 To quote F.A.Hayek from his book *‘The Denationalization of Money’* (1984):  
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***
 
@@ -66,16 +66,16 @@ Similar to internet evolution (1980-2020) with S-Curve growth. With one importan
 And if we go even further in the past we could observe how cars replaced horses, and see how some opposed the transport evolution. Even Henry Ford said, to paraphrase: *It is well enough that people of the nation **do not understand our banking and monetary system**, for if they did, I believe there would be a revolution before tomorrow morning.*  
 First step will be *selective adoption* by 1% - the trendsetters.  
 One [assessment](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} is that by 2030 adoption could get to 10%, just the right number as a tipping point for critical mass acceptance. By then it will be visible if it is going in this direction.  
-And around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle.
+And around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle. Bitcoin offers gradual soft landing for todays over-leveraged economy.
 
 Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, besides ideas are bulletproof. And if few make it treasury reserve asset and/or legal tender, others would eventually join (*FOMO* - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization).  
 And even Banks decision to embrace Bitcoin can be analysed from a game-theoretic perspective, where the payoff for each player (financial institution) depends not only on their own decision but also on the decisions of others (market race).  
 So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
-At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by 21 million). Each *Sat* would be stake in the abundant future (hope for better tomorrow).  
+At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by 21 million). Each *Sat* would be stake in the abundant future (hope for better tomorrow and to build brighter future on top).  
 It would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
 **Possible effects:**  
--- people would spend more prudently, and would take only calculated risks/credits  
+-- people would spend more prudently (it imposes discipline), and would take only calculated risks/credits  
 -- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
 -- real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
 &nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
@@ -117,7 +117,7 @@ To substantiate these claims there is an excellent article:
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage (organic creation that can't be replicated), Network effect (value is subjective), best governance model (no known founder), most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users.  
+First mover advantage (organic creation that can't be replicated), Network effect (value is subjective), best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users.  
 Besides ingenious system integration of all components, one item stands out as vital and that is *Difficulty Adjustment* of mining.  
 Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is essentially a centralizing force. Some of them might find another use case but not as honest and reliable money.  
 Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission). It is asset without issuer.  
@@ -135,7 +135,7 @@ Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the
 At the same time miners can help stabilize the grid (symbiotic relationship) and also they can consume stranded energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
 
-&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. And also for having nerves of steel and determination to hold for long through uncertainty and turbulent times. Because without them the system could not have survived. It takes courage and resilience to stay committed during dips and bust. And without them the network would not be able to survive at the early stage.
+&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. Also for having nerves of steel and determination to hold for long through uncertainty and turbulent times. It takes courage and resilience to stay committed during dips and bust. And without them the network would not be able to survive at the early stage. Besides most early buyers and miners have sold theirs coins at one point during the bumpy ride.
 
 ### Conclusion
 {: #conclusion }
