@@ -68,10 +68,10 @@ First step will be *selective adoption* by 1% - the trendsetters.
 One [assessment](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} is that by 2030 adoption could get to 10%, just the right number as a tipping point for critical mass acceptance. By then it will be visible if it is going in this direction.  
 And around 2040-2050 we will know the final result (needs generational change). In the best case 1 BTC could be worth million+ $. At that point it would fully stabilize, and until then volatility would be lower each cycle. Bitcoin offers gradual soft landing for todays over-leveraged economy.
 
-Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, besides ideas are bulletproof. And if few make it treasury reserve asset and/or legal tender, others would eventually join (*FOMO* - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (De-dollarization).  
+Also between countries there is Game Theory dynamics (US, Russia, etc) so even some of them blocking it (aka China) can not stop it, besides ideas are bulletproof. And if few make it treasury reserve asset and/or legal tender, others would eventually join (*FOMO* - Fear Of Missing Out). In geopolitics US dollar has already started slowly to lose its dominance (**De-dollarization**).  
 And even Banks decision to embrace Bitcoin can be analysed from a game-theoretic perspective, where the payoff for each player (financial institution) depends not only on their own decision but also on the decisions of others (market race).  
 So this would be free-market chosen hard money, just as history suggests always happens (Thiers law - good money will drive out bad one, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
-At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by 21 million). Each *Sat* would be stake in the abundant future (hope for better tomorrow and to build brighter future on top).  
+At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by **21 million**). Each *Sat* would be stake in the abundant future (hope for better tomorrow and to build brighter future on top).  
 It would be like a precise measurement system for the value - [measuring stick](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
 **Possible effects:**  
@@ -80,16 +80,16 @@ It would be like a precise measurement system for the value - [measuring stick](
 -- real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
 &nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
 -- fair distribution of economic growth by removing silent regressive Tax via inflation  
-&nbsp;&nbsp;(no Cantillon effect - those close to printing machine benefit the most)  
+&nbsp;&nbsp;(no [Cantillon effect](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} - those close to printing machine benefit the most)  
 -- simplified savings (power of simplicity in Bitcoin architecture also)
 
 ### Upcoming period
 {: #upcoming } 
 April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles.  
-Because many are buying regulary, doing DCA (Dollar-Cost Averaging) it should lead to price hike approximately 2 times.  
-It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
-(Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [*Bitcoin First Revisited*](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited) where it is explained why it should be considered separately from other digital assets.  
-If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 200 thousand USD. After this in 2026 or 2027 maybe it will fall back again to little below 100 K (estimation based on rainbow price chart - an informed guess).
+Because many are buying regulary, doing **DCA** (Dollar-Cost Averaging) it should lead to price hike approximately 2 times.  
+It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the 4 year average is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/){:target="_blank"}
+(Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [*Bitcoin First Revisited*](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited){:target="_blank"} where it is explained why it should be considered separately from other digital assets.  
+If this logic is correct, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 200 thousand USD. After this in 2026 or 2027 maybe it will fall back again to little below 100 K (estimation based on [rainbow price chart](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"} - an informed guess).
 
 ### Macro analysis (fixed money supply characteristics):
 {: #macro }  
@@ -98,7 +98,7 @@ Optimal new monetary order engineered to be as efficient as possible.
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. Swings should be smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
 
-&nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards: 1 BTC = 100 million Satoshies (*Sat*-s). Total amount of units is 2.1 quadrillion, 21 mil * 100 mil (8 digits + 8 decimals) and *Lightning* even enables miliSats (1/1000).  
+&nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards: 1 BTC = 100 million Satoshies (*Sat*-s). Total amount of units is 2.1 quadrillion, 21 mil * 100 mil (8 digits + 8 decimals) and ***Lightning*** even enables miliSats (1/1000).  
 If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course others with higher efficiency of manufacturing would fall even more to marginal cost of production and some could rise if there would be extra demand.  
 Also there is no risk of deflationary spiral since that is only possible in today's *Money As Debt* system (Credit Money - money created with each new credit while being destroyed when debt is paid off).
 
@@ -106,8 +106,8 @@ Also there is no risk of deflationary spiral since that is only possible in toda
 So there would be an equilibrium at any moment in time.  
 
 &nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation.  
-Banks (for loans) would be like in Free Banking, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
-There would mostly be Full-reserve banking, limited with time deposits. And even if some type of fractional-reserve banking emerges it would have an upper bound to risk exposure. No more NINJA loans (No Income, No Job, no Assets).  
+Banks (for loans) would be like in **Free Banking**, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
+There would mostly be Full-reserve banking, limited with time deposits. And even if some type of fractional-reserve banking emerges it would have an upper bound to risk exposure. No more **NINJA** loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium (reduced cost of housing).
 
 To substantiate these claims there is an excellent article:  
@@ -118,7 +118,7 @@ To substantiate these claims there is an excellent article:
 {: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
 First mover advantage (organic creation that can't be replicated), Network effect (value is subjective), best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users.  
-Besides ingenious system integration of all components, one item stands out as vital and that is *Difficulty Adjustment* of mining.  
+Besides ingenious system integration of all components, one item stands out as vital and that is ***Difficulty Adjustment*** of mining.  
 Those using PoS (Proof of Stake) consensus mechanism are 'securities' like and do not have real decentralization, no separation of power, and Staking is essentially a centralizing force. Some of them might find another use case but not as honest and reliable money.  
 Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission). It is asset without issuer.  
 Also Side-chains ([Liquid](https://liquid.net/) as an example) or Drive-chains ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security. Even some Alts have a bridge to connect with BTC using Wrapped Bitcoin.  
@@ -130,7 +130,7 @@ So the only feasible solution, a trade-off, was to limit number transactions per
 Interesting note to mention here is that on top of lightning rails we could see implementation of [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} that could be used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats themselves become stable enough.  
 And last but not least it can fuel new social media network like [Nostr](https://nostr.com/){:target="_blank"}, also know as decentralised twitter, where the user is owner of his data.
 
-&nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in digital 'mining' as Proof of Work - PoW.  
+&nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in digital 'mining' as *Proof of Work - **PoW***.  
 Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today has higher power expenditure than this.  
 At the same time miners can help stabilize the grid (symbiotic relationship) and also they can consume stranded energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
@@ -139,9 +139,9 @@ Electrical production is another issue and in the future all power should be sus
 
 ### Conclusion
 {: #conclusion }
-Personal assessment currently is that Bitcoin has 51% chance of growing and expanding  
+Personal assessment currently is that Bitcoin has **51% chance** of growing and expanding  
 (in 2017 was 30% and in 2013 maybe 10% then).  
-The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect), as it grows stronger and becomes more robust.  
+The longer it exists (15 years so far) the higher are chances of succeeding ([Lindy effect](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), as it grows stronger and becomes more robust.  
 Like any investment it is a bet, as every decision in life is. For risky ones, invest only what you can afford to lose.  
 Either way, it's always good to be educated on the subject.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.
