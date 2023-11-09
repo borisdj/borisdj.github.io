@@ -93,7 +93,7 @@ Price rise can start several month before in anticipation of halving, so it is p
 If this logic is correct, and with market multiplier, from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 200 thousand USD. After this in 2026 or 2027 maybe it will fall back again to little below 100 K (estimation based on [**rainbow price chart**](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"} - an informed guess).  
 Very rarely in history is an asset the safest to hold while also having the most upside potential.
 
-### Macro analysis (fixed money supply characteristics):
+### Macro-Economic analysis (fixed money supply characteristics):
 {: #macro }  
 &nbsp;**1.** A singular interoperable global protocol for value transfer - Bitcoin Standard (world reserve currency). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language).  
 Optimal new monetary order engineered to be as efficient as possible.
