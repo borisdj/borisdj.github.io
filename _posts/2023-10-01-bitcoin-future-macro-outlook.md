@@ -56,7 +56,7 @@ Fixes bad features of gold regarding difficult and expensive authenticity, divis
 ### Way Forward
 {: #forward }
 Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued (*Fiat*) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin (inflation hedge).  
-Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility).  
+Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility). Let's not not forget that value is partly subjective.  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
 BTC has enormous potential as it could be first **triple point asset**, unique in history.  
@@ -119,7 +119,7 @@ To substantiate these claims there is an excellent article:
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage (organic creation that can't be replicated), Network effect (value is subjective), best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users.  
+First mover advantage (organic creation that can't be replicated), larges Network effect, best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users.  
 Besides ingenious system integration of all components, one item stands out as vital and that is [***Difficulty Adjustment***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} of mining.  
 Those using **PoS** (*Proof of Stake*) consensus mechanism are 'securities' like, do not have real decentralization, and are virtual in nature. They have no separation of power, and Staking is essentially a centralizing force. Some of them might find another use case but not as honest and reliable money, as it is too important to exist completely as abstract.  
 Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission). It is asset without issuer.  
