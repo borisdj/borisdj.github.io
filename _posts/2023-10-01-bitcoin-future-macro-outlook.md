@@ -81,7 +81,7 @@ It would be like a precise measurement system for the value - [**measuring stick
 &nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
 -- fair distribution of economic growth by removing silent regressive Tax via inflation  
 &nbsp;&nbsp;(no [**Cantillon effect**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} - those close to printing machine benefit the most)  
--- simplified savings (power of simplicity in Bitcoin architecture also)
+-- simplified savings (also there is power of simplicity in Bitcoin architecture)
 
 ### Upcoming period
 {: #upcoming } 
