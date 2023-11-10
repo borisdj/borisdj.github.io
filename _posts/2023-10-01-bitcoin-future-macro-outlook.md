@@ -96,7 +96,7 @@ Very rarely in history was there an asset that is the safest to hold while also 
 ### Macro-Economic analysis (fixed money supply characteristics):
 {: #macro }  
 &nbsp;**1.** A singular interoperable global protocol for value transfer - Bitcoin Standard (world reserve currency). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language).  
-Optimal new monetary order engineered to be as efficient as possible.
+Optimal new monetary order engineered **First-principles** thinking to be as efficient as possible.
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. Swings should be smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
 
@@ -124,7 +124,7 @@ Besides ingenious system integration of all components, one novel item stands ou
 Those using **PoS** (*Proof of Stake*) consensus mechanism are 'securities' like, do not have real decentralization, and are virtual in nature. They have no separation of power, and Staking is essentially a centralizing force. Some of them might find another use case but not as honest and reliable money, as it is too important.  
 Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission). It is asset without issuer.  
 Also Side-chains ([**Liquid**](https://liquid.net/) as an example) or Drive-chains ([**BitVM**](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) as second layers could be better then separate Alts since they can tap into Bitcoin L1 base security. Even some Alts have a bridge to connect with BTC using Wrapped Bitcoin.  
-And any real new invention, since all are open source, could be added into Bitcoin with new updates. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there. Still any change must keep main principles but also be backward compatible, as protocol base layer should not change too much (*You dont change Bitcoin, it changes you*).
+And any real new invention, since all are open source, could be added into Bitcoin with new updates. For example Litecoin is somewhat of a Test network for Bitcoin, Lightning feature was first implemented there. Still any change must keep main principles but also be backward compatible, as protocol base layer should not change too much (*You don't change Bitcoin, it changes you*).
 
 &nbsp;**2.** As for the criticism of being slow, there is a good reason for it, or a few of them.  
 Distributed ledger can have only limited size and growth based on world wide average internet connection and average disk size. Also all world transactions do not (and should not) need to be on public ledger. One payment for coffee has no place on a permanent immutable database whose main job it to uphold monetary policy (emphasis on structural efficiency). It is Blockchain trilemma between ***1.Decentralisation, 2.Security, 3.Scalability***.  
@@ -137,7 +137,7 @@ Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the
 At the same time miners can help stabilize the grid (symbiotic relationship) and also they can consume stranded and wasted energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
 
-&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. Also Holders for having nerves of steel and determination to hold (***HODL*** meme) for long through uncertainty and turbulent times. It takes courage and resilience to stay committed during dips and bust. And without them the network would not be able to survive at the early stage. Besides most early buyers and miners have sold theirs coins at one point during the bumpy ride.
+&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. Also Holders for having nerves of steel and determination to hold (***HODL*** meme) for long through uncertainty and turbulent times (BTC as only certain thing for foreseeable future). It takes courage and resilience to stay committed during dips and bust. And without them the network would not be able to survive at the early stage. Besides most early buyers and miners have sold theirs coins at one point during the bumpy ride.
 
 ### Conclusion
 {: #conclusion }
