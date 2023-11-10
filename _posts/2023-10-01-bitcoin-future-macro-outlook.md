@@ -23,7 +23,7 @@ style="border:none; background:url('https://raw.githubusercontent.com/borisdj/bo
 ONCLICK="fetch(counterUrl + 'post');
 document.getElementById('counterCell').innerHTML=likesCounter+1; document.getElementById('buttonLike').disabled=true; 
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
-alert('Like:) saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
+alert('Like:) saved, thx!');"> . . . </BUTTON>
 if you find post useful
 [<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">counter:</a> <b id="counterCell">N</b>]
 </p>
@@ -72,7 +72,7 @@ Also between countries there is Game Theory dynamics (USA, Russia, etc) so even 
 And even banks decision to embrace Bitcoin can be analysed from a game-theoretic perspective, where the payoff for each player (financial institution) depends not only on their own decision but also on the decisions of others (market race).  
 So this would be free-market chosen hard money, just as history suggests always happens ([***Thiers' law***](https://www.momentum-analytics.io/news/are-we-starting-to-see-thiers-law-in-action-the-reverse-of-greshams-law){:target="_blank"} - *good money will drive out bad one*, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
 At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by **21 million**). Each ***Sat*** would be stake in the abundant future (hope for better tomorrow and brighter future built on top).  
-It would be like a precise measurement system for the value - [**measuring stick**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
+It would be like a precise numerical measurement system for the economic activity - [**measuring stick**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
 **Possible effects:**  
 -- people would spend more prudently (it imposes discipline), and would take only calculated risks/credits  
