@@ -52,7 +52,7 @@ Also being fully permissionless, censorship resistant and trustless, since peopl
 As an Opt-In system it represents peaceful resistance from currency debasement.  
 It was designed and programmed to have the best characteristics of Money:  
 ***&nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform***  
-Fixes bad features of gold regarding difficult and expensive authenticity (hard to verify), division and portability (transport) because of which shiny yellow metal was centralised.
+Fixes bad features of gold regarding authenticity (hard to verify), difficult division (need melting) and expensive portability (costly transfer) because of which shiny yellow metal was centralised.
 
 ### Way Forward
 {: #forward }
