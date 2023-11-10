@@ -40,7 +40,7 @@ CONTENT:
 
 ### Intro
 {: #intro }
-Let's start with the notion that behind Bitcoin (**BTC**) is an Idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such, it is misused which ends up with currency devaluation (debasement) and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition, makes it easier to wage unjustified wars, fuels populist politicians, and at the same time increases wealth gap.  
+Let's start with the notion that behind Bitcoin (**BTC**) is an Idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such, it is misused which ends up with currency devaluation and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition, makes it easier to wage unjustified wars, fuels populist politicians, and at the same time increases wealth gap.  
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button (separation of money and state). Similarly, Gutenberg printing press contributed to separation of church and state by making books widely available (it democratized knowledge).  
 In principle Bitcoin is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial liberalization, autonomy and freedom. Practical and feasible attempt to fix the broken monetary system, in other words **Bitcoin fixes the Money** (Integrity  being core belief).  
 To quote F.A.Hayek, an austrian school economist, and author of *‘The Denationalization of Money’* who [predicted Bitcoin](https://www.sothebys.com/en/articles/the-economist-who-predicted-bitcoin){:target="_blank"} in 1984 in one [interview](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1118s){:target="_blank"}:  
@@ -49,6 +49,7 @@ To quote F.A.Hayek, an austrian school economist, and author of *‘The Denation
 Bitcoin **protocol** is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
 Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomena.  
 Also being fully permissionless, censorship resistant and trustless, since people trust is often breached by large organisations (countries, big banks, mega corps).  
+As an Opt-In system it represents peaceful resistance from currency debasement.  
 It was designed and programmed to have the best characteristics of Money:  
 ***&nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform***  
 Fixes bad features of gold regarding difficult and expensive authenticity (hard to verify), division and portability (transport) because of which shiny yellow metal was centralised.
