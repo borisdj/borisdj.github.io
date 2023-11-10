@@ -109,11 +109,11 @@ So there would be an equilibrium at any moment in time.
 
 &nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation.  
 Banks (for loans) would be like in **Free Banking**, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
-There would mostly be **Full-reserve** banking, limited with time deposits. And even if some type of fractional-reserve banking emerges it would have an upper bound to risk exposure. No more **NINJA** loans (No Income, No Job, no Assets).  
+There would mostly be **Full-reserve** banking, limited with time deposits. And even if some type of [**Fractional-reserve**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"} banking emerges it would have an upper bound to risk exposure. No more **NINJA** loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium (reduced cost of housing).
 
 To substantiate these claims there is an excellent article:  
-[*Why a fixed supply money does not lead to economic catastrophe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)  
+[*Why a fixed supply money does not lead to economic catastrophe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/){:target="_blank"}  
 (*And why it is in fact the only intellectually and ethically defensible monetary system*)
 
 ### Finally to address and elaborate some often given scepticism towards it:
