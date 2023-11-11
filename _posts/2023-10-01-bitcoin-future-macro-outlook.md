@@ -7,7 +7,7 @@ classes: wide
 excerpt: "Bitcoin expectations for the coming months and decades"
 ---
 
-**Bitcoin** expectations for the coming months and decades<br>
+Expectations for the coming months and decades<br>
 
 LANG(jezik):<br>
 Global (en-us) / [Local](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/) (sr-latn-ba)<br>
