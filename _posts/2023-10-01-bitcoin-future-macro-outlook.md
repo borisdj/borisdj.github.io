@@ -47,16 +47,16 @@ To quote F.A.Hayek, an austrian school economist, and author of *‘The Denation
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***
 
 Bitcoin **protocol** is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
-Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomena.  
+Noninflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emergent phenomenon.  
 Also being fully permissionless, censorship resistant and trustless, since people trust is often breached by large organisations (countries, big banks, mega corps).  
-As an Opt-In system it represents peaceful resistance from currency debasement.  
+As an Opt-In ecosystem it represents peaceful resistance from currency debasement.  
 It was designed and programmed to have the best characteristics of Money:  
 ***&nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform***  
 Fixes bad features of gold regarding authenticity (hard to verify), difficult division (need melting) and expensive portability (costly transfer) because of which shiny yellow metal was centralised.
 
 ### Way Forward
 {: #forward }
-Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([*Fiat*](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin (inflation hedge).  
+Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([*Fiat*](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin (inflation hedge but also agains systematic institutional failure).  
 Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility). Let's not not forget that value is partly subjective.  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
