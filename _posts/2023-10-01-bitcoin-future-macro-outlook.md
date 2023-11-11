@@ -45,7 +45,9 @@ So the proposal was to break this vicious circle by making a decentralized syste
 
 In principle Bitcoin is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial liberalization, autonomy and freedom. Practical and feasible attempt to fix the **broken** monetary system, in other words **Bitcoin fixes the Money** (Integrity being core belief).  
 To quote F.A.Hayek, an austrian school economist, and author of *‘The Denationalization of Money’* who [**predicted Bitcoin**](https://www.sothebys.com/en/articles/the-economist-who-predicted-bitcoin){:target="_blank"} in 1984 in one [**interview**](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1118s){:target="_blank"}:  
-*“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***
+*“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***  
+Further more Nobel prize-winning economist Milton Friedman stated in 1999:  
+*“Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, that will soon be developed, is the **reliable e-cache.”***  
 
 Bitcoin **protocol** is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
 Non-Inflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emerging phenomenon.  
