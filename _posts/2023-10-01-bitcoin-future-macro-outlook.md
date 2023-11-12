@@ -41,7 +41,8 @@ CONTENT:
 ### Intro
 {: #intro }
 Let's start with the notion that behind Bitcoin (**BTC**) is an Idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such, it is misused which ends up with currency devaluation and high or hyper runaway inflation, as history often proved. That results in citizens' savings being stolen, capital destroyed and economy broken. In addition, makes it easier to wage unjustified wars, fuels populist politicians, and at the same time increases wealth gap.  
-So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button (**The separation of money and state**). Similarly, Gutenberg printing press contributed to separation of church and state by making books widely available (it democratized knowledge).
+So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button (**The separation of money and state**). Similarly, Gutenberg printing press contributed to separation of church and state by making books widely available (it democratized knowledge).  
+Money is an abstract concept for time, the most valuable resource, and people don't want more money, but what they can buy with it.  
 
 In principle Bitcoin is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial liberalization, autonomy and freedom. Practical and feasible attempt to fix the **broken** monetary system, in other words **Bitcoin fixes the Money** (Integrity being core belief).  
 To quote F.A.Hayek, an austrian school economist, and author of *‘The Denationalization of Money’* who [**predicted Bitcoin**](https://www.sothebys.com/en/articles/the-economist-who-predicted-bitcoin){:target="_blank"} in 1984 in one [**interview**](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1118s){:target="_blank"}:  
@@ -114,7 +115,7 @@ Also there is no risk of deflationary spiral since that is only possible in toda
 &nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend and save during their life (nobody lives forever).  
 So there would be an equilibrium at any moment in time.  
 
-&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation.  
+&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation ([**Finding Signal In A Noisy World**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"}).  
 Banks (for loans) would be like in **Free Banking**, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
 There would mostly be **Full-reserve** banking, limited with time deposits. And even if some type of [**Fractional-reserve**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"} banking emerges it would have an upper bound to risk exposure. No more **NINJA** loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium (reduced cost of housing).
