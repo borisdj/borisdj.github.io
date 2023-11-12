@@ -36,7 +36,7 @@ if you find post useful
 </script>
 
 CONTENT:  
-[**Intro**](#intro) | [**Forward**](#forward) | [**Upcoming**](#upcoming) | [**Macro**](#macro) | [**Scepticism**](#scepticism) | [**Conclusion**](#conclusion) 
+[**Intro**](#intro)
 
 ### Intro
 {: #intro }
