@@ -112,7 +112,7 @@ Optimal new monetary order engineered from [**First-principles**](https://fs.blo
 If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course, others with higher efficiency of manufacturing, enabled by technological progress, would fall even more to marginal cost of production and some could rise if there would be extra demand.  
 Also there is no risk of deflationary spiral since that is only possible in today's ***Money As Debt*** system (Credit Money - created with each new credit while being destroyed when debt is paid off).
 
-&nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend and save during their life (nobody lives forever).  
+&nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend, save and invest during their life (nobody lives forever).  
 So there would be an equilibrium at any moment in time.  
 
 &nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation (inflation distorts the signal and [**Finding Signal In A Noisy World**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"}).  
