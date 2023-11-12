@@ -99,7 +99,7 @@ It then gets media attention which attracts new people and traders, leading to h
 (Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [***Bitcoin First Revisited***](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited){:target="_blank"} where it is explained why it should be considered separately from other digital assets.  
 Price rise can start several month before in anticipation of halving, so it is priced in but only partially. Expectations can lead to a self-fulfilling assumption.  
 If this logic is correct, and with **multiplication factor** (small liqudity can push price a lot), from current price of $ 27.000 on 2023/10/01, by the end of 2025 it could peak in range between 100 and 200 thousand USD. After this in 2026 or 2027 maybe it will fall back again to little below 100 K (estimation based on [**rainbow price chart**](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"} - an informed guess).  
-Very rarely in history was there an asset that is the safe to hold while also having the most upside potential.
+Very rarely in history was there an asset that is safe to hold while also having the most upside potential.
 
 ### Macro-Economic analysis (fixed money supply characteristics):
 {: #macro }  
