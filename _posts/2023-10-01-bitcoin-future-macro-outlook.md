@@ -158,9 +158,9 @@ Either way, it's always good to be educated on the subject.
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.
 
 YT talks to listen:  
-[*Natalie Brunell*: Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"}  
-[*Jeff Booth*: Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"}  
-_ an author of: [*Why Deflation is Key to an Abundant Future*](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"}  
+-[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
+-[Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"} (*Jeff Booth*)  
+-[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (*Jeff Booth*)  
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
 For those eager to find out more and deep dive into it, first Bit post was mini eBook: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
