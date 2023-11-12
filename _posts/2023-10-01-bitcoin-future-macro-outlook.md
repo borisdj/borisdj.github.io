@@ -92,7 +92,7 @@ It would be like a precise numerical measurement system for the economic activit
 
 ### Upcoming period
 {: #upcoming } 
-April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles. Miner's reward includes new coin and also transaction fees that will become more relevant as time pases (similar to the ratio of principal and interest in an installment loan during the repayment period).  
+April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles. Miner's reward includes newly generated coins and also transaction fees that will become more relevant as time pases (similar to the ratio of principal and interest in an installment loan during the repayment period).  
 Because many are buying regulary, doing **DCA** (Dollar-Cost Averaging) it should lead to price hike approximately 2 times.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the [**4 year moving average**](https://charts.bitbo.io/sma1458/){:target="_blank"} is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [**Bitcoin ETFs**](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/){:target="_blank"}
 (Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [***Bitcoin First Revisited***](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited){:target="_blank"} where it is explained why it should be considered separately from other digital assets.  
@@ -108,7 +108,7 @@ Optimal new monetary order engineered from [**First-principles**](https://fs.blo
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. Swings should be smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
 
 &nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards: 1 BTC = 100 million Satoshies (*Sat*-s). Total amount of units is **2.1 quadrillion**, 21 mil * 100 mil (8 digits + 8 decimals) and ***Lightning*** even enables miliSats (1/1000). Try to avoid bias of unit size, it is not objectively relevant.  
-If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course others with higher efficiency of manufacturing would fall even more to marginal cost of production and some could rise if there would be extra demand.  
+If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course, others with higher efficiency of manufacturing, enabled by technological progress, would fall even more to marginal cost of production and some could rise if there would be extra demand.  
 Also there is no risk of deflationary spiral since that is only possible in today's ***Money As Debt*** system (Credit Money - created with each new credit while being destroyed when debt is paid off).
 
 &nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend and save during their life (nobody lives forever).  
@@ -156,6 +156,11 @@ Like any investment it is a venture, as every decision in life is. For risky one
 Also keep better part of them off crypto exchanges (**Self-Custody** - *not your keys, not your coins*).  
 Either way, it's always good to be educated on the subject.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.
+
+YT talks to listen:  
+[*Natalie Brunell*: Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"}  
+[*Jeff Booth*: Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"}  
+_ an author of: [*Why Deflation is Key to an Abundant Future*](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"}  
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
 For those eager to find out more and deep dive into it, first Bit post was mini eBook: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
