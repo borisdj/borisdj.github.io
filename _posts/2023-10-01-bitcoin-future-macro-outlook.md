@@ -115,7 +115,7 @@ Also there is no risk of deflationary spiral since that is only possible in toda
 &nbsp;**4.** Hoarding is not an issue, as humans have everyday needs, but also wants, and would spend, save and invest during their life (nobody lives forever).  
 So there would be an equilibrium at any moment in time.  
 
-&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation (inflation distorts the signal and [**Finding Signal In A Noisy World**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"}).  
+&nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation (inflation distorts the signal and [**Finding SIGNAL In A Noisy World** - IMPORTANT READ](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"}).  
 Banks (for loans) would be like in **Free Banking**, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
 There would mostly be **Full-reserve** banking, limited with time deposits. And even if some type of [**Fractional-reserve**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"} banking emerges it would have an upper bound to risk exposure. No more **NINJA** loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium (reduced cost of housing).
