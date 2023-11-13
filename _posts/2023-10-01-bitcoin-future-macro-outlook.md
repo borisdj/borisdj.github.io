@@ -146,7 +146,7 @@ Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the
 At the same time miners can help stabilize the grid (symbiotic relationship) and also they can consume stranded and wasted energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
 
-&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. Also Holders for having nerves of steel and determination to hold (***HODL*** meme) for long through uncertainty and turbulent times (BTC as only certain thing for foreseeable future). It takes courage and resilience to stay committed during dips and bust. And without them the network would not be able to survive at the early stage. Besides most early buyers and miners have sold theirs coins at one point during the bumpy ride.
+&nbsp;**4.** On the issue of fair distribution, early adopters are fairly rewarded for the risk and time they invested. Also Holders for having nerves of steel and determination to hold (***HODL*** meme) for long through uncertainty and turbulent times (BTC as only certain thing for foreseeable future - *Tick Tock Next Block*). It takes courage and resilience to stay committed during dips and bust. And without them the network would not be able to survive at the early stage. Besides most early buyers and miners have sold theirs coins at one point during the bumpy ride.
 
 ### Conclusion
 {: #conclusion }
