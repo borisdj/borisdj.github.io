@@ -65,7 +65,7 @@ Next to lay out one possible way how we could get to this system. Since BTC is *
 Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility). Let's not not forget that value is partly subjective.  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
-BTC has enormous potential as it could be first **triple point asset**, unique in history.  
+BTC has enormous potential as it could be great at all 3 function, be first **triple point asset**, unique in history.  
 Each phase (1), (2), (3) could last at least 10 years (free estimate). Pre phase 0 was until recently - accumulations as Collectibles, with price discovery.  
 
 Similar to internet evolution (1980-2020) with [**S-Curve**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} growth. With one important distinction that now there is direct value available for investing. Because of that it is prone to cyclic price swings with many speculators in the space, and that's why adoption here also goes in cycles.  
