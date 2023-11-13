@@ -53,7 +53,7 @@ Further more Nobel prize-winning economist Milton Friedman in 1999 has [**stated
 Bitcoin **protocol** is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
 Non-Inflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emerging phenomenon.  
 Also being fully permissionless, censorship resistant and trustless, since people **trust** is often breached by large organisations (countries, big banks, mega corps).  
-As an Opt-In ecosystem it represents peaceful resistance from currency manupulation and debasement.  
+As an Opt-In ecosystem it represents peaceful resistance from currency manipulation and debasement.  
 It was designed and programmed to have the best characteristics of Money:  
 ***&nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform***  
 Fixes bad features of gold regarding authenticity (hard to verify), difficult division (need melting) and expensive portability (costly transfer) because of which shiny yellow metal was concentrated and centralised.  
