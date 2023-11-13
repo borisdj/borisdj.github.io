@@ -57,15 +57,15 @@ As an Opt-In ecosystem it represents peaceful resistance from currency manipulat
 It was designed and programmed to have the best characteristics of Money:  
 ***&nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform***  
 Fixes bad features of gold regarding authenticity (hard to verify), difficult division (need melting) and expensive portability (costly transfer) because of which shiny yellow metal was concentrated and centralised.  
-In technical sence it is upheld by a significant computer science breakthrough: **Decentralised** [**Digital Scarcity**](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/){:target="_blank"}, that is made using **cryptography**. Being Digital does not mean it is Virtual as it has real world costs and effects.  
+In technical sence it is upheld by a significant computer science breakthrough: **Decentralised** [**Digital Scarcity**](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/){:target="_blank"}, that is made using **cryptography**. Being Digital does not mean it is Virtual as it has real world costs and effects with consequences.  
 
 ### Way Forward
 {: #forward }
 Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([***Fiat***](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin. It represent hedge against inflation, which is considered as a theft, and also against systematic institutional failure.  
 Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility). Let's not not forget that value is partly subjective.  
-Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*.  
+Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*. From that moment you will not need to sell it, instead will simply be spending it.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
-BTC has enormous potential as it could be great at all 3 function, be first **triple point asset**, unique in history.  
+BTC has enormous potential as it could be great at all 3 function, be first **triple point asset**, unique in history (has ability to change the world). 
 Each phase (1), (2), (3) could last at least 10 years (free estimate). Pre phase 0 was until recently - accumulations as Collectibles, with price discovery.  
 
 Similar to internet evolution (1980-2020) with [**S-Curve**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} growth. With one important distinction that now there is direct value available for investing. Because of that it is prone to cyclic price swings with many speculators in the space, and that's why adoption here also goes in cycles.  
@@ -128,7 +128,7 @@ To substantiate these claims there is an excellent article:
 {: #scepticism }  
 &nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
 First mover advantage (organic creation that can't be replicated), larges Network effect, best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users.  
-Besides ingenious system integration of all components, one novel item stands out as vital and that is [***Difficulty Adjustment***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} of mining. It is a self-balancing mechanism to keep issuance of new coins in line with predetermined schedule.  
+Besides ingenious system integration of all components, one novel item stands out as vital and that is [***Difficulty Adjustment***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} of mining. It is a self-balancing mechanism to keep issuance of new coins in line with predetermined schedule (this flexibility makes it hard and solid).  
 On the other hand, cryptos using **PoS** (*Proof of Stake*) consensus mechanism are 'securities' like, do not have true decentralization, and are virtual in nature. They have no separation of power, and Staking is essentially a centralizing force. Some of them might find another use case but not as honest and reliable money, as that is too important function.  
 Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission). It is asset without issuer.  
 
@@ -141,7 +141,7 @@ So the only feasible solution, a trade-off, was to limit number transactions per
 Interesting note to mention here is that on top of lightning rails we could see implementation of [**StableSats**](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"} that could be used instead of centralized stable coins USDT/USDC, until the Bitcoin Sats themselves become stable enough.  
 And last but not least it can fuel new social media network like [**Nostr**](https://nostr.com/){:target="_blank"}, also known as decentralised twitter, where the user is owner of his data.
 
-&nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in digital 'mining' so called *Proof of Work - **PoW***, consensus model with a fascinating [**power projection**](https://bitcoinmagazine.com/culture/can-bitcoin-miners-replace-global-consensus){:target="_blank"} (it is backed by energy).  
+&nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in digital 'mining' so called *Proof of Work - **PoW***, consensus model with a fascinating [**power projection**](https://bitcoinmagazine.com/culture/can-bitcoin-miners-replace-global-consensus){:target="_blank"} (backed by energy).  
 Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today has higher power expenditure than this.  
 At the same time miners can help stabilize the grid (symbiotic relationship) and also they can consume stranded and wasted energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
