@@ -49,7 +49,7 @@ To quote F.A.Hayek, an austrian school economist, and author of *‘The Denation
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***  
 Further more Nobel prize-winning economist Milton Friedman in 1999 has [**stated**](https://www.youtube.com/watch?v=j2mdYX1nF_Y&t=198s){:target="_blank"}:  
 “*Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, that will soon be developed, is the **reliable e-cache***.” (electronic cache)  
-Let's also mention David Chaum, well-known cryptographer, who [**said**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: “***Privacy** in messaging and payments, and the like, is so **fundamental to democracy***.”  
+Let's also mention David Chaum, well-known cryptographer, who [**said**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: *“**Privacy** in messaging and payments, and the like, is so **fundamental to democracy**.”*  
 
 Bitcoin **protocol** is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
 Non-Inflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emerging phenomenon.  
@@ -118,7 +118,7 @@ So there would be an equilibrium at any moment in time.
 
 &nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation (inflation distorts the signal and [**Finding SIGNAL In A Noisy World**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"} - EXCELENT article, recommend to READ).  
 Banks (for loans) would be like in **Free Banking**, and would need to take care about duration of credits and term deposit. Central Bank would be obsolete as it could not act as lender of last resort.  
-There would mostly be **Full-reserve** banking, limited with time deposits. And even if some type of [**Fractional-reserve**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"} banking emerges it would have an upper bound to risk exposure. No more **NINJA** loans (No Income, No Job, no Assets).  
+There would mostly be **Full-reserve** banking, limited with time deposits. And even if some type of [**Fractional-reserve**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"} banking emerges it would have an upper bound to risk exposure. No more too risky loans without any collateral, so called **NINJA** loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium (reduced cost of housing).
 
 To substantiate these claims there is an excellent article:  
