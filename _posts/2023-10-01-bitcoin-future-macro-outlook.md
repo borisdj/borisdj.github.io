@@ -49,6 +49,7 @@ To quote F.A.Hayek, an austrian school economist, and author of *‘The Denation
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***  
 Further more Nobel prize-winning economist Milton Friedman in 1999 has [**stated**](https://www.youtube.com/watch?v=j2mdYX1nF_Y&t=198s){:target="_blank"}:  
 *“Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, that will soon be developed, is the **reliable e-cache.”***  
+Let's also mention David Chaum, well-known cryptographer, who said: “*[Privacy in messaging and payments](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}, and the like, is so **fundamental to democracy***.”  
 
 Bitcoin **protocol** is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
 Non-Inflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emerging phenomenon.  
@@ -68,7 +69,7 @@ And the third phase (if it ever comes to this one) could be when prices are in i
 BTC has enormous potential as it could be great at all 3 function, be first **triple point asset**, unique in history (has ability to change the world). 
 Each phase (1), (2), (3) could last at least 10 years (free estimate). Pre phase 0 was until recently - accumulations as Collectibles, with price discovery.  
 
-Similar to internet evolution (1980-2020) with [**S-Curve**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} growth. With one important distinction that now there is direct value available for investing. Because of that it is prone to cyclic price swings with many speculators in the space, and that's why adoption here also goes in cycles.  
+Similar to internet evolution (1980-2020) with [**S-Curve**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} growth (gradually then suddenly). With one important distinction that now there is direct value available for investing. Because of that it is prone to cyclic price swings with many speculators in the space, and that's why adoption here also goes in cycles.  
 And if we go even further in the past we could observe how cars replaced horses, and see how some opposed the transport evolution. The same way some people today still oppose the financial evolution. Even Henry Ford said, to [**paraphrase**](https://skeptics.stackexchange.com/questions/18247/did-henry-ford-predict-revolution-if-people-understood-the-banking-and-monetary){:target="_blank"}: *It is well enough that people of the nation **do not understand our banking and monetary system**, for if they did, I believe there would be a revolution before tomorrow morning.*  
 
 First step will be *selective adoption* by 1% - the trendsetters.  
@@ -164,4 +165,5 @@ YT talks to listen:
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
-For those eager to find out more and deep dive into it, first Bit post was mini eBook: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
+For those eager to find out more and deep dive into it, first Bit post was mini eBook: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
+Also great literature is educational book from El Salvador: [Bitcoin-Diploma](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - My first Bitcoin*)
