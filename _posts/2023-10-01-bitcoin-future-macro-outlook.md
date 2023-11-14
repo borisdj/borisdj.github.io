@@ -164,6 +164,8 @@ YT talks to listen:
 -[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
 -[Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"} (*Jeff Booth*)  
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
+-[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
+-[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
 For those eager to find out more and deep dive into it, first Bit post was mini eBook: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
