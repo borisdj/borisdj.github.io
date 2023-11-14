@@ -44,14 +44,14 @@ Let's start with the notion that behind Bitcoin (**BTC**) is an Idea, essentiall
 So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button (**The separation of money and state**). Similarly, Gutenberg printing press contributed to separation of church and state by making books widely available (it democratized knowledge).  
 Money is an abstract concept and a proxy for time, the most valuable human resource. And people don't want more money, but what they can buy with it.  
 
-In principle Bitcoin is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial liberalization, autonomy and freedom. Practical and feasible attempt to fix the **broken** monetary system, in other words **Bitcoin fixes the Money** (Integrity being core belief). Money is information but it currently has errors, and BTC is error correction.  
+In principle Bitcoin is not anti-government, just for smaller and more transparent administration with proper checks and balances. We could say it is a movement towards financial liberalization, autonomy and freedom. Practical and feasible attempt to fix the **broken** monetary system, in other words **Bitcoin fixes the Money** (Integrity being core belief). Money is information but it currently has errors, and BTC is error correction. Countries have unfounded taken control over money, and last century with dominance of monetary policy over economy is unnatural state.  
 To quote F.A.Hayek, an austrian school economist, and author of *‘The Denationalization of Money’* who [**predicted Bitcoin**](https://www.sothebys.com/en/articles/the-economist-who-predicted-bitcoin){:target="_blank"} in 1984 in one [**interview**](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1118s){:target="_blank"}:  
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***  
 Further more Nobel prize-winning economist Milton Friedman in 1999 has [**stated**](https://www.youtube.com/watch?v=j2mdYX1nF_Y&t=198s){:target="_blank"}:  
 “*Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, that will soon be developed, is the **reliable e-cache***.” (electronic cache)  
 Let's also mention David Chaum, well-known cryptographer, who [**said**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: *“**Privacy** in messaging and payments, and the like, is so **fundamental to democracy**.”*  
 
-Bitcoin **protocol** is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
+Bitcoin **protocol** is simply the first functional implementation of this radical concept (courtesy of Cypherpunks).  
 Non-Inflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emerging phenomenon.  
 Also being fully permissionless, censorship resistant and trustless, since people **trust** is often breached by large organisations (countries, big banks, mega corps).  
 As an Opt-In ecosystem it represents peaceful resistance from currency manipulation and debasement.  
@@ -63,7 +63,7 @@ In technical sence it is upheld by a significant computer science breakthrough: 
 ### Way Forward
 {: #forward }
 Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([***Fiat***](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin. It represent hedge against inflation, which is considered as a theft, and also against systematic institutional failure.  
-Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility). Let's not not forget that value is partly subjective.  
+Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility). Let's not not forget that value is partly subjective. Value is perceived, it is not intrinsic in things.  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*. From that moment you will not need to sell it, instead will simply be spending it.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
 BTC has enormous potential as it could be great at all 3 function, be first **triple point asset**, unique in history (has ability to change the world). 
