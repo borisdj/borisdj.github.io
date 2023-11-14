@@ -144,7 +144,7 @@ Interesting note to mention here is that on top of lightning rails we could see 
 And last but not least it can fuel new social media network like [**Nostr**](https://nostr.com/){:target="_blank"}, also known as decentralised twitter, where the user is owner of his data.
 
 &nbsp;**3.** To be future-proof from changes towards the inflationary model it needs high level decentralization which requires real world cost (anchor in physical reality). That is manifested in digital 'mining' so called *Proof of Work - **PoW***, consensus model with a fascinating [**power projection**](https://bitcoinmagazine.com/culture/can-bitcoin-miners-replace-global-consensus){:target="_blank"} (backed by energy).  
-Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global high-quality monetary system for the long term. Even the banking industry today has higher power expenditure than this.  
+Regarding this power consumption, the argument is that using 0.3 to 0.6 % of the world's electricity is pretty cheap to have a global superior monetary network for the long term. Even the banking industry today has higher power expenditure than this.  
 At the same time miners can help stabilize the grid (symbiotic relationship) and also they can consume stranded and wasted energy.  
 Electrical production is another issue and in the future all power should be sustainable and from renewable sources.
 
