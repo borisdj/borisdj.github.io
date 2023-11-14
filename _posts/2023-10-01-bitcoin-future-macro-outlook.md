@@ -48,7 +48,7 @@ In principle Bitcoin is not anti-government, just for smaller and more transpare
 To quote F.A.Hayek, an austrian school economist, and author of *‘The Denationalization of Money’* who [**predicted Bitcoin**](https://www.sothebys.com/en/articles/the-economist-who-predicted-bitcoin){:target="_blank"} in 1984 in one [**interview**](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1118s){:target="_blank"}:  
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. We can’t take it violently out of the hands of government. **All we can do is by some sly, roundabout way introduce something they can’t stop.”***  
 Further more Nobel prize-winning economist Milton Friedman in 1999 has [**stated**](https://www.youtube.com/watch?v=j2mdYX1nF_Y&t=198s){:target="_blank"}:  
-*“Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, that will soon be developed, is the **reliable e-cache.”***  
+“*Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, that will soon be developed, is the **reliable e-cache***.” (electronic cache)  
 Let's also mention David Chaum, well-known cryptographer, who said: “*[Privacy in messaging and payments](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}, and the like, is so **fundamental to democracy***.”  
 
 Bitcoin **protocol** is simply the first functional implementation of this concept (courtesy of Cypherpunks).  
