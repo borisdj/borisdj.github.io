@@ -117,7 +117,7 @@ Also there is no risk of deflationary spiral since that is only possible in toda
 So there would be an equilibrium at any moment in time.  
 
 &nbsp;**5.** Credits would be a little more expensive than today, since they would have real cost. But it would give the correct price signal to market participants, resulting with less capital misallocation (inflation distorts the signal and [**Finding SIGNAL In A Noisy World**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"} - EXCELENT article, recommend to READ).  
-Banks (for loans) would be like in **Free Banking**, and would need to take care about duration of credits and term deposit. **Central Bank** (CB) would be obsolete as it could not act as lender of last resort, and also would eliminate Modern Monetary Theory (MMT).  
+Banks (for loans) would be like in **Free Banking**, and would need to take care about duration of credits and term deposit. **Central Bank** (CB) would be obsolete as it could not act as lender of last resort, and also would eliminate Modern Monetary Theory ([**MMT**](https://burningw0rds.medium.com/modern-monetary-theory-versus-bitcoin-76e1e47f96c){:target="_blank"}).  
 There would mostly be **Full-reserve** banking, limited with time deposits. And even if some type of [**Fractional-reserve**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"} banking emerges it would have an upper bound to risk exposure. No more too risky loans without any collateral, so called **NINJA** loans (No Income, No Job, no Assets).  
 Real estates would have lower prices since they would not serve as a Store of Value and would lose that monetary premium (reduced cost of housing).
 
