@@ -62,7 +62,7 @@ In technical sence it is upheld by a significant computer science breakthrough: 
 
 ### Way Forward
 {: #forward }
-Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([***Fiat***](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin. It represent hedge against inflation, which is considered as a theft, and also against systematic institutional failure.  
+Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([***Fiat***](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin. It represent hedge against inflation, often characterised as the '*invisible thief*', and also against systematic institutional failure.  
 Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility). Let's not not forget that value is partly subjective. Value is perceived, it is not intrinsic in things.  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*. From that moment you will not need to sell it, instead will simply be spending it.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
@@ -80,7 +80,7 @@ Also between countries there is Game Theory dynamics (USA, Russia, etc) so even 
 And even banks decision to embrace Bitcoin can be analysed from a game-theoretic perspective, where the payoff for each player (financial institution) depends not only on their own decision but also on the decisions of others (market race).
 
 So this would be free-market chosen hard money, just as history suggests always happens ([***Thiers' law***](https://www.momentum-analytics.io/news/are-we-starting-to-see-thiers-law-in-action-the-reverse-of-greshams-law){:target="_blank"} - *good money will drive out bad one*, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
-At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by **21 million**). Each *Satoshi* or ***Sat***, Bitcoin subunit, would be stake in the abundant future (hope for better tomorrow).  
+At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by **21 million**). Each *Satoshi* or ***Sat***, Bitcoin subunit, would be stake in the abundant future (hope for better tomorrow and future generations).  
 It would be like a precise numerical measurement system for the economic activity - [**measuring stick**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
 **Possible effects:**  
