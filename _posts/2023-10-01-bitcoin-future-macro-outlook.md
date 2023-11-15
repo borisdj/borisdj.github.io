@@ -165,7 +165,7 @@ YT talks to listen:
 -[Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"} (*Jeff Booth*)  
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
 -[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
--[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)
+-[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)  
 -[Introduction: What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)  
 -[Bitcoin for Beginners: Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)  
 
