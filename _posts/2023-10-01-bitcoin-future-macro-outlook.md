@@ -51,8 +51,8 @@ Further more Nobel prize-winning economist Milton Friedman in 1999 has [**stated
 “*Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, that will soon be developed, is the **reliable e-cache***.” (electronic cache)  
 Let's also mention David Chaum, well-known cryptographer, who [**said**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: *“**Privacy** in messaging and payments, and the like, is so **fundamental to democracy**.”*  
 
-Bitcoin **protocol** is simply the first functional implementation of this radical concept (courtesy of Cypherpunks).  
-Non-Inflationary sound money that is internet native, digital, neutral (agnostic to politics) as bottom up emerging phenomenon.  
+Bitcoin open **protocol** is simply the first functional implementation of this radical concept (courtesy of Cypherpunks).  
+**Non-Inflationary** sound money that is internet native, digital, **neutral** (agnostic to politics) as bottom up emerging phenomenon.  
 Also being fully permissionless, censorship resistant and trustless, since people **trust** is often breached by large organisations (countries, big banks, mega corps).  
 As an Opt-In ecosystem it represents peaceful resistance from currency manipulation and debasement.  
 It was designed and programmed to have the best characteristics of Money:  
@@ -79,7 +79,7 @@ And around 2040-2050 we will know the final result (needs generational change). 
 Also between countries there is Game Theory dynamics (USA, Russia, etc) so even some of them blocking it (aka China) can not stop it, besides ideas are bulletproof. And if few make it treasury reserve asset and/or legal tender, others would eventually join (*FOMO* - Fear Of Missing Out). In geopolitics US dollar has aly started slowly to lose its dominance ([**De-dollarization**](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization){:target="_blank"}). It is actually in [**USA interest**](https://www.usfunds.com/resource/bitcoin-is-one-of-the-greatest-american-inventions/){:target="_blank"} to support Bitcoin, with inclusive regulatory framework, because it is their best option for the future. On the other hand, there are attempts to introduce **CBDC** (*Central Bank Digital Currency*) as a kind of counter-revolution, but it is only digital Fiat with more surveillance and therefore will not pass.  
 And even banks decision to embrace Bitcoin can be analysed from a game-theoretic perspective, where the payoff for each player (financial institution) depends not only on their own decision but also on the decisions of others (market race).
 
-So this would be free-market chosen hard money, just as history suggests always happens ([***Thiers' law***](https://www.momentum-analytics.io/news/are-we-starting-to-see-thiers-law-in-action-the-reverse-of-greshams-law){:target="_blank"} - *good money will drive out bad one*, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
+So this would be free-market chosen high-quality hard money, just as history suggests always happens ([***Thiers' law***](https://www.momentum-analytics.io/news/are-we-starting-to-see-thiers-law-in-action-the-reverse-of-greshams-law){:target="_blank"} - *good money will drive out bad one*, on commodity level field). But since it is not centralized it would keep permanently its hard cap (no central point of control/failure to increase the supply - removes the fallible human element).    
 At the end there would be balance with its total monetary units and the entire world economy (Hyperbitcoinization - everything divided by **21 million**). Each *Satoshi* or ***Sat***, Bitcoin subunit, would be stake in the abundant future (hope for better tomorrow).  
 It would be like a precise numerical measurement system for the economic activity - [**measuring stick**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (1 meter unit also does not change even as we have taller buildings).
 
@@ -166,6 +166,8 @@ YT talks to listen:
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
 -[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
 -[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)
+-[What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)
+-[Bitcoin Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
 For those eager to find out more and deep dive into it, first Bit post was mini eBook: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
