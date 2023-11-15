@@ -51,7 +51,7 @@ Further more Nobel prize-winning economist Milton Friedman in 1999 has [**stated
 “*Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, that will soon be developed, is the **reliable e-cache***.” (electronic cache)  
 Let's also mention David Chaum, well-known cryptographer, who [**said**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: *“**Privacy** in messaging and payments, and the like, is so **fundamental to democracy**.”*  
 
-Bitcoin open **protocol** is simply the first functional implementation of this radical concept (courtesy of Cypherpunks).  
+Bitcoin open **protocol** is simply the first functional implementation of this radical concept (courtesy of Cypherpunks). It is programming language (code) for communicating value. Can also be defined as free speech money, with keeping freedom even after speech.  
 **Non-Inflationary** sound money that is internet native, digital, **neutral** (agnostic to politics) as bottom up emerging phenomenon.  
 Also being fully permissionless, censorship resistant and trustless, since people **trust** is often breached by large organisations (countries, big banks, mega corps).  
 As an Opt-In ecosystem it represents peaceful resistance from currency manipulation and debasement.  
