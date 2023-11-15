@@ -62,7 +62,7 @@ In technical sence it is upheld by a significant computer science breakthrough: 
 
 ### Way Forward
 {: #forward }
-Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([***Fiat***](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin. It represent hedge against inflation, often characterised as the '*invisible thief*', and also against systematic institutional failure.  
+Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([***Fiat***](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value, people have **INCENTIVE** to save as much in Bitcoin. It represent hedge against inflation, often characterised as the '*invisible thief*' or plainly theft, and also against systematic institutional failure.  
 Proposition here is that it serves as **(1) SoV** - *Store Of Value* (digital Gold 2.0) in the long period (disregarding short term volatility). Let's not not forget that value is partly subjective. Value is perceived, it is not intrinsic in things.  
 Later when almost everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*. From that moment you will not need to sell it, instead will simply be spending it.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
