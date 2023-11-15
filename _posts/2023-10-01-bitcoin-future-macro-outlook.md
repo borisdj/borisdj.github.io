@@ -127,8 +127,8 @@ To substantiate these claims there is an excellent article:
 
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
-&nbsp;**1.** Others 'cryptos' (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage (organic creation that can't be replicated), larges Network effect, best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users.  
+&nbsp;**1.** Others cryptocurrencies (alt coins) are not real competition to Bitcoin because of:  
+First mover advantage (organic creation that can't be replicated), larges Network effect, best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users. There is a phrase: "***Bitcoin, Not 'Crypto'***".  
 Besides ingenious system integration of all components, one novel item stands out as vital and that is [***Difficulty Adjustment***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} of mining. It is a self-balancing mechanism to keep issuance of new coins in line with predetermined schedule (this flexibility makes it hard and solid).  
 On the other hand, cryptos using **PoS** (*Proof of Stake*) consensus mechanism are 'securities' like, do not have true decentralization, and are virtual in nature. They have no separation of power, and Staking is essentially a centralizing force. Some of them might find another use case but not as honest and reliable money, as that is too important function.  
 Only Bitcoin is considered as Commodity (primary monetary good), confirmed as such by the SEC (US Security Exchange Commission). It is asset without issuer and inalienable digital property.  
