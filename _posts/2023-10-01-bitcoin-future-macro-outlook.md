@@ -165,7 +165,7 @@ DYOR (Do Your Own Research) and make your probability for each hypothetical scen
 YT talks to listen:  
 -[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
 -[Introduction: What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)  
--[Bitcoin for Beginners: Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)  
+-[For Beginners: Bitcoin Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)  
 -[Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"} (*Jeff Booth*)  
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
 -[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
