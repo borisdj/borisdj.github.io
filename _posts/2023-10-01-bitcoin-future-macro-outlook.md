@@ -159,7 +159,7 @@ Personal assessment currently is that Bitcoin has **51% chance** of growing and 
 The longer it exists (15 years so far) the higher are chances of succeeding ([**Lindy effect**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), as it grows stronger and becomes more robust.  
 Like any investment it is a venture, as every decision in life is. For risky ones, invest only what you can afford to lose.  
 Also keep better part of them off crypto exchanges (**Self-Custody** - *not your keys, not your coins*).  
-Either way, it's always good to be educated on the subject (metaphor: *taking the orange pill*).  
+Either way, it's always good to be educated on the subject.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.
 
 YT talks to listen:  
