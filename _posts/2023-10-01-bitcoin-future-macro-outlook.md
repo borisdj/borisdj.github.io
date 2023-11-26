@@ -92,7 +92,7 @@ It would be like a precise numerical measurement system for the economic activit
 -- real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
 &nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
 -- fair distribution of economic growth by removing silent regressive Tax via inflation  
-&nbsp;&nbsp;(no [**Cantillon effect**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} - those close to printing machine benefit the most)  
+&nbsp;&nbsp;(no [**Cantillon effect**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} - those close to printing machine benefit the most, financial elite)  
 -- simplified savings (also there is power of simplicity in Bitcoin architecture)
 
 ### Upcoming period
