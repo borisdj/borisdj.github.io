@@ -158,7 +158,7 @@ Electrical production is another issue and in the future all power should be sus
 {: #conclusion }
 Personal assessment currently is that Bitcoin has **51% chance** of growing and expanding  
 (in 2017 was 30% and in 2013 maybe 10% then).  
-The longer it exists (15 years so far) the higher are chances of succeeding ([**Lindy effect**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), as it grows stronger and becomes more robust.  
+The longer it exists (15 years so far) the higher are chances of succeeding ([**Lindy effect**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), as it grows stronger and becomes more robust (was rigidly tested).  
 Like any investment it is a venture, as every decision in life is. For risky ones, invest only what you can afford to lose.  
 Also keep better part of them off crypto exchanges (**Self-Custody** - *not your keys, not your coins*).  
 Either way, it's always good to be educated on the subject.  
