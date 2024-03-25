@@ -8,7 +8,6 @@ excerpt: "Open source authored .Net libraries"
 ---
 
 **Open source authored .Net libraries**<br>
-*[github.com/borisdj/](https://github.com/borisdj){:target="_blank"}*
 
 | №  | .Net library             | Description                                              |
 | -  | ------------------------ | -------------------------------------------------------- |
@@ -18,3 +17,5 @@ excerpt: "Open source authored .Net libraries"
 | 4  | [FixedWidthParserWriter](https://github.com/borisdj/FixedWidthParserWriter){:target="_blank"} | Reading & Writing fixed-width/flat data files |
 | 5  | [CsCodeGenerator](https://github.com/borisdj/CsCodeGenerator){:target="_blank"} | C# code generation based on Classes and elements |
 | 6  | [CsCodeExample](https://github.com/borisdj/CsCodeExample){:target="_blank"} | Examples of c# code in form of a simple tutorial |
+
+*[github.com/borisdj/](https://github.com/borisdj){:target="_blank"}*
