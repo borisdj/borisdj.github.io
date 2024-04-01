@@ -63,7 +63,7 @@ In the meantime there is an interesting use case for stableSats, like dollars or
 | [**10101**](https://10101.finance/){:target="_blank"} | DLC (not LN) | USDp - bolt | Australia |
 | [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | DLC Channel | Web-based  | Austin TX |
 
-Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} (distributed nodes of custodians):  
+Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} (distribution of nodes):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
 Bit Dashboard info:  
