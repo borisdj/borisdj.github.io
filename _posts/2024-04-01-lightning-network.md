@@ -13,4 +13,4 @@ Bitcoin Layer 2
 ![/bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/bitcoin-future-macro-outlook/lightning-model.jpg)
 
 <center>QR Link</center>
-![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/lightning-network/)
+![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
