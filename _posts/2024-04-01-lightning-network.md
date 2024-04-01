@@ -11,8 +11,6 @@ excerpt: "Lightning Network"
 Bitcoin Layer 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
 
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
-![bitcoin-future](https://miro.medium.com/v2/resize:fit:720/format:webp/0*dEvUJOFMNpG9s5tc)
-<img src= "https://miro.medium.com/v2/resize:fit:720/format:webp/0*dEvUJOFMNpG9s5tc"/>
 
 <center>QR Link</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
