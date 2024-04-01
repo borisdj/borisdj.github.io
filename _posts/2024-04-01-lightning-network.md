@@ -80,3 +80,7 @@ Bit Dashboard info:
 [clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/){:target="_blank"}  
 [bitbo.io](https://bitbo.io/target="_blank")  
 
+Previous Bit posts:  
+B1. [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
+B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-macro-outlook/)  
+
