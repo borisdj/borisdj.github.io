@@ -13,7 +13,7 @@ Bitcoin Layer 2
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
 <center>QR Link</center>
-![QR Link](https://quickchart.io/qr?text=infopedia.io/lightning-network/)
+![QR Link]([https://quickchart.io/qr?text=infopedia.io/lightning-network/](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-qr.png))
 
 Scaling Issues:
 * Bitcoin base layer and Blockchain structure in general does not scale.  
