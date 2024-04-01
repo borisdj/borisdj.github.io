@@ -44,7 +44,7 @@ On top of that maybe only few percent of the global population will have self cu
 One example with non routing nodes is the [**Phonix**](https://phoenix.acinq.co/){:target="_blank"} wallet that has node on mobile but it only connects to the  [Acinq](https://acinq.co/){:target="_blank"} node. They provide services of automatic channel management and balancing liquidity. Phoenix is a great wallet, where you keep your keys but still is very user-friendly with trust-minimized model.  
 Then there is an option for federated nodes like [**FediMint**](https://fedimint.org/){:target="_blank"} that are using federated models for governance.  
 
--- So in the next 20 years if 4 billion people, half the world, would start using it we could expect 50 000 nodes with average 100 K users.  
+-- So in the next 20+ years if few billion people, would start using it we could expect around 50 000 nodes with average 100 K users.  
 Of course there would be a small number of ones with million users and also many small ones with few hundreds users - Normal Distribution of banking, as currently there are around 25 000 [banks globally](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}. (Mega banks vs [**Community banks**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
 -- Also it is expected from big corporations to have their own nodes and channels with vendors for payment, while small companies would use custodian banks.  
 Just like large enterprises have their own accounting sector, while smaller ones hire external service from accounting bureaus.  
