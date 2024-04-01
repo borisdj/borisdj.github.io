@@ -10,7 +10,7 @@ excerpt: "Lightning Network"
 **Lightning Network (LN) development and usecase**<br>
 Bitcoin Layer 2
 
-![/bitcoin-future](-https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
+![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
 <center>QR Link</center>
 ![QR Link](https://quickchart.io/qr?text=infopedia.io/lightning-network/)
@@ -39,7 +39,7 @@ In addition most people this is too complicated so it not even necessary.
 Instead more realistic aprocs is to have many distbitued custodians like today is wallet of satoshi.  
 In fact every bank could become custodin and a lightning node.  
 On top of that maybe 5% of global population will have self custody, either full or partial nodes.  
-One example of non routing nodes is Phonix wallet that has node on mobile but it only connects to Acinq node that prvider services of chanel management and balancing liqudity.  
+One example of non routing nodes is [Phonix](https://phoenix.acinq.co/ target="_blank") wallet that has node on mobile but it only connects to Acinq node that prvider services of chanel management and balancing liqudity.  
 Then there is option for federated nodes like [FediMint](https://fedimint.org/ target="_blank") that uses federaion for governance.  
 
 So in the next 20 years if 4 bilion would start using it, we could expect 50 000 nodes with average 100 K users.  
@@ -48,13 +48,21 @@ Of course there would be small number of ones with million users and also many s
 Also we expect big coorporation to have their owns nodes and chanels with vendors for to payment, while small companies would use custodian banks.  
 Just like big entrprises have their own accounting sector, while small one hire external ones from accounting burau.  
 
+In the meantime there is an interesting usecase for stableSats, like dollars on top on Bitcoin network, for remitances and in the global south with instable local currencies:
+| Wallet | StableCoin | Based on| Org/location  |
+| -----  | --- | --------- | ------------------------------- |
+| [Aqua](https://aquawallet.io/ target="_blank")  | USDT | [Liquid (BlockStream)](https://liquid.net/ target="_blank") | [Jan3](https://jan3.com/ target="_blank") |
+| [Blink](https://www.blink.sv/ target="_blank")  | Exchange | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/ target="_blank") |
+| [10101](https://10101.finance/ target="_blank") | DLC (not LN) | USDp - bolt | Australia |
+| [Mutiny](https://www.mutinywallet.com/ target="_blank") | DLC Channel | Web-based  | Austin TX |
+
 Bitcoin Lightning wallets - [review](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/ target="_blank")  
 ![wallets](https://www.coinbureau.com/_next/image/?url=https%3A%2F%2Fimage.coinbureau.dev%2Fstrapi%2FTOP_8_BITCOIN_LIGHTNING_WALLETS_518296d242.jpg&w=1080&q=50)
 
 Self custody lightning wallets - [comparison](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/ target="_blank") (tested in Africa):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
-Network [Topology](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2  target="_blank") (distirbuted nodes of custodians):
+Network [Topology](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2 target="_blank") (distirbuted nodes of custodians):  
 ![graph](https://static.unlikekinds.com/l-7da55b1b-fb24-42cf-bb96-944d3b197d8b-BvzmdQO.jpg)
 
 Bit Dashboard info:  
