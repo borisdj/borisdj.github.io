@@ -29,9 +29,9 @@ One simple analogy is with when you open a beer tap with bartender and at the en
 With current transaction throughput we could see each year opening up to 100 000 new channels.  
 Later process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [**scalability**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"}.  
 But once set up it can handle large volumes of transactions without the need for regular main net connection, only rarely.  
--- As such it has the potential for over [1 million](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, just the right number, while keeping the fees low.  
+-- As such it has the potential for over [**1 million**](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, just the right number, while keeping the fees low.  
 Still it should be mentioned that this is not necessarily the ultimate fix ([Challenges](https://www.blockchain-council.org/blockchain/what-is-the-lightning-network/){:target="_blank"} & [Response](https://murchandamus.medium.com/i-have-just-read-jonald-fyookballs-article-https-medium-com-jonaldfyookball-mathematical-fd112d13737a){:target="_blank"}).  
-Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([LN 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
+Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
 
 -- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.  
 It also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
@@ -45,8 +45,8 @@ One example with non routing nodes is the [**Phonix**](https://phoenix.acinq.co/
 Then there is an option for federated nodes like [**FediMint**](https://fedimint.org/){:target="_blank"} that are using federated models for governance.  
 
 -- So in the next 20 years if 4 billion people, half the world, would start using it we could expect 50 000 nodes with average 100 K users.  
-Of course there would be a small number of ones with million users and also many small ones with few hundreds users - Normal Distribution banking scale ([The NUMBER of BANKS globally is 25 000](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}). 
-(Mega banks vs [**Community banks**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)
+Of course there would be a small number of ones with million users and also many small ones with few hundreds users - Normal Distribution of banking, as currently there are around 25 000 [banks globally](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}.  
+(Mega banks vs [**Community banks**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
 -- Also it is expected from big corporations to have their own nodes and channels with vendors for payment, while small companies would use custodian banks.  
 Just like large enterprises have their own accounting sector, while smaller ones hire external service from accounting bureaus.  
 
