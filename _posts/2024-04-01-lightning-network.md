@@ -57,13 +57,13 @@ In the meantime there is an interesting usecase for stableSats, like dollars on 
 | [Mutiny](https://www.mutinywallet.com/ target="_blank") | DLC Channel | Web-based  | Austin TX |
 
 Bitcoin Lightning wallets - [review](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/ target="_blank")  
-![wallets](https://www.coinbureau.com/_next/image/?url=https%3A%2F%2Fimage.coinbureau.dev%2Fstrapi%2FTOP_8_BITCOIN_LIGHTNING_WALLETS_518296d242.jpg&w=1080&q=50)
+![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets.jpg)
 
 Self custody lightning wallets - [comparison](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/ target="_blank") (tested in Africa):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
 Network [Topology](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2 target="_blank") (distirbuted nodes of custodians):  
-![graph](https://static.unlikekinds.com/l-7da55b1b-fb24-42cf-bb96-944d3b197d8b-BvzmdQO.jpg)
+![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
 Bit Dashboard info:  
 [mempool.space/lightning](https://mempool.space/lightning target="_blank")  
