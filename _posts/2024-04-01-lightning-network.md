@@ -43,7 +43,8 @@ One example of non routing nodes is Phonix wallet that has node on mobile but it
 Then there is option for federated nodes like [FediMint](https://fedimint.org/ target="_blank") that uses federaion for governance.  
 
 So in the next 20 years if 4 bilion would start using it, we could expect 50 000 nodes with average 100 K users.  
-Of course there would be small number of ones with million users and also many small one with few hunders users - Normal Distribution scale.  
+Of course there would be small number of ones with million users and also many small one with few hunders users - Normal Distribution banking scale ([The NUMBER of BANKS globally is 25 000](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori target="_blank")). 
+(Mega banks vs [Community banks](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/ target="_blank").)
 Also we expect big coorporation to have their owns nodes and chanels with vendors for to payment, while small companies would use custodian banks.  
 Just like big entrprises have their own accounting sector, while small one hire external ones from accounting burau.  
 
@@ -53,7 +54,8 @@ Bitcoin Lightning wallets - [review](https://www.coinbureau.com/analysis/best-bi
 Self custody lightning wallets - [comparison](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/ target="_blank") (tested in Africa):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
-Network Topology (distirbuted nodes of custodians):
+Network [Topology](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2  target="_blank") (distirbuted nodes of custodians):
+![graph](https://static.unlikekinds.com/l-7da55b1b-fb24-42cf-bb96-944d3b197d8b-BvzmdQO.jpg)
 
 Bit Dashboard info:  
 [mempool.space/lightning](https://mempool.space/lightning target="_blank")  
