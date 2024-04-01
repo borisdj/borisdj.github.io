@@ -8,7 +8,7 @@ excerpt: "Lightning Network"
 ---
 
 **[Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} (LN) development and usecase**<br>
-Bitcoin Layer 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8) {:target="_blank"}
+Bitcoin Layer 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
 
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
@@ -20,7 +20,7 @@ Bitcoin Layer 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-
 In order to remain decentralized enough in the long term, from a governance perspective, it needs robust structure and high redundancy.  
 This puts practical constraints to DB to enable many distributed nodes. It also limits the number of transactions per second (TPS), in order to achieve global sync state for consensus.  
 Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 10 without losing security, still 100 TPS would change nothing, since for the entire world we need at least 1 million TPS.
-* In [**Blockchain Trilemma**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} (resilience vs efficiency): /__\  1.Decentralisation, 2.Security, 3.Scalability  
+* In [**Blockchain Trilemma**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} <u>/\</u> (resilience vs efficiency): 1.Decentralisation, 2.Security, 3.Scalability  
 (scalability left for [**next layers**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
 -- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}.  
@@ -45,8 +45,7 @@ One example with non routing nodes is the [**Phonix**](https://phoenix.acinq.co/
 Then there is an option for federated nodes like [**FediMint**](https://fedimint.org/){:target="_blank"} that are using federated models for governance.  
 
 -- So in the next 20 years if 4 billion people, half the world, would start using it we could expect 50 000 nodes with average 100 K users.  
-Of course there would be a small number of ones with million users and also many small ones with few hundreds users - Normal Distribution of banking, as currently there are around 25 000 [banks globally](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}.  
-(Mega banks vs [**Community banks**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
+Of course there would be a small number of ones with million users and also many small ones with few hundreds users - Normal Distribution of banking, as currently there are around 25 000 [banks globally](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}. (Mega banks vs [**Community banks**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
 -- Also it is expected from big corporations to have their own nodes and channels with vendors for payment, while small companies would use custodian banks.  
 Just like large enterprises have their own accounting sector, while smaller ones hire external service from accounting bureaus.  
 
@@ -70,9 +69,9 @@ Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s
 
 YT talks to listen:  
 -[Bitcoin's Lightning Network](https://www.youtube.com/watch?v=rrr_zPmEiME){:target="_blank"} (*Simply Explained*)  
--[What is the Lightning Network?](https://www.youtube.com/watch?v=J3cQNpOR_a0){:target="_blank"} (*99Bitcoins*)  
--[Bitcoin Lightning Network: Need to know](https://www.youtube.com/watch?v=pBh4DcM-0pg){:target="_blank"} (*Coin Bureau*)  
--[What is it? why should I care?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Tech Intro to LN - devs 2020](https://www.youtube.com/watch?v=E1n3sKKPD_k) {:target="_blank"} (*Andreas Antonopoulos*)  
+-[Bitcoin Lightning Network: Need to know](https://www.youtube.com/watch?v=J3cQNpOR_a0){:target="_blank"} (*Coin Bureau*)  
+-[What is the Lightning Network?](https://www.youtube.com/watch?v=pBh4DcM-0pg){:target="_blank"} (*99Bitcoins*)  
+-[What is it? why should I care?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Tech Intro to LN - devs 2020](https://www.youtube.com/watch?v=E1n3sKKPD_k){:target="_blank"} (*Andreas Antonopoulos*)  
 -[Lightning Made Easy](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN wiht Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
 
 Dashboard info:  
