@@ -19,7 +19,7 @@ Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp
 ![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/evolution-of-money.jpg)
 
 <center>QR Link</center>
-![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
+![QR Link](https://quickchart.io/qr?text=https://infopedia.io/revolution-of-money/)
 
 
 **Table Of Contents [C]**
