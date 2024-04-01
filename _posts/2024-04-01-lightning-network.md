@@ -75,7 +75,7 @@ YT talks to listen:
 -[What is it? why should I care?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Tech Intro to LN - devs 2020](https://www.youtube.com/watch?v=E1n3sKKPD_k) {:target="_blank"} (*Andreas Antonopoulos*)  
 -[Lightning Made Easy](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN wiht Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
 
-Bit Dashboard info:  
+Dashboard info:  
 [mempool.space/lightning](https://mempool.space/lightning){:target="_blank"}  
 [clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/){:target="_blank"}  
 [bitbo.io](https://bitbo.io/target="_blank")  
