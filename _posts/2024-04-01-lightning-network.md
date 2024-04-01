@@ -13,13 +13,13 @@ Bitcoin Layer 2
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
 <center>QR Link</center>
-![QR Link]([https://quickchart.io/qr?text=infopedia.io/lightning-network/](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-qr.png))
+![QR Link]((https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-qr.png)
 
 Scaling Issues:
-* Bitcoin base layer and Blockchain structure in general does not scale.  
-In order to remain decentralised enough, from governance aspect, in the long term, it needs robust structure and high redundcay.  
-This puts practical constains to DB size (to enable many distributed nodes). It also limits number of transaction per second (TPS), in order to achive global sync state for consensus.  
-Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 10 witout losing security, still 100 TPS would change nothing, since for entire world we need at least 1 million TPS.
+* Bitcoin base layer and Blockchain architecture in general does not scale.  
+In order to remain decentralised enough, from governance aspect, in the long term, it needs robust structure and high redundancy.  
+This puts practical constains to DB to enable many distributed nodes. It also limits number of transaction per second (TPS), in order to achive global sync state for consensus.  
+Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 10 without losing security, still 100 TPS would change nothing, since for entire world we need at least 1 million TPS.
 * In [Blockchain Trilemma](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95 target="_blank") (resilience vs efficiency): /__\ 1.Decentralisation, 2.Security, 3.Scalability.  
 Bitcoin leaves scalability for [next layers](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer target="_blank").
 
