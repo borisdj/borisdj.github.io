@@ -8,7 +8,7 @@ excerpt: "Lightning Network"
 ---
 
 **[Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} (LN) development and usecase**<br>
-Bitcoin Layer 2 (L2)
+Bitcoin Layer 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8) {:target="_blank"}
 
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
