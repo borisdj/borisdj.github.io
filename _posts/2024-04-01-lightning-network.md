@@ -49,16 +49,16 @@ Of course there would be a small number of ones with million users and also many
 -- Also it is expected from big corporations to have their own nodes and channels with vendors for payment, while small companies would use custodian banks.  
 Just like large enterprises have their own accounting sector, while smaller ones hire external service from accounting bureaus.  
 
-Bitcoin Lightning wallets - [**review**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"}  
+Bitcoin Lightning wallets - [**Review**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"}  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets.jpg)
 
-Self custody lightning wallets - [**comparison**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (tested in Africa):  
+Self custody lightning wallets - [**Comparison**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (tested in Africa):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
 In the meantime there is an interesting use case for stableSats, like dollars or even euros on top of Bitcoin network, e.g. for remittances, and particularly in the global south where many local currencies are quite unstable with very high inflation:
 
-| Wallet | StableCoin | Based on| Org/location  |
-| -----  | ---------- | ------- | ------------- |
+| Wallet | StableCoin | Based on | Org/location  |
+| -----  | ---------- | -------- | ------------- |
 | [**Aqua**](https://aquawallet.io/){:target="_blank"}  | USDT | [Liquid (BlockStream)](https://liquid.net/){:target="_blank"} | [Jan3](https://jan3.com/){:target="_blank"} |
 | [**Blink**](https://www.blink.sv/){:target="_blank"}  | Exchange | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/){:target="_blank"} |
 | [**10101**](https://10101.finance/){:target="_blank"} | DLC (not LN) | USDp - bolt | Australia |
