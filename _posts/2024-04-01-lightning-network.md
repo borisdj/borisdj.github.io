@@ -15,7 +15,7 @@ Bitcoin Layer 2
 <center>QR Link</center>
 ![QR Link](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-qr.png)
 
-Scaling Issues:
+**Scaling Issues**:
 * Bitcoin base layer and Blockchain architecture in general does not scale.  
 In order to remain decentralised enough, from governance aspect, in the long term, it needs robust structure and high redundancy.  
 This puts practical constains to DB to enable many distributed nodes. It also limits number of transaction per second (TPS), in order to achive global sync state for consensus.  
@@ -23,7 +23,7 @@ Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 
 * In [**Blockchain Trilemma**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95 target="_blank") (resilience vs efficiency): /__\ 1.Decentralisation, 2.Security, 3.Scalability.  
 Bitcoin leaves scalability for [**next layers**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer target="_blank").
 
-One of most promising solution is the so called Lightning Network.  
+One of most promising **Solution** is the so called ***Lightning Network***.  
 It works via channels betwean nodes, and needs only base net transaction for opening, closing and rebalancing.  
 With current transaction throughput we could se each year opening ofup to 100 000 new channels.  
 Later number of onboarded user can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/ target="_blank") for [**scalability**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work target="_blank").  
@@ -31,7 +31,7 @@ But once set up it can handle large number of transations without the need for r
 As such it has the potential for over 1 million TPS, just the right number.  
 Still it should be mentioned that this is not necesarily ultimate univeral fix. Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized.  
 
-Another issue that Lightng improves upon is the Privacy as transactions are not publicly visible on the chain.  
+Another issue that Lightng improves upon is the **Privacy** as transactions are not publicly visible on the chain.  
 It also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransations and streaming payments.  
 
 Also worth noting is that it is not curently feasible for every person on planet to have fully custodial lightnig wallet with its own node.  
