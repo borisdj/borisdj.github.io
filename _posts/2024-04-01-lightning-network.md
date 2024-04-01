@@ -59,7 +59,7 @@ Bitcoin Lightning wallets - [**Review**](https://www.coinbureau.com/analysis/bes
 Self custody lightning wallets - [**Comparison**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (tested in Africa):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
-In the meantime there is an interesting use case for stableSats, like dollars or even euros on top of Bitcoin network, e.g. for remittances, and particularly in the global south where many local currencies are quite unstable with very high inflation:
+In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars or even euros on top of Bitcoin network, e.g. for remittances, and particularly in the global south where many local currencies are quite unstable with very high inflation. Wallets with stable features:
 
 | Wallet | StableCoin | Based on | Org/location  |
 | -----  | ---------- | -------- | ------------- |
