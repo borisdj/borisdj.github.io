@@ -25,11 +25,13 @@ Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 
 
 -- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}.  
 It works via channels between nodes, and needs only main net transactions for opening, closing, rebalancing and routing.  
+One simple analogy is with when you open a beer tap with bartender and at the end of night it gets settled.
 With current transaction throughput we could see each year opening up to 100 000 new channels.  
 Later process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [**scalability**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"}.  
 But once set up it can handle large volumes of transactions without the need for regular main net connection, only rarely.  
-As such it has the potential for over 1 million TPS, just the right number.  
-Still it should be mentioned that this is not necessarily the ultimate fix. Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized.  
+As such it has the potential for over [1 million](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, just the right number, while keeping the fees low.  
+-- Still it should be mentioned that this is not necessarily the ultimate fix  ([Challenges](https://www.blockchain-council.org/blockchain/what-is-the-lightning-network/){:target="_blank"}).  
+Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([LN 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
 
 -- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.  
 It also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
