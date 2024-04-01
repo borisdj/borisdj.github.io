@@ -48,7 +48,7 @@ Of course there would be small number of ones with million users and also many s
 Also we expect big coorporation to have their owns nodes and chanels with vendors for to payment, while small companies would use custodian banks.  
 Just like big entrprises have their own accounting sector, while small one hire external ones from accounting burau.  
 
-Bitcoin Lightning wallets - [review](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/ target="_blank")
+Bitcoin Lightning wallets - [review](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/ target="_blank")  
 ![wallets](https://www.coinbureau.com/_next/image/?url=https%3A%2F%2Fimage.coinbureau.dev%2Fstrapi%2FTOP_8_BITCOIN_LIGHTNING_WALLETS_518296d242.jpg&w=1080&q=50)
 
 Self custody lightning wallets - [comparison](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/ target="_blank") (tested in Africa):  
