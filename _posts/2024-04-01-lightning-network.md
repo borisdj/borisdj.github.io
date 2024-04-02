@@ -63,10 +63,14 @@ Of course there would be a small number of ones with million users and also many
 -- Also it is expected from big corporations to have their own nodes and channels with vendors for payment, while small companies would use custodian banks.  
 Just like large enterprises have their own accounting sector, while smaller ones hire external service from accounting bureaus.  
 
-Bitcoin Lightning wallets - [**Review**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"}  
+Bitcoin Lightning wallets:  
+-[**Comparison**](https://darthcoin.substack.com/p/lightning-wallets-comparison){:target="_blank"} (by *darthcoin* @substack)  
+![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
+
+-[**Review**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"} (by *coinbureau*)  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets.jpg)
 
-Self custody lightning wallets - [**Comparison**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (tested in Africa):  
+Self-Custody LN wallets - [**Test**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (by *coindesk* - tested in Africa):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
 In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars or even euros on top of Bitcoin network, e.g. for remittances, and particularly in the global south where many local currencies are quite unstable with very high inflation. Wallets with stable features:
