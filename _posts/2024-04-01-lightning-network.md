@@ -67,9 +67,6 @@ Bitcoin Lightning wallets:
 -[**Comparison**](https://darthcoin.substack.com/p/lightning-wallets-comparison){:target="_blank"} (by *darthcoin* @substack)  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
 
--[**Review**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"} (by *coinbureau*)  
-![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets.jpg)
-
 Self-Custody LN wallets - [**Test**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (by *coindesk* - tested in Africa):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
