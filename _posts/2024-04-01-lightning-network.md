@@ -28,7 +28,7 @@ Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 
 1.Decentralisation, 2.Security, 3.Scalability (No̱ 3 left for [**next layers**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
 -- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}.  
-It works via [bidirectional channels](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791){:target="_blank"} between nodes, and needs base transactions for opening, closing, rebalancing and routing. But once set up it can handle large volumes of transactions without the need for regular main net connection.  
+It works via [**bidirectional channels**](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791){:target="_blank"} between nodes, and needs base transactions for opening, closing, rebalancing and routing. But once set up it can handle large volumes of transactions without the need for regular main net connection.  
 Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
 -- As such it has the potential for over [**1 million**](https://medium.com/@mnry.io/what-is-the-lightning-network-and-how-does-it-work-a9015096cc1c){:target="_blank"} TPS, just the right number, while keeping the fees low. Still it should be mentioned that this is not necessarily the ultimate fix and still hase some challenges.  
 -- Also worth noting is that it is not currently feasible for every person on the planet to have a fully custodial lightning wallet with its own node. With current transaction throughput we could see each year opening up to 100 000 new channels, relatively slow for global population. Instead, a more realistic approach is to have many distributed custodians.  
@@ -42,7 +42,7 @@ In practice request for payment is send from receiver as Lightning Invoice, that
 LN also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
 -- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.   
 
-There are several [implementations](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} of the protocol, notably:  
+There are several [**implementations**](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} of the protocol, notably:  
 -***C-lightning*** developed by Blockstream in C language  
 -***Eclair***, french for Lightning, a Scala implementation by ACINQ  
 -***LND*** (Lightning Network Daemon) node by Lightning Labs in Go  
@@ -62,8 +62,8 @@ Self-Custody LN wallets - [**Test**](https://anitaposch.com/lightning-wallet-tes
 ***Phoenix, Mutiny, Blixt, Green, Zeus,** Wallet of Satoshi*(custodial), with conclusion:  
 *Phoenix topped the rankings for its overall performance and reliability, followed by Mutiny for its user-friendliness.*
 
-Next is a table with selected ones that are fully mobile wallets:
--1.Custodial:
+Next is a table with selected ones that are fully mobile wallets.  
+-1.**Custodial**:
 
 | Wallet | OS | Team | Vid | Tags |
 | -----  | -- | ---- | --- | ---- |
@@ -71,23 +71,23 @@ Next is a table with selected ones that are fully mobile wallets:
 | [**Strike**](https://strike.me/){:target="_blank"} | Not | Jack Mallers - US | [YT](https://www.youtube.com/watch?v=4-vJ7zZQ4wU){:target="_blank"} | - |
 | [**Blink**](https://www.blink.sv/){:target="_blank"} | [git/galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
 
--2.Non-Custodial:
+-2.**Non-Custodial**:
 
 | Wallet | Git | Team | Vid | Tags |
 | -----  | -- | ---- | --- | ---- |
 | [**Phoenix**](hhttps://phoenix.acinq.co/){:target="_blank"} | [Acinq](https://github.com/ACINQ){:target="_blank"} | Pierre-Marie - Paris, FR | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys){:target="_blank"}| [trust -minimized] |
 | [**Breez**](https://breez.technology/mobile/){:target="_blank"} | [BreezMobile](https://github.com/breez/breezmobile){:target="_blank"}| Roy Sheinfeld - Israel | - | [YT](https://www.youtube.com/watch?v=lcBsn8e-oQ4&t=407s){:target="_blank"} |
-| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | [MutinyWallet](https://github.com/MutinyWallet/mutiny-web){:target="_blank"} | Tony Giorgio - Austin, TX | [YT](https://www.youtube.com/watch?v=vHQ6wgT3S2I){:target="_blank"} | [Web based], [DLC Channel] |
-| [**Blixt**](https://blixtwallet.github.io/){:target="_blank"} | [blixt-wallet](https://github.com/hsjoberg/blixt-wallet){:target="_blank"} | - | - | - |
-| [**Zeus**](https://zeusln.com/){:target="_blank"} | [ZeusLN](https://github.com/ZeusLN/zeus){:target="_blank"} | - | - | - |
+| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | [MutinyWallet](https://github.com/MutinyWallet/mutiny-web){:target="_blank"} | Tony Giorgio - Austin, TX | [YT](https://www.youtube.com/watch?v=vHQ6wgT3S2I){:target="_blank"} | [Web based], [Stables-DLC], [Nostr] |
+| [**Blixt**](https://blixtwallet.github.io/){:target="_blank"} | [blixt-wallet](https://github.com/hsjoberg/blixt-wallet){:target="_blank"} | Hampus Sjöberg - Sweden | [YT](https://www.youtube.com/watch?v=5JyOAeaCN0o){:target="_blank"} | - |
+| [**Zeus**](https://zeusln.com/){:target="_blank"} | [ZeusLN](https://github.com/ZeusLN/zeus){:target="_blank"} | Evan Kaloudis - NY, US | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys&t=1106s){:target="_blank"} | - |
 
--3.With On Chain support:
+-3.**With On-Chain support**:
 
 | Wallet | Git | Team | Vid | Tags |
 | -----  | -- | ---- | --- | ---- |
-| [**Electrum**](https://electrum.org/){:target="_blank"} | [spesmilo](https://github.com/spesmilo/electrum){:target="_blank"} | Thomas Voegtlin - Berlin, DE | [YT](https://www.youtube.com/watch?v=pyylkpR4DDk) | [external node] |
-| [**BlueWallet**](https://bluewallet.io/){:target="_blank"} | [BlueWallet](https://github.com/BlueWallet/BlueWallet){:target="_blank"} | - | - | [external node] |
-| [**Green**](https://github.com/Blockstream/green_android){:target="_blank"} | [Blockstream](https://github.com/Blockstream/green_android){:target="_blank"} | Adam Back - US | [YT](https://www.youtube.com/watch?v=DesN85bWmGA){:target="_blank"} |
+| [**Electrum**](https://electrum.org/){:target="_blank"} | [spesmilo](https://github.com/spesmilo/electrum){:target="_blank"} | Thomas Voegtlin - Berlin, DE | [YT](https://www.youtube.com/watch?v=pyylkpR4DDk){:target="_blank"} | [external node] |
+| [**BlueWallet**](https://bluewallet.io/){:target="_blank"} | [BlueWallet](https://github.com/BlueWallet/BlueWallet){:target="_blank"} | Nuno Coelho - Barcelona, ES | [YT](https://www.youtube.com/watch?v=iVPNk2ZZ63w){:target="_blank"} | [external node] |
+| [**Green**](https://github.com/Blockstream/green_android){:target="_blank"} | [Blockstream](https://github.com/Blockstream/green_android){:target="_blank"} | Adam Back - US | [YT](https://www.youtube.com/watch?v=DesN85bWmGA){:target="_blank"} | [external node] |
 | [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} | [zkSNACKs](https://github.com/zkSNACKs/WalletWasabi){:target="_blank"} | Max Hillebrand(DE) - Gibraltar | [YT](https://www.youtube.com/watch?v=ECQHAzSckK0){:target="_blank"} | plan for [LN with CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"} |
 
 Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} and [graph](https://lnrouter.app/graph){:target="_blank"} (distribution of nodes):  
