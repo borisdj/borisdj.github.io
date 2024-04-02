@@ -107,7 +107,7 @@ B1. [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
 B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-macro-outlook/)  
 
 PS  
-If you have business or provide some side services consider to start accepting BTC, sticker:   
+If you have business or provide services consider to start accepting BTC (circular economy), sticker:   
 (one personal example with prices also denominated in Bit - [codis.tech/efcorebulk](https://codis.tech/efcorebulk){:target="_blank"})  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)  
 Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
