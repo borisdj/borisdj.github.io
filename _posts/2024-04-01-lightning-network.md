@@ -72,7 +72,7 @@ In the meantime there is an interesting use case for stableSats (StableCoins alt
 Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} (distribution of nodes):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
-[Research](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"}  
+[**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"}  
 More scientific papers:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
 [lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
@@ -98,4 +98,5 @@ B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-m
 PS  
 If you have business or provide some side services consider to start acceepting BTC, sticker:   
 (one personal example with prices also denominated in Bit - [codis.tech/efcorebulk](https://codis.tech/efcorebulk){:target="_blank"})  
-![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)
+![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)  
+Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"})  
