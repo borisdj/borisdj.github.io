@@ -37,6 +37,15 @@ But once set up it can handle large volumes of transactions without the need for
 -- As such it has the potential for over [**1 million**](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, just the right number, while keeping the fees low.  
 Still it should be mentioned that this is not necessarily the ultimate fix ([Challenges](https://www.blockchain-council.org/blockchain/what-is-the-lightning-network/){:target="_blank"} & [Response](https://murchandamus.medium.com/i-have-just-read-jonald-fyookballs-article-https-medium-com-jonaldfyookball-mathematical-fd112d13737a){:target="_blank"}).  
 Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
+There are several [implementations](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} of the protocol, notably:  
+-***C-lightning*** developed by Blockstream in C language  
+-***Eclair***, french for Lightning, a Scala implementation by ACINQ  
+-***LND*** (Lightning Network Daemon) node by Lightning Labs in Go  
+
+Technical difficulties and solutions:  
+-finding viable paths -> Pickhardt routing, Hornet  
+-privacy leakages -> PTLCs (Point Time Locked Contracts), trampoline routing  
+-force-closed channel -> solves itself with time  
 
 -- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.  
 It also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
@@ -69,7 +78,7 @@ In the meantime there is an interesting use case for stableSats (StableCoins alt
 | [**10101**](https://10101.finance/){:target="_blank"} | DLC (not LN) | USDp - bolt | Australia |
 | [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | DLC Channel | Web-based  | Austin TX |
 
-Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} (distribution of nodes):  
+Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} and [graph](https://lnrouter.app/graph){:target="_blank"} (distribution of nodes):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
 [**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"}  
