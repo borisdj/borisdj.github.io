@@ -52,10 +52,7 @@ Technical difficulties and solutions:
 -privacy leakages -> PTLCs (Point Time Locked Contracts), trampoline routing  
 -force-closed channel -> solves itself with time  
 
-[**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"}
-
--- Should the need arise, the process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [scalability](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} and [Covenants](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}). Others optins in development include: [sidecar channels](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}. Then there is possibility for federated nodes like [FediMint](https://fedimint.org/){:target="_blank"} that are using federation model for governance.  
--- In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars equivalent on top of Bitcoin network, e.g. for remittances. Particularly useful in the global south where many local currencies are quite unstable with very high inflation.  
+[**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"} 
 
 Bitcoin Lightning wallets:  
 -[**Comparison**](https://darthcoin.substack.com/p/lightning-wallets-comparison){:target="_blank"} (by *darthcoin* @substack)  
@@ -95,6 +92,9 @@ Next is a table with selected ones that are fully mobile wallets:
 
 Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} and [graph](https://lnrouter.app/graph){:target="_blank"} (distribution of nodes):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
+
+-- Should the need arise, the process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [scalability](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} and [Covenants](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}). Others optins in development include: [sidecar channels](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}. Then there is possibility for federated nodes like [FediMint](https://fedimint.org/){:target="_blank"} that are using federation model for governance.  
+-- In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars equivalent on top of Bitcoin network, e.g. for remittances. Particularly useful in the global south where many local currencies are quite unstable with very high inflation. 
 
 More scientific papers:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
