@@ -36,7 +36,8 @@ Others optins in development include: [sidecar channels](){:target="_blank"}, [s
 But once set up it can handle large volumes of transactions without the need for regular main net connection.  
 -- As such it has the potential for over [**1 million**](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, just the right number, while keeping the fees low.  
 Still it should be mentioned that this is not necessarily the ultimate fix ([Challenges](https://www.blockchain-council.org/blockchain/what-is-the-lightning-network/){:target="_blank"} & [Response](https://murchandamus.medium.com/i-have-just-read-jonald-fyookballs-article-https-medium-com-jonaldfyookball-mathematical-fd112d13737a){:target="_blank"}).  
-Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
+Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).
+It also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
 There are several [implementations](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} of the protocol, notably:  
 -***C-lightning*** developed by Blockstream in C language  
 -***Eclair***, french for Lightning, a Scala implementation by ACINQ  
@@ -48,7 +49,7 @@ Technical difficulties and solutions:
 -force-closed channel -> solves itself with time  
 
 -- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.  
-It also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
+Here to mention [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} wallet that has plan to enable [Lightning with CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"}. 
 
 -- Also worth noting is that it is not currently feasible for every person on the planet to have a fully custodial lightning wallet with its own node.  
 In addition, for most people this is too complicated, so it might not even be necessary.  
@@ -56,6 +57,7 @@ Instead, a more realistic approach is to have many distributed custodians, for e
 -- In fact every bank could become custodian and a lightning node.  
 On top of that maybe only few percent of the global population will have self custody, with either completely or partially trustless implementation.  
 One example with non routing nodes is the [**Phonix**](https://phoenix.acinq.co/){:target="_blank"} wallet that has node on mobile but it only connects to the  [Acinq](https://acinq.co/){:target="_blank"} node. They provide services of automatic channel management and balancing liquidity. Phoenix is a great wallet, where you keep your keys but still is very user-friendly with trust-minimized model.  
+Even https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/ has plan to enable 
 Then there is an option for federated nodes like [**FediMint**](https://fedimint.org/){:target="_blank"} that are using federated models for governance.  
 
 -- So in the next 20+ years if few billion people, would start using it we could expect around 50 000 nodes with average 100 K users.  
