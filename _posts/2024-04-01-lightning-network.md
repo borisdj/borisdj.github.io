@@ -71,12 +71,12 @@ Self custody lightning wallets - [**Comparison**](https://www.coindesk.com/conse
 
 In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars or even euros on top of Bitcoin network, e.g. for remittances, and particularly in the global south where many local currencies are quite unstable with very high inflation. Wallets with stable features:
 
-| Wallet | StableCoin | Based on | Org/location  |
+| Wallet | Stable | Based on | Org/location  |
 | -----  | ---------- | -------- | ------------- |
-| [**Aqua**](https://aquawallet.io/){:target="_blank"}  | USDT | [Liquid (BlockStream)](https://liquid.net/){:target="_blank"} | [Jan3](https://jan3.com/){:target="_blank"} |
-| [**Blink**](https://www.blink.sv/){:target="_blank"}  | Exchange | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/){:target="_blank"} |
-| [**10101**](https://10101.finance/){:target="_blank"} | DLC (not LN) | USDp - bolt | Australia |
-| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | DLC Channel | Web-based  | Austin TX |
+| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | Sat: DLC Channel | Web-based  | Austin TX |
+| [**10101**](https://10101.finance/){:target="_blank"} | Sat: DLC (not LN) | USDp - bolt | Australia |
+| [**Blink**](https://www.blink.sv/){:target="_blank"}  | Sat: Exchange | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/){:target="_blank"} |
+| [**Aqua**](https://aquawallet.io/){:target="_blank"}  | Coin: - | [Liquid (BlockStream)](https://liquid.net/){:target="_blank"} | [Jan3](https://jan3.com/){:target="_blank"} |
 
 Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} and [graph](https://lnrouter.app/graph){:target="_blank"} (distribution of nodes):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
