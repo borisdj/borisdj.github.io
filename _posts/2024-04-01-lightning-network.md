@@ -20,16 +20,16 @@ Others ([g-translate](https://translate.google.com/?sl=en&tl=bs&text=https%3A%2F
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
 
 **Scaling Issues**:  
-* Bitcoin base layer and Blockchain architecture in general does not scale.  
+* Bitcoin base layer and Blockchain architecture in general do not scale.  
 In order to remain decentralized enough in the long term, from a governance perspective, it needs robust structure and high redundancy.  
-This puts practical constraints to DB to enable many distributed nodes. It also limits the number of transactions per second (TPS), in order to achieve global sync state for consensus.  
+This puts practical constraints on DB to enable many distributed nodes. It also limits the number of transactions per second (TPS), in order to achieve global sync state for consensus.  
 Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 10 without losing security, still 100 TPS would change nothing, since for the entire world we need at least 1 million TPS.
 * [**Blockchain Trilemma**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} <u>/\</u> (resilience vs efficiency):  
 1.Decentralisation, 2.Security, 3.Scalability (num 3 left for [**next layers**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
 -- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}.  
 It works via channels between nodes, and needs base transactions for opening, closing, rebalancing and routing.  
-One simple analogy is with when you open a beer tap with bartender and at the end of night it gets settled.
+One simple analogy is when you open a beer tap with bartender and at the end of night it gets settled with finality.
 With current transaction throughput we could see each year opening up to 100 000 new channels.  
 Later process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [**scalability**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} and [**Covenants**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}).  
 Others optins in development include: [sidecar channels](){:target="_blank"}, [statechains](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}.
