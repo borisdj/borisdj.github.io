@@ -73,8 +73,8 @@ Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
 [Research report](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} by River (2023)  
-[Analysis Engine](https://1ml.com/){:target="_blank"}
-More scientific papers:
+[Analysis Engine](https://1ml.com/){:target="_blank"}  
+More scientific papers:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
 [/lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
 [MA_EEMCS](https://essay.utwente.nl/80780/1/Wijburg_MA_EEMCS.pdf){:target="_blank"}  
