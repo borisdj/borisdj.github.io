@@ -56,7 +56,6 @@ Instead, a more realistic approach is to have many distributed custodians, for e
 -- In fact every bank could become custodian and a lightning node.  
 On top of that maybe only few percent of the global population will have self custody, with either completely or partially trustless implementation.  
 One example with non routing nodes is the [**Phonix**](https://phoenix.acinq.co/){:target="_blank"} wallet that has node on mobile but it only connects to the  [Acinq](https://acinq.co/){:target="_blank"} node. They provide services of automatic channel management and balancing liquidity. Phoenix is a great wallet, where you keep your keys but still is very user-friendly with trust-minimized model.  
-Even https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/ has plan to enable 
 Then there is an option for federated nodes like [**FediMint**](https://fedimint.org/){:target="_blank"} that are using federated models for governance.  
 
 -- So in the next 20+ years if few billion people, would start using it we could expect around 50 000 nodes with average 100 K users.  
