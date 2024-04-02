@@ -31,7 +31,7 @@ Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 
 It works via channels between nodes, and needs base transactions for opening, closing, rebalancing and routing.  
 One simple analogy is with when you open a beer tap with bartender and at the end of night it gets settled.
 With current transaction throughput we could see each year opening up to 100 000 new channels.  
-Later process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [**scalability**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} and [**Covenants**(https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"}] ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}).  
+Later process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [**scalability**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} and [**Covenants**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}).  
 Others optins in development include: [sidecar channels](){:target="_blank"}, [statechains](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}.
 But once set up it can handle large volumes of transactions without the need for regular main net connection.  
 -- As such it has the potential for over [**1 million**](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, just the right number, while keeping the fees low.  
@@ -72,11 +72,10 @@ In the meantime there is an interesting use case for stableSats (StableCoins alt
 Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} (distribution of nodes):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
-[Research report](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} by River (2023)  
-[Analysis Engine](https://1ml.com/){:target="_blank"}  
+[Research](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"}  
 More scientific papers:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
-[/lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
+[lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
 [MA_EEMCS](https://essay.utwente.nl/80780/1/Wijburg_MA_EEMCS.pdf){:target="_blank"}  
 
 YT talks to listen:  
@@ -88,9 +87,9 @@ YT talks to listen:
 -[Scaling Bitcoin with Giacomo, John & Matt](https://www.youtube.com/watch?v=Iz81W-_X5gw){:target="_blank"} (*WBD - What Bitcoin Did*)  
 
 Dashboard info:  
-[mempool.space/lightning](https://mempool.space/lightning){:target="_blank"}  
-[clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/){:target="_blank"}  
-[bitbo.io](https://bitbo.io/target="_blank")  
+-[mempool.space/lightning](https://mempool.space/lightning){:target="_blank"}  
+-[clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/){:target="_blank"}  
+-[bitbo.io](https://bitbo.io/target="_blank")  
 
 Previous Bit posts:  
 B1. [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
@@ -98,5 +97,5 @@ B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-m
 
 PS  
 If you have business or provide some side services consider to start acceepting BTC  
-(one personal example with prices also denominated in Bit - [codis.tech/efcorebulk](https://codis.tech/efcorebulk)):
+(one personal example with prices also denominated in Bit - [codis.tech/efcorebulk](https://codis.tech/efcorebulk){:target="_blank"}):  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)
