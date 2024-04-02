@@ -40,8 +40,7 @@ Those protocols are meant to extend Bitcoin's functionality up to a point, while
 -- For better understanding a simple analogy is when you open a beer tap with bartender and at the end of night it gets settled with finality.  
 In practice request for payment is send from receiver as Lightning Invoice, that can be with defined amount, or empty and left for sender to enter it.  
 LN also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
--- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.  
-Here to mention [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} wallet that has plan to enable [Lightning with CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"}.  
+-- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.   
 
 There are several [implementations](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} of the protocol, notably:  
 -***C-lightning*** developed by Blockstream in C language  
@@ -49,9 +48,9 @@ There are several [implementations](https://medium.com/@fulgur.ventures/an-overv
 -***LND*** (Lightning Network Daemon) node by Lightning Labs in Go  
 
 Technical difficulties and solutions:  
--finding viable paths -> Pickhardt routing
+-finding viable paths -> Pickhardt routing  
 -privacy leakages -> PTLCs (Point Time Locked Contracts), trampoline routing  
--force-closed channel -> solves itself with time
+-force-closed channel -> solves itself with time  
 
 [**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"}
 
@@ -69,6 +68,7 @@ Self-Custody LN wallets - [**Test**](https://anitaposch.com/lightning-wallet-tes
 
 Next is a table with selected ones that are fully mobile wallets:
 -1.Custodial:
+
 | Wallet | OS | Team | Vid | Tags |
 | -----  | -- | ---- | --- | ---- |
 | [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Not | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | easy, no fees |
@@ -76,6 +76,7 @@ Next is a table with selected ones that are fully mobile wallets:
 | [**Blink**](https://www.blink.sv/){:target="_blank"} | [git/galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
 
 -2.Non-Custodial:
+
 | Wallet | Git | Team | Vid | Tags |
 | -----  | -- | ---- | --- | ---- |
 | [**Phoenix**](hhttps://phoenix.acinq.co/){:target="_blank"} | [Acinq](https://github.com/ACINQ){:target="_blank"} | Pierre-Marie - Paris, FR | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys){:target="_blank"}| [trust -minimized] |
@@ -85,6 +86,7 @@ Next is a table with selected ones that are fully mobile wallets:
 | [**Zeus**](https://zeusln.com/){:target="_blank"} | [ZeusLN](https://github.com/ZeusLN/zeus){:target="_blank"} | - | - | - |
 
 -3.With On Chain support:
+
 | Wallet | Git | Team | Vid | Tags |
 | -----  | -- | ---- | --- | ---- |
 | [**Electrum**](https://electrum.org/){:target="_blank"} | [spesmilo](https://github.com/spesmilo/electrum){:target="_blank"} | Thomas Voegtlin - Berlin, DE | [YT](https://www.youtube.com/watch?v=pyylkpR4DDk) | [external node] |
