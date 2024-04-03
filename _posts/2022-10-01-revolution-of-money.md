@@ -712,11 +712,8 @@ With it there will be a **Quiz** with Questions. For those who get all the corre
 ([**List of all URL-s**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"})<br>
 -- To expose mostly referenced web pages:<br>
 [bitcoin.org](https://bitcoin.org/en){:target="_blank"}<br>
-[coinmarketcap.com](https://coinmarketcap.com){:target="_blank"}<br>
-[coingecko.com](https://www.coingecko.com/){:target="_blank"}<br>
 [bitcoinmagazine.com](https://bitcoinmagazine.com){:target="_blank"}<br>
-[cointelegraph.com](https://cointelegraph.com){:target="_blank"}<br>
-[coindesk.com](https://coindesk.com){:target="_blank"}<br>
+[coinmarketcap.com](https://coinmarketcap.com){:target="_blank"}<br>
 [wikipedia.org](https://en.wikipedia.org){:target="_blank"}<br>
 [investopedia.com](https://investopedia.com){:target="_blank"}<br>
 [mises.org](https://mises.org){:target="_blank"}<br>
