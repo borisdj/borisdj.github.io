@@ -67,16 +67,17 @@ Next is a table with selected ones that are fully mobile wallets.
 
 | Wallet | OS-Git | Team | Vid | Tags |
 | -----  | -- | ---- | --- | ---- |
-| 1.**Custodial**  | *** | *** | *** | *** |
+| 1.**Custodial** | ****** | ********** | *** | *************** |
 | [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Not | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | easy, no fees |
 | [**Strike**](https://strike.me/){:target="_blank"} | Not | Jack Mallers - US | [YT](https://www.youtube.com/watch?v=4-vJ7zZQ4wU){:target="_blank"} | - |
-| [**Blink**](https://www.blink.sv/){:target="_blank"} | [git/galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] | 2.**Non-Custodial**  | *** | *** | *** | *** |
+| [**Blink**](https://www.blink.sv/){:target="_blank"} | [git/galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
+| 2.**Non-Custodial** | ****** | ********** | *** | *************** |
 | [**Phoenix**](hhttps://phoenix.acinq.co/){:target="_blank"} | [Acinq](https://github.com/ACINQ){:target="_blank"} | Pierre-Marie - Paris, FR | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys){:target="_blank"}| [trust -minimized] |
 | [**Breez**](https://breez.technology/mobile/){:target="_blank"} | [BreezMobile](https://github.com/breez/breezmobile){:target="_blank"}| Roy Sheinfeld - Israel | - | [YT](https://www.youtube.com/watch?v=lcBsn8e-oQ4&t=407s){:target="_blank"} |
 | [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | [MutinyWallet](https://github.com/MutinyWallet/mutiny-web){:target="_blank"} | Tony Giorgio - Austin, TX | [YT](https://www.youtube.com/watch?v=vHQ6wgT3S2I){:target="_blank"} | [Web based], [Stables-DLC], [Nostr] |
 | [**Blixt**](https://blixtwallet.github.io/){:target="_blank"} | [blixt-wallet](https://github.com/hsjoberg/blixt-wallet){:target="_blank"} | Hampus Sjöberg - Sweden | [YT](https://www.youtube.com/watch?v=5JyOAeaCN0o){:target="_blank"} | - |
 | [**Zeus**](https://zeusln.com/){:target="_blank"} | [ZeusLN](https://github.com/ZeusLN/zeus){:target="_blank"} | Evan Kaloudis - NY, US | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys&t=1106s){:target="_blank"} | - |
-| 3.**With On-Chain**  | *** | *** | *** | *** |
+| 3.**With On-Chain** | ****** | ********** | *** | *************** |
 | [**Electrum**](https://electrum.org/){:target="_blank"} | [spesmilo](https://github.com/spesmilo/electrum){:target="_blank"} | Thomas Voegtlin - Berlin, DE | [YT](https://www.youtube.com/watch?v=pyylkpR4DDk){:target="_blank"} | [external node] |
 | [**BlueWallet**](https://bluewallet.io/){:target="_blank"} | [BlueWallet](https://github.com/BlueWallet/BlueWallet){:target="_blank"} | Nuno Coelho - Barcelona, ES | [YT](https://www.youtube.com/watch?v=iVPNk2ZZ63w){:target="_blank"} | [external node] |
 | [**Green**](https://github.com/Blockstream/green_android){:target="_blank"} | [Blockstream](https://github.com/Blockstream/green_android){:target="_blank"} | Adam Back - US | [YT](https://www.youtube.com/watch?v=DesN85bWmGA){:target="_blank"} | [external node] |
