@@ -8,7 +8,7 @@ excerpt: "Lightning Network"
 ---
 
 **[Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} (LN) development and usecase**<br>
-Bitcoin Layer 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
+Bitcoin Layer 2 (L2) - [**Tech behind**](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
 
 LANG(jezik):<br>
 Global (en-us) / [Local](https://infopedia.io/sr-latn/lightning-network/) (sr-latn-ba)<br>
@@ -37,10 +37,9 @@ Those protocols are meant to extend Bitcoin's functionality up to a point, while
 -- So in the next 20+ years if few billion people, would start using it we could expect around 50 000 nodes with average 100 K users. Of course there would be a small number of ones with million users and also many small ones with few hundreds users - Normal Distribution of banking, as currently there are around 25 000 [banks globally](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}. (Mega banks vs [**Community banks**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
 -- Also it is expected from big corporations to have their own nodes and channels with vendors for payment, while small companies would use custodian banks. Just like large enterprises have their own accounting sector, while smaller ones hire external service from accounting bureaus. 
 
--- For better understanding a simple analogy is when you open a beer tap with bartender and at the end of night it gets settled with finality.  
-In practice request for payment is send from receiver as Lightning Invoice, that can be with defined amount, or empty and left for sender to enter it.  
-LN also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
--- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.   
+-- For better understanding a simple analogy is when you open a beer tap with bartender and at the end of night it gets settled with finality. In practice request for payment is send from receiver as Lightning Invoice, that can be with defined amount, or empty and left for sender to enter it.   
+-- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.  
+LN also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments. 
 
 There are several [**implementations**](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} of the protocol, notably:  
 -***C-lightning*** developed by Blockstream in C language  
@@ -54,8 +53,7 @@ Technical difficulties and solutions:
 
 [**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"} 
 
-Bitcoin Lightning wallets:  
--[**Comparison**](https://darthcoin.substack.com/p/lightning-wallets-comparison){:target="_blank"} (by *darthcoin* @substack)  
+Bitcoin Lightning wallets -[**Comparison**](https://darthcoin.substack.com/p/lightning-wallets-comparison){:target="_blank"} (by *darthcoin* @substack):  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
 
 Self-Custody LN wallets - [**Test**](https://anitaposch.com/lightning-wallet-test-2024){:target="_blank"} (by *AnitaPosch* - tested in Africa):  
@@ -63,13 +61,12 @@ Self-Custody LN wallets - [**Test**](https://anitaposch.com/lightning-wallet-tes
 *Phoenix topped the rankings for its overall performance and reliability, followed by Mutiny for its user-friendliness.*
 
 Next is a table with selected ones that are fully mobile wallets.  
--1.**Custodial**:
 
-| Wallet | OS/Git | Team | Vid | Tags |
-| -----  | -- | ---- | --- | ---- |
+| Wallet | Github | Team | Vid | Tags |
+| -----  | ------ | ---- | --- | ---- |
 | 1.**Custodial** | ------ | ---------- | --- | --------------- |
-| [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Not | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | easy, no fees |
-| [**Strike**](https://strike.me/){:target="_blank"} | Not | Jack Mallers - US | [YT](https://www.youtube.com/watch?v=4-vJ7zZQ4wU){:target="_blank"} | - |
+| [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Not OS | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | easy, no fees |
+| [**Strike**](https://strike.me/){:target="_blank"} | Not OS | Jack Mallers - US | [YT](https://www.youtube.com/watch?v=4-vJ7zZQ4wU){:target="_blank"} | - |
 | [**Blink**](https://www.blink.sv/){:target="_blank"} | [Galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
 | 2.**Non-Custodial** | *------* | *----------* | *---* | *---------------* |
 | [**Phoenix**](hhttps://phoenix.acinq.co/){:target="_blank"} | [Acinq](https://github.com/ACINQ){:target="_blank"} | Pierre-Marie - Paris, FR | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys){:target="_blank"}| [trust -minimized] |
@@ -86,8 +83,8 @@ Next is a table with selected ones that are fully mobile wallets.
 Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} and [graph](https://lnrouter.app/graph){:target="_blank"} (distribution of nodes):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
--- Should the need arise, the process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [scalability](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} and [Covenants](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}). Others optins in development include: [sidecar channels](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}. Then there is possibility for federated nodes like [FediMint](https://fedimint.org/){:target="_blank"} that are using federation model for governance.  
--- In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars equivalent on top of Bitcoin network, e.g. for remittances. Particularly useful in the global south where many local currencies are quite unstable with very high inflation. 
+-- Should the need arise, the process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [scalability](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"}. Others optins in development include: [sidecar channels](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"} and [covenants](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}). Then there is possibility for federated nodes like [FediMint](https://fedimint.org/){:target="_blank"} that are using federation model for governance.  
+-- In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars equivalent on top of Bitcoin network, e.g. for remittances. Particularly useful in the global south where many local currencies are quite unstable with very high inflation. One more new wallet with this feature is [10101]([finance](https://10101.finance/)){:target="_blank"} (ten-ten-one ) finance.
 
 More scientific papers:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
@@ -111,7 +108,7 @@ B1. [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
 B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-macro-outlook/)  
 
 PS  
-If you have business or provide services consider to start accepting Bitcoin (circular economy), sticker:   
+If you have business or provide services consider to start accepting Bitcoin (circular economy), sticker for print:   
 (one personal example with prices also denominated in BTC - [codis.tech/efcorebulk](https://codis.tech/efcorebulk){:target="_blank"})  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)  
 Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
