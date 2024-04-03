@@ -65,15 +65,15 @@ Self-Custody LN wallets - [**Test**](https://anitaposch.com/lightning-wallet-tes
 Next is a table with selected ones that are fully mobile wallets.  
 -1.**Custodial**:
 
-| Wallet | OS-Git | Team | Vid | Tags |
+| Wallet | OS/Git | Team | Vid | Tags |
 | -----  | -- | ---- | --- | ---- |
 | 1.**Custodial** | ------ | ---------- | --- | --------------- |
 | [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Not | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | easy, no fees |
 | [**Strike**](https://strike.me/){:target="_blank"} | Not | Jack Mallers - US | [YT](https://www.youtube.com/watch?v=4-vJ7zZQ4wU){:target="_blank"} | - |
-| [**Blink**](https://www.blink.sv/){:target="_blank"} | [git/galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
+| [**Blink**](https://www.blink.sv/){:target="_blank"} | [Galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
 | 2.**Non-Custodial** | *------* | *----------* | *---* | *---------------* |
 | [**Phoenix**](hhttps://phoenix.acinq.co/){:target="_blank"} | [Acinq](https://github.com/ACINQ){:target="_blank"} | Pierre-Marie - Paris, FR | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys){:target="_blank"}| [trust -minimized] |
-| [**Breez**](https://breez.technology/mobile/){:target="_blank"} | [BreezMobile](https://github.com/breez/breezmobile){:target="_blank"}| Roy Sheinfeld - Israel | - | [YT](https://www.youtube.com/watch?v=lcBsn8e-oQ4&t=407s){:target="_blank"} |
+| [**Breez**](https://breez.technology/mobile/){:target="_blank"} | [BreezMobile](https://github.com/breez/breezmobile){:target="_blank"}| Roy Sheinfeld - Israel | [YT](https://www.youtube.com/watch?v=lcBsn8e-oQ4&t=407s){:target="_blank"} | - |
 | [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | [MutinyWallet](https://github.com/MutinyWallet/mutiny-web){:target="_blank"} | Tony Giorgio - Austin, TX | [YT](https://www.youtube.com/watch?v=vHQ6wgT3S2I){:target="_blank"} | [Web], [Stables-DLC], [Nostr] |
 | [**Blixt**](https://blixtwallet.github.io/){:target="_blank"} | [blixt-wallet](https://github.com/hsjoberg/blixt-wallet){:target="_blank"} | Hampus Sjöberg - Sweden | [YT](https://www.youtube.com/watch?v=5JyOAeaCN0o){:target="_blank"} | - |
 | [**Zeus**](https://zeusln.com/){:target="_blank"} | [ZeusLN](https://github.com/ZeusLN/zeus){:target="_blank"} | Evan Kaloudis - NY, US | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys&t=1106s){:target="_blank"} | - |
