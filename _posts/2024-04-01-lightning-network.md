@@ -115,5 +115,4 @@ PS
 If you have business or provide services consider to start accepting Bitcoin (circular economy), sticker for print:   
 (one personal example with prices also denominated in BTC - [codis.tech/efcorebulk](https://codis.tech/efcorebulk){:target="_blank"})  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)  
-Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
-Also to support the developers: [Bitcoin Donation Porta](https://bitcoindevlist.com/){:target="_blank"}  
+Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"} (also to support the developers: [Bitcoin Donation Porta](https://bitcoindevlist.com/){:target="_blank"})
