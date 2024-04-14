@@ -22,7 +22,7 @@ Others ([g-translate](https://translate.google.com/?sl=en&tl=bs&text=https%3A%2F
 **Scaling Issues**:  
 * Bitcoin base layer and Blockchain architecture in general do not scale.  
 In order to remain decentralized enough in the long term, from a governance perspective, it needs robust structure and high redundancy.  
-This puts practical constraints on DB to enable many distributed nodes. It also limits the number of transactions per second (TPS), in order to achieve global sync state for consensus.  
+This puts practical constraints on DB to enable many distributed nodes. It also limits the number of transactions per second (TPS), in order to achieve global sync state for consensus. DB size needs to grow at moderate pace in order for many nodes to be able to keep up with storage capacity and internet bandwith.  
 Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 10 without losing security, still 100 TPS would change nothing, since for the entire world we need at least 1 million TPS.
 * [**Blockchain Trilemma**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} <u>/\</u> (resilience vs efficiency):  
 1.Decentralisation, 2.Security, 3.Scalability (No̱ 3 left for [**next layers**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
@@ -53,7 +53,7 @@ Technical difficulties and solutions:
 
 [**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"} 
 
-Bitcoin Lightning wallets -[**Comparison**](https://darthcoin.substack.com/p/lightning-wallets-comparison){:target="_blank"} (by *darthcoin* @substack):  
+Bitcoin Lightning wallets - [**Comparison**](https://darthcoin.substack.com/p/lightning-wallets-comparison){:target="_blank"} (by *darthcoin* @substack):  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
 
 Self-Custody LN wallets - [**Test**](https://anitaposch.com/lightning-wallet-test-2024){:target="_blank"} (by *AnitaPosch* - tested in Africa):  
@@ -83,8 +83,8 @@ Next is a table with selected ones that are fully mobile wallets.
 Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} and [graph](https://lnrouter.app/graph){:target="_blank"} (distribution of nodes):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
--- Should the need arise, the process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [scalability](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"}. Others optins in development include: [sidecar channels](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"} and [covenants](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}). Then there is possibility for federated nodes like [FediMint](https://fedimint.org/){:target="_blank"} that are using federation model for governance.  
--- In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars equivalent on top of Bitcoin network, e.g. for remittances. Particularly useful in the global south where many local currencies are quite unstable with very high inflation. One more new wallet with this feature is [10101](https://10101.finance/){:target="_blank"} (ten-ten-one) finance.
+-- Should the need arise, the process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [scalability](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"}. Others optins in development include: [sidecar channels](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"} and also [**Covenants**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}). Then there is possibility for federated nodes like [FediMint](https://fedimint.org/){:target="_blank"} that are using federation model for governance.  
+-- In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars equivalent on top of Bitcoin network, e.g. for remittances. Particularly useful in the global south where many local currencies are quite unstable with very high inflation. Besides *Mutiny* another wallet with this feature is [10101](https://10101.finance/){:target="_blank"} (ten-ten-one) finance.
 
 More scientific papers:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
