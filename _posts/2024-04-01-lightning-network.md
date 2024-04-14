@@ -94,8 +94,8 @@ More scientific papers:
 YT talks to listen:  
 -[Bitcoin's Lightning Network](https://www.youtube.com/watch?v=rrr_zPmEiME){:target="_blank"} (*Simply Explained*)  
 -[What is the Lightning Network?](https://www.youtube.com/watch?v=pBh4DcM-0pg){:target="_blank"} (*99Bitcoins*)  
--[What is it? why should I care?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Non-Technical Explained](https://www.youtube.com/watch?v=XCSfoiD8wUA){:target="_blank"} (*Andreas Antonopoulos*)  
--[Lightning Made Easy](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN wiht Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
+-[What is it? why should I care?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Non-Technical Explained](https://www.youtube.com/watch?v=XCSfoiD8wUA){:target="_blank"} (*Andreas Antonopoulos* - [*aantonop*](https://aantonop.com/){:target="_blank"})  
+-[Lightning Made Easy](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN with Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
 -[Scaling Bitcoin with Giacomo, John & Matt](https://www.youtube.com/watch?v=Iz81W-_X5gw){:target="_blank"} (*WBD - What Bitcoin Did*)  
 
 Dashboard info:  
@@ -106,6 +106,9 @@ Dashboard info:
 Previous Bit posts:  
 B1. [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
 B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-macro-outlook/)  
+
+Where to buy and/or [DCA Bit](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} with Credit/Debit Card:  
+| [River](https://river.com/){:target="_blank"} | [Strike](https://strike.me/){:target="_blank"} | [CashApp](https://cash.app/){:target="_blank"} (US only) | [Swan](https://www.swanbitcoin.com/){:target="_blank"} |
 
 PS  
 If you have business or provide services consider to start accepting Bitcoin (circular economy), sticker for print:   
