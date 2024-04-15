@@ -108,9 +108,6 @@ Previous Bit posts:
 B1. [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
 B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-macro-outlook/)  
 
-Where to [buy](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} and/or [DCA Bit](https://dca.bitnob.com/){:target="_blank"} with Credit/Debit Card for future [spending](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} and [retirement](https://er-bybitcoin.com/){:target="_blank"}:  
-| [River](https://river.com/){:target="_blank"} | [Strike](https://strike.me/){:target="_blank"} | [CashApp](https://cash.app/){:target="_blank"} (US only) | [Swan](https://www.swanbitcoin.com/){:target="_blank"} |
-
 PS  
 If you have business or provide services consider to start accepting Bitcoin (circular economy), sticker for print:   
 (one personal example with prices also denominated in BTC - [codis.tech/efcorebulk](https://codis.tech/efcorebulk){:target="_blank"})  
