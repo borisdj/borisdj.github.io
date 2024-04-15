@@ -166,6 +166,9 @@ Also keep better part of them off crypto exchanges (**Self-Custody** - *not your
 Either way, it's always good to be educated on the subject.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.
 
+Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} and/or [DCAing Bit](https://dca.bitnob.com/){:target="_blank"} with Credit/Debit Card for future [spending](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} and [retirement](https://er-bybitcoin.com/){:target="_blank"}:  
+| 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (US only) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |
+
 Apps and Services for regular [DCAing](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"}:  
 1.[River](https://river.com/){:target="_blank"} 2.[Strike](https://strike.me/){:target="_blank"} 3.[CashApp](https://cash.app/){:target="_blank"} 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"}
 
