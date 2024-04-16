@@ -39,7 +39,7 @@ Those protocols are meant to extend Bitcoin's functionality up to a point, while
 
 -- For better understanding a simple analogy is when you open a beer tap with bartender and at the end of night it gets settled with finality. In practice request for payment is send from receiver as Lightning Invoice, that can be with defined amount, or empty and left for sender to enter it.   
 -- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.  
-LN also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments. 
+LN also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments (Sats [symbol](https://bitcoinmagazine.com/culture/my-suggestion-for-the-bitcoin-sats-symbol){:target="_blank"}). 
 
 There are several [**implementations**](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} of the protocol, notably:  
 -***C-lightning*** developed by Blockstream in C language  
