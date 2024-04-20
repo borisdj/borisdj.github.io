@@ -168,9 +168,6 @@ DYOR (Do Your Own Research) and make your probability for each hypothetical scen
 Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} and/or [DCAing Bit](https://dca.bitnob.com/){:target="_blank"} with Credit/Debit Card for future [spending](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} and [retirement](https://er-bybitcoin.com/){:target="_blank"}:  
 | 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (US only) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |
 
-Apps and Services for regular [DCAing](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"}:  
-1.[River](https://river.com/){:target="_blank"} 2.[Strike](https://strike.me/){:target="_blank"} 3.[CashApp](https://cash.app/){:target="_blank"} 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"}
-
 YT talks to listen:  
 -[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
 -[Introduction: What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)  
