@@ -61,8 +61,6 @@ It was elegantly designed and programmed to have the best characteristics of Mon
 Fixes bad features of gold regarding authenticity (hard to verify), difficult division (need melting) and expensive portability (costly transfer) because of which shiny yellow metal was concentrated and centralised.  
 In technical sence it is upheld by a significant computer science breakthrough: **Decentralised** [**Digital Scarcity**](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/){:target="_blank"}, that is made using **cryptography** and which solved double-spending problem. Being Digital does not mean it is Virtual as it has real world costs and effects with consequences.  
 
-Literatura: [Bitcoin Balkan](https://bitcoin-balkan.com/){:target="_blank"}
-
 ### Way Forward
 {: #forward }
 Next to lay out one possible way how we could get to this system. Since BTC is **Scarce** (most important feature) while state-issued ([***Fiat***](https://www.britannica.com/money/fiat-money){:target="_blank"}) currency is constantly inflationary and loses value (fiat fraud), people have **INCENTIVE** to save as much in Bitcoin. It represent hedge against inflation, often characterised as the '*invisible thief*' or plainly theft, and also against systematic institutional collapse. What's more it is not only hedge but also permanent solution for inflation. Institutional trust system were made for smaller industrial societies and now can't scale to globalised information based society.  
