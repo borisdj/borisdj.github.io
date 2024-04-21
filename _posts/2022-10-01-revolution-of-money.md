@@ -587,29 +587,6 @@ There are those who say [Bitcoin philosophy is like a Religion](https://theconve
 -- Today's Overconsumption Society is not sustainable in the long run. Investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in landfills. Society should change its buying habits since planet resources are not unlimited. Also, production should aim for durability, and not have [planned obsolescence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less. This fundamentally changes how our economy functions.<br>
 -- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead, higher productivity could allow most people to have 30h week (automation could free time for more human creativity).
 
--- Let's put up list of knowledgeable people from Bitcoin community:<br>
--Bitcoin and Macro:<br>
-&nbsp;- [Jeff Booth](https://www.jeffreybooth.com/){:target="_blank"},<br>
-&nbsp;- [Luke Gromen](https://fftt-llc.com/about/){:target="_blank"},<br>
-&nbsp;- [Lyn Alden](https://www.lynalden.com/){:target="_blank"},<br>
-&nbsp;- [Nic Carter](https://niccarter.info/about/){:target="_blank"},<br>
-Tech gurus:<br>
-&nbsp;- [Andreas Antonopoulos](https://aantonop.com/){:target="_blank"} (avid advocate and author),<br>
-&nbsp;- [Jack Mallers](https://twitter.com/jackmallers){:target="_blank"} ([Strike](https://strike.me/){:target="_blank"}),<br>
-&nbsp;- [Jameson Lopp](https://www.lopp.net/){:target="_blank"},<br>
-&nbsp;- [Shinobi](https://bitcoinmagazine.com/authors/shinobi){:target="_blank"},<br>
-Investors:<br>
-&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}); ([Lex Podcast: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"}),<br>
-&nbsp;- [Jack Dorsey](https://twitter.com/jack/){:target="_blank"} ([Twitter](https://twitter.com/){:target="_blank"}, [Block](https://block.xyz/){:target="_blank"} formerly Square),<br>
-&nbsp;- [Elon Musk](https://www.forbes.com/profile/elon-musk/?sh=779e3e947999){:target="_blank"} ([Tesla](https://www.tesla.com/){:target="_blank"}),<br>
-&nbsp;- [Cathie Wood](https://www.forbes.com/profile/cathie-wood/?sh=1e3081b47360){:target="_blank"} ([Ark Invest](https://ark-invest.com/){:target="_blank"}),<br>
-Podcasters:<br>
-&nbsp;- [Peter McCormack](https://www.petermccormack.co.uk/){:target="_blank"} ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
-&nbsp;- [Matthew Kratterk](https://www.bitcoinuniversity.com/about){:target="_blank"} (Bitcoin University]([https://www.whatbitcoindid.com/](https://www.youtube.com/@Bitcoin_University)){:target="_blank"});<br>
-&nbsp;- [Preston Pysh](https://twitter.com/PrestonPysh){:target="_blank"} ([Bitcoin's future global impact](https://www.youtube.com/@PrestonPysh){:target="_blank"});<br>
-&nbsp;- [Natalie Brunell](https://twitter.com/natbrunell){:target="_blank"} ([Coin Stories](https://www.youtube.com/@nataliebrunell){:target="_blank"});<br>
-&nbsp;- [Robert Breedlove](https://twitter.com/Breedlove22){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
-
 ## <ins>5. Looking Forward</ins>
 {: #looking-forward }
 ### 5.1 Future Development [[C](#toc)]
@@ -698,8 +675,32 @@ As for those interested in trading between cycles be aware of [80-20 Rule](https
 (Both compliments and criticism are welcomed)<br>
 [**View all Comments**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
--- Stay tuned for next month post about Lightning Network.<br>
-With it there will be a **Quiz** with Questions. For those who get all the correct answers, reward will be certain amount of sats via lightning invoice.
+-- Let's put up list of knowledgeable people from Bitcoin community:<br>
+-Bitcoin and Macro:<br>
+&nbsp;- [Jeff Booth](https://www.jeffreybooth.com/){:target="_blank"},<br>
+&nbsp;- [Luke Gromen](https://fftt-llc.com/about/){:target="_blank"},<br>
+&nbsp;- [Lyn Alden](https://www.lynalden.com/){:target="_blank"},<br>
+&nbsp;- [Nic Carter](https://niccarter.info/about/){:target="_blank"},<br>
+Tech gurus:<br>
+&nbsp;- [Andreas Antonopoulos](https://aantonop.com/){:target="_blank"} (avid advocate and author),<br>
+&nbsp;- [Jack Mallers](https://twitter.com/jackmallers){:target="_blank"} ([Strike](https://strike.me/){:target="_blank"}),<br>
+&nbsp;- [Jameson Lopp](https://www.lopp.net/){:target="_blank"},<br>
+&nbsp;- [Shinobi](https://bitcoinmagazine.com/authors/shinobi){:target="_blank"},<br>
+Investors:<br>
+&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}); ([Lex Podcast: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"}),<br>
+&nbsp;- [Jack Dorsey](https://twitter.com/jack/){:target="_blank"} ([Twitter](https://twitter.com/){:target="_blank"}, [Block](https://block.xyz/){:target="_blank"} formerly Square),<br>
+&nbsp;- [Elon Musk](https://www.forbes.com/profile/elon-musk/?sh=779e3e947999){:target="_blank"} ([Tesla](https://www.tesla.com/){:target="_blank"}),<br>
+&nbsp;- [Cathie Wood](https://www.forbes.com/profile/cathie-wood/?sh=1e3081b47360){:target="_blank"} ([Ark Invest](https://ark-invest.com/){:target="_blank"}),<br>
+Podcasters:<br>
+&nbsp;- [Peter McCormack](https://www.petermccormack.co.uk/){:target="_blank"} ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
+&nbsp;- [Matthew Kratterk](https://www.bitcoinuniversity.com/about){:target="_blank"} (Bitcoin University]([https://www.whatbitcoindid.com/](https://www.youtube.com/@Bitcoin_University)){:target="_blank"});<br>
+&nbsp;- [Preston Pysh](https://twitter.com/PrestonPysh){:target="_blank"} ([Bitcoin's future global impact](https://www.youtube.com/@PrestonPysh){:target="_blank"});<br>
+&nbsp;- [Natalie Brunell](https://twitter.com/natbrunell){:target="_blank"} ([Coin Stories](https://www.youtube.com/@nataliebrunell){:target="_blank"});<br>
+&nbsp;- [Bram Kanstein](https://kanstein.co/){:target="_blank"} ([₿itcoin for Millennials](https://www.youtube.com/@bramk){:target="_blank"});<br>
+&nbsp;- [Robert Breedlove](https://twitter.com/Breedlove22){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
+
+-- Stay tuned for next post about Macro and Lightning Network.<br>
+Later there will be a **Quiz** with Questions. For those who get all the correct answers, reward will be certain amount of sats via lightning invoice.
 
  APPENDIX<br>
 **Disclaimer**:<br>
