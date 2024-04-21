@@ -88,10 +88,6 @@ Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s
 Then there is possibility for federated nodes like [FediMint](https://fedimint.org/){:target="_blank"} that are using federation model for governance.  
 -- In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars equivalent on top of Bitcoin network, e.g. for remittances. Particularly useful in the global south where many local currencies are quite unstable with very high inflation. Besides *Mutiny* another wallet with this feature is [10101](https://10101.finance/){:target="_blank"} (ten-ten-one) finance.
 
-More scientific papers:  
-[nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
-[lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
-[MA_EEMCS](https://essay.utwente.nl/80780/1/Wijburg_MA_EEMCS.pdf){:target="_blank"}  
 
 YT talks to listen:  
 -[Bitcoin's Lightning Network](https://www.youtube.com/watch?v=rrr_zPmEiME){:target="_blank"} (*Simply Explained*)  
@@ -99,6 +95,11 @@ YT talks to listen:
 -[What is it? why should I care?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Non-Technical Explained](https://www.youtube.com/watch?v=XCSfoiD8wUA){:target="_blank"} (*Andreas Antonopoulos* - [*aantonop*](https://aantonop.com/){:target="_blank"})  
 -[Lightning Made Easy](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN with Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
 -[Scaling Bitcoin with Giacomo, John & Matt](https://www.youtube.com/watch?v=Iz81W-_X5gw){:target="_blank"} (*WBD - What Bitcoin Did*)  
+
+More scientific papers:  
+-[nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
+-[lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
+-[MA_EEMCS](https://essay.utwente.nl/80780/1/Wijburg_MA_EEMCS.pdf){:target="_blank"}  
 
 Dashboard info:  
 -[mempool.space/lightning](https://mempool.space/lightning){:target="_blank"}  
