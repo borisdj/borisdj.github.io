@@ -599,15 +599,16 @@ Tech gurus:<br>
 &nbsp;- [Jameson Lopp](https://www.lopp.net/){:target="_blank"},<br>
 &nbsp;- [Shinobi](https://bitcoinmagazine.com/authors/shinobi){:target="_blank"},<br>
 Investors:<br>
-&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}),<br>
+&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}); ([Lex Podcast: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"}),<br>
 &nbsp;- [Jack Dorsey](https://twitter.com/jack/){:target="_blank"} ([Twitter](https://twitter.com/){:target="_blank"}, [Block](https://block.xyz/){:target="_blank"} formerly Square),<br>
 &nbsp;- [Elon Musk](https://www.forbes.com/profile/elon-musk/?sh=779e3e947999){:target="_blank"} ([Tesla](https://www.tesla.com/){:target="_blank"}),<br>
 &nbsp;- [Cathie Wood](https://www.forbes.com/profile/cathie-wood/?sh=1e3081b47360){:target="_blank"} ([Ark Invest](https://ark-invest.com/){:target="_blank"}),<br>
 Podcasters:<br>
-&nbsp;- [Peter McCormack](){:target="_blank"} ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
-&nbsp;- [Robert Breedlove](){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
-&nbsp;- [Anthony Pompliano](){:target="_blank"} ([The Pomp Podcast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
-&nbsp;- [Lex Fridman](){:target="_blank"} ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
+&nbsp;- [Peter McCormack](https://www.petermccormack.co.uk/){:target="_blank"} ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
+&nbsp;- [Matthew Kratterk](https://www.bitcoinuniversity.com/about){:target="_blank"} (Bitcoin University]([https://www.whatbitcoindid.com/](https://www.youtube.com/@Bitcoin_University)){:target="_blank"});<br>
+&nbsp;- [Preston Pysh](https://twitter.com/PrestonPysh){:target="_blank"} ([Bitcoin's future global impact](https://www.youtube.com/@PrestonPysh){:target="_blank"});<br>
+&nbsp;- [Natalie Brunell](https://twitter.com/natbrunell){:target="_blank"} ([Coin Stories](https://www.youtube.com/@nataliebrunell){:target="_blank"});<br>
+&nbsp;- [Robert Breedlove](https://twitter.com/Breedlove22){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
 
 ## <ins>5. Looking Forward</ins>
 {: #looking-forward }
