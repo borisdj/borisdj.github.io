@@ -98,7 +98,7 @@ It would be like a precise numerical measurement system for the economic activit
 ### Upcoming period
 {: #upcoming } 
 April 2024 is when next halving occurs. Event refers to reducing (by half) creation of new coins that miners receive as reward, and it happens every 4 years in cycles. Miner's reward includes newly generated coins and also transaction fees that will become more relevant as time pases (similar to the ratio of principal and interest in an installment loan during the repayment period).  
-Because many are buying regulary, doing **DCA** (Dollar-Cost Averaging) and *Stacking Sats* (accumulating Bitcoin) it should lead to price hike approximately 2 times.  
+Because many are buying regulary, doing [**DCA**](https://dcabtc.com/):target="_blank"} (Dollar-Cost Averaging) and *Stacking Sats* (accumulating Bitcoin) it should lead to price hike approximately 2 times.  
 It then gets media attention which attracts new people and traders, leading to hype and new all time high, that is followed by crash and bear market. So it has a specific market behavior but the [**4 year moving average**](https://charts.bitbo.io/sma1458/){:target="_blank"} is constantly going up (logarithmic growth) and number of adopters increase with each round. Usage becomes easier as mobile apps are getting more user friendly every day. And imminent approval of Spot [**Bitcoin ETFs**](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/){:target="_blank"}
 (Exchange-Traded Fund) will have additional impact on bull rally. To add here Fidelity research study [***Bitcoin First Revisited***](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited){:target="_blank"} where it is explained why it should be considered separately from other digital assets.  
 Price rise can start several month before in anticipation of halving, so it is priced in but only partially. Expectations can lead to a self-fulfilling assumption.  
@@ -165,7 +165,7 @@ Also keep better part of them off crypto exchanges (**Self-Custody** - *not your
 Either way, it's always good to be educated on the subject.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.
 
-Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} and/or [DCAing Bit](https://dca.bitnob.com/){:target="_blank"} with Credit/Debit Card for future [spending](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} and [retirement](https://er-bybitcoin.com/){:target="_blank"}:  
+Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} and/or [DCAing Bit](https://dca.bitnob.com/){:target="_blank"} ([BTC-DCA_CompareSheet](https://docs.google.com/spreadsheets/d/1NXle4attr4cp6lESAaPRT4zSFmcPlQl8VZ7nmsJJGGk/view){:target="_blank"}) with Credit/Debit Card for future [spending](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} and [retirement](https://er-bybitcoin.com/){:target="_blank"}:  
 | 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (US only) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |
 
 YT talks to listen:  
