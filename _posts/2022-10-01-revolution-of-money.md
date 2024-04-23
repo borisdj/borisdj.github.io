@@ -673,7 +673,6 @@ As for those interested in trading between cycles be aware of [80-20 Rule](https
 -- Leave a **Comment** (literary critique) and give your 2 cents (personal opinion) or to say here 2 satoshies.<br>
 [**Comments Form**](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform){:target="_blank"}<br>
 (Both compliments and criticism are welcomed)<br>
-[**View all Comments**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
 -- Let's put up list of knowledgeable people from Bitcoin community:<br>
 -Bitcoin and Macro:<br>
