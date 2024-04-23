@@ -80,7 +80,7 @@ One comedian even said:<br>
 *"It's everything you don't understand about money combined with everything you don't understand about computers".*<br>
 But as you start to learn it, subsequently you will gain knowledge about economics, computer science, math, philosophy, politics, history, and even physics.<br>
 PS<br>
-Some final touch formatting and refactoring still in progress.
+Some final touch and refactoring is continuously in progress.
 
 ## <ins>1 Monetary Chronicles</ins>
 {: #monetary-chronicles }
