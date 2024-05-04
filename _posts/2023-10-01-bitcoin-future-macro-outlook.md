@@ -168,7 +168,7 @@ DYOR (Do Your Own Research) and make your probability for each hypothetical scen
 Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} and/or [DCAing Bit](https://dca.bitnob.com/){:target="_blank"} ([BTC-DCA_CompareSheet](https://docs.google.com/spreadsheets/d/1NXle4attr4cp6lESAaPRT4zSFmcPlQl8VZ7nmsJJGGk/view){:target="_blank"}) with Credit/Debit Card for future [spending](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} and [retirement](https://er-bybitcoin.com/){:target="_blank"}:  
 | 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (US only) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |  
 Other popular Europe based options are:  
-[relai](https://relai.app/){:target="_blank"}(Swiss) |  [peachbitcoin](https://peachbitcoin.com/){:target="_blank"}(Swiss) | [21bitcoin](https://21bitcoin.app/en){:target="_blank"}(Austria) |  
+| [relai](https://relai.app/){:target="_blank"}(Swiss) |  [peachbitcoin](https://peachbitcoin.com/){:target="_blank"}(Swiss) | [21bitcoin](https://21bitcoin.app/en){:target="_blank"}(Austria) |  
 
 YT talks to listen:  
 -[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
