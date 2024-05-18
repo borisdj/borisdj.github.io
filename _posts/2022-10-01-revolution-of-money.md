@@ -386,8 +386,8 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
   - Network effect keeps BTC at top, also mining makes it hard to duplicate all hardware and infrastructure
   - There are many copies and forks, both Hard and Soft, but they have little or no value and less liquidity
 * 2 Not backed by anything
-  - Backed by Electric Power (Intrinsic value from energy)
-  - Money as abstract concept partly depends on belief<br>
+  - Backed by Electric Power (anchored to real world with energy)
+  - Money as abstract concept partly depends on belief (Intrinsic value from people who use it)<br>
     (agreement among people who think it's valuable)
 * 3 [Ponzi scheme](https://constantinecannon.com/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/){:target="_blank"} (another [Tulip Mania](https://www.history.com/news/tulip-mania-financial-crash-holland){:target="_blank"})
   - Is Anti-Ponzi, no pyramidal structure, and no percentage for 'bringing' others
