@@ -109,7 +109,8 @@ Very rarely in history was there an asset that is safe to hold while also having
 ### Macro-Economic analysis (fixed money supply characteristics):
 {: #macro }  
 &nbsp;**1.** A singular interoperable global protocol for value transfer - Bitcoin Standard (standardization of money). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language). Economies converge on single form of money.  
-Superior new monetary order optimally engineered from [**First-principles**](https://fs.blog/first-principles/){:target="_blank"} thinking to be as efficient as possible.
+Superior new monetary order optimally engineered from [**First-principles**](https://fs.blog/first-principles/){:target="_blank"} thinking to be as efficient as possible.  
+It encompass several domains, 3 main ones being: Ethics, Economy, Engineering (EEE).
  
 &nbsp;**2.** This would be apolitical money, so countries effectively would no longer have monetary policy, only fiscal. Economy will have natural business cycles and become be more stable. Swings should be smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis).
 
