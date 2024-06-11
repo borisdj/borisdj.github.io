@@ -129,7 +129,8 @@ Also to add an emergence of Bitcoin [Money Market Funds](https://www.axiombtc.ca
 
 To substantiate these claims there is an excellent article:  
 [*Why a fixed supply money does not lead to economic catastrophe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/){:target="_blank"}  
-(*And why it is in fact the only intellectually and ethically defensible monetary system*)
+(*And why it is in fact the only intellectually and ethically defensible monetary system*)  
+Also: [*How does the economy work without inflation?*](https://www.reddit.com/r/Bitcoin/comments/1bcv7ri/how_does_the_economy_work_without_inflation/kurkstu/){:target="_blank"}  
 
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
