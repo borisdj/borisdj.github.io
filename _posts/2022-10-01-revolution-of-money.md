@@ -291,11 +291,11 @@ TED talks:<br>
 
 | **GOV**        | **BIT**    | Description               |
 | -------------- | ---------- |-------------------------- |
-| 1. Executive   | Full Nodes | can veto miners           |
-| 2. Judicial    | Miners     | can veto devs             |
+| 1. Judicial    | Full Nodes | can veto miners           |
+| 2. Executive   | Miners     | can veto devs             |
 | 3. Legislative | Developers | help others bypass vetoes |
 
-Legislative part also includes business and infrastructure analogous to Parliament (Representatives) while Devs are like Senate. If compared to enterprises best parallels can be drawn with IT (Information Technology) companies.<br>
+Legislative part also includes business and infrastructure analogous to Parliament (Representatives) while Devs are like Senate, and Miners act as hired security. End users are like citizens with voting right, or like shareholdler of a company, and everyone can freely become a node. If compared to enterprises best parallels can be drawn with IT (Information Technology) companies.  
 -- Product is global monetary currency and payment system and at the same time the Coin represents owners or shareholders. On the other side are Developers and Miners along with Nodes, like very wide Boards of Directors, Management and Supervisory.<br>
 
 **The Rules of Bitcoin:**<br>
@@ -359,7 +359,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
   - from [First Principles](https://fs.blog/first-principles/){:target="_blank"} Money is an exchange of energy (Econ 101)
   - reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit){:target="_blank"})
 * 18 A Weapon for [Peace, Not war](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin){:target="_blank"} - Financial DMZ (an Exit Strategy for Humans)
-  - [war Deterrent](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - changes warfare from kinetic to electric energy
+  - [war Deterrent](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - changes warfare from kinetic to electric energy (and [critique](https://blog.lopp.net/critique-softwar-concepts/){:target="_blank"})
   - future war apparatus goal will be [highest rate of energy-delivery](https://bitcoinmagazine.com/culture/bitcoin-and-teslas-peaceful-energy-vision){:target="_blank"}<br>
     (Nikola Tesla envisioned peaceful energy)
 * 19 Education vehicle, pecuniary curiosity
