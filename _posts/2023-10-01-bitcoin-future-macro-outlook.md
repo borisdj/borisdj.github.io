@@ -173,7 +173,7 @@ Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments
 Other popular Europe based options are:  
 | [relai](https://relai.app/){:target="_blank"}(Swiss) |  [peachbitcoin](https://peachbitcoin.com/){:target="_blank"}(Swiss) | [21bitcoin](https://21bitcoin.app/en){:target="_blank"}(Austria) |  
 **If DCAing into self custody DO take take about [UTXO](https://river.com/learn/bitcoins-utxo-model/){:target="_blank"} management - minimum base transation 0.01 BTC to be future-proof from high fees  
-Other Bitcoin only Exchanges: [vodič](https://bitcoinmagazine.com/guides/best-bitcoin-only-exchanges){:target="_blank"}  
+Other Bitcoin only Exchanges: [guides](https://bitcoinmagazine.com/guides/best-bitcoin-only-exchanges){:target="_blank"}  
 
 YT talks to listen:  
 -[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
