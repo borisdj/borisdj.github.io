@@ -8,7 +8,7 @@ excerpt: "Bitcoin rise with crypto industry story"
 ---
 
 (*Money and Payment systems of tomorrow*)<br>
-**Bitcoin** rise with crypto industry story
+**Bitcoin** rise with crypto industry story - Reform and Evolution;
 
 LANG(jezik):<br>
 Global (en-us) / [Local](https://infopedia.io/sr-latn/revolution-of-money/) (sr-latn-ba)<br>
