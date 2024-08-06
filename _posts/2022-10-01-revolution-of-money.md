@@ -619,7 +619,7 @@ Secondly decide if you want to buy some, for now as an investment and later as a
 
 ### 5.3 Practical Approach [[C](#toc)]
 {: #practical-approach }
--- In broad sense Investment plan includes first to inform yourself, do your homework. Second to decide what amount is at your disposal for investing. Lastly to split it based on your risk appetite among several classes of asset. At an early-stage risk was much higher and in accordance with maxim: *Invest only what you can afford to lose*. Now it is less risky than in the last decade but still it is considered relatively riskier class, mainly because of large up and down swings. But now there is now an opposite saying: *Buy Bitcoin with the money you don't want to lose in the long period*.<br>
+-- In broad sense Investment plan includes first to inform yourself, do your homework. Second to decide what amount is at your disposal for investing. Lastly to split it based on your risk appetite among several classes of asset. At an early-stage risk was much higher and in accordance with maxim: *Invest only what you can afford to lose*. Now it is less risky than in the last decade but still it is considered relatively riskier class, mainly because of large up and down swings. But now there is now an opposite saying: *Only buy Bitcoin with the money you can't afford to lose (in the long period)*.<br>
 Only if you become convinced enough into the Bitcoin story is it good idea to invest.<br>
 --In practice there are several generally useful strategies (one or more can be used):<br>
 &nbsp;1. Move (reallocate) a part of your portfolio into Btc and keep it long term<br>
