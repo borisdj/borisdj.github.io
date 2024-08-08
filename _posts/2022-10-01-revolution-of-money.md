@@ -367,7 +367,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
   - financial revelation, monetary epiphany
 * 20 Fintech for poor people (Instrument of economic empowerment)
   - technology bridge to abundant future
-* 21 [Intellectual (free-market) experiment](https://www.ccn.com/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/){:target="_blank"} (radical thought) not to have human in charge of money
+* 21 Fascinating (free-market) [Intellectual experiment](https://www.ccn.com/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/){:target="_blank"} (radical thought) not to have human in charge of money
   - persuasive idea that rewrites your mind, an inception
   - people are inspired to contemplate / speak / write about (this blog being proof)
 
