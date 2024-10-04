@@ -488,7 +488,7 @@ Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_b
 
 -- There are several reasons why it is main One, crypto King, which includes:<br>
 1. True Decentralization - main innovation that only BTC has for real.<br>
-   - This is of greatest importance and PoW with all its electricity consumption gives it intrinsic worth rooted in physical world and at same time ensures temporal and spatial security (across time and space)<br>
+   - This is of greatest importance and PoW with all its electricity consumption gives it intrinsic worth (utility) rooted in physical world and at same time ensures temporal and spatial security (across time and space)<br>
    - can't be counterfeited because it has cost in energy.<br>
    - while companies and their networks/platforms can be censored protocols cannot be blocked so easily.<br>
 2. Network effect
