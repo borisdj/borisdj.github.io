@@ -100,14 +100,14 @@ Examples of Function:<br>
 &nbsp;2. Housing prices in Japan can be compared using Jen as a unit of account<br>
 &nbsp;3. An ounce of gold could buy toga in Roman times, yet it can still buy a nice suit today<br>
 
-|    PROPERTIES     | Description                                                      |
-| ----------------- | ---------------------------------------------------------------- |
-| 1. Durable        | able to withstand repeated use                                   |
-| 2. Divisible      | can divide into smaller units                                    |
-| 3. Portable       | easily carried and transported                                   |
-| 4. Acceptable     | universally recognizable                                         |
-| 5. Limited supply | being rare (scarcity) keeps stable value                         |
-| 6. Uniform        | units capable of mutual substitution, interchangeable (fungible) |
+|    PROPERTIES     | Description                                                        |
+| ----------------- | ------------------------------------------------------------------ |
+| 1. Durable        | able to withstand repeated use                                     |
+| 2. Divisible      | can divide into smaller units                                      |
+| 3. Portable       | easily carried and transported                                     |
+| 4. Acceptable     | universally recognizable                                           |
+| 5. Limited supply | being rare(scarce) keeps stable value (preserves purchasing power) |
+| 6. Uniform        | units capable of mutual substitution, interchangeable (fungible)   |
 
 -- Obviously **Gold** had qualities to fulfill most of these roles, but it is not perfect, only best at that time, or the least bad. Some of the disadvantages were: not so easy to carry - expensive transport (low Portability), hard to Divide (need to melt), and danger of theft and robbery.<br>
 -- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates, as Claim on items, for trade. That's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} acronym of  *'I owe you'*) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that confidence was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power. Banks
