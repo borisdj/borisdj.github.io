@@ -271,10 +271,10 @@ BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks]
 -- As a new internet protocol [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin){:target="_blank"} enables transfer of value over communication channel. Other earlier application protocols include *https* (web page), *ftp* (file), *smtp* (mail), etc. With latest you can basically send gold coin like mail, any amount of value to anywhere in the world almost instantly. Without anyone being able to stop it or have control, it is **Censorship Resistant** and can't be easily confiscated.<br>
 It is the first case where Greed and Altruistic incentives aligns. You can now make most selfish decision and also contribute to greater equality in the world when compared to the fiat system. As such it is very useful technological innovation that enables distributed consensus but can also be looked at from various angles. When trying to fully [understand it](https://www.reddit.com/r/Bitcoin/comments/my9gpz/why_bitcoin_is_so_hard_for_traditional_economists/){:target="_blank"} one need to grasp its ***multitude of aspects*** (interdisciplinary):<br>
 &nbsp;1. **Economic** (Monetary policy) - predefined and limited quantity (relatively fixed supply)<br>
-&nbsp;2. **Technical** (Networking) - decentralization<br>
-&nbsp;3. **Political** - reducing state monetary control<br>
-&nbsp;4. **Ideological** - core value<br>
-&nbsp;5. **Social**<br>
+&nbsp;2. **Technical** (Distributed consensus) - decentralization<br>
+&nbsp;3. **Political** - reducing state monopoly on money<br>
+&nbsp;4. **Ideological** - freedom being core value being<br>
+&nbsp;5. **Societal**<br> - Social agreement for monetary tool<br>
 
 -- YT videos:<br>
 [What is Bitcoin](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [Explained Simply](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
