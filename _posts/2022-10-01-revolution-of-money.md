@@ -109,7 +109,7 @@ Examples of Function:<br>
 | 5. Limited supply | being rare(scarce) keeps stable value (preserves purchasing power) |
 | 6. Uniform        | units capable of mutual substitution, interchangeable (fungible)   |
 
--- Obviously **Gold** had qualities to fulfill most of these roles, but it is not perfect, only best at that time, or the least bad. Some of the disadvantages were: not so easy to carry - expensive transport (low Portability), hard to Divide (need to melt), and danger of theft and robbery.<br>
+-- Obviously **Gold** had qualities to fulfill most of these roles, but it is not perfect, only best at that time, or the least bad. Some of the disadvantages were: not so easy to carry - expensive transport (low Portability), hard to Divide (need to melt), and danger of theft and robbery. Still it became the most [salable](https://bitcoinmagazine.com/culture/bitcoin-dimensions-of-money){:target="_blank"} one.<br>
 -- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates, as Claim on items, for trade. That's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} acronym of  *'I owe you'*) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that confidence was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power. Banks
 can be with Full reserves or with Fractional reserves. One of the first central banks was [Bank of Amsterdam](https://en.wikipedia.org/wiki/Bank_of_Amsterdam){:target="_blank"} (*'Amsterdamsche Wisselbank'*) that was established back in 1609. Eventually most countries seized full monetary control and further development of money came to a halt.<br>
 
@@ -318,8 +318,8 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 
 **More informal (loosely) Definitions:**<br>
 * 1 Hard Asset (Trust-Minimized)
-  - premium Commodity and most salable one (artificial material)
-  - inalienable radical digital Property<br>
+  - premium Commodity (artificial material)
+  - inalienable radical digital Property<br> 
 * 2 Future-Proof perfect Money (Internet Native)
   - most ubiquitous and omnipresent Cryptocurrency<br>
 * 3 Distributed universal Ledger
