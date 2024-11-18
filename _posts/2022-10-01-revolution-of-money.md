@@ -318,7 +318,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 
 **More informal (loosely) Definitions:**<br>
 * 1 Hard Asset (Trust-Minimized)
-  - premium Commodity (artificial material)
+  - premium Commodity and most salable one (artificial material)
   - inalienable radical digital Property<br>
 * 2 Future-Proof perfect Money (Internet Native)
   - most ubiquitous and omnipresent Cryptocurrency<br>
