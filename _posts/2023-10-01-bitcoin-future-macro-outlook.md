@@ -109,7 +109,7 @@ Very rarely in history was there an asset that is safe to hold while also having
 
 ### Macro-Economic analysis (fixed money supply characteristics):
 {: #macro }  
-&nbsp;**1.** A singular interoperable global protocol for value transfer - Bitcoin Standard (standardization of money). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language). Economies converge on single form of money.  
+&nbsp;**1.** A singular interoperable global protocol for value transfer - Bitcoin Standard (standardization of money). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language). Economies converge on single form of money ([convergence](https://gist.ly/youtube-summarizer/bitcoins-convergence-with-macro-investment-trends-exploring-the-future){:target="_blank"} with investment trends).  
 Superior new monetary order optimally engineered from [**First-principles**](https://fs.blog/first-principles/){:target="_blank"} thinking to be as efficient as possible.  
 It encompass several domains, 3 main ones being: Ethics, Economy, Engineering (EEE).
  
