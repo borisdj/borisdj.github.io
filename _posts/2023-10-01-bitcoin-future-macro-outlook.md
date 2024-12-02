@@ -90,11 +90,11 @@ It would be like a precise numerical measurement system for the economic activit
 **Possible effects:**  
 -- people would spend more prudently (it imposes discipline), and would take only calculated risks/credits  
 -- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
--- real wages that keeps purchasing power with mild price deflation leading to greater prosperity  
-&nbsp;&nbsp;(no need to ask for raise just to keep up with inflation)    
--- fair distribution of economic growth by removing silent regressive Tax via inflation  
+-- real wages that keep purchasing power with mild price deflation leading to greater prosperity  
+&nbsp;&nbsp;(no need to ask for raise just to keep pace with inflation)    
+-- fair distribution of economic growth by removing silent regressive Tax known as inflation  
 &nbsp;&nbsp;(no [**Cantillon effect**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} - those close to printing machine benefit the most, financial elite;  
-&nbsp;&nbsp;;&nbsp;Today we have socialized loses nad privatized gains)  
+&nbsp;&nbsp;&nbsp; As opposed to today's system were we have socialized loses and privatized gains)  
 -- simplified savings (also there is power of simplicity in Bitcoin architecture)
 
 ### Upcoming period
