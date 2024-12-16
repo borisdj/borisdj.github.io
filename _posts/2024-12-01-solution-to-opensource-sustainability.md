@@ -25,11 +25,8 @@ They take dozens of OS software and encapsulate it into a commercial app and som
 Which is fine as such but there should be a path to have them pay their fair share to the Devs.  
 Categorical imperative in this case would be those who profits the most should give something back from all the value they are getting with their business in the industry (Pareto Principle in business model).  
 
-So idea it to have 2 categories of OS project depending hardship of maintenance.
-- First group would be fully free, default for smaller projects that do not require significant time and efforts. Besides initial development, later would need only occasional updates.  
-- Second for larger and complex ones where it becomes burden to developer. Adn if needed they should be encourages to switch to these types of license and also all project that are from start made in such manner are to be welcomed into the OpenSource community.  
 Criticism without effective solutions are not useful nor justified.  
-One constructive  idea that is getting traction is to make it mostly free while keeping it the source open.  
+One constructive idea that is getting traction is to make it mostly free while keeping it the source open.  
 'Mostly free' means Free (of charge) for majority of users.
 Here is a distinction between Free (of charge) and Free/Libre camps ([FLOSS and FOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html){}).
 Even the paid ones should have simple progressive pricing tiers with rounded amount (do not use amont such as 799, plain 800 is just fine).  
@@ -39,3 +36,8 @@ Instead Openness is retained with freedom to use the code, modify it and distrib
 This enables/creates sustainability and ensures project survies in the long term.  
 It gives positive incentives adn creates self-reinforcing positive loop.  
 And even the paid ones should have simple progressive pricing tiers with rounded amount (don no use 999, plain 1000 is just fine).  
+
+Entire idea is to have 2 categories of Licenses for OS project depending on hardship of maintenance.
+- First group would be fully free (MIT, Apache, etc), default for smaller projects that do not require significant time and efforts. Besides initial development, later would need only occasional updates.  
+- Second cFOSS type for larger and complex ones where it becomes burden to developer. Adn if needed they should be encourages to switch to these types of license and also all project that are from start made in such manner are to be welcomed into the OpenSource community.
+
