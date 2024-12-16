@@ -1,6 +1,6 @@
 ---
 title: "Solution to OpenSource Sustainability sustainability "
-date: 2025-01-01T00:00:00-00:00
+date: 2024-12-01T00:00:00-00:00
 categories: [tech]
 tags: [OS, OpenSource, Solution, Sustainability]
 classes: wide
