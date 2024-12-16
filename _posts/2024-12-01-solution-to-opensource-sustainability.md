@@ -23,7 +23,7 @@ Notable examples are [OpenSSL Heartbleed](https://heartbleed.com/){:target="_bla
 Second concern is that large corporation are profiting significantly from many OS software while giving back very litle or non at all.  
 They take dozens of OS software and encapsulate it into a commercial proprietary app and some of them make large revenues.  
 Which is fine as such but there should be a path to have them pay their fair share to the Devs.  
-Categorical imperative in this case would be those who profits the most should give something back from all the value they are getting with their business in the industry (Pareto Principle in business model).  
+Categorical imperative in this case would be those who profits the most should give something back from all the value they are getting with their business in the industry ([Pareto](https://en.wikipedia.org/wiki/Pareto_principle){:target="_blank"} Principle in business model).  
 
 Criticism without effective solutions are not useful nor justified.  
 One constructive idea that is getting traction is to make it mostly free while keeping it the source open.  
@@ -40,10 +40,14 @@ One could argue that in the long term all software will become open sourced, one
 
 Entire idea is to have 2 categories of Licenses for OS project depending on hardship of maintenance.
 -- First group would be fully free ([MIT, Apache, BSD](https://opensource.stackexchange.com/questions/11109/what-are-the-practical-differences-between-mit-apache-and-bsd-licenses){:target="_blank"} etc), default for smaller projects that do not require significant time and efforts. Besides initial development, later would need only occasional updates.  
--- Second cFOSS type for larger and complex ones where it becomes burden to developer. And if needed they should be encourages to switch to these types of license and also all project that are from start made in such manner are to be welcomed into the OpenSource community.
-Another interesting approcah is OpenCore which has based project complately free, but some premium features are paid.
-I'm personally not fan of such structure, and prefer  to keep it as single unified project - [KISS](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"} principle, but dont mind others using it as long base componente is fully functional for more then half situations.
+-- Second cFOSS type for larger and complex ones where it becomes burden to developer. And if needed they should be encourages to switch to these types of license and also all project that are from start made in such manner are to be welcomed into the OpenSource community.  
 
-  - PS Last but Not Least, find a project that interest you which you also need and use, and allocate some spare time to it to.
+Another interesting approach is OpenCore which in base has core project completely free, but some premium features are paid.  
+I'm personally not fan of such structure, and prefer  to keep it as single unified project - [KISS](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"} principle, but don't mind others using it as long as core componente is fully functional for more then half situations.
+
+*- PS Last but Not Least  
+For start find a project that interest you which you also need and use, and could allocate some spare time to it.
+Later if you have a problem/idea make your own fully FOSS, and after a few of those one might become cFOSS.
+Rule of thumnb would be that 1 in 4 or 5 projects could be significabt enought to have cFOSS model besides other fully FOSS (another case of Pareto).
 There are always needs in helping others with questions, improving documentation and sample, making tests, solving different issue, adding new functionality and other ways of contibution.  
 
