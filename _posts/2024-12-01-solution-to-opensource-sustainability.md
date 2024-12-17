@@ -39,11 +39,12 @@ excerpt: "proposal to fix the 'broken' OS"
 Some notable example of projects with cFOSS license type or similar structure:  
 -- [*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, -- [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, -- [*QuestPdf*](https://www.questpdf.com/){:target="_blank"};  
 -- [**EfCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - personal Flagship library; last but not least  
-' (Free Community License covers most cases, only companies with 1 million+ $ revenue yearly need Commercial one)
+' (Free Community License covers most cases, only companies with 1 million+ $ revenue yearly need Commercial)
 
 -- Finaly a Recommendation for everyone to find a project that interest you which you also need and use, and could allocate some spare time to it. Later if you have a problem/idea make your own fully FOSS, and after a few of those one might become cFOSS.  
 -- The Rule of thumb would be that 1 in 4 or 5 projects could be significant enough to have cFOSS model besides other fully FOSS (another case of Pareto). Always there is a need to help others with questions, improve documentation and sample, make tests, solve issue, add new functionality and other ways of contribution.  
--- There is useful info on opensource: [/starting-a-project](https://opensource.guide/starting-a-project/){:target="_blank"} and [/getting-paid](https://opensource.guide/getting-paid/){:target="_blank"}. As for the companies they also can ensure [Open-Source tools are safe](https://www.forbes.com/councils/forbestechcouncil/2022/05/10/12-ways-companies-can-ensure-open-source-tools-are-safe-and-sustainable/){:target="_blank"}.
+-- There is useful info on opensource: [/starting-a-project](https://opensource.guide/starting-a-project/){:target="_blank"} and [/getting-paid](https://opensource.guide/getting-paid/){:target="_blank"}.  
+-- As for the companies they also can ensure [Open-Source tools are safe](https://www.forbes.com/councils/forbestechcouncil/2022/05/10/12-ways-companies-can-ensure-open-source-tools-are-safe-and-sustainable/){:target="_blank"}.
 
 More info:
 1. [medium/the-sustainability-of-open-source](https://goldglovecb.medium.com/the-sustainability-of-open-source-7ec0390f58e8){:target="_blank"}  
