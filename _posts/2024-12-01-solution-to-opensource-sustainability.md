@@ -36,7 +36,7 @@ excerpt: "proposal to fix the 'broken' OS"
 
 -- Another interesting approach is OpenCore which in base has a core project completely free, but some premium features are paid. I personally am not a fan of such structure, and prefer to keep it as a single unified project - in line with the [KISS](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"} principle. However, I wouldn't mind others using it, as long as the core component is fully functional for more then half of regular use cases. Still, you can always research ideas about [OS monetisation](https://www.scaleway.com/en/blog/how-to-monetize-your-open-source-project/){:target="_blank"} and find curious stories.  
 
-Some notable examples of projects with cFOSS license type or similar structure:  
+Some notable examples of projects with cFOSS license type or similar design:  
 -- [*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, -- [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, -- [*QuestPdf*](https://www.questpdf.com/){:target="_blank"};  
 -- [**EFCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - personal Flagship library (this blog post grew from the Bulk saga) 
 ' (Free Community License covers most cases, only companies with 1 million+ $ revenue yearly need Commercial)
