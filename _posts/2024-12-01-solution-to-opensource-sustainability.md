@@ -7,6 +7,11 @@ classes: wide
 excerpt: "proposal to fix the 'broken' OS"
 ---
 
+![/solution-to-opensource-sustainability](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/solution-to-opensource-sustainability/OS.jpg)
+
+<center>QR Link</center>
+![QR Link](https://quickchart.io/qr?text=https://infopedia.io/solution-to-opensource-sustainability/)
+
 -- **Open-Source** is a great concept and movement and an excellent way to make Software more accessible and usable (check [OS Initiative](https://opensource.org/){:target="_blank"}).  
 It gives everyone better availability for testing, easier debugging and bug fixes. At the same time enables suggestions for improvements and overall contributions with PR (PullRequest) based on GitHub collaboration.  
 But lately, that model often has problems due to some business practices. Some even say that Open Source is [Broken](https://www.forbes.com/sites/adrianbridgwater/2019/11/11/is-open-source-broken/?sh=18721f5fd560){:target="_blank"}. So following proposal is one attempt to find a fix.  
@@ -17,7 +22,7 @@ And often maintenance becomes very time-consuming and practically requires a ful
 Still, it ends up relying mostly on the enthusiasm of the author and their goodwill, since there are never enough donations or financial support from the big companies. Paid support also does not work usually and is not scalable, finding a funding like [OpenCollective](https://blog.opencollective.com/funds-for-open-source/){:target="_blank"} is always a struggle.  
 This then puts high pressure on the author, leading to burnout and/or him abandoning the project or becomes unavailable for any reason (including [jail](https://www.theregister.com/2023/02/15/corejs_russia_open_source/){:target="_blank"}).  
 This also represents a risk to all the users since they would lose support with no easy replacement.  
-One well known situation was [OpenSSL Heartbleed](https://heartbleed.com/){:target="_blank"} security bug.  
+One well known situation was [OpenSSL Heartbleed](https://heartbleed.com/){:target="_blank"} security bug, and another is [log4j](https://medium.com/readme/ghosts-of-log4j-open-source-vulnerabilities-confound-software-developers-e81b931560){:target="_blank"} vulnerabilities. 
 And in the long term thing for consideration is [governance framework](https://stackoverflow.blog/2020/09/09/open-source-governance-benevolent-dictator-or-decision-by-committee/){:target="_blank"}.
 
 -- The second concern is that large corporations are profiting significantly from many OS software while giving back very little or none at all.  
@@ -29,7 +34,7 @@ We can't just consume open source while ignoring the cost, instead enerybody sho
 -- Criticism without effective solution is not useful or justified.  
 One constructive idea that is getting traction is to make it mostly free while keeping the source open.  
 'Mostly free' means Free (of charge) for majority (90%+) of users, so it is basically a [Dual Licensing](https://duallicensing.com/){:target="_blank"}.
-Distinction between Free/Libre and Free (of charge) camps ([FLOSS and FOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html){:target="_blank"} philosophy) is that first focuses mainly on Freedom but does not imply zero price in some circumstances.
+Distinction between Free/Libre and Free (of charge) camps ([FLOSS and FOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html){:target="_blank"} philosophy) is that first focuses mainly on Freedom but does not imply zero price in some circumstances (it is not [black-and-white](https://nadh.in/blog/open-source-is-not-broken/){:target="_blank"}).
 In addition even the paid ones should have simple progressive pricing tiers with rounded amount (do not use number such as 799, plain 800 is just fine).  
 I call this **cFOSS** - *conditionally Free and OpenSource Software*.  
 Note that this is not the like source Available essentially only allows for code to be read and nothing else.  
@@ -58,3 +63,10 @@ Later if you have a problem/idea make your own fully FOSS, and after a few of th
 The Rule of thumb would be that 1 in 4 or 5 projects could be significant enough to have cFOSS model besides other fully FOSS (another case of Pareto).
 Always there is a need to help others with questions, improve documentation and sample, make tests, solve issue, add new functionality and other ways of contribution. There is useful info on opensource: [/starting-a-project](https://opensource.guide/starting-a-project/){:target="_blank"} and [/getting-paid](https://opensource.guide/getting-paid/){:target="_blank"}.  
 As for the companies they also can ensure [Open-Source tools are safe](https://www.forbes.com/councils/forbestechcouncil/2022/05/10/12-ways-companies-can-ensure-open-source-tools-are-safe-and-sustainable/){:target="_blank"}.
+
+More info:
+1. [medium/the-sustainability-of-open-source](https://goldglovecb.medium.com/the-sustainability-of-open-source-7ec0390f58e8){:target="_blank"}  
+2. [dev.to/the-hidden-cost-of-free-open-source](https://dev.to/opensauced/the-hidden-cost-of-free-why-open-source-sustainability-matters-1jk7){:target="_blank"}  
+3. [hendrik-erz.de/open-source-has-a-sustainability-crisis](https://hendrik-erz.de/post/open-source-has-a-sustainability-crisis){:target="_blank"}  
+4. [unlockopen.com/towards-a-sustainable-solution](https://speaking.unlockopen.com/5JrQdv/towards-a-sustainable-solution-to-open-source-sustainability){:target="_blank"}  
+
