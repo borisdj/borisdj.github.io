@@ -38,7 +38,7 @@ excerpt: "proposal to fix the 'broken' OS"
 
 Some notable examples of projects with cFOSS license type or similar structure:  
 -- [*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, -- [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, -- [*QuestPdf*](https://www.questpdf.com/){:target="_blank"};  
--- [**EFCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - personal Flagship library
+-- [**EFCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - personal Flagship library  
 ' (Free Community License covers most cases, only companies with 1 million+ $ revenue yearly need Commercial)
 
 -- Finaly a Recommendation for everyone would be to find a project that interest you which you also need and use, and could allocate some spare time to it. There is always a need to help others with questions, improve documentation and samples, make tests, solve issue, add new functionality and other ways of contribution. Later if you have a problem/idea make your own fully FOSS, and after a few of those one might become cFOSS or set it up as such from start.  
