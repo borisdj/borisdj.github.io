@@ -37,9 +37,9 @@ excerpt: "proposal to fix the 'broken' OS"
 -- Another interesting approach is OpenCore which in base has a core project completely free, but some premium features are paid. I personally am not a fan of such structure, and prefer to keep it as a single unified project - the [KISS](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"} principle, but don't mind others using it as long as the core component is fully functional for more then half of regular use cases. But you can always reasearch ideas about [OS monetisation](https://www.scaleway.com/en/blog/how-to-monetize-your-open-source-project/){:target="_blank"}.
 
 Some notable example of projects with cFOSS license type or similar structure:  
-[*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, [*QuestPdf*](https://www.questpdf.com/){:target="_blank"};  
-Last but not least, a personal one: [**EfCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - Flagship library  
-(Free Community License cover most cases, only companies with over 1 million $ revenue per year need to pay for Commercial one)
+-- [*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, -- [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, -- [*QuestPdf*](https://www.questpdf.com/){:target="_blank"};  
+-- [**EfCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - personal Flagship library; last but not least  
+' (Free Community License covers most cases, only companies with 1 million+ $ revenue yearly need Commercial one)
 
 -- Finaly a Recommendation for everyone to find a project that interest you which you also need and use, and could allocate some spare time to it. Later if you have a problem/idea make your own fully FOSS, and after a few of those one might become cFOSS.  
 -- The Rule of thumb would be that 1 in 4 or 5 projects could be significant enough to have cFOSS model besides other fully FOSS (another case of Pareto). Always there is a need to help others with questions, improve documentation and sample, make tests, solve issue, add new functionality and other ways of contribution.  
