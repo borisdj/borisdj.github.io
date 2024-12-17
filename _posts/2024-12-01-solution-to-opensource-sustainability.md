@@ -12,7 +12,7 @@ excerpt: "proposal to fix the 'broken' OS"
 <center>QR Link</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/solution-to-opensource-sustainability/)
 
--- **Open-Source** is a great concept and movement and an excellent way to make Software more accessible and usable (check [OS Initiative](https://opensource.org/){:target="_blank"}). It gives everyone better availability for testing, easier debugging and bug fixes. At the same time enables suggestions for improvements and overall contributions with **PR** (*PullRequest*) based on GitHub collaboration.  
+-- **Open-Source** is a great concept and movement and an excellent way to make Software more accessible and usable (check [OS Initiative](https://opensource.org/){:target="_blank"}). It gives everyone better availability for testing, easier debugging and bug fixes. At the same time enables suggestions for improvements and contributions with **PR** (*PullRequest*) based on GitHub collaboration.  
 -- But lately, that model often has problems due to some business practices. Some even say that Open Source is [***Broken***](https://www.forbes.com/sites/adrianbridgwater/2019/11/11/is-open-source-broken/?sh=18721f5fd560){:target="_blank"}. So the following proposal is one attempt to find a fix.  
 
 -- I) The first issue is that even big projects depend mostly on one main developer or a handful of significant contributors. At the same time library/package or application can have several million users, both private and legal entities, either for free or commercial products. And often maintenance becomes very time-consuming and practically requires a full-time job.  
