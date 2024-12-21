@@ -50,3 +50,4 @@ More info:
 3. [hendrik-erz.de/open-source-has-a-sustainability-crisis](https://hendrik-erz.de/post/open-source-has-a-sustainability-crisis){:target="_blank"}  
 4. [unlockopen.com/towards-a-sustainable-solution](https://speaking.unlockopen.com/5JrQdv/towards-a-sustainable-solution-to-open-source-sustainability){:target="_blank"}  
 
+List of all referenced [Links](https://docs.google.com/spreadsheets/d/e/2PACX-1vS2z9KBq6jiePC8rfPdAcd_b0jtfE_8gPAXPvbKV45fRenyA0fKSSTWmbMA1pd3f4yYiFTr6Wq8Dq5z/pubhtml?gid=2013428247&single=true){:target="_blank"}
