@@ -7,6 +7,9 @@ classes: wide
 excerpt: "proposal to fix the 'broken' OS"
 ---
 
+LANG(jezik):<br>
+[Global](https://infopedia.io/solution-to-opensource-sustainability/) (en-us) / Local (sr-latn-ba)<br>
+
 ![/solution-to-opensource-sustainability](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/solution-to-opensource-sustainability/OS2.jpg)
 
 <center>QR Link</center>
