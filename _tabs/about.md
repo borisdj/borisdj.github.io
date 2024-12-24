@@ -11,8 +11,8 @@ Passionate Programmer and Software Developer<br>
 (OpenSource Code, C#, .Net, EF-Core, Blazor, Google Sheets)
 
 -- Interested in:<br>
-BlockChain, Bitcoin, Financial and Monetary systems;<br>
-Self-Sustanability, Electrification of Transport, eBikes, Space Colonisation...<br>
+Financial and Monetary systems, Bitcoin, BlockChain;<br>
+Self-Sustanability, Electrification of Transport: electric cars and eBikes, Space Exploration & Colonisation...<br>
 Engineering Issues and Challenges / Opportunities.<br>
 #Technologist<br>
 
