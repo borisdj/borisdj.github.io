@@ -16,9 +16,6 @@ Others ([g-translate](https://translate.google.com/?sl=en&tl=bs&text=https%3A%2F
 
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
-<center>QR Link</center>
-![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
-
 **Scaling Issues**:  
 * Bitcoin base layer and Blockchain architecture in general do not scale.  
 In order to remain decentralized enough in the long term, from a governance perspective, it needs robust structure and high redundancy.  
@@ -115,3 +112,6 @@ If you have business or provide services consider to start accepting Bitcoin (ci
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)  
 Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
 (also to support the developers: [Donation Portal](https://bitcoindevlist.com/){:target="_blank"} or ili [OpenSats](https://opensats.org/){:target="_blank"})
+
+<center>QR Link</center>
+![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
