@@ -9,9 +9,7 @@ excerpt: "Google Sheets in Overdrive"
 
 **[Google Sheets](https://www.google.com/sheets/about/){:target="_blank"} (GS) as Excel alternative and a powerfull productivity tool**<br>
 
-LANG(jezik):<br>
-Global (en-us) / [Local](https://infopedia.io/sr-latn/google-sheets-in-overdrive/) (sr-latn-ba)<br>
-Others ([g-translate](https://translate.google.com/?sl=en&tl=bs&text=https%3A%2F%2Finfopedia.io%2Fgoogle-sheets-in-overdrive%2F&op=translate){:target="_blank"})
+LANG(jezik):<br> Global(en-us) / [Local](https://infopedia.io/sr-latn/google-sheets-in-overdrive/)(sr-latn)<br>
 
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/google-sheets-in-overdrive/gs.jpg)
 
