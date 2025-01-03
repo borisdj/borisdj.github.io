@@ -187,5 +187,8 @@ Epilogue: Following months will be interesting to see how this plays out, stay t
 For those eager to find out more and deep dive into it, first Bit post was mini eBook: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
 Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - My first Bitcoin*) to increase financial literacy and awareness.
 
+<center>BTC 2024 Prague</center>
+![QR Link](https://drive.google.com/file/d/1XeyZ54c8fJlm54PdmlvTVIXZ0C0r12-3/view?usp=drive_link)
+
 <center>QR Link</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
