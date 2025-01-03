@@ -10,7 +10,7 @@ excerpt: "Lightning Network"
 **[LN](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} development and usecase**<br>
 Bitcoin Layer 2 (L2) - [**Tech behind**](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
 
-LANG(jezik):<br> Global (en-us) / [Local](https://infopedia.io/sr-latn/lightning-network/) (sr-latn)<br>
+LANG(jezik): Global(en-us) / [Local](https://infopedia.io/sr-latn/lightning-network/)(sr-latn)<br>
 
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
