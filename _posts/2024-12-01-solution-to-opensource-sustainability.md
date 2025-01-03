@@ -7,7 +7,7 @@ classes: wide
 excerpt: "proposal to fix the 'broken' OS"
 ---
 
-LANG(jezik): Global (en-us) / [Local](https://infopedia.io/sr-latn/solution-to-opensource-sustainability/) (sr-latn-ba)<br>
+LANG(jezik): Global (en-us) / [Local](https://infopedia.io/sr-latn/solution-to-opensource-sustainability/) (sr-latn)<br>
 
 ![/solution-to-opensource-sustainability](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/solution-to-opensource-sustainability/OS2.jpg)
 
