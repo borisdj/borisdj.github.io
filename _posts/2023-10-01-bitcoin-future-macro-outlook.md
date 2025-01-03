@@ -10,12 +10,9 @@ excerpt: "Bitcoin expectations for the coming months and decades"
 Expectations for the coming months and decades<br>
 
 LANG(jezik):<br>
-Global (en-us) / [Local](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/) (sr-latn-ba)<br>
+Global (en-us) / [Local](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/) (sr-latn)<br>
 
 ![/bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/bitcoin-future-macro-outlook/bitcoin-future.jpg)
-
-<center>QR Link</center>
-![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
 
 <p>
 Tap <BUTTON id="buttonLike" TYPE="button" 
@@ -189,3 +186,6 @@ YT talks to listen:
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
 For those eager to find out more and deep dive into it, first Bit post was mini eBook: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
 Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - My first Bitcoin*) to increase financial literacy and awareness.
+
+<center>QR Link</center>
+![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
