@@ -18,10 +18,6 @@ Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp
 
 ![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/evolution-of-money.jpg)
 
-<center>QR Link</center>
-![QR Link](https://quickchart.io/qr?text=https://infopedia.io/revolution-of-money/)
-
-
 **Table Of Contents [C]**
 <p>
 Tap <BUTTON id="buttonLike" TYPE="button" 
@@ -724,3 +720,6 @@ Later there will be a **Quiz** with Questions. For those who get all the correct
 [reddit.com](https://reddit.com){:target="_blank"}<br>
 [youtube.com](https://youtube.com){:target="_blank"}<br>
 [medium.com](https://medium.com){:target="_blank"}<br>
+
+<center>QR Link</center>
+![QR Link](https://quickchart.io/qr?text=https://infopedia.io/revolution-of-money/)
