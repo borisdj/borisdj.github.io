@@ -352,7 +352,7 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
   - neutral form of money (not controlled by anyone) - [value of neutrality](https://medium.com/intotheblock/the-value-of-bitcoins-neutrality-9935338cc078){:target="_blank"}
   - the New Operating System of the Economy
 * 17 Monetary / Economic energy
-  - from [First Principles](https://fs.blog/first-principles/){:target="_blank"} Money is an exchange of energy (Econ 101)
+  - from [First Principles](https://fs.blog/first-principles/){:target="_blank"} Money is an exchange of energy (Econ 101) - Henry Ford’s [energy currency](https://www.reddit.com/r/Bitcoin/comments/12fkc8h/henry_fords_bitcoin_energy_currency_full_article/){:target="_blank"}
   - reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit){:target="_blank"})
 * 18 A Weapon for [Peace, Not war](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin){:target="_blank"} - Financial DMZ (an Exit Strategy for Humans)
   - [war Deterrent](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - changes warfare from kinetic to electric energy (and [critique](https://blog.lopp.net/critique-softwar-concepts/){:target="_blank"})
