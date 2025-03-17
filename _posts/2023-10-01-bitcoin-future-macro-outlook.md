@@ -55,7 +55,7 @@ Also being fully permissionless, censorship resistant and trustless, since peopl
 -- As an Opt-In ecosystem it represents peaceful resistance from currency manipulation and debasement.  
 It was elegantly designed and programmed to have the best characteristics of Money:  
 ***&nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform***  
-Fixes bad features of gold regarding authenticity (hard to verify), difficult division (need melting) and expensive portability (costly transfer) because of which shiny yellow metal was concentrated and centralised.  
+Fixes bad features of gold regarding authenticity (hard to verify), difficult division (need melting) and expensive portability (costly transfer) because of which shiny yellow metal was concentrated and centralised ([Bullish Case](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1){:target="_blank"}).  
 In technical sence it is upheld by a significant computer science breakthrough: **Decentralised** [**Digital Scarcity**](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/){:target="_blank"}, that is made using **cryptography** and which solved double-spending problem. Being Digital does not means it is 'Virtual' or imaginary as it has real world costs and effects with consequences.  
 
 ### Way Forward
