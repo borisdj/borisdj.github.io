@@ -219,7 +219,7 @@ In the following years several persons were incorrectly suspected or falsely cla
 -- Creator of BTC Satoshi, at the end of 2010, made the last post that stated: *There is more work to be done...*. and since then, he has not made any known contact. The deployment of project was executed masterfully and not exposing himself by sitting on many coins without spending them. Nonetheless he become the legend, an elusive figure. Today we see that the project continued, and it became a game-changing product on a global scale. In the meanwhile, contributor *Gavin Andresen* became the lead developer till 2014 when *Wladimir van der Laan* from Amsterdam took over.<br>
 -- One peculiar note: First real-world Btc transaction was in May of 2010 for [2 large pizzas paid 10,000 BTC](https://www.startupdaily.net/topic/cryptocurrency/the-story-behind-the-day-bitcoin-made-pizza-the-most-expensive-meal-in-the-world/){:target="_blank"} (consider current value of those - hundreds of millions $)<br>
 
-[The history of the cypherpunks](https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/)<br>
+[The history of the cypherpunks](https://web.archive.org/web/20250103053317/https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/)<br>
 ![cypherpunks](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/cypherpunks.jpg)
 
 ### 2.2 Technical background [[C](#toc)]
