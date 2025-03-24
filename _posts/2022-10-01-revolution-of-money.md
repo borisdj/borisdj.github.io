@@ -339,8 +339,8 @@ On the other hand updates that passed like [SegWit](https://www.investopedia.com
 * 9 Productive brain power of Developers (Open Source project)
 * 10 Peaceful resistance from currency Devaluation / Depreciation
 * 11 Modern Declaration of (monetary) Independence / Denationalization
-  - enables Sovereign individual (Self-Sufficient communities)
-  - opt out from corrupt fiat system (Silent Revolution)
+  - enables individual sovereignty (self-reliant communities)
+  - opt out from corrupt fiat system (silent revolution)
 * 12 Financial Freedom technology and tool
   - stateless and permissionless public money
   - gives you power over money, and ultimate freedom to live on your own terms
