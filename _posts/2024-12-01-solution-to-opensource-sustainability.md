@@ -1,5 +1,5 @@
 ---
-title: "Solution to OpenSource Sustainability SOSs"
+title: "Solution to OpenSource sustainability SOSs"
 date: 2024-12-01T00:00:00-00:00
 categories: [tech]
 tags: [OS, OpenSource, Solution, Sustainability]
