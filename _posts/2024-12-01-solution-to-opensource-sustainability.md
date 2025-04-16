@@ -35,7 +35,7 @@ Also when setting prices avoid awkward amounts like 799, use rounded numbers, pl
 For sceptics, to add that criticism without effective solution is neither useful nor justified.  
 To frame it as: The [OS won](https://aaronstannard.com/sustainable-open-source-software/){:target="_blank"}.  
 
-&nbsp; At the end there would be 2 categories of Licenses for OS projects depending on the hardship of maintenance:  
+&nbsp; At the end we could group Licenses for OS projects into 2 categories, depending on the hardship of maintenance:  
 1) The first group would be fully free ([MIT, Apache, BSD](https://opensource.stackexchange.com/questions/11109/what-are-the-practical-differences-between-mit-apache-and-bsd-licenses){:target="_blank"} etc), the default for smaller projects that do not require significant time and effort. Besides initial development, later would need only occasional updates.  
 2) Second **cFOSS** type for larger and more complex projects where it becomes a burden to the developer. And if needed they should be encouraged to switch to these types of licenses (path from projects to products). Also code repositories that are from start made in such a manner deserve to be welcomed by the OpenSource community. Of course, in situations where there was a change anyone can fork the last fully free version and continue maintaining it's on their own, but be aware it is not an easy endeavor.
 
