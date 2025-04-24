@@ -53,8 +53,8 @@ License types comparison:
 | Name             | Type    | Code public | Distrib./ Modif. | Pricing                    | Examples         |
 | ---------------- | ------- | ----------- | ---------------  | -------------------------- | ---------------- |
 | fFOSS            | Regular | Yes         | Yes              | fully Free                 | MIT, Apache, BSD |
-| cFOSS            | Dual    | Yes         | Yes              | cond. Free up to threshold | cF-1M            |
-| sFOSS            | Dual    | Yes         | Yes              | paid for commerical use    | GPL(s)           |
+| **cFOSS**        | Dual    | Yes         | Yes              | cond. Free up to threshold | cF-1M            |
+| sFOSS            | Dual    | Yes         | Yes              | semi Free, paid commerical | GPL(s)           |
 | OpenCore         | Special | Yes         | Yes              | paid for premium features  |                  |
 | Source Available | Regular | Yes         | No               | paid or freemium           |                  |
 | Closed Source    | Regular | No          | No               | paid or freeware           | proprietary      |
