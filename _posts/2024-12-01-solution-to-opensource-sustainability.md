@@ -49,13 +49,24 @@ Some notable examples of projects with cFOSS license type or similar design:
 &nbsp; Finally a Recommendation for everyone would be to find a project that interests them which they also need and use, and could allocate some spare time to it. There is always a need to help with open question, improve documentation and samples, make tests, solve issue, add new functionalities and other ways of contribution. Later if you have a problem/idea make your own fully FOSS, and after a few of those one might become cFOSS or set it up as such from start.  
 &nbsp; The Rule of thumb could be that 1 in 3 to 5 projects might be significant enough to have cFOSS while others would be fully FOSS (another case of Pareto). There is useful info on *opensource* : [starting-a-project](https://opensource.guide/starting-a-project/){:target="_blank"} and [getting-paid](https://opensource.guide/getting-paid/){:target="_blank"}. As for the companies they also can make sure [Open-Source tools are safe](https://www.forbes.com/councils/forbestechcouncil/2022/05/10/12-ways-companies-can-ensure-open-source-tools-are-safe-and-sustainable/){:target="_blank"}.
 
+License types comparison:
+| Name             | Type    | Code public | Distrib./ Modif. | Pricing                    | Examples         |
+| ---------------- | ------- | ----------- | ---------------  | -------------------------- | ---------------- |
+| fFOSS            | Regular | Yes         | Yes              | fully Free                 | MIT, Apache, BSD |
+| cFOSS            | Dual    | Yes         | Yes              | cond. Free up to threshold | cF-1M            |
+| sFOSS            | Dual    | Yes         | Yes              | paid for commerical use    | GPL(s)           |
+| OpenCore         | Special | Yes         | Yes              | paid for premium features  |                  |
+| Source Available | Regular | Yes         | No               | paid or freemium           |                  |
+| Closed Source    | Regular | No          | No               | paid or freeware           | proprietary      |
+
 More info:
 1. [medium/the-sustainability-of-open-source](https://goldglovecb.medium.com/the-sustainability-of-open-source-7ec0390f58e8){:target="_blank"}
 2. [medium/open-source-is-struggling](https://medium.com/@jankammerath/open-source-is-struggling-and-its-not-big-tech-that-is-to-blame-cfba964219f8){:target="_blank"}
 3. [medium//how-we-maintain-a-healthy-open-source](https://medium.com/spiffworkflow/how-we-maintain-a-healthy-open-source-project-2e6d7115f668){:target="_blank"}  
 4. [dev.to/the-hidden-cost-of-free-open-source](https://dev.to/opensauced/the-hidden-cost-of-free-why-open-source-sustainability-matters-1jk7){:target="_blank"}  
 5. [hendrik-erz.de/open-source-has-a-sustainability-crisis](https://hendrik-erz.de/post/open-source-has-a-sustainability-crisis){:target="_blank"}  
-6. [unlockopen.com/towards-a-sustainable-solution](https://speaking.unlockopen.com/5JrQdv/towards-a-sustainable-solution-to-open-source-sustainability){:target="_blank"}  
+6. [unlockopen.com/towards-a-sustainable-solution](https://speaking.unlockopen.com/5JrQdv/towards-a-sustainable-solution-to-open-source-sustainability){:target="_blank"}
+7. [dual licensing a model that works](https://www.linkedin.com/pulse/why-open-core-gpl-dual-licensing-model-works-mark-curphey/){:target="_blank"}
 
 List of all referenced [Links](https://docs.google.com/spreadsheets/d/e/2PACX-1vS2z9KBq6jiePC8rfPdAcd_b0jtfE_8gPAXPvbKV45fRenyA0fKSSTWmbMA1pd3f4yYiFTr6Wq8Dq5z/pubhtml?gid=2013428247&single=true){:target="_blank"}
 
