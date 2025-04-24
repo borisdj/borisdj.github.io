@@ -51,7 +51,7 @@ Some notable examples of projects with cFOSS license type or similar design:
 
 License types comparison:
 
-| Name             | Type    | Code <br />public | Distribute & <br />Modifify | Price     | Examples         |
+| Name             | Type    | Code <br />public | Distribute & <br />Modify | Price     | Examples         |
 | ---------------- | ------- | ----------- | ---------------  | -------------------------- | ---------------- |
 | fFOSS            | Regular | Yes         | Yes              | fully Free and permissive  | MIT, Apache, BSD |
 | **cFOSS**        | Dual    | Yes         | Yes              | cond. Free up to threshold | cF-1M            |
