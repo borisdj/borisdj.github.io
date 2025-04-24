@@ -50,6 +50,7 @@ Some notable examples of projects with cFOSS license type or similar design:
 &nbsp; The Rule of thumb could be that 1 in 3 to 5 projects might be significant enough to have cFOSS while others would be fully FOSS (another case of Pareto). There is useful info on *opensource* : [starting-a-project](https://opensource.guide/starting-a-project/){:target="_blank"} and [getting-paid](https://opensource.guide/getting-paid/){:target="_blank"}. As for the companies they also can make sure [Open-Source tools are safe](https://www.forbes.com/councils/forbestechcouncil/2022/05/10/12-ways-companies-can-ensure-open-source-tools-are-safe-and-sustainable/){:target="_blank"}.
 
 License types comparison:
+
 | Name             | Type    | Code public | Distrib./ Modif. | Pricing                    | Examples         |
 | ---------------- | ------- | ----------- | ---------------  | -------------------------- | ---------------- |
 | fFOSS            | Regular | Yes         | Yes              | fully Free and permissive  | MIT, Apache, BSD |
