@@ -46,7 +46,7 @@ Technical difficulties and solutions:
 -privacy leakages -> PTLCs (Point Time Locked Contracts), trampoline routing  
 -force-closed channel -> solves itself with time  
 
-[**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"} 
+[**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} by River (2023), [Fidelity Report](https://www.fidelitydigitalassets.com/sites/g/files/djuvja3256/files/acquiadam/FDA_TheLightningNetwork_ExpandingBitcoinUseCases_1187503.1.0_V5.pdf){:target="_blank"} as well as Analysis [Engine](https://1ml.com/){:target="_blank"} 
 
 Bitcoin Lightning wallets - [**Comparison**](https://darthcoin.substack.com/p/lightning-wallets-comparison){:target="_blank"} (by *darthcoin* @substack):  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
