@@ -63,11 +63,12 @@ License types comparison:
 More info:
 1. [medium/the-sustainability-of-open-source](https://goldglovecb.medium.com/the-sustainability-of-open-source-7ec0390f58e8){:target="_blank"}
 2. [medium/open-source-is-struggling](https://medium.com/@jankammerath/open-source-is-struggling-and-its-not-big-tech-that-is-to-blame-cfba964219f8){:target="_blank"}
-3. [medium//how-we-maintain-a-healthy-open-source](https://medium.com/spiffworkflow/how-we-maintain-a-healthy-open-source-project-2e6d7115f668){:target="_blank"}  
-4. [dev.to/the-hidden-cost-of-free-open-source](https://dev.to/opensauced/the-hidden-cost-of-free-why-open-source-sustainability-matters-1jk7){:target="_blank"}  
-5. [hendrik-erz.de/open-source-has-a-sustainability-crisis](https://hendrik-erz.de/post/open-source-has-a-sustainability-crisis){:target="_blank"}  
-6. [unlockopen.com/towards-a-sustainable-solution](https://speaking.unlockopen.com/5JrQdv/towards-a-sustainable-solution-to-open-source-sustainability){:target="_blank"}
-7. [dual licensing a model that works](https://www.linkedin.com/pulse/why-open-core-gpl-dual-licensing-model-works-mark-curphey/){:target="_blank"}
+3. [medium//how-we-maintain-a-healthy-open-source](https://medium.com/spiffworkflow/how-we-maintain-a-healthy-open-source-project-2e6d7115f668){:target="_blank"}
+4. [medium//the-silent-uprise-of-paid-open-source](https://prasannamestha.medium.com/the-silent-uprise-of-paid-open-source-309b8d9ffc41){:target="_blank"}  
+5. [dev.to/the-hidden-cost-of-free-open-source](https://dev.to/opensauced/the-hidden-cost-of-free-why-open-source-sustainability-matters-1jk7){:target="_blank"}  
+6. [hendrik-erz.de/open-source-has-a-sustainability-crisis](https://hendrik-erz.de/post/open-source-has-a-sustainability-crisis){:target="_blank"}  
+7. [unlockopen.com/towards-a-sustainable-solution](https://speaking.unlockopen.com/5JrQdv/towards-a-sustainable-solution-to-open-source-sustainability){:target="_blank"}
+8. [dual licensing a model that works](https://www.linkedin.com/pulse/why-open-core-gpl-dual-licensing-model-works-mark-curphey/){:target="_blank"}
 
 List of all referenced [Links](https://docs.google.com/spreadsheets/d/e/2PACX-1vS2z9KBq6jiePC8rfPdAcd_b0jtfE_8gPAXPvbKV45fRenyA0fKSSTWmbMA1pd3f4yYiFTr6Wq8Dq5z/pubhtml?gid=2013428247&single=true){:target="_blank"}
 
