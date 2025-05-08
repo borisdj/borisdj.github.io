@@ -46,6 +46,10 @@ Some notable examples of projects with cFOSS license type or similar design:
 -- [**EFCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - personal Flagship library (this blog post grew from the Bulk saga)  
 ' (Free Community License covers most cases, only companies with $1 million+ revenue yearly need Commercial)
 
+More systemic approach, would be to have several Foundations that would collect donations for popular fullyFree projects and even do billing for payed cF licenses from large Companies and then distribute funding to maintainers.  
+[Github Sponsors](https://github.com/sponsors){:target="_blank"} is one example of this model in general but, at the moment, I do not se it having big traction nor significant impact.  
+And in MS ecosystem there is [.Net Foundation](https://dotnetfoundation.org/){:target="_blank"} that should do similar but they ended up doing absolutely nothing (zero funding), existing only as a name on papar.  
+
 &nbsp; Finally a Recommendation for everyone would be to find a project that interests them which they also need and use, and could allocate some spare time to it. There is always a need to help with open question, improve documentation and samples, make tests, solve issue, add new functionalities and other ways of contribution. Later if you have a problem/idea make your own fully FOSS, and after a few of those one might become cFOSS or set it up as such from start.  
 &nbsp; The Rule of thumb could be that 1 in 3 to 5 projects might be significant enough to have cFOSS while others would be fully FOSS (another case of Pareto). There is useful info on *opensource* : [starting-a-project](https://opensource.guide/starting-a-project/){:target="_blank"} and [getting-paid](https://opensource.guide/getting-paid/){:target="_blank"}. As for the companies they also can make sure [Open-Source tools are safe](https://www.forbes.com/councils/forbestechcouncil/2022/05/10/12-ways-companies-can-ensure-open-source-tools-are-safe-and-sustainable/){:target="_blank"}.
 
