@@ -387,7 +387,7 @@ So let's look at certain **Weaknesses & Threat** and their explanations:<br>
 * 2 Not backed by anything
   - Does not need external backing (has good internal properties) 
   - Based on Math and Implemented by Code
-  - Secured by Psysics - Electric Power (anchored to real world with energy)
+  - Secured by Physics - Electric Power (anchored to real world with energy)
   - Money as abstract concept partly depends on belief (Value from people using it)<br>
     (agreement among people who think it's valuable)
 * 3 [Ponzi scheme](https://constantinecannon.com/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/){:target="_blank"} (another [Tulip Mania](https://www.history.com/news/tulip-mania-financial-crash-holland){:target="_blank"})
