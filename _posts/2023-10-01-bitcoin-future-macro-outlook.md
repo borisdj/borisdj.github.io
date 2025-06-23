@@ -174,6 +174,7 @@ Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments
 | 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (US only) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |  
 Other popular Europe based options are:  
 | [pocketbitcoin](https://pocketbitcoin.com/){:target="_blank"}(Swiss) | [peachbitcoin](https://peachbitcoin.com/){:target="_blank"}(Swiss) | [relai](https://relai.app/){:target="_blank"}(Swiss) | [21bitcoin](https://21bitcoin.app/en){:target="_blank"}(Austria) |  
+Local version of the BlogPost has few additional exchanges from the SouthEast Europe (in countries SRB, BIH, HRV)  
 **If DCAing into self custody DO take care about [UTXO](https://river.com/learn/bitcoins-utxo-model/){:target="_blank"} management - minimum base transation 0.01 BTC to be future-proof from high fees  
 Other Bitcoin only Exchanges: [guides](https://bitcoinmagazine.com/guides/best-bitcoin-only-exchanges){:target="_blank"}  
 
