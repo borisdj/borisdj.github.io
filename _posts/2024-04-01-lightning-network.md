@@ -22,7 +22,7 @@ Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 
 * [**Blockchain Trilemma**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} <u>/\</u> (resilience vs efficiency):  
 1.Decentralisation, 2.Security, 3.Scalability (No̱ 3 left for [**next layers**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
--- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}, developed in 2015/16 by Joseph Poon and Thaddeus Dryja.  
+-- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}, developed in 2015 by Joseph Poon and Thaddeus Dryja.  
 It works via [**bidirectional channels**](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791){:target="_blank"} between nodes, and needs base transactions for opening, closing, rebalancing and routing. But once set up it can handle large volumes of transactions without the need for regular main net connection.  
 Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
 -- As such it has the potential for over [**1 million**](https://medium.com/@mnry.io/what-is-the-lightning-network-and-how-does-it-work-a9015096cc1c){:target="_blank"} TPS, just the right number, while keeping the fees low. Still it should be mentioned that this is not necessarily the ultimate fix and still hase some challenges.  
