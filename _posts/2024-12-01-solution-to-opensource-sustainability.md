@@ -43,7 +43,7 @@ For sceptics, to add that criticism without effective solution is neither useful
 &nbsp; Another interesting approach is *OpenCore* which in base has a core project completely free, but some premium features are paid. Personally, I am not a fan of such structure, and prefer to keep it as a single unified project - in line with the [KISS](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"} principle. However, I wouldn't mind others using it, as long as the core component is fully functional for more then half of regular use cases. Still, you can always research ideas about [OS monetization](https://www.scaleway.com/en/blog/how-to-monetize-your-open-source-project/){:target="_blank"} - [best platforms](https://blog.stackademic.com/the-best-platforms-for-monetizing-your-open-source-projects-in-2024-2025-1b7803ea5bc9){:target="_blank"} and find curious stories.
 
 Some notable examples of projects with cFOSS license type or similar design:  
--- [*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, -- [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, -- [*QuestPdf*](https://www.questpdf.com/){:target="_blank"};  
+-- [*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, -- [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, -- [*QuestPdf*](https://www.questpdf.com/){:target="_blank"}, -- [MediatR](https://github.com/LuckyPennySoftware/MediatR){:target="_blank"};  
 -- [**EFCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - personal Flagship library (this blog post grew from the Bulk saga)  
 ' (Free Community License covers most cases, only companies with $1 million+ revenue yearly need Commercial)
 
@@ -83,6 +83,7 @@ Supported by [***codis.tech***](https://codis.tech/){:target="_blank"}
 
 <center>QR Link to page</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/solution-to-opensource-sustainability/)
+
 
 
 
