@@ -8,7 +8,7 @@ excerpt: "proposal to fix the 'broken' OS"
 ---
 
 LANG(jezik): Global (en-us) / [Local](https://infopedia.io/sr-latn/solution-to-opensource-sustainability/) (sr-latn)  
-Short article: [medium/@borisdj/cfoss](https://medium.com/@borisdj/cfoss-as-a-solution-to-opensource-sustainability-soss-e890419d70d2){:target="_blank"}  
+Short article: [medium/cfoss](https://medium.com/@borisdj/cfoss-as-a-solution-to-opensource-sustainability-soss-e890419d70d2){:target="_blank"}  
 
 ![/solution-to-opensource-sustainability](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/solution-to-opensource-sustainability/OS2.jpg)
 
@@ -83,6 +83,7 @@ Supported by [***codis.tech***](https://codis.tech/){:target="_blank"}
 
 <center>QR Link to page</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/solution-to-opensource-sustainability/)
+
 
 
 
