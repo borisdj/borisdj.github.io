@@ -110,7 +110,7 @@ Very rarely in history was there an asset that is safe to hold while also having
 
 ### Macro-Economic analysis (fixed money supply characteristics):
 {: #macro }  
-&nbsp;**1.** A singular interoperable global protocol for value transfer - Bitcoin Standard (standardization of money). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language). Economies converge on single form of money ([convergence](https://gist.ly/youtube-summarizer/bitcoins-convergence-with-macro-investment-trends-exploring-the-future){:target="_blank"} with investment trends).  
+&nbsp;**1.** A singular interoperable global protocol for value transfer - Bitcoin Standard (standardization of money). It means no issues with conversion between currencies for global trade and international e-commerce (single common economic language with [Supranational](https://medium.datadriveninvestor.com/this-is-not-a-tariff-war-its-a-currency-and-interest-rate-war-717fda905d59){:target="_blank"} currency). Economies converge on single form of money ([convergence](https://gist.ly/youtube-summarizer/bitcoins-convergence-with-macro-investment-trends-exploring-the-future){:target="_blank"} with investment trends).  
 Superior new monetary order optimally [engineered](https://medium.com/zen-and-the-art-of-crypto/engineers-and-bitcoin-a-match-made-in-heaven-91d6ea0ab69a){:target="_blank"} from [**First-principles**](https://fs.blog/first-principles/){:target="_blank"} thinking to be as efficient as possible.  
 It encompass several domains, 3 main ones being: Ethics, Economy, Engineering (EEE).
  
@@ -196,3 +196,4 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [Links](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
