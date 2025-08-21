@@ -2,7 +2,7 @@
 title: "Lightning Network"
 date: 2024-04-01T00:00:00-00:00
 categories: [fintech]
-tags: [finance, crypto]
+tags: [finance, bitcoin]
 classes: wide
 excerpt: "Lightning Network"
 ---
@@ -114,3 +114,4 @@ Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:ta
 
 <center>QR Link</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
+
