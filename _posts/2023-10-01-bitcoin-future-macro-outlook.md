@@ -7,10 +7,10 @@ classes: wide
 excerpt: "Bitcoin expectations for the coming months and decades"
 ---
 
-Expectations for the coming years and decades<br>
+Expectations for the coming years and decades  
 
-LANG(jezik):<br>
-Global (en-us) / [Local](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/) (sr-latn)<br>
+LANG(jezik):  
+Global (en-us) / [Local](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/) (sr-latn)  
 
 ![/bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/bitcoin-future-macro-outlook/bitcoin-future.jpg)
 
@@ -196,6 +196,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [Links](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
