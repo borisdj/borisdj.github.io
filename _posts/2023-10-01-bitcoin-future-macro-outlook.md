@@ -2,7 +2,7 @@
 title: "Bitcoin future and macro outlook"
 date: 2023-10-01T00:00:00-00:00
 categories: [fintech]
-tags: [finance, crypto]
+tags: [finance, bitcoin]
 classes: wide
 excerpt: "Bitcoin expectations for the coming months and decades"
 ---
@@ -196,5 +196,6 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [Links](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
