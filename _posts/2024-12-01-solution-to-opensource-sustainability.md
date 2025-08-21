@@ -13,7 +13,7 @@ Short article: [medium/cfoss](https://medium.com/@borisdj/cfoss-as-a-solution-to
 ![/solution-to-opensource-sustainability](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/solution-to-opensource-sustainability/OS2.jpg)
 
 &nbsp; **Open-Source** ([img](https://3dnature.com/downloads/open-source/){:target="_blank"}) is a great concept and movement and an excellent way to make Software more accessible and usable (check [OS Initiative](https://opensource.org/){:target="_blank"}). It gives everyone better availability for testing, easier debugging and bug fixes. At the same time enables suggestions and improvements with contributions using **PR** (*PullRequest*) based on GitHub collaboration. But lately, that model often has its own challenges and problems due to some business practices. Some even say that Open Source is [***Broken***](https://www.forbes.com/sites/adrianbridgwater/2019/11/11/is-open-source-broken/?sh=18721f5fd560){:target="_blank"}. So the following proposal is an attempt to find a fix.  
-But first to address two major issues:
+But first to address two major issues:  
 
 **1) Single Person Dependency**  
 &nbsp; The first matter is that even big projects depend mostly on main developer (one man show) or a handful of significant contributors. At the same time software package or program can have several million users, both private and legal entities, and be used in many applications. However, maintenance often becomes time-consuming with very high expectations and practically requires a full-time job.  
@@ -83,6 +83,7 @@ Supported by [***codis.tech***](https://codis.tech/){:target="_blank"}
 
 <center>QR Link to page</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/solution-to-opensource-sustainability/)
+
 
 
 
