@@ -2,7 +2,7 @@
 title: "(r)Evolution of Money"
 date: 2022-10-01T00:00:00-00:00
 categories: [fintech]
-tags: [finance, crypto]
+tags: [finance, bitcoin]
 classes: wide
 excerpt: "Bitcoin rise with crypto industry story"
 ---
