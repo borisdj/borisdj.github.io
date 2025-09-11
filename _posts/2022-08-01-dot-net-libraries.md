@@ -19,4 +19,5 @@ excerpt: "Open source authored .Net libraries"
 | 6  | [CsCodeGenerator](https://github.com/borisdj/CsCodeGenerator) | C# code generation based on Classes and elements |
 | 7  | [CsCodeExample](https://github.com/borisdj/CsCodeExample) | Examples of C# code in form of a simple tutorial |
 
-*[github.com/borisdj/](https://github.com/borisdj){:target="_blank"}*
+*[github.com/borisdj/](https://github.com/borisdj){:target="_blank"}*  
+Supported by [***codis.tech***](https://codis.tech/){:target="_blank"}  
