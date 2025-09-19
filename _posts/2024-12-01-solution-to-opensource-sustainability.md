@@ -27,7 +27,7 @@ This situation represents a risk to all users since they would lose support with
 
 **Model Explanation**  
 &nbsp; One constructive idea that is getting traction is to make it mostly free while keeping the source open. 'Mostly free' means zero cost for majority (80 to 90%+) of users, such as those with yearly gross revenues below certain limit, like 500 K or $1 million. Essentially, this approach mirrors a [**Dual Licensing**](https://duallicensing.com/){:target="_blank"} strategy.  
-&nbsp; I call this **cFOSS** - ***conditionally Free and OpenSource Software***, relatively permissive license type with loosely enforced funding. Note that this is not like the *Source Available* (or Public Source) which essentially only allows for code to be read and nothing else, almost [meaningless](https://keygen.sh/blog/source-available-is-meaningless/){:target="_blank"} ([OS term](https://danb.me/blog/why-open-source-term-is-important/){:target="_blank"} is important).  
+&nbsp; I call this **cFOSS** - ***conditionally Free and OpenSource Software***, relatively permissive license type with loosely enforced funding (custom OpenSource Protocol). Note that this is not like the *Source Available* (or Public Source) which essentially only allows for code to be read and nothing else, almost [meaningless](https://keygen.sh/blog/source-available-is-meaningless/){:target="_blank"} ([OS term](https://danb.me/blog/why-open-source-term-is-important/){:target="_blank"} is important).  
 Instead, **Openness** is retained with freedom to use the code, modify it and distribute as a dependency.  
 &nbsp; It enables [sustainability](https://thenewstack.io/this-week-in-programming-a-manifesto-for-sustainable-open-source-development/){:target="_blank"} (subsidizing alike) and ensures that project can survive in the long term. What's more, gives good incentives and creates a self-reinforcing positive loop by encouraging users to contribute via 'code commits'. Additionaly, pricing should be progressive but with simple tiers (based on number of Devs but in groups or some other metric). And even the top tier should not be too expensive, to be easily acceptable cost for such companies and proportional to the value they receive. For example, tiers could be in range from several hundreds to a few thousand for annual subscription, or alternatively to also have an option for perpetual (permanent) license. Regular funding would also make it possible to have a reward model for impactful collaborators. 
 Also when setting prices please avoid amounts like 999 (stay away from psychology of 'advertising'), instead use rounded numbers, plain 1000 is fine. Finally, you can consider accepting *Bitcoin* as payment, as it aligns with the principles *OpenSource Money* (more info in previous blog posts).
@@ -83,6 +83,7 @@ Supported by [***codis.tech***](https://codis.tech/){:target="_blank"}
 
 <center>QR Link to page</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/solution-to-opensource-sustainability/)
+
 
 
 
