@@ -167,6 +167,8 @@ Personal assessment currently is that Bitcoin has **51% chance** of growing and 
 (in 2017 was 30% and in 2013 maybe 10% then).  
 The longer it exists (15 years so far) the higher are chances of succeeding ([**Lindy effect**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), as it grows stronger and becomes more robust (was rigidly tested).  
 Like any investment it is a venture, as every decision in life is. For risky ones, invest only what you can afford to lose.  
+But sometimes not investing anything is also another type of risk. 
+For an average [portfolio](https://docs.google.com/spreadsheets/d/1DAck82CsHSO5rKUTgm4cqGieA0DLBK5UtMyV09AH3Yk/edit?gid=0#gid=0){:target="_blank"}, whether personal or standard from a fund, the current recommendation is to allocate 5 to 10% in BTC (with greater conviction, a higher proportion goes).  
 Also keep better part of them off crypto exchanges (**Self-Custody** - *not your keys, not your coins*).  
 Either way, it's always good to be educated on the subject.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.  
@@ -196,6 +198,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [Links](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
