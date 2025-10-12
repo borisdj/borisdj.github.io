@@ -1,6 +1,6 @@
 ---
 title: "Google Sheets in Overdrive"
-date: 2025-10-01T00:00:00-00:00
+date: 2025-11-01T00:00:00-00:00
 categories: [fintech]
 tags: [data, excel, sheet, finance, js]
 classes: wide
