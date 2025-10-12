@@ -1,5 +1,5 @@
 ---
-title: "Google Sheets in Overdrive"
+title: "Google Sheets in Overdrive - Tabelaris Protocollum"
 date: 2025-11-01T00:00:00-00:00
 categories: [fintech]
 tags: [data, excel, sheet, finance, js]
@@ -16,17 +16,22 @@ LANG(jezik):<br> Global(en-us) / [Local](https://infopedia.io/sr-latn/google-she
 <center>QR Link</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/google-sheets-in-overdrive/)
 
-Following text will explain best way to use gSheets, with advance features and process integration.  
-With emphasis on how to structure it optimally, and efficient method to organise data.  
-It will list many of its capabilities with real-life example of each usage.  
+Following text will explain some best practice ways to use G-Sheets, with advance features and process integration.  
+Focus will be on standardized approach with sql database alike structure, using Third Normal Form (3NF).  
+Importance of standardization is emphesized in the Title with words ***Tabelaris Protocollum**, a latin variation which means Table Protocol.  
+With emphasis on how to design it optimally, and efficient method to organise and normalise data.  
+Normalized data has improved Integrity, reduced Redundancy and is easier for Maintenance.  
+Many of its capabilities will be displayed with real-life example of each usage.  
 
-First when compared with Excel (from Microsoft):
-*Advantages:
---N atively web based so somewhat better in that sense, for remote access from with different device and sharing data for collaborative work  
-  (Excel now has 365 version that can work in browser and have.  
--- Easier and more versatile intergration with other Google services: Docs(text), Gmail(email), Drive(storage)  
-* Disdvantages:
-- Scalability limits for large data - 100 K or more rows  
-- Privacy issue (partialy fixed with 2FA)  
-
-Program
+Firstly, when compared with Excel (from Microsoft) we can shortly list pros and cons.
+* Advantages:  
+--Natively web based so somewhat better in that sense  
+  Easier remote access from different device and simple sharing data for collaborative work.  
+  (Excel does have 365 version that can work in browser and have similar features but is more suitable for corporate users.  
+--Straightforward  and more versatile intergration with other Google services:  
+  (Docs[text], Gmail[email], Drive[storage] - a Big Plus)  
+* Disdvantages:  
+--Scalability limits for large data  
+  (10 million cells limit per sheet, but slow with more then 100 000 rows, 10-20 columns.  
+--Privacy issue - mostly fixed with 2FA (2-Factor-Authentification) login.  
+--Aa
