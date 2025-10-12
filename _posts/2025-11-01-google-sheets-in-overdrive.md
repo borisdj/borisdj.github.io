@@ -17,8 +17,8 @@ LANG(jezik):<br> Global(en-us) / [Local](https://infopedia.io/sr-latn/google-she
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/google-sheets-in-overdrive/)
 
 Following text will explain some best practice ways to use G-Sheets, with advance features and process integration.  
-Focus will be on standardized approach with sql database alike structure, using Third Normal Form (3NF).  
-Importance of standardization is emphesized in the Title with words ***Tabelaris Protocollum**, a latin variation which means Table Protocol.  
+Focus will be on standardized approach with SQL Database alike structure, using [Third Normal Form](https://www.datacamp.com/tutorial/third-normal-form){:target="_blank"} ([3NF normalization - yt](https://www.youtube.com/watch?v=GFQaEYEc8_8){:target="_blank"}).  
+Importance of standardization is emphasized in the Title with words ***Tabelaris Protocollum**, a latin variation which means Table Protocol.  
 With emphasis on how to design it optimally, and efficient method to organise and normalise data.  
 Normalized data has improved Integrity, reduced Redundancy and is easier for Maintenance.  
 Many of its capabilities will be displayed with real-life example of each usage.  
