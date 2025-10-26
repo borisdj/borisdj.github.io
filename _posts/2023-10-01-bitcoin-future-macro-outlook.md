@@ -91,8 +91,8 @@ It would be like a precise numerical measurement system for the economic activit
 **Possible effects:**  
 -- people would spend more prudently (it imposes discipline), and would take only calculated risks/credits  
 -- lower time preference, long-term mindset, less consumerism of junk goods (no overconsumption)  
--- real wages that keep purchasing power with mild price deflation leading to greater prosperity  
-&nbsp;&nbsp;(no need to ask for raise just to keep pace with inflation)    
+-- real wages that keep purchasing power with mild price [deflation](https://www.reddit.com/r/economy/comments/1f4byf5/can_someone_explain_to_me_why_deflation_would_be/){:target="_blank"} leading to greater prosperity  
+&nbsp;&nbsp;(no need to ask for raise just to keep pace with [inflation - bad](https://www.reddit.com/r/changemyview/comments/9274l2/cmv_inflation_is_a_strictly_bad_thing_and_is/){:target="_blank"})    
 -- fair distribution of economic growth by removing silent regressive Tax known as inflation  
 &nbsp;&nbsp;(no [**Cantillon effect**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} - those close to printing machine benefit the most, financial elite;  
 &nbsp;&nbsp;&nbsp; As opposed to today's system were we have socialized loses and privatized gains)  
@@ -199,6 +199,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
