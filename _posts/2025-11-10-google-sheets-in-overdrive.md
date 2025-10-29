@@ -1,6 +1,6 @@
 ---
 title: "Google Sheets in Overdrive - Tabelaris Protocollum"
-date: 2025-11-01T00:00:00-00:00
+date: 2025-11-10T00:00:00-00:00
 categories: [fintech]
 tags: [data, excel, sheet, finance, js]
 classes: wide
@@ -17,9 +17,9 @@ LANG(jezik):<br> Global(en-us) / [Local](https://infopedia.io/sr-latn/google-she
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/google-sheets-in-overdrive/)
 
 Following text will explain some best practice ways to use G-Sheets, with advance features and process integration.  
-Focus will be on standardized approach with SQL Database alike structure, using [Third Normal Form](https://www.datacamp.com/tutorial/third-normal-form){:target="_blank"} ([3NF normalization - yt](https://www.youtube.com/watch?v=GFQaEYEc8_8){:target="_blank"}).  
+Focus will be on standardized approach with SQL Database alike structure, using [Third Normal Form](https://www.datacamp.com/tutorial/third-normal-form){:target="_blank"} ([3NF normalization - yt](https://www.youtube.com/watch?v=GFQaEYEc8_8){:target="_blank"}) for better data consistency.  
 Importance of standardization is emphasized in the Title with words ***Tabelaris Protocollum***, a latin variation which means *Table Protocol*.  
-With emphasis on how to design it optimally, and efficient method to organise and normalise data.  
+With emphasis on optimal design with efficient methods for organizing data.  
 Normalized data has improved Integrity, reduced Redundancy and is easier for Maintenance.  
 Many of its capabilities will be displayed with real-life example of each usage.  
 
@@ -33,5 +33,5 @@ Firstly, when compared with Excel (from Microsoft) we can shortly list pros and 
 * Disdvantages:  
 --Scalability limits for large data  
   (10 million cells limit per sheet, but slow with more then 100 000 rows, 10-20 columns.  
---Privacy issue - mostly fixed with 2FA (2-Factor-Authentification) login.  
---Aa
+--Privacy issue - mostly fixed with 2FA (2-Factor-Authentification) login.
+  
