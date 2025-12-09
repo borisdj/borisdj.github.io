@@ -140,7 +140,7 @@ Also: [*How does the economy work without inflation?*](https://www.reddit.com/r/
 ### Finally to address and elaborate some often given scepticism towards it:
 {: #scepticism }  
 &nbsp;**1.** Others cryptocurrencies (alt coins) are not real competition to Bitcoin because of:  
-First mover advantage (organic creation that can't be replicated), larges Network effect momentum, best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users (it became a brand). There is a phrase: [***Bitcoin, Not 'Crypto'***](https://onrampbitcoin.com/research/bitcoin-not-crypto){:target="_blank"}.  
+First mover advantage (organic creation that can't be replicated), larges Network effect momentum, best governance model (no known founder - follow the rules, not the ruler). Next it has most decentralized miners hashrate and wide node distribution, biggest community (contributors, developers) with strong ideological conviction, deep commitment and ever growing adoption from users (it became a brand). There is a phrase: [***Bitcoin, Not 'Crypto'***](https://onrampbitcoin.com/research/bitcoin-not-crypto){:target="_blank"}. Note that digital scarcity is a one-time phenomenon with Bitcoin having greatest network effect ([catch-22](https://onrampbitcoin.com/research/the-crypto-catch-22-why-bitcoin-only)).  
 Besides ingenious system integration of all components, one novel item stands out as vital and that is [***Difficulty Adjustment***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} of mining. It is a self-balancing probabalistic mechanism to keep issuance of new coins in line with predetermined schedule (this flexibility makes it hard and solid).  
 -- On the other hand, cryptos using **PoS** (*Proof of Stake*) consensus model are 'securities' like, do not have true decentralization, and are virtual in nature. They have no separation of power, and Staking is essentially a centralizing force. Some of them might find another use case but not as honest and reliable money, as that is too important function. Bitcoin is entirely self-contained (self-referential) and not capable of enforcing anything that exists outside the network, nor is any blockchain (the oracle problem, as saying goes: *Bitcoin, Not Blockchain*).  
 Only Bitcoin is considered as digital Commodity (exists in cyberspace) and primary monetary good, confirmed as such by the SEC (US Security Exchange Commission). It is nascent [Bearer Asset](https://river.com/learn/terms/b/bearer-asset/){:target="_blank"} without issuer and digital Property (inalienable property rights).  
@@ -200,6 +200,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
