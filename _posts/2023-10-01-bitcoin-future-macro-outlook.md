@@ -115,7 +115,7 @@ Very rarely in history was there an asset that is safe to hold while also having
 Superior new monetary order optimally [engineered](https://medium.com/zen-and-the-art-of-crypto/engineers-and-bitcoin-a-match-made-in-heaven-91d6ea0ab69a){:target="_blank"} from [**First-principles**](https://fs.blog/first-principles/){:target="_blank"} thinking to be as efficient as possible.  
 It encompass several domains, 3 main ones being: Ethics, Economy, Engineering (EEE).
  
-&nbsp;**2.** This would be apolitical money, and as such an excellent candidate for world neutral reserve currency. Those countries that would make it their legal tender woud effectively no longer have full active monetary policy, only fiscal. They could have some sort of reserve state fund for unexpected situations. The Economy itself could have natural business cycles and probaby become more stable in the long run. Swings should be smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis). However most large countries would still keep their local currencies, at least for the foreseeable future.
+&nbsp;**2.** This would be apolitical money, and as such an excellent candidate for world neutral reserve currency. Those countries that would make it their legal tender woud effectively no longer have full active monetary policy, only fiscal. They could have some sort of reserve state fund for unexpected situations. The Economy itself could have natural business cycles and probaby become more stable in the long run. Swings should be smaller since they could not artificialy rise as much because there is no government bailout (remember 2008 financial crisis, after which bankers got away without repercussions while Fed kept 0 rates for years making big asset boom). However most large countries would still keep their local currencies, at least for the foreseeable future.
 
 &nbsp;**3.** Limited supply would not be fundamentally a problem as long as it is divisible downwards: 1 BTC = 100 million Satoshies (*Sat*-s). Total amount of units is **2.1 quadrillion**, 21 mil * 100 mil (8 digits + 8 decimals) and ***Lightning*** even enables miliSats (1/1000). Try to avoid bias of unit size, it is not objectively relevant.  
 If the world economy grows on average 1% per year, some things would reduce its price by 1%. Of course, others with higher efficiency of manufacturing, enabled by technological progress, would fall even more to marginal cost of production and some could rise if there would be extra demand.  
@@ -200,6 +200,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
