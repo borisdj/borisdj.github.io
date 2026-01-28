@@ -1,6 +1,6 @@
 ---
 title: "Google Sheets in Overdrive - Tabelaris Protocollum"
-date: 2025-12-31T00:00:00-00:00
+date: 2026-03-15T00:00:00-00:00
 categories: [fintech]
 tags: [data, excel, sheet, finance, js]
 classes: wide
