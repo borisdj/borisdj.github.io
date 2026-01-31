@@ -41,7 +41,7 @@ CONTENT:
 -- So the proposal was to break this vicious circle by making a decentralized system where no authority will be able to print money with a click of a button (**The separation of money and state**). Similarly, Gutenberg printing press contributed to separation of church and state by making books widely available (it democratized knowledge).  
 Money is an abstract concept and a social construct of humankind, very old innovation that even precedes writing. Also it is a proxy for time, the most valuable human resource. Some would define it as shared esthetics between humans with mobility through time and space. And people don't want more money, but what they can buy with it. So inflation is stealing people's time, it is deceitful and ineffective, and disintegrates the cement that binds society together.
 
--- In principle Bitcoin is not anti-government, just for more efficient and transparent administration with proper checks and balances, opposite of today's bureaucracy. It is not an overstatement to say Bitcoin could free mankind from the bondage of oppressive and war-loving governments. We could say it is a movement towards financial liberalization and independence, individual sovereignty, autonomy and freedom. Practical and feasible attempt to fix the flawed monetary system (broken money), in other words **Bitcoin fixes the Money** (Integrity being core belief). Money is information but it currently has errors, and BTC is error correction. It is antithetical to centralised money creation (digital printing).   
+-- In principle Bitcoin is not anti-government, just for more efficient and transparent administration with proper checks and balances, opposite of today's bureaucracy. It is not an overstatement to say Bitcoin could free mankind from the bondage of oppressive and war-loving governments. We could say it is a movement towards financial liberalization and independence, individual sovereignty, autonomy and [freedom(money)](https://www.journalofdemocracy.org/articles/why-bitcoin-is-freedom-money/){:target="_blank"}. Practical and feasible attempt to fix the flawed monetary system (broken money), in other words **Bitcoin fixes the Money** (Integrity being core belief). Money is information but it currently has errors, and BTC is error correction. It is antithetical to centralised money creation (digital printing).   
 Countries have unfoundedly taken absolute control over money. **Seigniorage** is Not part of basic [social contract](https://fee.org/articles/money-is-the-real-social-contract/){:target="_blank"}, and legitimacy of governments regarding monetary control is questionable. Last 100 years with dominance of monetary policy over economy is unnatural state, an exception in long history of money, when observed from its origin.  
 -- To quote F.A.Hayek, an austrian school economist, and author of *‘The Denationalization of Money’* who [**predicted Bitcoin**](https://www.sothebys.com/en/articles/the-economist-who-predicted-bitcoin){:target="_blank"} in 1984 in one [**interview**](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1118s){:target="_blank"}:  
 *“Governments mostly abuse money and have stop its improvement, also Monetary policy has done only harm. I don't believe we shall ever have a good money again before we take the thing out of the hands of government, that is, we can't take it violently out of the hands of government, **all we can do is by some sly, roundabout way introduce something they can’t stop.”***  
@@ -91,7 +91,7 @@ It would be like a precise numerical measurement system for the economic activit
 
 **Possible effects:**  
 -- people would spend more prudently (it imposes discipline), and would take only calculated risks/credits  
--- lower time preference, long-term mindset, less [consumerism](https://www.youtube.com/watch?v=X-tX-9Vygpg){:target="_blank"} of junk goods (no overconsumption)  
+-- lower time preference, [long-term](https://medium.com/coinmonks/why-long-term-thinking-matters-more-than-market-timing-in-crypto-investing-415ae76152c2){:target="_blank"} mindset, less [consumerism](https://www.youtube.com/watch?v=X-tX-9Vygpg){:target="_blank"} of junk goods (no overconsumption)  
 -- real wages that keep purchasing power with mild price [deflation](https://www.reddit.com/r/economy/comments/1f4byf5/can_someone_explain_to_me_why_deflation_would_be/){:target="_blank"} leading to greater prosperity  
 &nbsp;&nbsp;(no need to ask for raise just to keep pace with [inflation - bad](https://www.reddit.com/r/changemyview/comments/9274l2/cmv_inflation_is_a_strictly_bad_thing_and_is/){:target="_blank"})    
 -- fair distribution of economic growth by removing silent regressive Tax known as inflation  
@@ -200,6 +200,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
