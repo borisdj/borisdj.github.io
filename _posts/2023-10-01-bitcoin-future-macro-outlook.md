@@ -50,7 +50,7 @@ Countries have unfoundedly taken absolute control over money. **Seigniorage** is
 -- Let's also mention David Chaum, well-known cryptographer, who [**said**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: *“**Privacy** in messaging and payments, and the like, is so **fundamental to democracy**.”*  
 
 -- Bitcoin open **protocol** is simply the first functional implementation of this radical concept (courtesy of Cypherpunks). It is programming language (code) for communicating value and platform of trust which can run currency as a software (*the Internet of Money*).    
-**Non-Inflationary** sound money that is internet native, digital, smart (programmable), **neutral** (agnostic to politics) as bottom up emerging phenomenon.  
+**Non-Inflationary** sound money that is internet native, digital, smart (programmable), **neutral** (agnostic to politics) as bottom up emerging phenomenon (John Nash's [***Ideal Money***](https://rextar4444.medium.com/an-inquiry-into-john-nashs-proposal-for-ideal-money-f1551c46da31){:target="_blank"}).  
 Also being fully permissionless, censorship resistant and trustless, since people **trust** is often breached by large organisations (countries, big banks, mega corps).  Can also be defined as free speech money, with keeping freedom even after speech.  
 -- As an Opt-In ecosystem it represents peaceful resistance from currency manipulation and debasement.  
 It was elegantly designed and programmed to have the best characteristics of Money:  
@@ -189,8 +189,9 @@ YT talks to listen:
 -[For Beginners: Bitcoin Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)  
 -[Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"} (*Jeff Booth*)  
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
--[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
--[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)  
+-[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} and [A Critique](https://rextar4444.medium.com/a-critique-of-saifedean-ammous-the-bitcoin-standard-6c3f5e3b2a63){:target="_blank"} (*Saifedean Ammous*)  
+-[How Money and Banking works?](https://www.youtube.com/watch?v=jk_HWmmwiAs){:target="_blank"} & [Broken Money Thesis](https://www.youtube.com/watch?v=k3NN_NZOdhY){:target="_blank"} (*Lyn Alden*)  
+-[Can Bitcoin Replace Government-Issued Mo?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"} (A Debate)  
 -[Peter Van Valkenburg explains bitcoin for senate committee](https://www.c-span.org/clip/senate-committee/user-clip-peter-van-valkenburg-explains-bitcoin/5025258){:target="_blank"}  (great short explanation)  
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
@@ -200,6 +201,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
