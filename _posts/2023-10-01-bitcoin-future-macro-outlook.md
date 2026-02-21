@@ -69,7 +69,7 @@ Each phase (1), (2), (3) could last from 10 to 15 years (free estimate). Pre pha
 Here is one interesting idea. In current century average life span is estimated to be 84 years and half of that is [42](https://news.mit.edu/2019/answer-life-universe-and-everything-sum-three-cubes-mathematics-0910){:target="_blank"} - answer to money. It will probably take at least that much for Bitcoin to grow to its full potential, so by mid century in 2050. This means that those who were 42 old in 2008 will live to see it, while new generation born then will be 42, in their best years (generational change).
 
 -- Similar to internet evolution (1980-2020) with [**S-Curve**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} growth (gradually then suddenly). With one important distinction that now there is direct value available for investing. Because of that it is prone to cyclic price swings with many speculators in the space, and that's why adoption here also goes in cycles.  
-And if we go even further in the past we could observe how cars replaced horses, and see how some opposed the transport evolution. The same way some people today still oppose the financial evolution. Even Henry Ford said, to [**paraphrase**](https://skeptics.stackexchange.com/questions/18247/did-henry-ford-predict-revolution-if-people-understood-the-banking-and-monetary){:target="_blank"}: *It is well enough that people of the nation **do not understand our banking and monetary system**, for if they did, I believe there would be a revolution before tomorrow morning.*  
+And if we go even further in the past we could observe how cars replaced horses, and see how some opposed the transport evolution. The same way some people today still oppose the financial evolution ([bitcoin revolution](https://bitcoinrevolution.blog/){:target="_blank"}). Even Henry Ford said, to [**paraphrase**](https://skeptics.stackexchange.com/questions/18247/did-henry-ford-predict-revolution-if-people-understood-the-banking-and-monetary){:target="_blank"}: *It is well enough that people of the nation **do not understand our banking and monetary system**, for if they did, I believe there would be a revolution before tomorrow morning.*  
 [Don’t Understand Bitcoin? Here’s 24 Reasons You Really Should.](https://jonathanalevi.medium.com/dont-understand-bitcoin-here-s-why-you-should-c0ecb4d9b5f8){:target="_blank"} ([Nobody Understands Bitcoin and that’s OK.](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/){:target="_blank"})  
 [Why Is Bitcoin So Hard to Understand?](https://uwethesailor.medium.com/why-is-bitcoin-so-hard-to-understand-685a6f33c5f8){:target="_blank"} ([for most people](https://www.reddit.com/r/Bitcoin/comments/18cvhqn/why_is_bitcoin_so_hard_for_most_people_to/){:target="_blank"})  
 
@@ -201,6 +201,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
