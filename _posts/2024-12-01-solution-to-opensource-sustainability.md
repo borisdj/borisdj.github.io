@@ -32,7 +32,7 @@ Instead, **Openness** is retained with freedom to use the code, modify it and di
 &nbsp; It enables [sustainability](https://thenewstack.io/this-week-in-programming-a-manifesto-for-sustainable-open-source-development/){:target="_blank"} (subsidizing alike) and ensures that project can survive in the long term. What's more, gives good incentives and creates a self-reinforcing positive loop by encouraging users to contribute via 'code commits'. Additionaly, pricing should be progressive but with simple tiers (based on number of Devs but in groups or some other metric). And even the top tier should not be too expensive, to be easily acceptable cost for such companies and proportional to the value they receive. For example, tiers could be in range from several hundreds to a few thousand for annual subscription, or alternatively to also have an option for perpetual (permanent) license. Regular funding would also make it possible to have a reward model for impactful collaborators. 
 Also when setting prices please avoid amounts like 999 (stay away from psychology of 'advertising'), instead use rounded numbers, plain 1000 is fine. Finally, you can consider accepting *Bitcoin* as payment, as it aligns with the principles *OpenSource Money* (more info in previous blog posts).
 
-&nbsp; One could argue that in the long term, all software will have tendencies (converges) towards becoming open-sourced. The reason being is that cFOSS as business model has several advantages compared to closed source. Those include better distribution, community licenses that push bottom-up adoption, gratis marketing, etc. To frame it as: The [OS won](https://aaronstannard.com/sustainable-open-source-software/){:target="_blank"}.    
+&nbsp; One could argue that in the long term, all software will have tendencies (converges) towards becoming open-sourced. The reason being is that cFOSS as business model has several advantages compared to closed source. Those include better distribution, community licenses that push bottom-up adoption, gratis marketing, etc. It is increasingly dominating software development due to its adaptability, security through transparency, and cost-effectiveness. To frame it as: The [OS won](https://aaronstannard.com/sustainable-open-source-software/){:target="_blank"}.    
 For sceptics, to add that criticism without effective solution is neither useful nor justified.  
 
 &nbsp; Ultimately we could group Licenses for OS projects into 2 categories, depending on the hardship of maintenance:  
@@ -83,6 +83,7 @@ Supported by [***codis.tech***](https://codis.tech/){:target="_blank"}
 
 <center>QR Link to page</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/solution-to-opensource-sustainability/)
+
 
 
 
