@@ -74,6 +74,7 @@ More info:
 6. [hendrik-erz.de/open-source-has-a-sustainability-crisis](https://hendrik-erz.de/post/open-source-has-a-sustainability-crisis){:target="_blank"}  
 7. [unlockopen.com/towards-a-sustainable-solution](https://speaking.unlockopen.com/5JrQdv/towards-a-sustainable-solution-to-open-source-sustainability){:target="_blank"}
 8. [dual licensing a model that works](https://www.linkedin.com/pulse/why-open-core-gpl-dual-licensing-model-works-mark-curphey/){:target="_blank"}
+9. [os guide for policy](https://genevadialogue.ch/how-open-source-coordinates-a-guide-for-policy-makers/){:target="_blank"}
 
 Leave a message: [IP comment Form](https://docs.google.com/spreadsheets/d/e/2PACX-1vS2z9KBq6jiePC8rfPdAcd_b0jtfE_8gPAXPvbKV45fRenyA0fKSSTWmbMA1pd3f4yYiFTr6Wq8Dq5z/pubhtml?gid=2013428247&single=true){:target="_blank"} (comments [list](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml?gid=1455445651&single=true){:target="_blank"})  
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS2z9KBq6jiePC8rfPdAcd_b0jtfE_8gPAXPvbKV45fRenyA0fKSSTWmbMA1pd3f4yYiFTr6Wq8Dq5z/pubhtml?gid=2013428247&single=true){:target="_blank"}  
@@ -83,6 +84,7 @@ Supported by [***codis.tech***](https://codis.tech/){:target="_blank"}
 
 <center>QR Link to page</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/solution-to-opensource-sustainability/)
+
 
 
 
