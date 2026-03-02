@@ -65,7 +65,7 @@ In technical sence it is upheld by a significant computer science breakthrough: 
 Later when almost everybody has some of it, they will start paying and accepting it directly (creating circular economy) instead of converting it into Fiat that relies on faith in state. And so it slowly takes on the function of **(2) MoE** - *Medium of Exchange*. From that moment you will not need to sell it, instead will simply be spending it.  
 And the third phase (if it ever comes to this one) could be when prices are in it, so **(3) UoA** - *Unit of Account* feature (universal currency).  
 -- BTC has enormous potential as it could be great at all 3 function, be first **triple point asset**, unique in history (has ability to change the world). 
-Each phase (1), (2), (3) could last from 10 to 15 years (free estimate). Pre phase 0 was until recently - accumulations as Collectibles, with price discovery.  
+Each phase (1), (2), (3) could last from 10 to 15 years (free estimate). Pre phase 0 was until recently - accumulations as Collectibles, with price discovery. There is even an additionl 4th function *Standard of Deferred Payment*, like an extension of MoE but with time delay.   
 Here is one interesting idea. In current century average life span is estimated to be 84 years and half of that is [42](https://news.mit.edu/2019/answer-life-universe-and-everything-sum-three-cubes-mathematics-0910){:target="_blank"} - answer to money. It will probably take at least that much for Bitcoin to grow to its full potential, so by mid century in 2050. This means that those who were 42 old in 2008 will live to see it, while new generation born then will be 42, in their best years (generational change).
 
 -- Similar to internet evolution (1980-2020) with [**S-Curve**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} growth (gradually then suddenly). With one important distinction that now there is direct value available for investing. Because of that it is prone to cyclic price swings with many speculators in the space, and that's why adoption here also goes in cycles.  
@@ -201,6 +201,7 @@ Also great literature is educational book from El Salvador: [**Bitcoin-Diploma**
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}.
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/bitcoin-future-macro-outlook/)
+
 
 
 
