@@ -173,7 +173,8 @@ For an average [portfolio](https://docs.google.com/spreadsheets/d/1DAck82CsHSO5r
 Also keep better part of them off crypto exchanges (**Self-Custody** - *not your keys, not your coins*).  
 Either way, it's always good to be educated on the subject.  
 DYOR (Do Your Own Research) and make your probability for each hypothetical scenario.  
-Stick to power of natural attraction and not forcible promotion. 
+Stick to power of natural attraction and not forcible promotion.  
+Bitcoin could be [the best Store of Value](https://medium.com/@alessandro.ottaviani84/bitcoin-the-best-store-of-value-humanity-has-ever-had-4ad81c4374cb){:target="_blank"} Humanity has ever had.  
 
 Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} and/or [DCAing Bit](https://dca.bitnob.com/){:target="_blank"} ([BTC-DCA_CompareSheet](https://docs.google.com/spreadsheets/d/1NXle4attr4cp6lESAaPRT4zSFmcPlQl8VZ7nmsJJGGk/view){:target="_blank"}) with Credit/Debit Card for future [spending](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} and [retirement](https://er-bybitcoin.com/){:target="_blank"}:  
 | 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (US only) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |  
