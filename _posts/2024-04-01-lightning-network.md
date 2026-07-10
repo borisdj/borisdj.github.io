@@ -112,6 +112,11 @@ If you have business or provide services consider to start accepting Bitcoin (ci
 Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
 (also to support the developers: [Donation Portal](https://bitcoindevlist.com/){:target="_blank"} or ili [OpenSats](https://opensats.org/){:target="_blank"})
 
-<center>QR Link</center>
+Leave a message: [IP comment Form](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform?usp=pp_url&entry.853974697=4.+Lightning+Network){:target="_blank"} (comments [list](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml?gid=176032478&single=true){:target="_blank"})  
+
+Infopedia blog subscription Form - [Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSfgtWNZVkNP9pATa0RNWj7eNoMz6XVo5D2T2m14hLLE8J78lg/viewform?usp=dialog){:target="_blank"}  
+Supported by [***codis.tech***](https://codis.tech/){:target="_blank"}
+
+<center>QR Link to page</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
 
