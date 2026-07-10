@@ -725,7 +725,7 @@ Later there will be a **Quiz** with Questions. For those who get all the correct
 [youtube.com](https://youtube.com){:target="_blank"}<br>
 [medium.com](https://medium.com){:target="_blank"}<br>
 
-Leave a message: [IP comment Form](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform?usp=pp_url&entry.853974697=3.+Bitcoin+future+and+macro+outlook){:target="_blank"} (comments [list](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml?gid=176032478&single=true){:target="_blank"})  
+Leave a message: [IP comment Form](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform?usp=pp_url&entry.853974697=2.+(r)Evolution+of+Money){:target="_blank"} (comments [list](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml?gid=176032478&single=true){:target="_blank"})  
 List of all referenced [**Links**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"}
 
 Infopedia blog subscription Form - [Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSfgtWNZVkNP9pATa0RNWj7eNoMz6XVo5D2T2m14hLLE8J78lg/viewform?usp=dialog){:target="_blank"}  
