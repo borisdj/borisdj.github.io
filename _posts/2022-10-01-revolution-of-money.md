@@ -295,7 +295,7 @@ TED talks:<br>
 | 3. Legislative | Developers | help others bypass vetoes |
 
 Legislative part also includes business and infrastructure analogous to Parliament (Representatives) while Devs are like Senate, and Miners act as hired security. End users are like citizens with voting right, or like shareholdler of a company, and everyone can freely become a node. If compared to enterprises best parallels can be drawn with IT (Information Technology) companies.  
--- Product is global monetary currency and payment system and at the same time the Coin represents owners or shareholders. On the other side are Developers and Miners along with Nodes, like very wide Boards of Directors, Management and Supervisory.<br>
+-- Product is global monetary currency and payment system and at the same time the Coin represents owners or shareholders. On the other side are Developers and Miners along with Nodes, like very wide Boards of Directors, Management and Supervisory ([Architecture](https://drive.google.com/file/d/1hvLF2qkJ2A7OHSCiQ46hItMfAQmyY_Sq/view?usp=drive_link){:target="_blank"} of Decentralized ecosystem).  
 
 **The Rules of Bitcoin:**<br>
 &nbsp;1. No Confiscation<br>
