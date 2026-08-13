@@ -182,7 +182,7 @@ Apps and Services for regular [buying](https://www.reddit.com/r/Bitcoin/comments
 Other popular Europe based options are:  
 | [pocketbitcoin](https://pocketbitcoin.com/){:target="_blank"}(Swiss) | [peachbitcoin](https://peachbitcoin.com/){:target="_blank"}(Swiss) | [relai](https://relai.app/){:target="_blank"}(Swiss) | [21bitcoin](https://21bitcoin.app/en){:target="_blank"}(Austria) |  
 Local version of the BlogPost has few additional exchanges from the SouthEast Europe (in countries SRB, BIH, HRV)  
-**If DCAing into self custody DO take care about [UTXO](https://river.com/learn/bitcoins-utxo-model/){:target="_blank"} management - minimum base transation 0.01 BTC to be future-proof from high fees  
+**If DCAing into self custody DO take care about [UTXO](https://river.com/learn/bitcoins-utxo-model/){:target="_blank"} management - minimum base transation 0.01 BTC to be future-proof from high fees (UTXO vs [Account Model](https://medium.com/@ancilartech/utxo-vs-account-model-a-deep-dive-for-blockchain-beginners-b911332dbbdc){:target="_blank"} or [Account-Based Blockchains](https://itnext.io/utxo-vs-account-based-blockchains-a-clear-comparison-963872e5a6ea){:target="_blank"})  
 Other Bitcoin only Exchanges: [guides](https://bitcoinmagazine.com/guides/best-bitcoin-only-exchanges){:target="_blank"}  
 
 YT talks to listen:  
